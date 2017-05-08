@@ -1,6 +1,8 @@
+Is there any word more homespun and apple-pie than community?
+
 Today's society, particularly the urban societies most live in, is
-individualistic. In such a case, the world "community" takes on a
-particular warm glow. It may even be a nostalgic glow - thinking of
+individualistic. So it is unsurprising that the world "community" takes on a
+particularly warm glow. It may even be a nostalgic glow - thinking of
 bygone close-knit villages, or of established civic and church
 organizations of long ago. Those who grew up in small, close-knit
 communities where they were on the outside, due to religious beliefs,
@@ -16,7 +18,7 @@ _Bowling Alone_ noted the decline in civic organization and community
 life in America and worried about the effects it would have on respect
 for civic institutions, government and respect for democratic norms.
 
-Such worries appear to have been well-founded. A distinct lack of
+Such worries have a real foundation. A distinct lack of
 community and belonging is noted in many of the classes that have
 formed the primary backbown of resurgent alt-right groups and the
 associated decline for respect of democratic institions and liberal
@@ -40,18 +42,18 @@ respect for communities as a requirement of civic involvement.
 However, the type of community is quite critical. I'll identify two
 sorts of communities - "open" communities and "closed" communities. It
 turns out "open" communities are vital and critical. The most critical
-ones are the cosmopolitan, open religious communities, and are
-particulary the only long-lived such communities. "Closed"
-communities, themselves, are more popular, but their excesses are
-themselves responsible for individualism. Finally, the open religious
-communities have been the most responsible elements for the
-propagation and maintenance of democratic and liberal (in the
-philosophical sense) values, and their decline is directly correlated
-with the current problems of today.
+ones are the cosmopolitan, open communities, and are particulary the
+only long-lived such communities. "Closed" communities, themselves,
+are more popular, but their excesses are themselves responsible for
+individualism. Historically, the first open communities have been the
+"universal" religious communities, which themselves formed the
+elements for the propagation and maintenance of democratic and liberal
+(in the philosophical sense) values. The decline of such values is the
+direct cause of the the current problems of today.
 
 -------------------------------
 
-Throughout much of human history, mankind lived in small closed
+Throughout much of human history, mankind lived in small, closed
 communities. This was of necessity. Much has been written about this -
 the first hunter gatherer tribes of 100-200 people, made possible with
 our large forebrains, were responsible for putting Homo Sapiens on top
@@ -90,49 +92,94 @@ it. Some of the "natural" morals of this include:
 If you are a secular - and particular if you are a "naturalist" - you
 will think this is the end of the story, as far as morals go. This is
 what we are bred with, these are the parameters we have to work with,
-and we must make the best of it.
+and we must make the best of it. Indeed, if you pick up a book on
+morality by an atheist, this is the sort of wisdom that passes for
+morality, a "just so" story about how humans are social animals that
+are born good because of evolutionary forces that determined our
+cooperative nature.
 
-However, there are a set of virtues which are NOT present naturally
-with respect to small communities. Yet we still treat these as
-virtues. Where did these come? We shall get to that later.
+I am referring to these as "closed communities" because of the
+particular moral calculations that go on in these communities. Closed
+communities presume not that the flow of community members is fixed,
+but that it is slow. You have time to adjust to the prescense of each
+other. Take, for example, as sociopath. In ancient societies, there
+was no law enforcement to speak of; no rules of evidence or the
+like. Justice would be meted out based on one word against another. It
+would seem to be an ideal place for a sociopath. Why, then, wasn't
+sociopathy an evolutionary advantage? Why aren't we all sociopaths?
+The closed nature of these communities explains as much. Strangers are
+slowly accepted and carefully watched in the community, and given that
+the same people work alongside the sociopath, eventually the trail of
+lies leads to serious problems. This is one reason psychologists think
+that people are so unforgiving of lies, even though they do it all the
+time and frequently catch friends doing it. Closed communities kept
+the truly amoral in line - somone who pushed their luck was one ambush
+away from an unnatural death.
+
+So we have been bred for a very practical, useful form of morality. To
+some extent, the seculars are right that humans have a very useful
+sense of right and wrong. Where this goes horribly wrong is with the
+presumption that the the basis of modern liberalism can be supported
+by this natural morality. Modern liberalism and survival in a huge
+open society requires virtues that are not naturally present inside
+humans. This is why threats to liberal governments by authoritarian
+movements seem to be a recurrent theme of such liberal movements. In
+short, there are a set of virtues which are NOT present naturally with
+respect to small communities, and would not have been rewarded from an
+evolutionary point of view. Yet we still treat these as virtues. Where
+did these come? This is a critical point.
 
 ------------------------------
 
-Alongside our shift into cities, another shift occurred into the
-marketplace. Today, virtually everything works in a
-marketplace. Indeed, the entire world economy as a whole works as a
-unified, single marketplace.
+It isn't just liberalism that comes from virtues that aren't naturally
+present. Indeed, our current economy is an innovation that is made
+possible by our ability to exchange fairly and expect fairness from
+people we don't know. This, again, is not something that would have
+been a virtue present from evolution.
 
-The shift to paper money a double-book bookeeping is usually thought
-of as the technological prime driver which allowed this move. Sure,
-there was "hard currency" minted by the government, and this allowed
-some of the efficiencies necessary for a marketplace. Indeed,
-mercantilism - literally, the drive for hard currency to power the
-marketplace - was a primary driver of the first imperialist forays
-into the new world. But prior to paper money, the bulk of humanity,
-not connected with the cities or the elites in government, generally
-lacked hard money.
+Let's go back a few hundred years ago when human populations slowly
+began to shift into cities. This is the time when another shift
+occurred in our economic life.
 
- The underlying premise is that before this happened, everyone traded
-via barter - an inefficient mechanism. Friedman's famous experiments
+Today, virtually everything works in a marketplace. Indeed, the entire
+world economy as a whole works as a unified, single marketplace. The
+shift to paper money a double-book bookeeping is usually thought of as
+the technological prime driver which allowed this move. Sure, there
+was "hard currency" minted by the government, and this allowed some of
+the efficiencies necessary for a marketplace. Even the most ancient
+civilizations used hard currency. Indeed, mercantilism -
+literally, the drive for hard currency to power the marketplace - was
+a primary driver of the first imperialist forays into the new
+world. But prior to paper money, the bulk of humanity, not connected
+with the cities or the elites in government, generally lacked hard
+money.
+
+What did they do before then? The common-sense presumption is that
+before then, everyone must've traded via 
+barter - a ludicrously inefficient mechanism. Friedman's famous experiments
 had shown that even in primitive cultures, there were marketplaces
-that exchanged goods, and barter was a necessity for commerce. There
-had never been a time without a marketplace.
+that exchanged goods, and barter was a necessity for commerce. His
+thesis was that markets and exchange were natural, and that there has
+never been a human society, no matter how primitive, that did not
+invent the equivalent of a marketplace.
 
-Unfortunately, this narrative, which is believed by many Americans, is
-quite false. There is no evidence that there was ever an economy where
-barter was a significant part of the economy. Throughout much of
-history, most of the economy simply wasn't on the
-marketplace. Marketplaces, far from being the universal cultural
-driver, tended to be very small, minor affairs compared to the bulk of
-the economy. The problem itself was simple - people generally trade
-from surplus, and in an agricultural community, where skills are
-generally similar and growth cycles are identical, people tend to run
-surpluses in the same sort of things. There was of course some
-specialization for the handful of people in the larger towns and
-cities, but those had access to hard currency. No, the bulk of people
-made to without a formal commerce. And they had to do it without
-barter. What, then, did they do?
+While the narrative of marketplaces has truth, the belief that this
+was siginificant due to its existence is false. For such societies,
+there is no evidence that there was ever an economy where barter was a
+significant part of the economy. Throughout much of history, most of
+the economy simply wasn't on the marketplace. Marketplaces, far from
+being universal cultural drivers, tended to be very small, minor
+affairs - something one did in the little free time when one could go
+into the village, for socialiation as much as anything else. The
+problem with such marketplaces is simple - people generally trade from
+surplus, and in an agricultural community, where skills are generally
+similar and growth cycles are identical, people tend to run surpluses
+in the same sort of things. There was of course some specialization -
+skilled craftsmen and the like - primarily applying to the relative
+handful of people who actually lived in larger towns and cities. But
+those were the same people that had access to hard currency. No, the
+bulk of people made to without a formal commerce. And they had to do
+it without barter. What, then, did they do?
 
 This is where our natural, community-based morals come in. Let me
 introduce you to something called "The Gift Economy."
@@ -150,32 +197,43 @@ of such communities.
 
 Keeping these things in mind, how do you think people worked? Well,
 they expected to get paid back, of course! And if you received, you'd
-know you were on the receiving end and would instintually feel guilty
+know you were on the receiving end and would instinctually feel guilty
 if you didn't return the favor eventually somehow. And you also knew,
-generally, what something was worth. When someone gave you eggs when
+generally, what something is worth. If someone gave you eggs when
 everyone was running a surplus, you were polite and might give them
 something back that you didn't need, and that would be the end of
 it. But if in the middle of a famine, your neighbor gave you eggs and
-kept your children from starving, you knew you owed her BIG TIME. And
+kept your children from starving, you knew you owed her _BIG TIME_. And
 If you attempted to settle the score with something large, she
-may protest, but she wouldn't be surprised, and she would feel no need
-to give additional gifts to settle the acocunt.
+may protest, but she wouldn't be surprised, and she would may not feel
+the need to to give additional gifts to settle the acocunt,
+particularly if it was a sacrifice on her part.
 
-This isn't a lot different than in professions where you're expected
-to get things done through a large network - skilled people
-professions like sales, marketing and business development, where
-people have extensive rolodexes and are constently calling on one
-another to give or offer favors. Indeed, it works in any professional
-field. And the thing that makes it work are the bounds of
-community. Why? Because it ensures everyone is contributing to at
-least some extent.
+This still happens all the time, in areas where one generally doesn't
+pay for things. Think of the professions where you're expected to get
+things done through a large network of colleagues - skilled
+people-professions like sales, marketing and business development,
+where everyone have extensive rolodexes, networks frequently and are
+constently calling on one another to give or offer favors. Indeed, it
+works in any professional field. And the thing that makes it work are
+the bounds of community. Why? Because it ensures everyone is
+contributing to at least some extent.
 
-When this fact is recounted, especailly to religious people, they tend
-to regard concepts such as "the gift economy" as moral and
-heartwarming. This is misleading. The gift economy is _not_ to be
-confused with charity! This is not giving without something back. The
-limitations of community present clear limitations of the gift
-economy. Think about it:
+When the fact of the existence of a primitive "gift economy" is
+recounted to people, particularly those who are religious, this is
+generally regarded as heartwarming. I know, because where I've heard
+it, it was from religious leaders describing it in exactly those
+terms. This was seen as an improvement on our modern, coldhearted
+world of cold cash, where things like relationships really
+counted. Somehow, this is seen as more moral.
+
+This is entirely misleading. The gift economy is _not_ to be
+confused with charity. The gift economy is not concerned about giving
+without giving without getting something back. You are, at some level,
+expecting something back! If this is how the "usual case" operates but
+people are still of a charitable nature, then this is all
+great. Otherwise, this can present clear limitations when attempting
+to "scale up" to larger communities. Think about these situations:
 
 * A stranger wandering through the village will find it difficult to
   get hospitality. Without hard cash, they will not be able to pay for
@@ -187,52 +245,85 @@ economy. Think about it:
   disadvantage. Many will not exchange with such people, or when they
   do, it will be at a disadvantage or no favor will be returned.
 
-Think about this scenario. An African-Americal walks to the counter of
+Do these seem trivial? Here's a more realistic, unfortunate scenaro,
+involving a mismatch between a market economy and the closed-community
+gift economy:
+
+An African-Americal walks to the counter of
 the Woolworth's in Virginia in the early 20th century. He slaps down
 some money and attempts to order a drink. The person behind the
 counter says "Sorry, your money's no good here." What just happened?
 That cleark is opting out of the market economy and using the
 economy of the community. In that economy, any exchange is regarded in
-the context of a transaction within a community. Contrariwise, one
-does not to business with one who is outside of the community. This is
-what the clerk is signaling. The clerk is also signaling to other
+the context of a transaction within a community. Exchange is a favor
+between those within the community. Contrariwise, one
+does not to business with one who is outside of the community. The
+clerk is signalling that the potential customer is not a part of the
+community and deserves no exchange. The clerk is also signaling to other
 white community members who are present that he will maintain
 exclusivity to this community - a gift, of a sorts, to other
 whites, to let them know the hospitality of the business is a
-privelege to be shared only with them. This behavior, then, is
-entirely in keeping with community morals. It is also entirely immoral
-by any other measure. Indeed, this is one case where justice would
-have been served best by unfettered capitalism, and adherence to the
-green color bar ("I'll take any money, as long as it's green").
+privelege to be shared only with them.
+
+This behavior is entirely in keeping with community morals. The
+community values its exclusivity, being that there are benefits being
+able to exchange goods and services almost anyone in the community of
+any means. Meanwhile, the African-American is from a community who
+cannot be expected to contribute anything besides money. In the logic
+of the closed community, it is "moral." It is also entirely immoral by
+any other measure. Indeed, this is one case where justice would have
+been served best by unfettered capitalism. You are in a rough
+situation, morally, if someone who says "I'll take any money, as
+long as it's green" behaves more morally than you.
 
 Now, let's go back to the larger cities, of, say, the past two
-thousand years, where hard money was used. Would this sort of thing
-cut it? Not so much! Certainly, there were counterexamples, such as
-the Jewish ghettos, where Jews traded among themselves not so much out
-of preference as necessity, due to exclusion by the Christian
-community. But in general, hard money was going to be used and
-offered. City economies would not work without the necessity to trade
-and work with members outside of the community. Yet obviously, cities
-and towns flourished. In the past two hundred years, the trend has
-dramatically accelerated, to the point where the situation has
-reversed, and now few people live in small communities. In this
-situation, the gift economy is entirely unsuitable, as you concievably
-never see the person you are doing business with again. So the
-the money and marketplace is necessary to work together.
+thousand years. This sort of attitude would not work. Certainly, hard
+money was the critical issue, since you needed to exchange with all
+sorts of outsiders. Certainly, there were others in the city excluded
+from economic life - such as the residents of Jewish
+ghettos, where Jews traded among themselves not so much out of
+preference as necessity, due to exclusion by the Christian
+community. But in general, in the cities, hard money was going to be
+used and offered. So there is a conundrum - is hard currency itself
+going to be sufficient to allow cities to work? Hard money is no magic
+solution to fraud; neither are armed guards. There needs to be some
+sort of additional mechanism to ensure that people are honest and
+treat each other fairly despite not being within the same
+community. Indeed, any population that was able to do so would be
+rewarded with a more prosperous community, both economically, and
+technologically.
 
-But something else is necessary. Given that
-"natural" morals are built for survival in small communities, one
-would think that this would be an unsustainable transfer. Wouldn't
-humans be morally incapable of living in cities? Wouldn't our clannish
-nature gradually overtake our economic incentive to do so? Certainly
-not. However, there are other virtues that have allowed us to work
-together and these are instructive and should be studied. At this
-point, one of the challenges is coping with the fact much as
-industrialization has forced people to adopt new moral codes to work
-and cooperate with people outside of our city, we need new moral codes
-to work with humans on a global scale. Yet where will these come from?
-The answer is the same as it was for the morals necessary to live in
-the cities.
+But per community morals, this sort of thing should end in
+nothinb but tears. These sorts of cosmopolitan cities are full of outsiders and they will take advantage
+of you. Remember the techniques the closed communities used to protect
+themselves from sociopaths and the amoral? Won't work in a medievl
+city. Yet somehow cities and towns flourished. In the past two hundred years,
+the trend has dramatically accelerated, to the point where the
+situation has reversed, and now few people live in small
+communities. In this situation, the gift economy is entirely
+unsuitable, as you concievably never see the person you are doing
+business with again. So the the money and marketplace is necessary to
+work together.
+
+But something else is necessary. Given that "natural" morals are built
+for survival in small communities, one would think that this would be
+an unsustainable transfer. Wouldn't humans be morally incapable of
+living in cities? Wouldn't our clannish nature gradually overtake our
+economic incentive to do so? It would certainly seem that whatever
+morals we had evolved would not work when going from a society of a
+few hundred people seen throughout our lives to one where thousands of
+strangers could conceivably be encountered in a day. Aside from money,
+there was one missing piece that allowed everything to work: other
+virtues.
+
+These new virtues have allowed us to work together and these
+are instructive and should be studied. At this point, one of the
+challenges is coping with the fact much as industrialization has
+forced people to adopt new moral codes to work and cooperate with
+people outside of our city, we need new moral codes to work with
+humans on a global scale. Yet where will these come from?  The answer
+is the same as it was for the morals necessary to live in the
+cities.
 
 -----------------------------
 
@@ -262,7 +353,10 @@ called a "religion." Or rather, it wasn't a distinct thing. You were
 in a community, your community had beliefs about morals and religious
 things, and that was that. Community itself was bound up in religion
 and vice versa. If you go back about three thousand years ago, you
-will see that this is so.
+will see that this is so. The reification of the concept of "a
+religion" was not even defined until several centuries ago - if you
+didn't adhere to the community religion, you were a pagan and/or an
+infidel and that was that.
 
 However, there were major developments, starting around 3000 years
 ago, that changed this. Spiritual ferment, happening in different
@@ -276,8 +370,9 @@ Christianity
 Islam
 
 These three world religions, little noticed at the time of their
-founding, spread across the globe such that by 1000 AD, entire nations
-were under sway of these religions. Unlike earlier religions, they
+founding, spread across the globe such that by 1000 AD, there was
+pracically no area in Europe, Asia or North Africa that was fully
+under the sway of one of these religions. Unlike earlier religions, they
 were not married to a community, culture or even a nation: they
 presented themselves as universal, cosmopolitan religions, fit for any
 believer willing to believe.
@@ -286,12 +381,12 @@ In roughly the same time, other religions saw dramatic reformation
 efforts which made them more universal in scope. In India, works like
 _The Upanishads_ made it possible to talk about the many flavors of
 Hinduism as a single faith. And as for Judaism, prior to the "Jesus
-movement," it had spread throughout various Greek communities
+movement," Judaism had spread throughout various Greek communities
 independent of claimed Israeli nationality, and the Jewish reformation
 efforts after the destruction of the temple in the first centry AD
 made it possible to think of a Jewish religion independent of the
-Jewish people. As a result, one could say religion was not really
-"invented" until this time.
+Jewish people. As a result, the concept of "religion" as such was
+finally possible - prior to that, it was part and parcel of "the community."
 
 Note that this formulation is in terms of a Baha'i cosmology;
 e.g. spiritual progression as a cycle of revelation. There have been
@@ -300,18 +395,16 @@ proposed "Axial Age" of Karl Jaspers, popularized through writings
 such as Karen Armstrong's _The Great Transformation_. From a Baha'i
 point of view, the distinctions between a so-called axial age and the
 manifestations are a bit of a "poTAYto / poTAHto" distinction - you
-don't have one without the other.
-
-The important think about this is that all of these universal
-religious placed a novel emphasis on the "cosmopolitan" virtues - and
-reformations in Judaism, Zoriastrianism, Hinduism, Jainism and Chinese
-thought (Confucianism and Taoism) made it possible to think in terms
-of moral virtues that made life within and across entire civilizations
-possible.
+don't have one without the other. The important think about this is
+that all of these universal religious placed a novel emphasis on the
+"cosmopolitan" virtues - and reformations in Judaism, Zoriastrianism,
+Hinduism, Jainism and Chinese thought (Confucianism and Taoism) made
+it possible to think in terms of moral virtues that made life within
+and across entire civilizations possible.
 
 From a secular point of view, this would seem to be simply an
 adaptation to changing points of view. Yet this presumes that this
-would have happened without religious movements. Of the secular
+would have happened without these spiritual movements. Of the secular
 movements to occur in the axial age, perhaps the Greek and Roman
 philosophical movements are the most significant. Yet it took Muslim
 and Christian philosophers and scholars to spread and popularize their
