@@ -139,29 +139,157 @@ did these come?
 --------------------------------
 
 Let's start with the beginning of "civilizaton."
+---------------------------
+
+Of course, I am omitting one stage in our evolution - from about
+10,000 years ago to about 2,000 years ago. During this stage, the
+first river civilizations formed, followed by the Great Civilizations
+of the ancient world. I have said that humans had morals on the tribal
+level that, to some extent, may be instinctual. The purpose of this
+was to allow exchange within and between tribes on the basis of a gift
+economy, ensure balance and harmony within the tribe, and deal with
+moral incompetents who might endanger the tribe members. And during
+the period of the ancient great civilizations - prior to the rise of
+the universal religions - a lot of people still lived within these
+tribes, outside of the civilizations. Yet the ancient "river
+civilizations" began to flourish - the Fertile Crescent, the Indus
+Valley, the Mayans, ancient China, and so forth. These were large
+enough that the unit of the community did not hold. And there was a
+need to suppor the central authorities and the first large cities that
+served as centers of these civilizations.
+
+Yet from the point of view of tribal morals, there was no
+backing. Take the patchwork of tribes that may have lived over a
+region. Within the region, there may be a shifting set of alliances
+between tribes, as relationships between tribes were managed much as
+relationships between people within a tribe - a balance of exchange
+and tributes to keep the peace. Yet obviously there was the possiblity
+of open warfare between tribes. And there was certainly no need to
+divert resources to a central authority. How was that resolved?
+
+The civlizations began with the concept of the _hierarchy_. 
+There were innovations that were needed to prop up these
+civilizations. The invention of hard currency was one. That allowed
+commerce to move freely. The empire could use that to force exchange
+and eliminate the friction imposed by the old balance of gifts between
+communities that used to power economies.
+
+However, another innovation was moral. The old tribes had to have a
+mechanism for extending the community, and religion was one element in
+it. And religions began to reflect the larger communities within which
+it had to operate. This was
+theme of a book published some time ago: Eve Einsler's _The Chalice
+and The Blade. A religion for the wider community had to support the
+wider community.
+
+There is one such religion everyone knows (or claims to know)
+something about. It was of a small civilization - how large it is not
+even historians yet know. They have not found ruins of its old
+capital, making it impossible to verify the size of this civilization,
+or the date of its founding. Yet we have a record, unverified, of its
+history. This is the ancient religion of Moses, as documented in the
+Torah. Now, let it be known that the religion we now call Judaism did
+not exist in the time the Israeli tribes - Judaism is very much a
+product of the Roman-era reformations. However, one must acknowledge
+the generalities we do know about this ancient religion - let's just
+call it the "Israeli" religion. The Torah gives us a valuable window
+into the culture of a religion spanning multiple communities - "the
+twelve tribes" in this case. Here, we have a community that is too
+small to be an empire run on tribute, but distinctive enough and large
+enough to have been to large to be run on the basis of tribal units.
+
+Along with this larger community, we have - no surprise - its own
+religion. Unlike the older communities, we cannot count on knowing
+anyone around. So how do we work around this? Well, the future
+nation-builders had the tools of culture at its disposal, with all
+that this implies - founding myths of its creation and nationhood;
+explanations of how it came to be and relation to its larger
+neighbors; arts and culture distinctive to its own nation; and
+finally, its own religion.
+
+An important note on religion. Throughout much of history, there was
+not a concept of something called a "religion." Or rather, it wasn't a
+distinct thing. You were in a community, your community had beliefs
+about morals and religious things, and that was that. Community itself
+was bound up in religion and vice versa. If you go study the religions
+practiced about three thousand years ago, this is evident. The
+reification of the concept of "a religion" separate from the ethnic
+community that practiced it was not even defined until several
+centuries ago - before then, if you didn't adhere to the religion of
+the community, you were simply a pagan and/or an infidel and that was that.
+
+Indeed, all of these communities had their own religions. They may
+have varied much in the details; they would hardly be recognizeable
+for their polytheism (a multiplicity that may have even come about
+from the union of many tribes). However, as discussed in _The Chalice
+and The Blade_, there are a number of moral virtues which are
+elevated:
+
+* Respect for Authority - The need for central command and respect for
+  hierarchy was an important one. Without that respect 
+
+* Obedience
+
+* Patriotism
+
+* Respect for the community
+
+* Refinement/Cleanliness
+
+* Truthfulness
+
+Most people with knowledge of the Bible can see some of this implied
+in the books. In particular, the Old Testament gives an account of a
+community under strict moral code. While this may be the basis of our
+modern society so frequently claimed in the West, it is a very limited
+one - in that it is very plain the religion of _a community_. Indeed,
+the nearby Samaritans, a community of very similar beliefs, were not
+thought of as fellow Jews, and were thought of as having completely
+different communities and religions in spite of having very similar
+holy scriptures. These religions were **not** intended for outside the
+community. Indeed, the Israeli God was not claimed to be the only God,
+so technically it was not even monotheistic - it was simply claimed to
+be The Greatest. From that point of view then, the focus on idolatry
+was an effort to keep Israelis from adopting polytheistic practices of
+neighbors.
+
+Note that unlike the "community-based" virtues, these are not endemic
+to people naturally. They have to be taught, to some extent. This is
+why, unlike some of the other virtues, many of these seem less
+important nowadays - indeed are rebelled against. Yet we would not be
+able to organize ourselves into large communities without adherence to
+them. Without adherence to them by the broad base of the population,
+even a workable middle-sized city would prove impossible to manage.
 
 ------------------------------
 
-Likewise, it isn't just liberalism that comes from virtues that aren't
-naturally present. Our current economy is an innovation that is made
+This introduces the idea of morals being incorporated into human
+culture that weren't necessarily endemic. Culture and religion - at
+the time, being inseparable - were necessary for enforcing such
+morals. But there were still limitations from these ethics. They only
+applied to individual cultures. And it wasn't just that - there were
+problems involved simply in economy.
+
+Our current economy is an innovation that is made
 possible by our ability to exchange fairly and expect fairness from
 people we don't know. This, again, is not something that would have
-been a virtue present from evolution.
-
-Let's go back a few hundred years ago when human populations slowly
-began to shift into cities. This is the time when another shift
-occurred in our economic life.
+been a virtue present from evolution. New morals were necessary for
+making this shift. These earliest evolutions were necessary, but even
+then, inccomplete.
 
 Today, virtually everything works in a marketplace. Indeed, the entire
 world economy as a whole works as a unified, single marketplace. The
 shift to paper money and the invention of double-ledger bookeeping is
 usually thought of as the technological prime driver which allowed
-this move. And before that, there was "hard currency" minted by the
-government, and this allowed some of the efficiencies necessary for a
+this move. But predating this, there was "hard currency" minted by the
+government that this allowed some of the efficiencies necessary for a
 marketplace; even the most ancient civilizations used hard
-currency. But prior to paper money, the bulk of humanity, not
+currency.
+
+But prior to paper money, the bulk of humanity, not
 connected with the cities or the elites in government, generally
-lacked hard money. What did they do before then?
+lacked hard money. And tribal societies naturallyh had no such
+thing. So what did people do before or without it?
 
 The common-sense presumption is that before then, everyone must've
 traded via barter - a ludicrously inefficient mechanism. Friedman's
@@ -335,7 +463,8 @@ challenges is coping with the fact much as industrialization has
 forced people to adopt new moral codes to work and cooperate with
 people outside of our city, we need new moral codes to work with
 humans on a global scale. Yet where will these come from?  The answer
-is the same as it was for the morals necessary to live in the cities.
+is the same as it was for the morals necessary to live in those first
+small towns and cities formed by the joining of tribes.
 
 -----------------------------
 
@@ -360,17 +489,10 @@ community-based virtues. Some of these would include the following:
 Where did these come from? The mere fact that this is a Baha'i
 telegraphs my thoughts on the matter.
 
-Throughout much of history, there was not a concept of something
-called a "religion." Or rather, it wasn't a distinct thing. You were
-in a community, your community had beliefs about morals and religious
-things, and that was that. Community itself was bound up in religion
-and vice versa. If you go study the religions practiced about three
-thousand years ago, this is evident. The reification of the concept of
-"a religion" separate from the ethnic community that practiced it was
-not even defined until several centuries ago - before then, if you
-didn't adhere to the religion of the community, you were a pagan and/or an
-infidel and that was that.
-
+As discussed earlier, for much of human history, religion, culture and
+government were one in the same. A particular "people" had their own
+religion, their own rituals, their own way of living, and their own
+leadership, and one could no sooner isolate religion than anything else.
 However, there were major developments, starting around 3000 years
 ago, that changed this. Spiritual ferment, happening in different
 places and in different times, produced three major religious
@@ -435,117 +557,6 @@ only more cosmopolitan virtues can give us. Western liberal thought
 has attempted to be that universal value, but unfortunately has proven
 too brittle. In short, it can change some people, but it leaves us
 with the push and pull of cosmopolitanism versus community.
-
----------------------------
-
-Of course, I am omitting one stage in our evolution - from about
-10,000 years ago to about 2,000 years ago. During this stage, the
-first river civilizations formed, followed by the Great Civilizations
-of the ancient world. I have said that humans had morals on the tribal
-level that, to some extent, may be instinctual. The purpose of this
-was to allow exchange within and between tribes on the basis of a gift
-economy, ensure balance and harmony within the tribe, and deal with
-moral incompetents who might endanger the tribe members. And during
-the period of the ancient great civilizations - prior to the rise of
-the universal religions - a lot of people still lived within these
-tribes, outside of the civilizations. Yet the ancient "river
-civilizations" began to flourish - the Fertile Crescent, the Indus
-Valley, the Mayans, ancient China, and so forth. These were large
-enough that the unit of the community did not hold. And there was a
-need to suppor the central authorities and the first large cities that
-served as centers of these civilizations.
-
-Yet from the point of view of tribal morals, there was no
-backing. Take the patchwork of tribes that may have lived over a
-region. Within the region, there may be a shifting set of alliances
-between tribes, as relationships between tribes were managed much as
-relationships between people within a tribe - a balance of exchange
-and tributes to keep the peace. Yet obviously there was the possiblity
-of open warfare between tribes. And there was certainly no need to
-divert resources to a central authority. How was that resolved?
-
-The civlizations began with the concept of the _hierarchy_. 
-There were innovations that were needed to prop up these
-civilizations. The invention of hard currency was one. That allowed
-commerce to move freely. The empire could use that to force exchange
-and eliminate the friction imposed by the old balance of gifts between
-communities that used to power economies.
-
-However, another innovation was moral. The old tribes had to have a
-mechanism for extending the community, and religion was one element in
-it. And religions began to reflect the larger communities within which
-it had to operate. This was
-theme of a book published some time ago: Eve Einsler's _The Chalice
-and The Blade. A religion for the wider community had to support the
-wider community.
-
-There is one such religion everyone knows (or claims to know)
-something about. It was of a small civilization - how large it is not
-even historians yet know. They have not found ruins of its old
-capital, making it impossible to verify the size of this civilization,
-or the date of its founding. Yet we have a record, unverified, of its
-history. This is the ancient religion of Moses, as documented in the
-Torah. Now, let it be known that the religion we now call Judaism did
-not exist in the time the Israeli tribes - Judaism is very much a
-product of the Roman-era reformations. However, one must acknowledge
-the generalities we do know about this ancient religion - let's just
-call it the "Israeli" religion. The Torah gives us a valuable window
-into the culture of a religion spanning multiple communities - "the
-twelve tribes" in this case. Here, we have a community that is too
-small to be an empire run on tribute, but distinctive enough and large
-enough to have been to large to be run on the basis of tribal units.
-
-Along with this larger community, we have - no surprise - its own
-religion. Unlike the older communities, we cannot count on knowing
-anyone around. So how do we work around this? Well, the future
-nation-builders had the tools of culture at its disposal, with all
-that this implies - founding myths of its creation and nationhood;
-explanations of how it came to be and relation to its larger
-neighbors; arts and culture distinctive to its own nation; and
-finally, its own religion.
-
-Indeed, all of these communities had their own religions. They may
-have varied much in the details; they would hardly be recognizeable
-for their polytheism (a multiplicity that may have even come about
-from the union of many tribes). However, as discussed in _The Chalice
-and The Blade_, there are a number of moral virtues which are
-elevated:
-
-* Respect for Authority - The need for central command and respect for
-  hierarchy was an important one. Without that respect 
-
-* Obedience
-
-* Patriotism
-
-* Respect for the community
-
-* Refinement/Cleanliness
-
-* Truthfulness
-
-Most people with knowledge of the Bible can see some of this implied
-in the books. In particular, the Old Testament gives an account of a
-community under strict moral code. While this may be the basis of our
-modern society so frequently claimed in the West, it is a very limited
-one - in that it is very plain the religion of _a community_. Indeed,
-the nearby Samaritans, a community of very similar beliefs, were not
-thought of as fellow Jews, and were thought of as having completely
-different communities and religions in spite of having very similar
-holy scriptures. These religions were **not** intended for outside the
-community. Indeed, the Israeli God was not claimed to be the only God,
-so technically it was not even monotheistic - it was simply claimed to
-be The Greatest. From that point of view then, the focus on idolatry
-was an effort to keep Israelis from adopting polytheistic practices of
-neighbors.
-
-Note that unlike the "community-based" virtues, these are not endemic
-to people naturally. They have to be taught, to some extent. This is
-why, unlike some of the other virtues, many of these seem less
-important nowadays - indeed are rebelled against. Yet we would not be
-able to organize ourselves into large communities without adherence to
-them. Without adherence to them by the broad base of the population,
-even a workable middle-sized city would prove impossible to manage.
 
 ----------------------------
 
