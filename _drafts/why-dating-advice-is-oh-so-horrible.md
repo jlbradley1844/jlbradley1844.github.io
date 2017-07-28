@@ -1,115 +1,152 @@
 It is a truism that one should be wary of unsolicited advice.
 
 This goes doubly so for dating, courtship, and "pairing
-off"... perhaps the only group, aside from finance, where you find
-loads of people giving out free advice.
+off"... perhaps the only area, aside from finance, where you find
+loads of people giving out free advice - strangers, relatives, friends...
+_anyone_.
 
 I don't read many blogs by individuals. I tend to read
 "magazine-style" blogs which are aggregators (and the fact that I make
-this choice, and others probably do to,
-casts considerable doubt on my judgement to write a personal blog. But
-I digress...) One individual blog I do read is [Nassim Nicholas Taleb's
+this choice, and others probably do to, casts considerable doubt on my
+judgement to write a personal blog. But I digress...) One individual
+blog I do read is [Nassim Nicholas Taleb's
 _Incertio_](https://medium.com/incerto). NNT is of course the writer
-of _Fooled by Randomness_, a book beloved within finance, though detested
-by the wealthy traders it unmasked, as well as an influential
+of _Fooled by Randomness_, a book beloved within finance, though
+detested by the wealthy traders it unmasked, as well as an influential
 instructor in the field of mathematical finance. Though I didn't like
-his last book (_Antifragile_) much, I suspect _Incerto_ will be a doozy. One key point
-of this book so far is the fact that most advice given out is wrong
-for a variety of agency reasons.
+his last book (_Antifragile_) much, I suspect his next one, _Incerto_,
+will be a doozy. His blog is mostly drafts that will go into that book.
+I can't say I agree with all of it, but at
+least he gives it some thought from a dispassionate perspective. A
 
-It's certainly worth a read, and it explains why finance is such a morally
+One key point of _Incerto_ is the fact that
+most advice given out is wrong - badly wrong. This is for a variety of
+agency reasons. Saying someone is giving out bad advice for "agency reasons" is business-speak for "the advice is being given is given to improve _the_ _recommender's_ life; it_might_ improve yours.
+
+A quick read will quickly illustrate why finance is such a morally
 fraught field. In most fields, if you get good advice, you will
-generate return business. But in finance, if you give good advice,
-people will turn away because they don't like the answers you give
-them (hint: 90% of good advice in finance, as of this writing,
-currently boils down to the two words "index fund"). Or if you are a
-trader managing inventory, it's worse - you won't be doing your
-job. Meanwhile if you give bad advice, you can bilk someone out of
-millions, and once you squeeze that much money out of someone, who
-cares if they don't come back?
+generate return business - or, if you'll pardon more "business-speak,"
+your incentives align with your customers. Good advice begets good
+business. But in finance, you may make more money by giving bad advice
+than by good advice. Worse yet, if you do give solid, unbiased advice,
+you may not get repeat business, as people may like the answers you
+give them ("I pay you for advice and you tell me to just by an index
+fund??")  Meanwhile, if you work for a firm, you may have business
+incentives are purposely aligned against your own customer, which is
+why so many firms are pushing back hard on the fiduciary standard - it
+goes against their business model. Lots of people make money unloading
+unattractive investments on suckers, something you can't do if you're
+legally forced to give good advice.
 
-Dating is just as bad. I say that as someone who married what I
-consider to be late in life despite my best intentions. I took a lot
-of advice, and learned the hard way most of it was bad - even selfish
-in some cases. Yet the inherent self-dealing isn't as
-self-evident as in finance. Why would that be the case?
+You'd think dispassionate advice in dating would be much easier to
+come by. Why wouldn't your friends and relatives offering advice want you to be
+successful and happy? Why would the authors of advice columns and
+self-help books dole out ineffective or harmful advice, rather than
+helpful things which, we presume, would lead to repeat business and
+word-of-mouth? Unfortunately, even though intentions may be pure in
+some cases, the effect is nearly as bad. 
 
-Part of this is to vent, but part of this is to warn others not to
-make the same mistakes I did.
-If you're still reading this, you are probably not yet married, and
-even that in particular is not a goal, not that happy with how things
-are going. I can't tell you what to do, but I can tell you what to be
-cautious of. It is also, more broadly, why you should mistrust _any_
-unsolicited advice.
+I say that as someone who married in my late thirties - I consider
+that a late marriage - in spite of my best intentions. I took a lot of
+advice, and learned the hard way most of it was bad - even selfish in
+some cases. Yet there wouldn't seem to be any incentive for doling out
+bad advice. Why would bad advice be so common? Well, I learned a bit
+about things, and I think by now I can at least give my own
+unsolicited advice, to save others from unhappiness.
+ I can't tell you what to do, but I can tell you what
+to be cautious of. It is also, more broadly, why you should mistrust
+_any_ unsolicited advice. But will also tell you what sort of advice
+you can trust.
 
+At this point you may think "hey, *you* might be giving out bad advice
+for selfish reasons!" Good, you're off to a great start. Partly I'm
+writing about this to vent after years of perspective, but mainly to
+warn others not to make the same unwise, stupid mistakes I
+did. Without the bad advice, I would've still made lots of stupid
+mistakes that made me unhappy, but not just quite so many. 
+
+-------------------------------------
+
+So, to begin:
+
+If you're still
+reading this, you are probably not yet married, and even if that is
+not your goal, you may still be unhappy with how
+things are going.
 There are people for whom romance comes easily - this column is not
-for them. In general, romance is a tough problem for those not born
-naturally desireable. Such recipients are often the target of
-unwarranted advice, particularly if said recipients are attractive
-enough for someone but not everyone. Unsolicited advice is frequently
-given for selfish reason and says more about the person offering the
-advice than anything else:
-* A well-meaning friend may goad you into taking risks you wouldn't
-ordinarily take because he's tired of listening to you complain;
-* An attractive platonic friend may tell you to "just let things
-happen" because she's had to deal with guys she barely knows hitting
-her up for dates, and she doesn't want to see you get in that habit;
-* Someone tries to make you feel guilty about not dating a mutual
-friend whom she happens to be close to;
-* Your friend of the opposite sex professes no romatic interest
-in you, yet can't stop trashing anyone you profess interest in, and
-would just prefer you stop "looking so hard."
-* A buddy of yours, who has never had any trouble in this area, tells you your problems with the local dating scene
-are all in your head - particularly when you make noises about
-relocating.
-* Your pastor indicates the problem is with young kids nowadays all
-being about looks, and instead suggests you get involved in church
-activities, in spite of the fact the singles involved are either
-very unattractive or aged widows.
+for them. 
 
-This sort of stuff happens _all the time_. What about people who you
-pay to give advice? This generally means two things - self-help books
-and psychologists.
+Romance is a tough problem for those not born
+naturally desireable. This leads people to seeking or become the
+recipients of advice; often, a sense of subtle desperation leads
+people to act on advice they would otherwise suspect is unwise.
+While usually those offering advice
+may believe they are recommending the best, in many cases, they are
+often unconsciously, unwittingly serve their own agendas. This doesn't
+necessarily mean the advice is bad, but it may say more about the
+desires and fears of the person offering the advice than about the
+true situation. I could catalogue some of the bad advice I was given,
+along with why I suspect why I got it. I don't think an exhaustive
+list will help, but I do feel compelled to give those that caused me
+true harm, along with the reason I probably got it:
 
-Of the self-help books, the less said about them the better. There are
-some who give some solid advice, but none of them really express ideas
+* A well-meaning friend continually goaded me into taking risks in my
+relationships - basically, coaching me to be rude. He was probably just
+ tired of hearing me complain and wanted to shake things up.
+
+* A friend of mine, who has never had any trouble in this area, told
+me my problems with the local dating scene were all due to a "bad attitude."
+He knew I was looking to move. (And moving did help, a whole lot.)
+
+* An attractive platonic woman friend told me I needed to
+"just let things happen" and stop being pushy. "Wome are attracted to
+that; don't come on strong, it will just happen on its own." Her life
+was full of members of the opposite sex and people hitting on her, and
+she wanted men, and me by extension, to change how we did things.
+
+* A psychologist pushed me to start sleeping around casually with
+  people you are not attracted to. He was convinced causal sex would
+  be good for me. You can guess what his motivation might be.
+
+This sort of stuff happens _all the time_.
+
+Then there are the people you pay to give you advice; generally
+self-help books and advice columns, and psychologists.
+
+Of advice columns, the less said about them the better. For self-help
+books, some of them will give
+solid advice, but none of them really express ideas
 that require a full-length book - in many cases, Amazon reviews give
 you an adequate synopsis. Unfortunately, the people who write the
 book-jacket blurbs are well aware of this, which is why they put such
-a hard sell on how much the book will help - and why you need to buy
-the book to fully benefit.
+a hard sell on how much the book will help, but only if you read and
+apply THE WHOLE BOOK will you get full benefit.
 
 As far as psychologists: unfortunately, here I speak from
-experience. If you are having problems in this area - you should
-seriously consider using one for a while, if you have the means. Some
-of them are good, but you have to be picky. And unfortunately, you have
-to be realistic about it. I'll discuss it later, but the main thing
-you have to remember is that all they can do is work with you _if you
-have something to work with_. That is, they can help if you already
-are dating or at least have opportunities to ask out or be asked out
+experience. If you are having problems in this area, you should
+seriously consider using one for a while, if you have the
+means. However, you have to be picky; you may need to go through two
+or three. The best ones will be up front about the fact that this can
+be a difficult problem for even those with the best personalities.
+The main problem they yave is that they can work with you only _if_
+you have romantic potential on some level. That is, you need to be
+basically attractive and have opportunities to ask out or be asked out
 on dates. If you are in a "dating desert," they cannot help. Worse
 yet, they may not realize they cannot help, and may in fact suspect
 you are "resisting treatment."
 
-
---------
-
-There is a difference between unsolicited advice and *authority*. I'm
-quite sure lots of people will read this and think "Oh, this isn't a
-problem for me, I always think for myself!" I'm about to debunk my own
-argument a little.
-
-When an authority speaks on something, you may wish to listen. But why
-you will listen to is based on what basis said authority was granted.
-
-There is a lot of advice of a pseudoscientific nature. As you may have
-figured, science doesn't have a heck of a lot of help here. I'm
+One would think *science* would be of help, right? Unfortunately,
+science in this area is still basically descriptive (what things are),
+not prescriptive (what to do). Prescriptive advice is mostly
+pseudoscientific nature. I'm
 talking about *hard science*, not the sort of stuff from
 self-styled psychologists with "degrees in the school of 'hard
 knocks'"; those are the people who write the self-help books that
 promise to magically fix your love life that I'm trying to warn you about.
+That doesn't keep some charlatains from trying - successfully - to
+present their findings as rigorous and repeatable. 
 
-That doesn't keep some charlatains from trying - successfully. There
+There
 are some _theories_ which seem to be somewhat backed up by science,
 but these are not the same. The bulk of this is aimed at women -
 self-help books on dating are mostly geared towards young, eager
@@ -151,8 +188,11 @@ frustrated with what is really a very basic need.
 
 --------------------------------
 
-So most advice is bad. But some is good. But it is misapplied. Why is
-that? And how do you avoid it?
+So most advice is bad. 
+But some is good. 
+But it might not be good for you - it can be misapplied. 
+
+Why is that? And how do you avoid it?
 
 Let's divide the world of singles, roughly speaking, into three
 groups. The group you are in will roughly determine how successful you
@@ -162,7 +202,7 @@ This is why even good advice can be ineffective for you. It is very
 likely you are taking advice meant for someone in a different
 situation dealing with a very different sort of problem.
 
-Bluntly:
+Bluntly, there are three sorts of people who need advice:
 
 ALPHAS: you are attractive to potential mates. Many would be
 interested in you
@@ -175,33 +215,40 @@ being seen as attractive.
 
 I am excluding those who are so universally attractive they can can
 practically compel romatic interest from others of the opposite
-sex. We are talking about normal people here.
+sex. We are talking about actual people here.
 
-Most of the advice written for women is written for "alpha" women,
-unfortunately. The bulk of your alphas are educated enough to buy
-books and have enough options that when they listen to advice, it
-actually does them some good. As a psychologiest, working with them is
-rewarding - just teach them to recognize dorks and avoid them. The key
-is to realize most wome, while they know they are attractive, also
-realize they are not attractive to _everyone_, meaning, potentially,
-not being able to extract the interest of the men they wish to be
-dating.
+I don't think there's much of a point belaboring questions of "what's
+the breakdown" and "which one am I." You probably know which one you
+are, though my guess is there are plenty of "alpha" women who don't
+know they are alphas. Hint: if you get lots of interest but you aren't
+interested back, you are still an alpha.
 
-Alphas don't have problems, but the problems they have are not wicked
-hard. They are the "first world problems" of dating. Generally
-speaking, they are operating in a one-way marketplace. They receive
-lots of interest, but are only interested in some of the selections,
-and many of the ones the really want are unattainable. They also may
-one ones that appear to be what they want but they are not. These are
-problems of a buyer's marketplace; you may not be able to get what you
-want at a price you want, but you will eventually be able to get
-it. And so it is with most of the alpha women buying the self-help
-books. They may wring their hands about numbering men with bachelor's
-degrees in NYC by almost 1.4 to 1. But they will be able to survive,
-perhaps by dating older men, or dating those without a degree but with
-an established career, or a number of alternatives. To this extent it
-is a _culling_ problem - being able to _recognize_ and pursue the best
-options for you.
+Most of the advice written in self-help books is for the "alpha"
+women. That is because there are a lot of book readers that fall into
+this category, and they have enough romantic options that when the
+listen to advice, it can actually do them some good. As a
+psychologies, probably your easiest "win" is an attractive woman with
+romantic problems, because the problem is almost certainly
+psychological in nature.
+
+This advice generally solves what I would consider to be dating's
+version of "first world problems." Alphas are operating in what you
+can think of as a one-way marketplace. This is a scenario that is
+really easy to model and solve for. As an alpha, you receive a decent
+amount of romantic interest, are only interested in some of the
+selections, and many of the ones the really want are
+unattainable. They also may one ones that appear to be what they want
+but they are not. Think of it like buying a car. These are problems of
+a buyer's marketplace; you may not be able to get what you want at a
+price you want, but you will eventually be able to get it. And so it
+is with most of the alphas buying the self-help books. They may wring
+their hands about outnumbering men with bachelor's degrees in NYC by
+almost 1.4 to 1. But they will be able to survive, perhaps by dating
+older men, or dating those without a degree but with an established
+career, or a number of alternatives. To this extent it is a _culling_
+problem - being able to _recognize_ and pursue the best options for
+you. You might not get the exact one you want, but given time and the
+right search strategy, you will get one you are very happy with.
 
 So if you pick up a self-help book aimed at women, you are going to
 find a lot of advice that basically boils down to "culling."
@@ -210,72 +257,145 @@ with some more meaningful things. Eventually, this will sink in
 courtesy of a book. More likely, it would have just as quickly sunk in
 through some other means; the mere fact that a problem was solved by a
 $11 investment in a trade paperback where the writer was much more
-concerned with readability than scientific rigor means the problem itself wasn't
-that hard to begin with.
+concerned with readability than scientific rigor means the problem
+itself wasn't that hard to begin with.
 
 If you are a beta, you are going to find a lot of this frustrating. A
 beta is in a "two way marketplace." A two way marketplace is much more
-difficult. Here's why: because you are not compelling to most people,
-you will need to expose yourself to a lot of other people, who will
-have interest in you. Worse yet, of those who do have interest, most
-will probably be betas. Odds are, you will not find them
-attractive. Is some of the advice, which is mostly about culling,
-useful? Yes, absolutely. Is it the most serious problem you need to
-concentrate on? I wouldn't count on it!
+difficult. If dating for alphas is like buying a car, dating for betas
+is like interviewing for jobs. Here's why: because you are not
+compelling to most people, you will need to expose yourself to a lot
+of other people, so that you can find some ho might have interest in
+you. Worse yet, of those who do have interest, most will probably be
+betas. Odds are, you will not find them attractive. This means that
+the number of people you need to come in contact with may need to be
+an order of magnitude larger than the alphas to succeed. Is some of
+the advice, which is mostly about culling, useful? Yes, absolutely. Is
+it the most serious problem you need to concentrate on? I wouldn't
+count on it!
 
-So one problem is that women get advice which basically on one hand,
-implies that it is _normal_ to be surrounded by suitors (which is
-definitely not the case), and once the dust settles, how to recognize
-and choose Mister Big. The sense of inadequacy and helplessness
-cultivated is not accidental, when it comes to the magazines printing
-much of this self-help. It's main business is to sell cosmetics and
-fashion, which is why they keep printing this stuff. Also, these
-columns tend to be "evergreen" materials; i.e. is rarely original, but
-lightly edited from a column printed several years ago. Self-help
-books should be of a different nature, but many times are done to
-bolster the author's core business, which is usually dispensing dating
-advice and workshops; again, it doesn't have to be effective, just
-tantalizing enough that people keep coming back.
+Worse yet, the impression one gets, from hearing and reading all this
+advice, is that it is _normal_ to be surrounded by suitors, either
+asked out regularly or having women flirt with you all the time and
+your most messages returned on your dating sight. *That is not at all
+the situation for most normal people*. The sense of inadequacy and
+helplessness that this leads to is often a happy accident,
+particularly with respect to advice columns in magazines. Their main
+business is to sell cosmetics and fashion, not to help you. Self-help
+books should be of a different nature, but here again, there may be a
+similar effect at play; many times are done to bolster the author's
+core business, which is usually dispensing dating advice and
+workshops; again, it doesn't have to be effective, just tantalizing
+enough that people keep coming back.
 
-The problem with men? Their problem is men really want an answer to
-the question: "How do I get with HER?" Or, "How do I get a lot of
-BEAUTIFUL women?" In short? Most promise a way for beta men to woo and
-date alpha women. In general, men don't buy self-help books, but if
-you find a desparate mark, you can bilk a guy out of a lot of
-money. And so, much of the advice is centered on techniques for dating
-women far out of their league. This is ready-made for charlatans -
-give a bunch of advice they have heard from their alpha collegues (who
-have no trouble inducing interest themselves), and when their marks
-report lack of success, you tell them "You're doing it all wrong," or
-"You need to project confidence!" and keep pushing them in that
-direction. After all, you don't need to succeed; you just need to
-convince them that their success depends on continually forking over
-the dough.
+If this stuff makes women insecure, it explicitly aims to make men
+feel like outright failures. The problem with men? Their problem is
+men really want an answer to the question: "How do I get with HER?"
+Or, "How do I get a lot of BEAUTIFUL women?" In short, many men don't
+just want to have a normal social life - they want "ring the bell."
+Not just be happy, but be successfu. And the ordinary suspects show
+up, promising a way for beta men to woo and date alpha women. In
+general, men don't buy self-help books, but if you find a desparate
+mark, you can bilk a guy out of a lot of money. And so, much of the
+advice is centered on techniques for men trying to  date women far out of their
+league. This is ready-made for charlatans - give a bunch of advice
+they have heard from their alpha collegues (who have no trouble
+inducing interest themselves), and when their marks report lack of
+success, you tell them "You're doing it all wrong," or "You need to
+project confidence!"  and keep pushing them in that direction. After
+all, you don't need to succeed; you just need to convince them that
+their success depends on continually forking over the dough, and make
+sure their marks know that if they fail, it's *their* fault.
 
-People disadvantage themselves - and beat themselves up - because they
-don't really know what is going on. Their thought is that their lack
+People disadvantage themselves badly and beat themselves up because they
+don't really know the reality of the "average" situation. 
+Their thought is that their lack
 of success is abnormal or atypical. In fact, the truth is a little
 despressing, were it to be known. The difference in lives between
 someone who is very attractive and someone who is merely pleasant is
 enormous - much more so than you would imagine. If you're a guy on a
-dating site, it's
-the difference between having half of your messages responded to and
-many of them resulting in in-person meetings, and having one or two
-percent responded to, with a chance one of them might result in an
-in-person meeting. And this is for someone who is _merely_ acceptable,
-not ugly or unsuccessful. A lot of these statistics are laid out in
-_Dataclysm_ (author...). It's similar to the distribution of wealth in
-the US. If you don't know that, and think that to "succeed" you have
-to replicate that level of success, you're setting yourself up for
-horrible failure.
+dating site, it's the difference between having half of your messages
+responded to and many of them resulting in in-person meetings, and
+having one or two percent responded to, with a chance one of them
+might result in an in-person meeting. In other words, an average
+person is unsuccessfu. This is not about someone who is ugly or
+deformed. A lot of these
+statistics are laid out in _Dataclysm_ (author...). It's similar to
+the distribution of wealth in the US. If you don't know that, and
+think that to "succeed" you have to replicate that level of success,
+you're setting yourself up for horrible failure.
 
-And for the most part,
-"moving up" is not an option. If you're heavyset, you can probably
-drop a few pounds and keep it off through good eating habits (I refuse
-to use the word d _ _ t) and regular exercise - which you ought to be
-doing anyway. This will make you more attractive. It will not make you
-Jennifer Lawrence. If you're a 5'6" male, you can wear shoe
-lifts.... annnnnnd that's about it. You generally can do and should
-present yourself as well as you can - it will not only help your self
-confidence but make the world a little more pleasant. But it will not
-suddenly turn around your romantic life.
+When people don't realize this, and don't realize you can be happy
+without a ridiculous amount of success, people frequently get
+determined to "move up." For the most part, "moving up" is not an
+option. If you're heavyset, you can probably drop a few pounds and
+keep it off through good eating habits (I refuse to use the word d _ _
+t) and regular exercise - which you ought to be doing anyway. This
+will make you more attractive. It will not make you Jennifer
+Lawrence. If you're a 5'6" male, you can wear shoe lifts.... annnnnnd
+that's about it. And if you're a woman who suddenly finds herself
+single at 39, you can't age backwards.  You generally can do and
+should present yourself as well as you can - it will not only help
+your self confidence but make the world a little more pleasant. But it
+will not suddenly turn around your romantic life.
+
+So if you're average, you need to take advice intended for the average
+person. Not advice written for new college graduates whose main problem
+is screening out strangers, or people whose main problem is
+psychological in nature.
+
+Fortunately, this is one case where math is your friend. You don't
+need advice when you have math. And the math says you need NUMBERS. If
+you are an alpha who is damaged, you need a shrink, and that's about
+it. But if you are a beta, you need to meet a lot of people.
+
+This may
+mean *gasp* _*moving*_. But if it's serious enough, you'll do
+it. Personally I love New York city, but I didn't move here just
+because it was fun. No, I had spent five long years in a high-tech
+"company town" and another three in Austin, all in my precious
+twenties, and did whatever I could to improve my horrible love life. I
+took a job in Houston - mainly out of convenience - only to find out I
+was suddenly able to find dates once I moved without any problems at
+all! For all the effort I spent all those years, a company move I took without
+any thought cured my problems. This means that if you're a cute single
+woman in New York that isn't meeting anyone, it means you may need to
+*gulp* move to San Fransico, Boston or somewhere else where the men
+are outnumbering you. Likewise, if you're a guy living in Silocon
+Valley, _*run away*_. You don't need many millions from your startup
+to attract someone, you just need to move somewhere where you have
+someone to attract.
+
+So while the problem with alphas is generally between the ears, the
+problem with betas is just math, and how to improve it. Oh, you can
+and should try to improve your looks, get better at socializing, all
+that stuff. But you are not going to accomplish a complete makeover
+except through the course of years of self improvement. In the
+meantime, your happiness can't sit on the back burner.
+
+Now if truly no one is interested in you, and you think you know why,
+you may be a gamma - someone who is going to find it very difficult to
+marry. In your case, you have two challenges. First is to find out
+what the problem is. It may not be what you think. If you're morbidly
+obese that may be it, but if you're simply overweight, that probably
+isn't it - there are people around who will look past that. It is
+generally due to poor physical presentation combined with other
+barriers that must be recognized and treated.
+
+A word about myself and how I relate to this. I would personally
+consider myself a beta - a decent enough looking guy who got married
+late in life, but being shorter than average and introverted, I had my
+work cut out for me. However, for years I operated as a gamma, having
+only one date before I turned 26. The combination was a problem of
+social skills, poor physical presentation, clinical depression, and a
+peer group that was overwhelmingly male, and I had to combat every one
+of those just to have a _chance_. That is the tough thing about being a gamma - if you fix the
+one obvious thing that is holding you back (in my case, the
+depressive personality and poor physique), you may find there are
+other serious issues. I didn't have what I'd consider a "normal"
+dating life until I hit 30, and even past then, regular girlfriends
+were few and far between. But, it did get better. The only time it was
+bad was when I made the mistake of comparing my lack of success
+against friends I had who did much better without needing to do nearly
+any of the work I found necessary. Sometimes the worst thing you can
+do for your own happiness is compare yourself to others.
