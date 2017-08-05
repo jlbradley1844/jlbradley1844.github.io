@@ -1,0 +1,56 @@
+I'm going to push back against a lot of the wwf (whiney white folk) on this thread.
+As for myself, I've been working in the field as a hardcore engineer for 25 years
+and responsible for about 15.
+
+It's a pipeline problem only in that upper middle classes in the US, China and India
+is always far, far overrepresented in whatever next big lucrative field is.
+It was this way in investment banking before; now that there's 
+"real money" to be made in computer science, it's in computer science now.
+These parents now
+know that computer science is a way to get ahead. So they make damn sure their kids 
+have
+every opportunity they can to get ahead in this field; some of these people have
+their kids start with this stuff at 10 or younger. Do you think your typical working
+class parent even knows how important this is? Is it even in their values system?
+Growing up working class and going to a "commuter college" in the midwest, I
+felt like I was always eight behind a lot of the other people I was competing
+for grades with.
+I've seen very few qualified resumes from African Americans or Latinos cross my
+desk. I'd be willing to bet that if "working class whites" had distinctive surnames,
+I could say the same thing.
+
+And yes, the same dynamics are at work in China and India. If you think the people
+they send over are the sons and daughters of people working in rice paddies you are
+sadly, sadly mistaken. How do you think they come over, a rowboat? These are the
+children of the upper middle class over there, and the only reason asians are
+overrepresented is because they are overrepresented globally; 
+there are simply so many of elites over there that can
+afford to fly over here and pay full freight to get a Masters' degree here.
+I don't begrudge any of them their success - I'm in favor
+of much looser immagration. But don't imagine that this is due to innate merit.
+These people had merit - AND they were born lucky. As for the asians born in this
+country, doubly so (I say that as father of two half-asians).
+
+To some extent, Facebook is the wrong employer to look to. There are always
+a handful of companies that have their pick of everyone - and right now
+the FAANG companies can prosper based on skimming off the piles of resumes that
+come in everyday looking for a foot in the door.
+Companies should not be emulating Facebook but taking advantage of them. 
+There comes a time when the pipeline dries up (i.e., NOW) where 
+you have to start hiring not just what comes across your desk
+and matching keywords - you have to start looking for raw talent. This means 
+actually looking at the brightest kids out of *shudders* state schools instead of
+stupidly filtering out all but marquee universities. And looking at *horror*
+people who went to rigorous math programs or even *yikes* liberal arts
+programs like philosophy where they might learn how to think instead of how
+to get through a coding exam.
+
+Our company is a bit "old school"; we have solid legacy systems built on stuff that
+are no longer taught much (Fortran and C++). We hire most of our people straight
+out of college, and a lot of our hires come in knowing just the basics of coding.
+On balance many of the "graduates" seem to have more promise than some of the
+experienced people we interview, because we're free to hire for talent, instead
+of being limited to the pool of candidates who learned how to play the system
+from an early age. And *that* is how you are able to get a diverse pool of candidates.
+
+
