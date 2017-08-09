@@ -22,7 +22,8 @@ my puts (if indeed I can even get those) and pull out just before the
 thing collapses.
 
 This time, I want to discuss something of more concern - the
-proliferation of alternate currencies.
+proliferation of alternate currencies. And why this will _eventually_
+cause bitcoin to collapse due to lack of demand.
 
 Bitcoin itself is said to be a mechanism of _exchange_ and a _store_
 of value. Why is it a store of value? Because - you can use it for
@@ -207,37 +208,70 @@ and debit card transfers, some of this is captured with transaction
 fees, but there is a deadweight loss to the credit card companies in
 the cost of running their own business, as those networks aren't free.
 
+Note that I'm not saying this is a bad thing. The existence of legal
+currency means that there are at least no _explicit_ transaction costs
+for businesses that use cash. As for large amounts, cash in hand is
+not valueless either. Using cash, it is possible to carry out a
+virtually untraceable, non-recourse purchase. For many exchanges, this
+is desired by either buyers or sellers, making cash a preferred
+alternative. These are not necessarily illegal transactions; there are
+some lines of business where this sort of no-strings exchanges are
+needed for both buyers and sellers to conduct business, as a sort of
+explicit endorsement of a "caveat emptor" line of buiness. This sort
+of guarantee _might_ be possible in other payment systems, but for
+hard currency, it is more or less intrinsic nature to the currency.
+
 So why is a currency of value, then? A good currency is one that does
 two things: 
 * For the buyer and seller, it helps ease transactions by lowering the
 transaction cost.
 * For the marketplace as a whole, it is structured to lower the
-deadweight costs for the maintenance of the currency in the marketplace.
+deadweight costs for the maintenance of the currency in the
+marketplace.
 
 So this is how a currency is good. And the better a currency is at
 doing these things, the more valuable it is, and the more people will
-use it for their transactions.
+use it for their transactions. There may additionally be additional
+value associated with the 
+currency itself; the difficulty in traceability of hard cash is
+usually not a problem for buyers and sellers, but is sometimes
+explicitly valued by some parties, making it attractive in some cases.
 
-So why should people hold bitcoins _as currency_? Because by holding
+So to restate the above point: why should someone hold bitcoins _as
+currency_? Because by holding 
 bitcoins, it allows someone to conduct business *more cheaply* and
 with a *lower deadweight cost* to the marketplace as a whole.
 
+Let's restate some basic economics. Why are bitcoins in demand? There
+are two reasons:
+1. Because people wish to hold them temporarily so as to perform
+transactions
+2. Because people wish to hold them for appreciation in value, _in the
+expectation that there will be more need for usage in transactions in
+the future_
+
 There is one additional consideration that have not yet introduced,
-but that must be considered. Were you to hold $1,000,000, you would
-expose yourself to currency risk. What is currency risk?  That is the
-change in value you incur due to changes in the value of money
-itself. Now, in our discussion above regarding ATMs, this is sort of
-mooted, as we are comparing money in hand versus money in a bank
-account,and both are equally impacted by any changes in money due to
-inflation or other thigs. But still, there is a big difference - if
-you hold the money in a bank, you have a lot more leeway to invest
-your funds rather than hold it in cash. If you save $1,000,000 in
-currency, you're stuck. Your currency will tend to lose value over
-time, since you are not able to invest it (if you did invest it, you
-would no longer have the currency, would you?). But at least you know
-which way things will go, roughly. If you hold it for a month or two,
-you should be okay, and since you use currency _for exchange_ (e.g. to
-give someone else), that should nto be an issue.
+but that must be considered. It is not at all the case for regular
+currency. It is much less of a currency for "pegged" transactions. But
+it is very much the case for bitcoin. That is currency risk.
+
+Were you to hold $1,000,000, you would expose yourself to significant
+currency risk. What is currency risk?  That is the change in value you
+incur due to changes in the value of money itself. Now, in our
+discussion above regarding ATMs, this is sort of mooted, as we are
+comparing money in hand versus money in a bank account,and both are
+equally impacted by any changes in money due to inflation or other
+thigs. But still, there is a big difference - if you hold the money in
+a bank, you have a lot more leeway to invest your funds rather than
+hold it in cash. If you save $1,000,000 in currency, you're
+stuck. Your currency will tend to lose value over time, since you are
+not able to invest it; it is simply sitting there idle. In the
+unlikely event there is deflation, you will lose money, but generally
+you will take a haircut roughly in line with deflation. On the other
+hand, if you wanted to hold it for a week or two prior to a purchase,
+you should be okay, provided you're ok with the small inflation and
+lost opportunity cost - which could still be several thousand dollars
+for that much cash!
 
 Bitcoins, on the other hand, are far more volatile. As such, we have
 to take into account the volatility of this. When we hold bitcoins as
@@ -245,8 +279,8 @@ currency, we intend to use it for transactions. There are two sorts of
 transactions involved:
 1. Dollar denominated (or other traditional currency) and
 2. Bitcoin denominated
-In the case of dollar denominated translation, you wind up having
-currency-related risk; essentially, you are buying a forward on the
+In the case of dollar denominated translation, you have explicit
+currency-related risk; you are essentially buying a forward on the
 currency when you convert your dollars to bitcoins to make the
 transaction. Why? Because you will not be able to transact
 instantaneously - you will have to
@@ -255,10 +289,11 @@ instantaneously - you will have to
 3. And the seller must convert bitcoins back to dollars.
 If you hold bitcoins in a wallet long-term, then you can amortize step
 1 over a large number of transactions, but steps 2 and 3 must be
-carried out in any case. However, at that point you are explicitly
-investing your little wallet, with whatever that entails.
+carried out by the seller in any case. So just having cash in your
+bitcoin wallet is an investment, with the risks that entails.
 
-Bitcoin-denominated transactions are pretty darn rare - usually when
+What about the analysis of bitcoin-denominated transactions? I'm not
+sure that is worth bothering since those are practically nonexistent; when
 you see a price in bitcoins, it is pegged to a denomination like
 dollars behind-the-scenes. The currency risk to the seller is too
 great. A rapid run-up in the value of BTC will cause the seller's
@@ -266,14 +301,64 @@ prices to quickly become uncompetitive; a rapid fall in BTC will
 suddenly expose sellers to selling at prices in which they cannot
 possibly cover their costs.
 
-So based purely on this mathematical analysis, we know the following:
-* People value currency, in and of itself, beyond the money it
-represents. Currency is valued because it enables transactions of a
-certain sort.
-* Currencies derive their value from two things - their ability to
-carry out transactions cheaply, and their ability to facilitate an
-efficient marketplace for goods and services by minimizing "deadweight
-loss" from the overhead in maintaining that marker.
+------------
+
+I personally don't like bitcoin for a number of reasons. I listed many
+of these above. But in addition to those listed above, there are two
+heuristics that lead me to believe that BTC is a failed project:
+
+1. To date, there is no efficient, effective way of integrating
+bitcoin into commerce. I have numerous HOWTOs and books on how it
+works in theory and how to get "involved" in the community, how to
+"load your wallet," and all that nonsense. I have not yet seen a book
+on frameworks for easily facilitating transactions. The lack of such a
+focus would seem to mean that bitcoins are not solving a problem that
+developers have. Were the community truly serious about using bitcoin
+for COMMERCE, this would be the significant problem. The goal should
+be to make this as easy to use as Stripe. Instead, the goal seems to
+be to create more demand for the currency.
+
+2. There has been no concern whatsoever about the volatility of BTC as
+a currency. For all of the hoopla about BTC eliminating the need for
+central bankers, commerce to date has done nothing but prove the need
+for hard currency. Why? Because prices themselves are pegged against
+dollars, not BTC! Without information from $-BTC exchanges, sellers
+would not be able to set their costs properly, as all of their costs
+are in dollars, resulting in a collapsed marketplace. Why is this not
+a concern to the BTC community? This because they are not incentivized
+to make a working ecommerce marketplace. _They are incentivized to
+make bitcoin price go up_. Perhaps the technical minds that could
+resolve this *do* feel it is a concern and have been too preoccupied
+with "the fork" to pay attention to this. Given the well-documented
+costliness and duration of bitcoin transactions, this does appear to
+consitute an existential threat to BTC, even more than volatility. But
+once this is settled, I very much doubt the focus will turn to
+volatility or currency stabalization. Instead, the focus will turn
+toward other measures meant to encourage buy-and-hold strategies meant
+to inflate the value of BTC, if only to continue compensating the miners.
+
+In general, there is a lack of rigorous thinking about proper valuation and
+competition from other electronic currencies. BTC holders seem
+unconcerned about such things, in spite of the fact that other
+electronic currencies may be more effective. The greatest threat to
+BTC is not federal officials and government conspiracies to destroy
+the currency; it is not even the PR dumpster fire of news regarding
+the fork and exchanges going belly-up and illegal transactions and
+money laundering. No, the biggest danger is that _a different
+electronic currency will become a defacto standard for exchange_. Once
+that happens, demand for BTC will collapse, and will collapse
+quickly. Why? Because the main reason to hold BTC is the unspoken
+assumption that others not holding BTC will one day be _compelled_ to
+for commerce. Without that assumption, they are simply long digital
+signatures being used as Pokemon cards - fun for a game, but otherwise
+valueless as soon as the game dies.
+
+--------------------
+
+Be that as it may, there is still the question of intrinsic value. If
+there is an intrinsic value to bitcoins - and there is - then this
+should have some effect on the price itself. Why? Because it means
+that there will be an _external_ source of demand.
 
 The question, therefore, is how highly valued various electronic
 currencies should be. I presumed based on a sort of "strong market
@@ -283,7 +368,24 @@ people are willing to pay in ATM fees.
 
 Bitcoin derives (or at least, shoud derive) its value from the demand
 people would have to carry out transactions in BTC as opposed to
-dollars. For it to be competitive, it would need to 
+dollars. For it to be competitive, it would need to be a _preferable_
+medium for exhange - over not only dollars, but over any other
+electronic medium!
+
+This is where much of the valuation comes in. There is only one source
+of value - demand for the medium. We can therefore figure on what the
+valuation might be, given the demand. As demand to use bitcoin to use
+in commers rises, the cost of BTC goes up. As the cost of BTC goes up,
+the demand goes down, as people will need fewer BTC to carry out
+transactions.
+
+This is the sort of thing that people do with money when modeling
+inflation - they calculate the demand for money, how much is in
+circulation, how much of it is in savings accounts, the "velocity" of
+the money, all this stuff. I know little about such things, and it
+would be ridiculous to model it this way. I could no doubt come up
+with something, but it may be easier to model it through some other
+sorts of mechanisms, using off-the-cuff approximations of a different sort.
 
 ---------------------
 
@@ -294,5 +396,39 @@ The small investors as a collective have only 1000 bitcoins, and the
 price of each bitcoin has itself been bid up to $1000, bringing the
 total capitalization of the 3 entities to 333 million dollars. Note
 that the pool of bitcoin in circulation is miniscule - merely $1
-million - yet because of large blocks of uncirculating bitcoin, it
-will 
+million - yet because of large blocks of uncirculating bitcoin,
+holders as a collective hold a nominal valuation of 1 BILLION.
+
+So presuming that the small investors cash out and all find buyers, in
+the pockets of those that wish to use this for transactions. The
+"bitcoin economy" will keep the value pegged at 1 billion so long as
+there is an equilibrium keeping the overall demand at 1 million. How
+likely is this to happen? It depends on the "velocity" of money. If
+people put money into a wallet and keep it around for a few weeks,
+making purchases here and there but generally keeping a balance, then
+several thousand people engaged in the BTC economy will keep the
+valuations inflated to 1 million dollars.
+
+However, supposing people wish to hold BTC for as short a time as
+possible - keeping their wallets as empty as possible except briefly
+before and after purchases. In such a case like this, you need
+hundreds of thousands, even millions of people, to be engaged in "the
+bitcoin economy," since collective demand for the currency is going to
+be so low.
+
+So why would one engage in this economy? Let's presume that BTC
+continues to have no transaction costs. We know this is not the case
+in the long term,
+as eventually miners will be unable to cover costs as mining
+operations turn up fewer coins. But let's go with that. Would you say
+that this has no transaction costs? Not really.
+
+For the buyer
+
+
+How does that compare with cash? Well, we already know that for petty
+cash, we incur about a 0.5-1% overhead which is paid for the
+convenience of not incurring explicit transaction costs;
+e.g. the value of holding money is about that much. Ergo, all other
+things being equal, we could say that if BTC gives you the same amount
+of value, then the money is worth about that much.
