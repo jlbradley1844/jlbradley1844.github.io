@@ -189,24 +189,25 @@ Emerson Lake and Palmer. Let's go through the prog rock checklist:
 
 Their discography is a mess. ELP has one acknowledged masterpiece:
 _Brain Salad Surgery_. They have two others that are legitimately
-good, but not up to that high bar: _Trilogy_ and their epynomous debut. Another
-one, _Tarkus_ is their own _Tales of Topographic Oceans" - beloved by
-hardcore neckbeareded fans, and hated by everyone else. And finally,
-they have a number of other mediocre recordings, mostly from the late
-seventies and later, that bear no hint of the
-brilliance of their best work.
+very good: _Trilogy_ and the epynomous _Emerson, Lake and Palmer_.
+Another one, _Tarkus_, is their equivalent to Yes' _Tales of
+Topographic Oceans_ - beloved by hardcore neckbeareded fans, hated by
+everyone else. And finally, they have a number of other mediocre
+recordings, mostly from the late seventies and later, that bear no
+hint of the brilliance of their best work and are hardly worth a
+second listen.
 
 Such discographies are unfortunately typical of prog acts. Yes
 released three great albums over the span of less than three years,
 and aside from that, had only a handful of albums of good quality over
 the remainder of a career spanning *decades*. Genesis survived,
 essentially, by becoming less prog; King Crimson was generally high
-quality but wildly inconsistent; the list goes on. You aren't going to
-find a streak like the Rolling Stones or the Beatles replicated here,
-where a band puts together a half-dozen or more truly great
-albums. Instead, the typical prog act produced a smattering of albums
-that are truly great, a bunch more that are very
-good... and a lot that just didn't wear that well.
+quality and frequently brilliant but wildly inconsistent; the list
+goes on. You aren't going to find a streak like the Rolling Stones or
+the Beatles replicated here, where a band puts together a string of
+half-dozen or more truly great albums. Instead, the typical prog act
+produced a smattering of albums that are truly great, a bunch more
+that are very good... and a lot that just didn't wear that well.
 
 As for you - if you're new to prog, then this actually makes it all
 very easy for you. By now, there is considerable agreement on what is
@@ -241,10 +242,10 @@ Rush:
 _Moving Pictures_ (1981)
 
 and that, unfortunately, is it. I'm tempted to throw in Soft Machine's
-_Third_ (1971), which should rightly be considered a great _jazz
+_Third_ (1971), which should rightly be considered a classic _jazz
 fusion_ album, and Kate Bush's _The Kick Inside_ (1978), just to
-clarify that the woman was just as prog as the rest. But that would be
-it. The rest are good but not great - and yes, that means ELO, the
+break up the boys-only club. But that would be
+it. The rest are good but not classic - and yes, that means ELO, the
 Moody Blues, Kansas, Camel, etc. The near misses like Kansas and
 Camel, and the pop-oriented prog like ELO and Moody Blues, never
 reached this artistic peak, and you'll rarely hear this in rotation
@@ -252,18 +253,18 @@ anymore. Much as I hate to say it, A Ramones album is just way more
 fun than a prog acts that never do better than mediocre
 (*coughcoughStyxcoughcoughcough*).
 
-Is prog dead? Well, if you
-scanned the best-of lists of the 2000s and 2010s, you would find a
-shocking number of experimental, prog-like groups. Aside from the
-normal post-rock suspects, you'd find quite a few - Sigur Ros,
-Porcupine Tree, Tool and The Mars Volta - that are indistinguishible
-from the prog aesthetic. Not to mention the whole post-Rock movement,
-which started even earlier and continues with acts like Explosions in
-the Sky. If anything, the first decated of the new
-millenia produced more prog-like music in indie rock and metal than
-the seventies did.
+Is prog dead? Well, if you scanned the best-of lists of the 2000s and
+2010s, you would find a shocking number of experimental, prog-like
+groups represented there. Besides the normal post-rock suspects, you'd
+find quite a few - Sigur Ros, Porcupine Tree, Tool and The Mars Volta
+- that are indistinguishible from the prog aesthetic. Not to mention
+the whole post-Rock movement, which started even earlier and continues
+with acts like Explosions in the Sky. If anything, the first decade of
+the new millenia (the naughties?) produced more prog-like music in
+indie rock and metal than the seventies even did. Let's not forget the
+monstrous masterpiece _Kid A_ that kicked off the whole decade.
 
-Yet none of these followers and imitators would ever be mistaken for
+Yet none of these followers would ever be mistaken for
 the "classic" prog of Yes, King Crimson and Genesis.  This definition
 of "prog" as a movement barely extending for 10 years is perhaps as it
 should be. Musically-challenging artists are always going to be with
