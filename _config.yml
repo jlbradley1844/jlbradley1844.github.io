@@ -27,7 +27,7 @@ github_username:  not-posted
 markdown: kramdown
 #theme: minima
 theme: jekyll-theme-dinky
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
