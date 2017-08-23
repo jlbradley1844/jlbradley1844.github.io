@@ -16,10 +16,9 @@
 title: Joe Bradley's All-Purpose Site
 email: jlbradley1844@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
-  A personal blog dedicated to items of occasional interest. Because just
-  putting my stuff on DropBox seems so blah.
+  A personal blog dedicated to items of occasional interest.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jlbradley1844.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: no-twitter-name-yet
 github_username:  not-posted
 
@@ -29,6 +28,7 @@ markdown: kramdown
 theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
+  - seo
 exclude:
   - Gemfile
   - Gemfile.lock

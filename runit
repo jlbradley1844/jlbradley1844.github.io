@@ -1,1 +1,3 @@
+# launches jekyll locally. To view, browse http://localhost:4000
+JEKYLL_GITHUB_TOKEN=bb8a072f96a5caa74f82bc5f07590ffd91b538b4
 bundle exec jekyll serve --host 0.0.0.0

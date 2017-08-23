@@ -4,6 +4,12 @@ layout: default
 
 <div class="home">
 
+
+  <a href="{{ site.BASE_PATH }}">Home<small>Short Blog Posts</small></a>
+  {% for label in site.category %}
+    <a href="{{ site.BASE_PATH }}{{ label.permalink }}">{{ label.title }}<small>{{ label.short-description }}</small></a>
+  {% endfor %}
+
   <h1 class="page-heading">Posts</h1>
 
   {{ content }}
