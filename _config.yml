@@ -26,6 +26,8 @@ github_username:  not-posted
 markdown: kramdown
 #theme: minima
 theme: jekyll-theme-dinky
+collections:
+  - category
 plugins:
   - jekyll-feed
   - seo
