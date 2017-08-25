@@ -1,4 +1,4 @@
 ---
 layout: projects
-title: Links to various projects, github and otherwise
+title: Links to various projects (GitHub and otherwise)
 ---
