@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <table>
+    <tr>
+      <th><a href="{{ site.url }}" title="Home page with short blog posts">Home</a></th>
+      {% for label in site.category %}
+      <th><a href="{{ site.url }}/{{ label.permalink }}" title="{{ label.short-description }}">{{ label.title }}</a></th>
+      {% endfor %}
+    </tr>
+  </table>
+  
+  <h1 class="page-heading">Projects</h1>
+
+  {{ content }}
+
+  <ul class="post-list">
+
+    {% for post in site.posts %}
+    {% if post.category == "projects" %}
+    <li>
+      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h2>
+	<a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      </h2>
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+
+</div>
