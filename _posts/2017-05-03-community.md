@@ -1,4 +1,8 @@
-## Closed Communities and Their Enemies
+---
+title: Open Communities and Their Enemies
+category: in-progress
+---
+## Open Communities and Their Enemies
 
 Is there any word more homespun and apple-pie than community?
 
@@ -28,7 +32,7 @@ belonging is noted in many of the classes that have formed the primary
 backbown of resurgent alt-right groups and the associated decline for
 respect of democratic institions and liberal values such as freedom of
 the press. Notably, alt-right membership is associated with lack of
-belonging an anoemie, particularly in well-educated but unsuccessful
+belonging and anoemie, particularly in well-educated but unsuccessful
 subgroups in society disconnected from normal communities. Such people
 may cling very strongly to a "Christian" identity, but rarely, if ever
 go to church. Indeed, one of the strongest predictors of whether
@@ -39,7 +43,7 @@ if someone strongly identified themselves as "Christian" or
 Meanwhile, Baha'i writings such as _Century of Light_ identify
 excessive individualism as both a hallmark and a problem of current
 Western society. Part of this is from a moral point of view - someone
-who is individualist is likely to think of their needs first, and of
+who is an individualist is likely to think of their needs first, and of
 the needs of others conditionally if at all. But there is also a
 respect for communities as a requirement of civic involvement.
 
@@ -52,31 +56,36 @@ are more popular, but their excesses are themselves responsible for
 individualism. Historically, the first open communities have been the
 "universal" religious communities, which themselves formed the
 elements for the propagation and maintenance of democratic and liberal
-(in the philosophical sense) values. The decline of such values is the
-direct cause of the the current problems of today.
+(in the philosophical sense) values - open communities at first, that
+slowly declined into closed communities due to the slow death of open
+values as the community members directed the community resources
+inward toward support of membership. The decline of the values of open
+community is the direct cause of the decline of current society today
+and religious leadership particularly.
 
 -------------------------------
 
 Throughout much of human history, mankind lived in closed
-communities. This was of necessity. Much has been written about this -
-the first hunter gatherer tribes of were of 100-200 people. The
-ability to coordinate so many people, made possible with our large
-forebrains, were responsible for putting Homo Sapiens on top of the
-food chain. Long before we had built formidable tools, our ability to
-cooperate in a complicated fashion put us on to of the "food chain,"
-and outside of Africa, where animals co-evolved alongside primates, as
-soon as people moved into the area they quickly depopulated all major
-megafauna through this ability.
+communities. This was of entirely of necessity. Much has been written
+about the communities - hunter-gatherer tribes of perhaps 100-200
+people. The ability to coordinate so many people, made possible with
+our large forebrains, were responsible for putting Homo Sapiens on top
+of the food chain. Long before we had built formidable tools, our
+ability to cooperate in a complicated fashion put us on to of the
+"food chain," and outside of Africa, where animals co-evolved
+alongside primates, as soon as people moved into the area they quickly
+depopulated all major megafauna through this ability.
 
 Indeed, much of what we might call "common-sense" morality results
 from our ability to work within these small-knit communities in close
 cooperation. The first true cities did not occur until perhaps ten
-thousand years ago; if any evolutionary pressures existed, it happened
-well before that time. And most people continued to live in small
-villages of relatively similar size until perhaps two hundred years
-ago. By that time, we, humankind, have evolved to work in small
-groups. This means a particulr sense of community that goes with
-it. Some of the "natural" morals of this include:
+thousand years ago; most evolutionary pressures shaping our temperment
+as humans existed, happened well before that time. And most people
+continued to live in small villages of relatively similar size until
+perhaps two hundred years ago. By that time, we, humankind, have
+evolved to work in units of this size. This means a particulr sense of
+community that goes with it. Some of the "natural" morals of this
+include:
 
 * Fairness: a necessity when you think of the need to work together
   while penalizing free riders. This is similar to justice but less
@@ -106,12 +115,12 @@ cooperative nature.
 
 I am referring to these as "closed communities" because of the
 particular moral calculations that go on in these communities. Closed
-communities presume not that the flow of community members is fixed,
-but that it is slow. You have time to adjust to the presence of each
-other and judge character. Take, for example, a sociopath. In ancient
-societies, there was no law enforcement to speak of; no rules of
-evidence or the like. Justice would be meted out based on one word
-against another. It would seem to be an ideal place for a
+communities do not presume fixed membership, but they do presume a
+slow rate of change. You have time to adjust to the presence of
+newcomers other and judge character. Take, for example, a
+sociopath. In ancient societies, there was no law enforcement to speak
+of; no rules of evidence or the like. Justice would be meted out based
+on one word against another. It would seem to be an ideal place for a
 sociopath. Why, then, wasn't sociopathy an evolutionary advantage? Why
 aren't we all sociopaths?  Because the closed nature of these
 communities were a valuable protection. Strangers are slowly accepted
@@ -121,7 +130,8 @@ serious problems. This is one reason psychologists believe humans are
 so unforgiving of lies, even though they do it all the time and
 frequently catch friends doing it. Closed communities and our own
 natural instincts kept the truly amoral in line, ensuring that somone
-harmful who pushed their luck was one ambush away from an unnatural death.
+harmful new not to push their luck, since they were always one ambush
+away from an unnatural death.
 
 So we have been bred for a very practical, useful form of morality. To
 some extent, the seculars are right that humans have a very useful
@@ -179,44 +189,56 @@ mechanism for extending the community, and religion was one element in
 it. And religions began to reflect the larger communities within which
 it had to operate. This was
 theme of a book published some time ago: Eve Einsler's _The Chalice
-and The Blade. A religion for the wider community had to support the
+and The Blade_. A religion for the wider community had to support the
 wider community.
 
-There is one such religion everyone knows (or claims to know)
-something about. It was of a small civilization - how large it is not
-even historians yet know. They have not found ruins of its old
-capital, making it impossible to verify the size of this civilization,
-or the date of its founding. Yet we have a record, unverified, of its
-history. This is the ancient religion of Moses, as documented in the
-Torah. Now, let it be known that the religion we now call Judaism did
-not exist in the time the Israeli tribes - Judaism is very much a
-product of the Roman-era reformations. However, one must acknowledge
-the generalities we do know about this ancient religion - let's just
-call it the "Israeli" religion. The Torah gives us a valuable window
-into the culture of a religion spanning multiple communities - "the
-twelve tribes" in this case. Here, we have a community that is too
-small to be an empire run on tribute, but distinctive enough and large
-enough to have been to large to be run on the basis of tribal units.
+We can think of a representative religion for this time frame - it's
+one everyone claims to know something about, even the must
+unknowledgeable of us. It is the religion of a small civilization -
+how large it is not even historians yet know. They have not found
+ruins of its old capital, making it impossible to verify the size of
+this civilization, or the date of its founding. Yet we have a record,
+unverified, of its history. Have you guessed it yet? This is the
+ancient community of Moses, whose history is documented in the
+Torah. Yes, I'm referring to ancient Israel. Here, we have a community
+that is too small to be an empire run on tribute, but distinctive
+enough and large enough to have to coordinate many tribal units. Early
+Israel  makes a good example for these religions of early
+civilization, in spite of iths theological distinctiveness.
 
-Along with this larger community, we have - no surprise - its own
-religion. Unlike the older communities, we cannot count on knowing
-anyone around. So how do we work around this? Well, the future
+Now, let it be known that the religion we now call Judaism did not
+exist in the time the Israeli tribes - Judaism as we know it is very
+much a product of the Roman-era reformations. However, one must
+certain generalities are known about this ancient religion -
+let's just call it the "Israeli" religion. The Torah gives us a
+valuable window into the culture of a religion spanning multiple
+communities.
+
+So, being that this is a single unit, it has its own single religion;
+notably, the very similar samaritans to the north had a very similar
+religion which was regarded as entirely different, and it is only due
+to an accident of history that it hardly exists anymore. Now, in this
+ancient Israel, one cannot count on knowing
+everyone around. So how do we work around this? Well, the future
 nation-builders had the tools of culture at its disposal, with all
 that this implies - founding myths of its creation and nationhood;
 explanations of how it came to be and relation to its larger
 neighbors; arts and culture distinctive to its own nation; and
 finally, its own religion.
 
-An important note on religion. Throughout much of history, there was
-not a concept of something called a "religion." Or rather, it wasn't a
-distinct thing. You were in a community, your community had beliefs
-about morals and religious things, and that was that. Community itself
-was bound up in religion and vice versa. If you go study the religions
-practiced about three thousand years ago, this is evident. The
-reification of the concept of "a religion" separate from the ethnic
-community that practiced it was not even defined until several
-centuries ago - before then, if you didn't adhere to the religion of
-the community, you were simply a pagan and/or an infidel and that was that.
+An important note on the word "religion." Throughout much of history,
+there was not a concept of something called a "religion." Or rather,
+it wasn't a distinct thing. You were in a community, your community
+had beliefs about morals and religious things, and that was
+that. Community itself was bound up in religion and vice versa. They
+were not independent - one could not be Israeli but not a Jew, or
+Jewish but not Israeli. If you
+go study the religions practiced about three thousand years ago, this
+is evident. The reification of the concept of "a religion" separate
+from the ethnic community that practiced it was not even defined until
+several centuries ago - before then, if you didn't adhere to the
+religion of the community, you were simply a pagan and/or an infidel
+and that was that. An outsider, if you will.
 
 Indeed, all of these communities had their own religions. They may
 have varied much in the details; they would hardly be recognizeable
@@ -242,24 +264,26 @@ Most people with knowledge of the Bible can see some of this implied
 in the books. In particular, the Old Testament gives an account of a
 community under strict moral code. While this may be the basis of our
 modern society so frequently claimed in the West, it is a very limited
-one - in that it is very plain the religion of _a community_. Indeed,
-the nearby Samaritans, a community of very similar beliefs, were not
-thought of as fellow Jews, and were thought of as having completely
-different communities and religions in spite of having very similar
-holy scriptures. These religions were **not** intended for outside the
-community. Indeed, the Israeli God was not claimed to be the only God,
-so technically it was not even monotheistic - it was simply claimed to
-be The Greatest. From that point of view then, the focus on idolatry
-was an effort to keep Israelis from adopting polytheistic practices of
-neighbors.
+one - in that it is very plainly the religion of _a
+community_. Indeed, the nearby Samaritans, a community of very similar
+beliefs, were not thought of as fellow Jews, and were thought of as
+having completely different communities and religions in spite of
+having very similar holy scriptures. These religions were **not**
+intended for outside the community. Indeed, the Israeli God was not
+claimed to be the only God, so technically it was not even
+monotheistic - it was simply claimed to be The Greatest. From that
+point of view then, the strong prohibition on idolatry, which seems so
+strange in your Sunday school class, was probably just an effort to
+keep Israelis from adopting polytheistic practices of neighbors.
 
-Note that unlike the "community-based" virtues, these are not endemic
-to people naturally. They have to be taught, to some extent. This is
-why, unlike some of the other virtues, many of these seem less
-important nowadays - indeed are rebelled against. Yet we would not be
-able to organize ourselves into large communities without adherence to
-them. Without adherence to them by the broad base of the population,
-even a workable middle-sized city would prove impossible to manage.
+Note that unlike the "community-based" virtues, these virtues are not
+endemic to people naturally. They are cultural and have to be
+taught. This is why, unlike some of the other virtues, many of these
+seem less important nowadays, and indeed can be the focus of
+rebellion. Yet we would not be able to organize ourselves into large
+communities without adherence to them. Without adherence to them by
+the broad base of the population, even a workable middle-sized city
+would prove impossible to manage.
 
 ------------------------------
 
