@@ -175,7 +175,7 @@ Of course, none of this actually speaks to why people listen and why
 the music has fans. And okay, _I get it_, there are valid reasons not
 to like this stuff. The Beatles and Stevie Wonder were capable of
 doing amazing, innovative music without losing the public in the
-process, while groups like King Crimson seemed to take a perverse
+process, whereas groups like King Crimson seemed to take a perverse
 delight imposing music of bewildering complexity on hapless
 listeners. But the reason The Beatles remain adulated is because it's
 friggin' hard to do. To fans of progressive rock, it's better to come
