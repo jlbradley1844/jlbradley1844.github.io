@@ -6,25 +6,27 @@ layout: default
 
   <table>
     <tr>
-      <th><a href="{{ site.url }}" title="Home page with short blog posts">Home</a></th>
+      <th><a href="{{ site.url }}" title="WORKS UNDER CONSTRUCTION">Home</a></th>
       {% for label in site.category %}
       <th><a href="{{ site.url }}/{{ label.permalink }}" title="{{ label.short-description }}">{{ label.title }}</a></th>
       {% endfor %}
     </tr>
   </table>
   
-  <h1 class="page-heading">Brief Posts</h1>
+  <h1 class="page-heading">IN-PROGRESS WORKS</h1>
 
+  <p><em>The following postings are drafts posted publicly for feedback.
+  They do not represent final work and will receive subsequent revision.
+  Please do not redistribute. All rights reserved.</em></p>
   {{ content }}
 
   <ul class="post-list">
+
     {% for post in site.posts %}
-    {% if post.category %}
-    {% else %}
+    {% if post.category == "in-progress" %}
     <li>
       {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
       <span class="post-meta">{{ post.date | date: date_format }}</span>
-
       <h2>
 	<a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
       </h2>
@@ -32,7 +34,5 @@ layout: default
     {% endif %}
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
 </div>
