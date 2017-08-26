@@ -142,14 +142,14 @@ truth. I lived in New York at the time, even briefly living in the
 same hallowed Lower East Side that was the epicenter of this
 scene. There was no there there. If you dig up some old Village Voice
 column from the time, you'll fact see plenty of handwringing about the
-fact that New York City didn't have ahave a vibrant original scene
-like Seattle! The book posits a competition between Lower East Side
-and an up-and-coming Brooklyn scene that did not exist, because the
-Lower East Side scene was invisible nationally. In fact, other than
-The Strokes and The National, no New York musical acts at the time
-managed to register nationally. So this is the same enemic scene
-which, in hindsight, is now thought of as the center of musical world
-at 2002?
+fact that New York City didn't have a vibrant original scene like
+Seattle! The article I referenced above posits a competition between
+Lower East Side and an up-and-coming Brooklyn scene that did not
+exist, because the Lower East Side scene was invisible nationally. In
+fact, other than The Strokes and The National, no New York musical
+acts at the time managed to register nationally. So this is the same
+anemic scene which is now being represented as the center of
+musical world at 2002? I have a hard time buying that.
 
 Acts like The Strokes had to become big - because they were so much
 fun to write about. These guys were Living The Rock And Roll
