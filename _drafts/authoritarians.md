@@ -1,21 +1,30 @@
-#OF WHAT USE IS A RIGHT-WING AUTHORITARIAN?
+---
+title: Authoritarians Within the Cause of God
+category: in-progress
+---
+## OF WHAT USE IS A RIGHT-WING AUTHORITARIAN?
 
-Those of you cynical enough to be reading this block may be tempted to
-apply "Betteridge's Rule of Headlines." I urge you to hold off for the
-moment.
+Those of you cynical enough to be reading this blog may be tempted to
+apply "Betteridge's Rule of Headlines" to this question. I urge you to
+hold off for the moment.
 
-points:
+A few points that are worth considering in this discussion:
+
 * Baha'i faith attempts to use _all_ viewpoints
-* Present troubles are caused by virulent strains of authoritarianism
+
+* Many troubles are caused by virulent strains of authoritarianism
+
 * All indications are that right-wing authoritarianism is a
 personality type. There are certain theories, but there is every
 reason to believe this is an innate inclination and is difficult to
-change.
+change. There is no elimination of this mindset from human culture.
+
 * Discussions regarding authoritarian personalities have heretofor
 framed them in terms of a "problem to be solved." Rather than simply
 bet on finding a cure, it would be much better if one could use them
-in the near term for the strengths they have, and direct these
+for the strengths they have, and direct these
 strengths to a cause that will temper there extremist tendencies.
+
 * Bob Altemeyer's book _The Authorotarians) is a particular
 comprehensive book on 
 authoritarian personalities, with a particular emphasis on political
@@ -27,10 +36,11 @@ authorotariansm measures one's attitued toward authority _only_, and
 obviously when a question uppermost in your mind is "who is most
 resistent to the appeals of evil men," those more highly deferential
 to authority will come out on the short end of the stick. Jonathan Haidt's
-book _The Righteous Mind_, no not on authoritariansm as such, is
-critical of individualism in morality (that is, those who score very
-*low* on the authoritarian scale), and gives a
+book _The Righteous Mind_, though not on authoritariansm as such, is
+critical of individualism in morality (corresponding with those who have
+very *low* scores on the authoritarian scale), and gives a
 more balanced viewpoint of those who might otherwise seem off.
+
 * The most obvious solution, then, is one in which authoritarians
 claim membership in a group which is dedicated toward
 the inculcation of non-authoritarian thinking and elimination of
@@ -45,10 +55,12 @@ belong than actual authoritarian principles as such.
   leaders high on the scale of "social dominance." In fact, the worst
   leaders are high on both social dominance and authoritarianism -
   borderline sociopaths that enjoy power for its own sake.
+
 * As such, since the primary problem is the dyad of authoritarian
   followers and the socially dominant leaders, and one cannot
   eliminate the authoritarians, one is left to figure out how to purge
   socially dominant people from leadership.
+
 * The Baha'i Faith's leadership selection tends to mitigate against
   attempts at the socially dominant to establish followers for
   themselves:
@@ -87,12 +99,13 @@ belong than actual authoritarian principles as such.
   on a single element, and elides a number of significant distinctions
   between viewpoints of authority
 
-#So why is this important anyway?
+## So why is this important anyway?
 
 At one level, it is important not to make too much of this. To an
 extent that it is an important characterization of political behavior,
 it is important, but not a sole determination. It is quite easy to
 make too much of this.
+
 * However, this does affect how "teaching" is done. For the most part
 Baha'is have had their work cut out for them. Those most willing to
 give an ear are those of a "low authority" mindset, who are more than
@@ -102,6 +115,7 @@ after they do, it then becomes a portfolio in one's belief system. In
 essense, Baha'is recruit "low authoritarian" believers, than wish that
 they were behaving as they had "high authoritarian" once they
 joined. It doesn't work that way, of course.
+
 * As far as "high authoritarian" mindsets, generally this is not a
 teaching focus. This is not without cause; Baha'is obviously are not
 going to look where there is no hearing given. Loud arguments do not
@@ -115,10 +129,12 @@ believers who nevertheless have a right to belong in the Faith.
 
 * The question, is what is to be done. The issue is not so much but
   when - it is a question of timing.
+
 * Authoritarian believers are, bluntly, pigheaded to an unusual
   extreme, and noreceptive. However, there are times at which they
   become extremely open and lost - in response to a serious betrayel
   of trust by their leaders.
+
 * We are coming to a time where it is very likely, in the next few
   years, that this loss of trust is at hand. Let us look at American
   evangelicals - perhaps the largest, most coherent group of high
@@ -139,6 +155,7 @@ believers who nevertheless have a right to belong in the Faith.
   exactly the same way they do, and are shocked when they experience
   firsthand knowledge of the fact that their opinions are out of step
   with others they respect).
+
 * As such, we are upon a rare window when such people will have an
   unusual degree of receptivity to other belief systems.
 
