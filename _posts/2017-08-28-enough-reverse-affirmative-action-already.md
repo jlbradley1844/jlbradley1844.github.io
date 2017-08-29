@@ -97,7 +97,7 @@ afford to fly over here and pay full freight to get a Masters' degree
 here.  I don't begrudge any of them their success - I'm in favor of
 much looser immagration. But don't imagine that this is due to innate
 merit; anybody who buys the "racialism" of American Rennaisance who
-beliefs this is due to naturally higher intelligence and merit of
+believes this is due to naturally higher intelligence and merit of
 "northern asians" is a king-sized chump with no critical thinking
 capabilities. And if you think it's due to some magical "cultural
 advantage" they get from Confucianism or whatever, I'm skeptical; it
@@ -107,17 +107,17 @@ have merit indeed - AND they were born lucky. As for the asians born
 in this country, they are doubly lucky (I say that as father of two
 half-asians).
 
-To some extent, the major engineering companies that get all the press
-- Facebook and the like - are the wrong employer to look to for
+To some extent, the major engineering companies that get all the
+press - Facebook and the like - are the wrong employer to look to for
 leadership in diversity hiring. There are always a handful of
 companies that have their pick of everyone - and right now the FAANG
 companies can prosper based on skimming off the piles of resumes that
-come in everyday looking for a foot in the door. They will continue to
+come in everyday. They will continue to
 hire only from the preferred pipeline; most of them have too many
 eager, qualified applicants for their jobs, so they could arbitrarly
 exclude huge chunks of the hiring pool and still have enough great
 candidates to staff up. However, you as a hiring manager should not be
-emulating Facebook but taking advantage of them.  There comes a time
+emulating Facebook but taking advantage of their omission.  There comes a time
 when the pipeline dries up (i.e., NOW) where you have to start hiring
 not just what comes across your desk and matching keywords for
 desireable schools and programming languages, but instead
