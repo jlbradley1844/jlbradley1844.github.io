@@ -1,5 +1,6 @@
 ---
 title: The Right Kind of Uncool, Part I
+category: cutting-floor
 ---
 
 # The Right Kind of Uncool (or, About Progressive Rock)
@@ -147,9 +148,9 @@ Seattle! The article I referenced above posits a competition between
 Lower East Side and an up-and-coming Brooklyn scene that did not
 exist, because the Lower East Side scene was invisible nationally. In
 fact, other than The Strokes and The National, no New York musical
-acts at the time managed to register nationally. So this is the same
-anemic scene which is now being represented as the center of
-musical world at 2002? I have a hard time buying that.
+acts at the time managed to register nationally*. So this is the same anemic scene which is now being
+represented as the center of musical world at 2002? I have a hard time
+buying that.
 
 Acts like The Strokes had to become big - because they were so much
 fun to write about. These guys were Living The Rock And Roll
@@ -184,5 +185,9 @@ create interesting music than provide yet another iteration of
 blues-based AABA songs that doens't push the ball
 forward.
 
-Next post I'll discuss what was _really_ unfun about progressive rock,
-and where the n00b listener can start.
+I'll put in another post I'll discuss what was _really_ unfun about
+progressive rock, and where the n00b listener can start.
+
+A Footnote:
+* Yes, I know about LCD Soundsystem, yes, I think
+he/they're great, no, they didn't get big until later.

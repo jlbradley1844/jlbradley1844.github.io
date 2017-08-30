@@ -1,16 +1,18 @@
 ---
-title: The Right Kind of Uncool, Part II
+title: The Right Kind of Uncool (Part II)
 ---
 # The Right Kind of Uncool (or, About Progressive Rock)
 ## Part II
 
-Last post I discussed the unfair reasons why rocked critics disliked
-progressive rock.
+I wrote a post where I discussed the unfair reasons why rocked critics disliked
+progressive rock. I shoved it into the cutting floor - it seemed to
+much like venting to be worth publishing. I'm hoping this post is
+useful - where to get started for the uninitiated.
 
-This post I discuss the valid reasons for disliking progressive rock,
-and how you can avoid it.
+This post also discusses the one uncontested valid reason for
+disliking progressive rock, and how you can avoid it.
 
-One point the critics have about progressive rock I must admit is
+There is a point that critics have about progressive rock I must admit is
 valid: a lot of prog was bad. SERIOUSLY bad.
 
 To show how bad it could get, let's take apart the discography of one
@@ -138,8 +140,8 @@ Landfill."  Who is the next Oasis, the next Strokes, or the next
 Arctic Monkeys?  Unfortunately, it hardly matters. All you need is an
 album full of AABAs songs, 4 chords and a dream. If there is a rock
 rebirth, the credit will not go to these acts, but to acts who aren't
-afraid to lose fans by doing something a little creative. No wonder
-The War on Drugs are being treated as conquering heroes.
+afraid to shake things up by doing something a little creative (c.f. 
+The War on Drugs).
 
 So you have to give credit to bands like Yes and Soft Machine:
 they set the bar so ridiculously high that we were never threathened
