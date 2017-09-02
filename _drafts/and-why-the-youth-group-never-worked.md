@@ -1,23 +1,39 @@
-So about my prior column...
+---
+title: Why That Youth Group Never Worked
+category: cutting-floor
+---
 
-Partly it was to vent. But partly because it is mathematically
-fun. And gives me a chance to explain to myself why things never
-worked out properly.
+So I wrote a draft about why when I was single, I found so much bad
+advice. Partly it was to vent.
 
+But another part is this column. "Pairing off" is actually an
+interesting mathematical puzzle, and the combination of this fact
+and the fact that the combination of bad luck and ineptitude at
+dating scarred me for for life, in spite of the fact I'm over 11 years
+happily married.
+
+Let's start with a discussion: about odds.
 I got married, like a lot of other peole who won't disclose it,
 through a computer dating website. I used them pretty heavily during
-2002-2005. I actually attempted in 1999-2000 very unsuccessfully; at
+2002-2005. This was an illuminating experiment.
+
+I actually attempted computer dating in 2000 very unsuccessfully, when a
+move to New York resulted in a dating dry spell of several months. At
 the time the market was very fragmented and _very_
 male-dominated. Many of the websites were full of false profiles. In
 some cases, it was obviously a ploy to get men to pay for the website.
 "User PrettyModel09 wants to talk to you. To chat, *click here* to
 sign up and unlcok this feature." But even if you did pay (and I made
-that mistake once, the odds were against meeting in person, even with
+that mistake once), the odds were against meeting in person, even with
 hours of effort. One site was stupid enough to actually post publicly
 statistics on whose profile was getting responses (if you knew where
 to look). Poking around, I was anguished to find that if your profile
 indicated you were above 5'10" and made over $100,000, you had a 50%
 chance of your messages getting returned. My return rate was perhaps 3%.
+At the time, I thought I must be unacceptable on some level; a more
+likely explanation was the handful of real women were so inundated that
+they could only respond to the most promising candidates. In any event,
+it was obvious my efforts were wasted.
 
 However, something happened in 2002, and for whatever reason, single
 professional women in their late twenties and early thirties started
@@ -35,15 +51,15 @@ and whose dreams I could relate to a little more than that typical
 "picket fence" stuff. I later married her. But unfortunately, I now
 live in the suburbs.
 
-In any event, I actually didn't expect this to work. Being what I
-referred to in my earlier post as a "beta," I knew my strategy had to
-be an "all of the above" strategy - I had to get my numbers up or I
-would die a never-married. I had few friends and they weren't doing
-any better than I, so I couldn't count on setups. That meant the usual
-suspects - meetups, religious groups, dance lessons, that sort of
-thing.
+In any event, I actually didn't expect computer dating to be _the_
+answer. Being what I referred to in my earlier post as a "beta," I
+knew my strategy had to be an "all of the above" strategy - I had to
+get my numbers up or I would die a never-married. I had few friends
+and they weren't doing any better than I, so I couldn't count on
+setups or blind dates. That meant the usual suspects - meetups,
+religious groups, dance lessons, that sort of thing.
 
-In general, my numbers from there were really horrible. And it seemed
+In general, I felt my numbers were really horrible. And it seemed
 a lot of other people weren't doing much better. However, at the time
 I didn't know much probability, and in spite of my background, not
 much about mathematical modeling. Had I bothered to do some, I would
@@ -52,7 +68,7 @@ doing those activites. But had I done the math, I would know what I
 was up against.
 
 One was gender imbalance - no matter what group I was in, it always
-seemed to have more guys than women. Even in New York, that was the
+seemed to have more guys than women. Even in New York that was the
 case. Naturally, women reported the same thing for _themselves_. Why
 would it be the case? Wouldn't you have a 50/50 split most of the
 time? And even if you didn't, would you have just as great an odds
@@ -66,7 +82,7 @@ There are two things working against you:
 1. The binomial distribution
 2. Bayes' theorem.
 
-*The problem with the Binomial Distribution*
+### The problem with the Binomial Distribution
 
 The binomial distribution is the probability distribution when you
 flip a coin. If you flip a coin, you get a bunch of heads and a bunch
@@ -74,8 +90,8 @@ of tails. You probably did the exercise in middle school where you
 flipped the coin again and again. The more times you flipped, the
 closer you got to 50%.
 
-However, they don't tell you what happens if you flip only a few
-times. Or 10 or 20 times.
+However, the problem is what happens if you flip only a few
+times. Or even as many as 20 times.
 
 As it turns out, a binomial distribution will start to approach
 something called a _normal curve_ somewhere around 30 flips. The
@@ -88,87 +104,95 @@ This means that you have about a 65% chance of the split being no
 worse than 17-13 either way, and 95% chance of the split being no
 worse than 20-10.
 
-If you look at it, that ain't great.
+That means in any small groups, lopsided groups are expected _even if
+the underlying pool itself is 50/50_. No matter how you look at it,
+that ain't great.
 
-So think of your social group. How big is it? If it's a very "close"
+So that impacts our little social group. How big is it? If it's a very "close"
 group, you might have perhaps 50, or even 100 people who are often
 involved. But usually the regulars boil down to a much smaller set;
 perhaps a subset of ten to twenty-five.
 
-So this can lead to a more lopsided distribution. For perhaps 15
-people, as you might guess, it is MORE likely that you'll get a
-lopsided distribution than one that is even. An "even" distribution is
-8-7 or 9-6, but given that this has a standard deviation of 2, it's
-probably more likely than not that the ration is 10-5 or worse. Hardly
-enough to encourage pairing off. This is discouraging to someone doing
-social direction of youth programs, who might be juggling 20 or 25
-"regulars"; at any given event, you'll have what appears to be a
-lopsided distribution purely based on random chance.
+So your regulars are going to have lopsided distribution,
+probably. For 15 people, it is MORE likely that you'll get a lopsided
+distribution than one that is even. You have even odds of a split of
+10-5 or worse. Hardly enough to encourage pairing off. This is
+discouraging to someone doing social direction of youth programs, who
+might be juggling 20 or 25 "regulars"; at any given event, you'll have
+what appears to be a lopsided distribution purely based on random
+chance.
 
 If you yourself are a "regular", the odds are more challenging because
 Bayes' law comes into play. What is the essence of Bayes' law? It's
-conditional probability - the fact that YOU are in a group. Let's look
-at it this way:
+conditional probability - the fact that YOU are in a group. Or to put
+it another way, if there are 15 groups you could participate in and you
+part of just one, it is most likely to be a group where the odds are
+against you.
 
 Suppose you are a set of regulars that frequent a bar, meetup, or
 what-have-you. There happen to be a little under 100 people
-participating with a 50/50 split. Perfect, right? Your regular
-meetings draw a crowd of around15. If you are a female, odds are, there will be
+participating with a 50/50 split. Your typical meetings draw
+a crowd of around 15. If you attend one such meeting, odds are there
+will be draw a crowd of around15. If you are a female, odds are, there will be
 slightly more females than guys because YOUR PRESENCE is enough to
-throw off the sample. A group of 15 people will, on average, consist
-of 7.5 males and 7.5 females; once you throw yourself in there, the
-average is 7 males and 8 females. Combine this with a binomial
-distribution with a small number of samples, and a lot of meetings are
-going to look like "girls' night out". This isn't a pure binomial,
+throw off the sample. The "average" breakdown will be you, 7 guys, and
+7 women - a ratio of 8-7, slightly against.
+
+Combine this with the tendency of the binomial distribution and
+you're going to have a lot of "girls' night out". This isn't a pure binomial,
 in that you are doing "draw without replacement," but at 100 people it
-is close enough. A pure binomial distribution of the meetings you show
-up at would produce the following:
+is close enough. The above example will result in, for any gathering
 * about a 60% chance of more women than men
 * about a 10% chance of having women outnumber men by 2 to 1
 * just a 3% chance of having men outnumber women by 2 to 1.
 Look on the bright sight - at least you won't face a "sausage fest."
 
-Of course, in practice, you will tend to draw regulars more often than
+------------------------------------
+
+So that's the problem with odds, and why you always show up at the
+wrong event. Now let's move onto why this screws up normal social groups,
+youth groups, church groups and the like.
+
+In these groups you will tend to draw regulars more often than
 not. And these regulars will not pair up, more often than not. If it's
 a church group or social group that is supposed to do that explicitly,
 then people can wonder, but again, math is what is going on here, not
 people's bad attitudes.
 
+In many of these cases, the goal, either overt or covert, is to have otherwise
+happy people initiate romantic relationships.
 The people who plan these things tend to think - just throw together
-an even number of men and women. It will happen naturally, right?
-Well, there are two problems. One is the fact that groups tend to be
-unbalanced, which doesn't lead to coupling off. But the other is the
-distribution of the types of people involved in these activities. As
-you can see, unbalanced outings are the norm.
+an even number of men and women and *bam*. It will happen naturally, right?
+Well, there are two problems. One is the fact that pool itself tend to be
+unbalanced, which doesn't lead to coupling off.
 
-And if you manage to get large groups, you wind up with the "cocktail
-party" effect. No, not the one about picking out conversations in
-crowds. No, it has to do with pairing off too. The ideal goal of a
-host for such a thing is to ensure everyone has a good time. And a
-good time can be had by all, provided everyone is socially mature and
-thoughtful (don't laugh, it happens). But pairing off? In a large
-group, the pairing off happens among people who really don't need help
-pairing off.
+But if you do manage to get a large, gender-balanced group, you'll get
+another effect aht I dub the "cocktail party" effect. No, not the one
+about picking out conversations in crowds. No, it has to do with
+pairing off too. The ideal goal of a host for such a thing is to
+ensure everyone has a good time. And a good time can be had by all,
+provided everyone is socially mature and thoughtful (don't laugh, it
+happens). But pairing off? In a large group, the pairing off happens
+among people who really don't need help pairing off. That is, what
+happens is exactly what happens at a cocktail party of strangers.
 
-Let's look at how a party of fortysomething people might break
-down. On average you'll going to have a mismatch - you need a LOT of
-people to get to the point where you'll have a 50/50 split - but at
-least if you have this many, if it's truly lopsided it's probably not
+Let's look at how a party of about forty or fifty people might break
+down. On average you'll going to have a slight mismatch, but with
+this many, if it's really lopsided it probably isn't by
 chance. So, plenty of opportunities for everyone, right?
 
-Well... let's think of what happens. Let's presume a typical "New
-York" crowd of twenty/thirty-somethings. You have a fair number of
-charming, friendly women you'd consider attractive - enough so that most guys would be
-interested. The "alphas". (Again, this isn't about looks, it's about
-this person's experience dating, which is all about how easy it is to
-get someone interested in them romantically). You have perhaps an
-equal number of men in that group. Then maybe up to half are of
-average desireability, the "betas." The remainder have their work cut
-out for them. How is this going to break down?
+Well... let's think of what happens. Presume a typical "New York"
+crowd of twenty/thirty-somethings. You have a fair number of charming,
+friendly women you'd consider attractive - enough so that most guys
+would be interested. The "alphas". You have perhaps an equal number of
+men who are similarly desireables. The bulk of people of both genders
+are of average desireability, the "betas." And you have a handful that
+really, um, have their work cut out for them. How is this going to
+break down?
 
 We can pull some random, good-sounding numbers out of a hat as a rough
 model. Perhaps there are 20 single women; 7 of them are attractive
-enough that most guys are interested - say 2 in 3. 10 of them have perhaps a 1
+enough that most guys are interested - say 1 in 3. 10 of them have perhaps a 1
 in 3 chance of pulling in interest. And you have 22 single
 guys. Suppose 5 of them are tall and reasonably good looking - about 1
 in 2 of the women at the party would be interested. And another 10 are
@@ -176,29 +200,30 @@ meh. Perhaps 1 in 5 of the women at the party are interested. How is
 this going to work out?
 
 Your thought is that "well, the alphas will hook up with the alphas,
-and the betas with the betas." It doesn't really work that way. If you
-_force_ someone to "pick one" - and they've done these experiments -
-you get a rather exasperating effect, if you're a social
-director. Basically, the most attractive woman hooks up with the most
-attractive man, the second most attractive women hooks up with the
-second most attractive man, all the way down the line. Every time!
-Over a more extensive period this effect goes away, but barring
-anything requiring people to get to know another more deeply, you're
-stuck with human nature. So
-much for the exhaustive planning of your social coordinator.
+and the betas with the betas." It doesn't really work that way. True,
+if you _force_ someone to "pick one" - and they've done these
+experiments - you get something similar; rather exasperating effect,
+if you're a social director. Basically, the most attractive woman
+hooks up with the most attractive man, the second most attractive
+women hooks up with the second most attractive man, all the way down
+the line.  Over a more extensive period this effect goes away, but
+barring anything requiring people to get to know another more deeply,
+you're stuck with human nature.
+
+So much for the exhaustive planning of your social coordinator.
 
 But in real life, people aren't forced to pair off. You see someone
 you fancy, and if you do, great! But if you don't, you aren't going to
 force your company on someone when neither of you have the slightest
 interest in one another - you simply won't hit it off. So what is
-going to happen? Well, it's not necessarily true that people will pair
-alpha with alpha.
+going to happen? 
 
-But what happens? You need _mutual_ attraction. And look at the odds -
-it is *much* more likely that you will have mutual attraction between
-two alphas than two betas. Worse yet for the betas who are left over -
-an alpha-beta pairing is more likely than a beta-beta pairing,
-provided such a pairing is available.
+Well, it's not necessarily true that people will pair alpha with
+alpha. But what happens? You need _mutual_ attraction. And look at the
+odds - it is *much* more likely that you will have mutual attraction
+between two alphas than two betas. Worse yet for the betas who are
+left over - an alpha-beta pairing is more likely than a beta-beta
+pairing, provided such a pairing is available.
 
 So let's look at this:
 7 Alpha women: there will be 
@@ -227,7 +252,7 @@ at least ONE will lead to a second date. Ouch.
 
 It also tells us why guys tend to ask "up." Why? It isn't as if they
 have better odds. Instead, you're going ask out who you're attracted
-to. Remember, the betas aren't unattractive - they're simply
+to. Remember, a beta isn't unattractive - they're simply
 attractive to fewer people.
 
 It also tells us it doesn't matter who's being "picky"; the men or
@@ -248,8 +273,8 @@ factors, just because this is real life:
 * of the 5 alpha men, 3 have steady girlfriends, and 1 other has one
 but isn't disclosing
 * of the rest, 3 of the beta men and 2 of the beta women themselves
-are also exclusive.
-Let's rerun the numbers again, after adjustin the pool:
+are also exclusive with someone else
+Let's rerun the numbers again, after adjusting the depleted pool:
 3 available alpha women: there will be 
   3 * .666 * .5 * 1 = 1 potential pairings with available alpha guy
   3 * .666 * .5 * 1 = 1 potential pairings with the unavailable alpha guy
