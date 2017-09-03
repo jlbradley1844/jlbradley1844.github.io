@@ -1,3 +1,8 @@
+---
+title: The Real Reason Creeds and Politics Don't Mix
+category: articles
+---
+## The Real Reason Creeds and Politics Don't Mix
 One of the core beliefs of the Baha'i Faith is that we should avoid
 involvement in partisan political activities. By extension, that means
 our leaders and aministrators are going to avoid this sort of
@@ -15,9 +20,11 @@ going to betray the fact there is giant bird-eating spider in the
 room, even if someone would rather I ignore it, or worse yet, pretend
 that perhaps this spider is merely misunderstood. But in a case like
 that, further elaboration is also unnecessary, and the best bet is to
-press on with one's business, spider or no. Suffice it to say that I
+press on with one's business, spider or no.
+
+Be that as it may, this condition didn't come out of nowhere; I
 feel that moral behavior of the population as a whole, and moral
-behavior of religious creeds in particular, has resulted in wide-scale
+behavior of religious creeds in particular, have resulted in wide-scale
 political failures. This is a self-evident notion from study of the
 writings and current newspapers, and you may read this as criticism of
 particular politicians as you will. Fortunately, as bad as one may
@@ -30,24 +37,27 @@ good. When Shoghi Effendi wrote to American believers some 70-80 years
 ago that neither Democratic nor Republican programs of politics
 properly reflected the Baha'i program, one could easily point out
 areas of both agreement and disagreement between Baha'i belief and the
-beliefs of each party. The Baha'i Faith, which is always been
+beliefs of both parties. The Baha'i Faith, which is always been
 cosmpopolitan, is even moreso now. Fortunately or unfortunately, that
 program has come to be alingned much moreso with one of the policial
 parties, and it seems this will remain the case _at this current
 time_. This does _not_ mean that we should align ourselves with a
-political party. Of course, we should not distance ourself from issues
-just because they seem associated with said political party. Avoiding
-political entanglements is not advocating a "too-pure" attitude toward
-the world; it is necessary to keep us from committing ourselves to a
+political party.
+
+Of course, we should not distance ourself from issues just because
+they seem associated with said political party. Avoiding political
+entanglements is not advocating a "too-pure" attitude toward the
+world; it is necessary to keep us from committing ourselves to a
 program which is liable to steer off course. By avoiding this
 entanglement, it should be perfectly clear that when individual
 Baha'is and institutions do comment on something that may be
-_perceived_ politically, it is due core beliefs at hand. Were we to
-align ourselves in any way, not only would it be seen as serving a
-political party instead of our Spiritual Master, it would also be an
-encumberance; once one identifies oneself with a political party (or
-cause of any sort), one is much loath to admit to either oneself or
-others that things have gone badly off track.
+_perceived_ politically, it is due core beliefs at hand, not due to a
+intent to support a political program or to curry favor with those in
+power. Were we to align ourselves in any way, not only would it be
+seen as serving a political party instead of our Spiritual Master, it
+would also be an encumberance; once one identifies oneself with a
+political party (or cause of any sort), one is much loath to admit to
+either oneself or others that things have gone badly off track.
 
 Unfortunately, the mistake of alignment seems to appears to have
 happened for many of the other creeds in the world. It seems that
