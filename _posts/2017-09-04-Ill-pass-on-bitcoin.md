@@ -1,5 +1,13 @@
+---
+title: I'll pass on bitcoin
+category: in-progress
+---
+
+## Bitcoin? Pass.
+
 Some time ago I wrote up a blog post about Bitcoin. It was mainly
 negative in nature. I saw a few things that seriously concerned me:
+
 1. It was primarily being used as a "buy-and-hold" commodity instead
 of a medium of exchange.
 2. It was very inefficient as an exchange protocol, having incredible
@@ -15,6 +23,7 @@ fees. Given the computational cost of clearing just one transaction,
 these could be more expensive than credit cards.
 6. Arguments regarding the upcoming fork represented an existential
 threat to the system.
+
 While I haven't seen anything addressing the above issues, and my
 outlook is still negative, the market disagrees with me. Tempted as I
 am to "go short," I know that I will time it badly, paying a ton for
