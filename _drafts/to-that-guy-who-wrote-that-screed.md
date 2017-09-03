@@ -1,5 +1,6 @@
 ---
 title: To That Guy Who Wrote That Screed
+category: cutting-floor
 ---
 #Some REAL Advice to the Guy Who Wrote That Google Screed
 
