@@ -2,7 +2,7 @@
 title: This Is Not About Scoring Easy Points
 ---
 
-#Sometimes You Have To Speak Out Even When It's Obvious
+# Sometimes You Have To Speak Out Even When It's Obvious
 
 I'm a Baha'i (for background, see practically every other column I've
 posted). One thing I try to do to live up to my belief is avoid
