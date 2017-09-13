@@ -79,48 +79,48 @@ I didn't even know I missed:
 
 1. Bye bye web-based editor.
 
-I had already migrated to using other sorts of editors for my drafts - all
-it took was a few frustrating sessions with LiveJournal's unwieldy
-HTML editor to convince me that was the way to go. But with Jekyll,
-your work is generally offline, where it belongs. You can use your favorite
-editor. Presuming you're working with raw Markdown or HTML, you can even
-use Emacs or (yuck) VIM.
+  I had already migrated to using other sorts of editors for my
+  drafts - all it took was a few frustrating sessions with LiveJournal's
+  unwieldy HTML editor to convince me that was the way to go. But with
+  Jekyll, your work is generally offline, where it belongs. You can use
+  your favorite editor. Presuming you're working with raw Markdown or
+  HTML, you can even use Emacs or (yuck) VIM.
 
 2. Hello source control!
 
-By getting your editing offline, you get full ownership of files and
-can leverage Git, SVN, or whatever you desire. Given that many Jekyll users
-are using GitHub hosting, you already have a workflow that you can move
-straight into.
+  By getting your editing offline, you get full ownership of files and
+  can leverage Git, SVN, or whatever you desire. Given that many Jekyll users
+  are using GitHub hosting, you already have a workflow that you can move
+  straight into.
 
-You don't have to make the workflow ridiculously complex either - for instance,
-I generally just work on the master branch and push when I'm done. But it's
-good to have branches for keeping longform works or multiparts in progress.
+  You don't have to make the workflow ridiculously complex either - for instance,
+  I generally just work on the master branch and push when I'm done. But it's
+  good to have branches for keeping longform works or multiparts in progress.
 
 3. Bye Bye to klunky HTML editors
 
-Jekyll uses Markdown by default, though you can use raw HTML if you desire.
-Generally I don't need the fine-grained control I get with raw HTML. But
-Markdown is easy to remember and use, and is much easier to edit than
-HTML. As a result, you can just work directly with your formatted text
-instead of swearing at the HTML editor for never properly putting the
-proper paragraph formatting for your bullet points, even though you manually
-fixed it 4 times already.
+  Jekyll uses Markdown by default, though you can use raw HTML if you desire.
+  Generally I don't need the fine-grained control I get with raw HTML. But
+  Markdown is easy to remember and use, and is much easier to edit than
+  HTML. As a result, you can just work directly with your formatted text
+  instead of swearing at the HTML editor for never properly putting the
+  proper paragraph formatting for your bullet points, even though you manually
+  fixed it 4 times already.
 
 4. Hello themes
 
-If you use GitHub Pages, there are about a dozen miscellaneous themes. One
-of them should serve as a good "starter theme."
+  If you use GitHub Pages, there are about a dozen miscellaneous themes. One
+  of them should serve as a good "starter theme."
 
-However, if you are willing to host elsewhere and fiddle with your own
-Jekyll server, there are [thousands of good-looking themes available for your
-use](https://github.com/jekyll/jekyll/wiki/Themes). Given that most blogging
-platforms sell themes as add-ons, leaving you to choose only the blandest if
-you don't wish to pay, this is a little bit like free money.
+  However, if you are willing to host elsewhere and fiddle with your own
+  Jekyll server, there are [thousands of good-looking themes available for your
+  use](https://github.com/jekyll/jekyll/wiki/Themes). Given that most blogging
+  platforms sell themes as add-ons, leaving you to choose only the blandest if
+  you don't wish to pay, this is a little bit like free money.
 
 5. Hello customization
 
-This is a biggie. But it's also the most work.
+  This is a biggie. But it's also the most work.
 
 If you want to customize WordPress (presuming you host it yourself),
 you'll get a lot of capability and an equal amount of pain. It is
@@ -153,7 +153,7 @@ set it up so you can debug your theme. Otherwise, you're stuck with a painful
 development process, as you will be pushing edits on at a time just to see
 what works - definitely not the right way to go.
 
-###Oh, uh, Why Not to Move
+### Oh uh - Why Not to Move
 
 Jekyll isn't for everybody. If your blogging will be:
 
