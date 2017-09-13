@@ -1,7 +1,7 @@
 ---
 title: Is It Really Freedom of Expression that They're Fighting For?
 ---
-##The Gig Is Up: We All Know It Isn't Really About Free Speech
+## The Gig Is Up: We All Know It Isn't Really About Free Speech
 
 I grew up in Kentucky, and went to a Catholic high
 school. <unconnectedRant>Lots of people up in the northeast have this
@@ -71,8 +71,8 @@ them, but at least they're consistent.
 
 Instead, let's look at many of the other people who are suddenly
 concerned about "free speech" for white suprematists.  Have they
-stepped up for free speech rights for leftist radicals? Muslims?
-Liberal protesters? Criminals? Hardly. On the contrary, the only time
+stepped up for free speech rights for leftist radicals? Militant muslims?
+Paroled felons? Hardly. On the contrary, the only time
 they seem concerned about free speech is when the speaker is either a
 right-wing speaker or a well known racialist.
 
