@@ -138,54 +138,54 @@ require a lot, but it does require some investment in time:
 
 2. Familiarize yourself with common problem types.
 
-That's it!
+    That's it!
 
-For #1 I recommend you get an account on hackerrank or one of the more
-common "groupware" programming environments. (Unfortunately, you don't
-get to pick, so I don't mean Visual Studio Online.) If you've been
-pushed into common senior engineer roles where you spend much more
-time reviewing code and doing API-wrangling than doing mainline work,
-you may be much rustier than you realize! The good news is that a few
-hours in one of these environments will have you *much* more
-comfortable in one of these whiteboarding situations.
+    For #1 I recommend you get an account on hackerrank or one of the more
+    common "groupware" programming environments. (Unfortunately, you don't
+    get to pick, so I don't mean Visual Studio Online.) If you've been
+    pushed into common senior engineer roles where you spend much more
+    time reviewing code and doing API-wrangling than doing mainline work,
+    you may be much rustier than you realize! The good news is that a few
+    hours in one of these environments will have you *much* more
+    comfortable in one of these whiteboarding situations.
 
-For #2, pick up some problems online and do them. Books like _Cracking
-the Coding Interview_ lean heavily on this sort of thing and may be
-overkill; likewise, stuff like the ACM Programming Contests are lots
-of fun. But the more challenging problems are definitely overkill and
-too tough for even the most talented candidate to work through in an
-hour. Instead, the stuff I ask on phone interviews (and that most
-people ask) are basic in nature, and a few hours working
-through problems in in algorithm books and doing small implementations
-will help. We also tend to ask questions drawn from real-life
-programming challenges we face, so if you're making a move within the
-same industry, review that sort of stuff - you may get you through the
-phone screen.
+    For #2, pick up some problems online and do them. Books like _Cracking
+    the Coding Interview_ lean heavily on this sort of thing and may be
+    overkill; likewise, stuff like the ACM Programming Contests are lots
+    of fun. But the more challenging problems are definitely overkill and
+    too tough for even the most talented candidate to work through in an
+    hour. Instead, the stuff I ask on phone interviews (and that most
+    people ask) are basic in nature, and a few hours working
+    through problems in in algorithm books and doing small implementations
+    will help. We also tend to ask questions drawn from real-life
+    programming challenges we face, so if you're making a move within the
+    same industry, review that sort of stuff - you may get you through the
+    phone screen.
 
-A few hours for a few weekends, and that's it!
+    A few hours for a few weekends, and that's it!
 
-Well, I lied, one more thing:
+    Well, I lied, one more thing:
 
 3. Be _selective_ about the jobs you apply to.
 
-Didn't expect that, did you? Well, I didn't harp on it. But it's the
-main reason we bounce otherwise qualified candidates that get through
-the whole ceremony.
+    Didn't expect that, did you? Well, I didn't harp on it. But it's the
+    main reason we bounce otherwise qualified candidates that get through
+    the whole ceremony.
 
-There are a lot of people who seem inclined to take an interview, any
-interview, for practice or backup. But we don't want to waste our
-time; do you want to waste yours? If you really want to do data
-science, and your resume is geared toward data science, and all you talk
-about is data science, then by all means apply to *those* jobs.  Don't
-apply to a devops position and try to get the hiring manager to fit
-their job to your chosen field of interest. It's fine - even normal -
-to change jobs so you can change your subfield, but address this fact in
-the cover letter with your resume, and for pete's sake, be prepared to
-address the misfit in the phone screen if asked about it. A lot of
-candidates don't seem to be prepared when we point out mismatches
-between their resume and cover letter and what they say on the phone,
-and we won't fly in a candidate who has given every indication that he
-is "just browsing."
+    There are a lot of people who seem inclined to take an interview, any
+    interview, for practice or backup. But we don't want to waste our
+    time; do you want to waste yours? If you really want to do data
+    science, and your resume is geared toward data science, and all you talk
+    about is data science, then by all means apply to *those* jobs.  Don't
+    apply to a devops position and try to get the hiring manager to fit
+    their job to your chosen field of interest. It's fine - even normal -
+    to change jobs so you can change your subfield, but address this fact in
+    the cover letter with your resume, and for pete's sake, be prepared to
+    address the misfit in the phone screen if asked about it. A lot of
+    candidates don't seem to be prepared when we point out mismatches
+    between their resume and cover letter and what they say on the phone,
+    and we won't fly in a candidate who has given every indication that he
+    is "just browsing."
 
 While I realize this seems like "one more thing to do," it's far
 better to spend a few hours making sure you can get through simple

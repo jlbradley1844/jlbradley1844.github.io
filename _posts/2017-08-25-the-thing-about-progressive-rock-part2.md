@@ -61,38 +61,38 @@ picking those that are known nowadays as prog rock, those where both
 the fans and the critics would agree "This is Prog". 
 
 King Crimson:
-_The Court of the Crimson King_ (1969)
-_Red_ (1974)
-_Discipline_ (1981)
+* _The Court of the Crimson King_ (1969)
+* _Red_ (1974)
+* _Discipline_ (1981)
 
 Yes:
-_Fragile_ (1971)
-_Close to the Edge_ (1972)
+* _Fragile_ (1971)
+* _Close to the Edge_ (1972)
 
 Genesis:
-_Selling England by the Pound_ (1973)
+* _Selling England by the Pound_ (1973)
 
 ELP:
-_Brain Salad Surgery_ (1973)
+* _Brain Salad Surgery_ (1973)
 
 Pink Floyd:
-_The Dark Side of The Moon_ (1974)
-_The Wall_ (1979)
+* _The Dark Side of The Moon_ (1974)
+* _The Wall_ (1979)
 
 Rush:
-_Moving Pictures_ (1981)
+* _Moving Pictures_ (1981)
 
 and that, unfortunately, is it. I'm tempted to throw in Soft Machine's
 _Third_ (1971), which should rightly be considered a classic _jazz
 fusion_ album, and Kate Bush's _The Kick Inside_ (1978), just to break
-up the boys-only club. But that would be it. The rest are good but not
-classic - and yes, that means ELO, the Moody Blues, Kansas, Camel,
-etc. The near misses like Kansas and Camel, and the pop-oriented prog
-like ELO and Moody Blues, never reached this artistic peak set by the
-albums above, and you'll rarely hear their cuts in rotation or hear
-musicians cite them as influences. Much as I hate to say it, A Ramones
-album is just way more fun than a prog act that never did better than
-mediocre (*coughcoughStyxcoughcoughcough*).
+up the boys-only club. But that would all. There are several others
+that are great but not classic - and yes, that means misses like
+Kansas and Camel, and the pop-oriented prog like ELO and Moody
+Blues. They never reached this artistic peak set by the albums above,
+and you'll rarely hear their cuts in rotation or hear musicians cite
+them as influences. Much as I hate to say it, A Ramones album is just
+way more fun than a prog act that never did better than mediocre
+(*coughcoughStyxcoughcoughcough*).
 
 Is prog dead? Well, if you scanned the best-of lists of the 2000s and
 2010s, you would find a shocking number of experimental, prog-like
