@@ -74,7 +74,7 @@ voting of one political party, are you not aligning yourself with that
 party? Heaven forbid Baha'i adminstrators ever make that sort of mistake.
 
 As for leaders of creeds who publicly align
-themselves with political parties: one would expect that the know that
+themselves with political parties: one would expect that them to know that
 * political
 parties will go horribly off course on occasion, and
 * when they do, one is loath to disassociated yourself from them due
