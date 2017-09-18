@@ -14,7 +14,7 @@ least, have the wisdom to publicly excuse themselves from the mistake
 of lining themselves up with a partisan program.
 
 As a believer, it is a bit nowadays difficult to write without seeming
-to be political anyway. This is a hazard of our present movement. If
+to be political anyway. This is a hazard of our present moment. If
 there is a large giant bird-eating spider in the room, my actions are
 going to betray the fact there is giant bird-eating spider in the
 room, even if someone would rather I ignore it, or worse yet, pretend
@@ -59,7 +59,7 @@ would also be an encumberance; once one identifies oneself with a
 political party (or cause of any sort), one is much loath to admit to
 either oneself or others that things have gone badly off track.
 
-Unfortunately, the mistake of alignment seems to appears to have
+Unfortunately, partisan alignment seems to appears to have
 happened for many of the other creeds in the world. It seems that
 every authoritarian movement has their own favored creed that stands
 to gain from association with the political movement. Sadly, many
@@ -73,7 +73,7 @@ prescription of political belief? If you recommend straight-ticket
 voting of one political party, are you not aligning yourself with that
 party? Heaven forbid Baha'i adminstrators ever make that sort of mistake.
 
-As to leaders of creeds who publicly align
+As for leaders of creeds who publicly align
 themselves with political parties: one would expect that the know that
 * political
 parties will go horribly off course on occasion, and
@@ -84,15 +84,16 @@ believers and non-believers that
 the parties _real_ creed is in conformance with these political
 beliefs, whatever teachings they may claim to follow:
 
-Given this, is public alignment with a political party really wise?
+Given this, ohe has to ask just how wise such moral leaders are.
 
 Think of a believer in a creed whose authorities have made this
 mistake, and now see that their ecclesiastes are publicly supporting
 politicians and programs in obvious violation of their core religious beliefs.
 Now, as an individual believer, you can claim #NotAllEvangelicals
 or #NotAllRussianOrthodox all you want as a means of distancing
-yourself from such parties. But over time, the individual is going to
-publicly and privately distance themself from the creed.
+yourself from such parties. But over time, such an individual is going to
+publicly and privately distance themself from the creed to
+make their own beliefs consistent.
 
 Given the significant move away from traditional denominations, I'm
 afraid this is one reason for loss of religious faith. I saw it in the
@@ -112,14 +113,22 @@ a bit of conversation and it seemed evident they were unhappy to
 occasionally happen to listen to homilies that might be labeled
 "liberal."
 
-Rather than notice or even fight this trend, they were quite happy to
-pick up the slack, and now you have the mainline protestent churches
-denuded. Is this a win for Christ? Hardly! The result of this partisan
-association has been a subsequent flatlining of membership in
-evangelical denominations, as anyone who does not think of themself
-first as a "conservative" without a religious upbringing would hardly
-find themselves interested in this spiritual path.
+Rather than notice or even fight this trend, the conservative Christian
+denominations were quite happy to
+pick up the slack, leaving the mainline protestent churches
+denuded. Was this a win for Christ? Hardly! After a surge of growth in the
+seventies and eighties, there was a
+subsequent flatlining of membership in
+evangelical denominations. And now, anyone who does not already think of themself
+first as a "conservative" or who does not have an evangelical religious upbringing
+would not even consider following this spiritual path. Evangelical Christianity has
+become so associated with a particular flavor of political conservatism
+that one cannot accept one without the other, resulting in ever-decreasing
+numbers.
 
 It is a challenge for believers of all creeds to realize that whatever
 your political inclinations, there is _no_ political party that is in
-proper conformance with your belief system as properly understood.
+proper conformance with your belief system as properly understood. But
+if the leaders of these religions are not explicit about the dangers,
+their congregations will not follow; and if they give into the tempation,
+their moral leadership will take the hit.
