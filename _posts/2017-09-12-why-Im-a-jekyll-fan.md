@@ -150,7 +150,7 @@ local Jekyll server. This isn't as hard as you might think, particularly if
 you're the sort that is used to working on Linux VMs (in my case, I just have
 a Vagrant image that hosts nothing but Ruby and Jekyll). But you'll need to
 set it up so you can debug your theme. Otherwise, you're stuck with a painful
-development process, as you will be pushing edits on at a time just to see
+development process, as you will be pushing edits one at a time just to see
 what works - definitely not the right way to go.
 
 ### Oh uh - Why Not to Move
