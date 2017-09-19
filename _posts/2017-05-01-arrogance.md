@@ -1,6 +1,6 @@
 ---
 title: About Those Arrogant City Folk
-category: in-progress
+category: cutting-floor
 ---
 
 ## [](#header-2)About Us Arrogant Folk
