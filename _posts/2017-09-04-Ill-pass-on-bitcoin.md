@@ -416,7 +416,10 @@ of its backers sound a lot more like investors at the bottom rungs of
 a multi-level marketing scheme than do commercial middlemen. Both
 opportunities can be potentially lucrative; only one of them requires
 you to evangelize a "buy-and-hold" investment mentality to the greater
-community.
+community. When its backers use phrases like "Keep the faith!" in
+their email .sigs, one realizes this is not a serious business
+concern; it is a dressed-up multilevel marketing ploy masquerading as
+a business opportunity.
 
 --------------------
 
