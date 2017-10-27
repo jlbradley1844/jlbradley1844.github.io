@@ -21,7 +21,7 @@ suspicious of the sudden timing of this. A few are sad, lost souls who
 think this is a conspiracy to remind everyone about proven
 allegations against political figures and media figures they might
 favor. But most critics are wondering why it took so long to
-acknowledge this was a problem. May of these critics, indeed, are the
+acknowledge this was a problem. Many of these critics, indeed, are the
 same longform journalists that published airtight cases against these
 powerful figures years ago, only to have their reports ignored or
 roundly minimized; this in the same mainstream press that is now eager
@@ -33,46 +33,48 @@ To which I would reply: this is the start of something better. While I
 agree with you that it is only a start, I think it's worth
 acknowledging that it is still something better.
 
-A few weeks I started doing a study about virtues and character
+A few weeks ago, I started doing a study about virtues and character
 development - mainly aimed at bettering myself, since I'm in no
 position to advise others. In any case, it reminded me of some work
 Lawrence Kohlberg did regarding social morality.
 
 In his writings, most people are described at being a level of
-"conventional morality" in their moral thought.  Of these most,
-probably the plurality of all grown adults, follow the more mature,
-"norm-driven" morality. Such people are not philosophically
-sophisticated in their ethical thought. However, they can recognize
-that laws are necessary for the good of society, and that
-additionally, there are also fixed norms that should be enforced, if
-not through laws. The acceptance of laws and norms by this group as a
-whole determines whether society as a whole enforces these norms or if
-they become disregarded with resignation and an attitude of
-"it stinks, what can you do."
+"conventional morality" in their moral thought. Probably most adults
+are at the somehwat more mature end of the spectrum, following a
+law-and-order, "norm-driven" morality. Such people are not
+philosophically sophisticated in their ethical thought. However, they
+can recognize that laws are necessary for the good of society, and
+that additionally, there are also fixed norms that should be socially
+enforced, even if not through laws. The acceptance of laws and norms
+by this group as a whole determines whether society as a whole
+enforces these norms or if they become disregarded with resignation
+and an attitude of "it stinks, what can you do."
 
-A perhaps smaller group are also at a stage of conventional morality,
-but just below them. In this stage, people look to their own social
+An almost-as-large group are at a stage of conventional moral thought
+just beneath them. In this stage, people look to their own social
 group as a measure of morality. Such people are liable to look at
 right and wrong simply on the basis of what their peers and friends
 say is right or wrong. They may not understand the need for laws and
-norms, regarding them as improper or "unenforceable" if not accepted by
-their own group. However, such people are susceptible to the norms of
-the society as accepted by those acting under the more mature
+norms, regarding them as improper or "unenforceable" if not accepted
+by their own group. However, such people are susceptible to the norms
+of the society as accepted by those acting under the more mature
 norm-driven moral framework above them, if only through peer pressure.
 
-And finally, under that level, are the preconventional moralists.
-Kohlberg is quick to label this as a "stage," since children pass
-through this stage in their own development. However, there are a fair
-number of individuals who are arrested in this stage of
-development. This is the stage of the transactional moralist and
+And finally, under that level are the preconventional moralists, who
+do not see right and wrong in terms other than direct impact to
+oneself only.  Kohlberg is quick to label this as a "stage," since
+children pass through this stage in their own development. However,
+there are a fair number of individuals who are arrested in this stage
+of development. This is the stage of the transactional moralist and
 sociopath, for whom good and bad is a matter of whether one can get
 away with something or not. In general, such people are too
 undeveloped to understand the need for norms and laws, which they
 regard as moralizing nonsense for the weak. But they do understand the
-level of morality just above them, that regards social cues as the
-arbiter of moral behavior. They understand this not because they
-themselves believe, this, but because it serves as a constraint on
-what they believe they can get away with among their peers.
+moral thought of those in the level just above them, who regard
+social groups as the arbiter of moral behavior. They understand this
+not because they themselves believe this, but because it serves as a
+constraint on what they believe they can get away with among their
+peers.
 
 Here is what I believe is going on in the case of sexual
 harrassmet. We are seeing is the beginning of a change in socially
