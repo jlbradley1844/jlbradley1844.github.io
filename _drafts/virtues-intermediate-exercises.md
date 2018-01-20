@@ -121,6 +121,37 @@ wikipedia seeing what the _Game of Thrones_ actors are doing? Probably not.
 It is more or less a given in study of virtues that being well read
 and exposing yourself to a lot of ideas are important.
 
+## "Teaching"
+
+Note the quotes. This is something that means something particular. It
+is used in the Baha'i Faith, and is frequently misunderstood.
+
+If you have a practice that you yourself find helpful, you pick up an
+implicit obligation to share this with others as soon as one is adept.
+"Teaching" is just
+that - sharing this knowledge with others who are interested, in a helpful
+way. This requires doing a number of things:
+
+* Know your techique well enough that you can be confident of your
+  knowledge and can turthfully explain to others.
+
+* An ability to relate this to others so they find it agreeable and
+ can adapt it for their needs.
+
+* A view toward teaching as a process of assisting others in their
+ spiritual growth, in which you help others find the path, without
+ becoming their sole source of truth, until they can learn
+ independently.
+
+Unfortunately for the Baha'i Faith, in the Christian matrix in
+America, teaching is too easy to recast as evangelism under another
+name. This is not to be confused with salesmanship. Certainly, the
+ability to teach others requires developing a number of virtues. This
+is far removed from evangelism, which all too often relies on loudly
+proclaiming a one-size-fits-all messages to everyone, willing or not,
+and then regarding ones duty as done the minute the message is discharged.
+
+
 ## Personal Growth through Life Stages
 
 On a larger scale, it is necessary to thing of personal growth as
