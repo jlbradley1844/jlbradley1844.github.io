@@ -1,6 +1,5 @@
 ---
 title: I'll pass on bitcoin
-category: article
 ---
 
 ## Bitcoin? Pass.
