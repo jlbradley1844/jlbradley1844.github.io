@@ -69,12 +69,21 @@ there plans for these things?
 
 ## Improvement of Virtue
 
-Supposing one of your resolutions is of the "try to be a better
-person" variety. Fortunately, people have thought about that. But to
-do that, you have to identify what the problem is.
+Supposing someone has a resolution like so:
 
-When someone says they want to be a better person, it usually means
-one wishes to be more *virtuous*.
+"I will try to be a better person this year."
+  
+Someone may quibble and say that's too broad, , but the impulse is
+basically a good one. It should be possible to help oneself get better
+overall, even if just a little. The problem may be that this is
+imprecise. Is there a more precise way of stating this? After all,
+"better" could mean virtually anything, depending on your values system.
+
+But when someone says they want to be a better person, it usually means
+one wishes to be more *virtuous*. This is a little better, in fact,
+because it has a broad connotation that is generally understood:
+
+"I will try to be a more virtuous person this year."
 
 Virtue has a somewhat religious connotation, and is frequently bound
 up with such ideas as spirituality, holiness, purity, belief and such
@@ -86,20 +95,23 @@ that.
 Instead, they're thinking about a specific character strength or
 virtue that they wish to exhibit better. One can certainly become more
 kind, loyal, forgiving; less wrathful, stressed-out or jealous, right?
+Without picking up a lot of religious doctrine to go with that.
 All of these it should be possible to improve, without veering into
-discussons of religious doctrine. Yet, if you Google "virtue," most of
-the conversations are dominated by religious discussions. Assertions
-of the true believers aside, this seems like no way to help
-someone. If someone who wants to be more forgiving, the effort should
-be on improving that - not on telling them they need to "bring Christ
-into their life" or "get in touch with their fifth chakra." And people
-who seem to enjoy giving out advice like that should know that not only
-is such advice not actionable, it seems aimed at helping you with your
-problem rather than helping others with their problem. The same goes
-for certain sorts of psychologists who, given any problem, will
-instead spend a year discussing your family history in therapy
-instead. Spiritual paths, "spirit guides," therapists; all can be
-helpful. That isn't a plan, and it confuses the means with the aim.
+usch discussons.
+
+Yet, if you Google "virtue," most of the conversations are dominated
+by religious discussions. Assertions of the true believers aside, this
+seems like no way to help someone. If someone who wants to be more
+forgiving, the effort should be on improving that - not on telling
+them they need to "bring Christ into their life" or "get in touch with
+their fifth chakra." And people who seem to enjoy giving out advice
+like that should know that not only is such advice not actionable, it
+seems aimed at helping you with your problem rather than helping
+others with their problem. The same goes for certain sorts of
+psychologists who, given any problem, will instead spend a year
+discussing your family history in therapy instead. Spiritual paths,
+"spirit guides," therapists; all can be helpful. But that alone won't
+pass for a plan, and it confuses the means with the aim.
 
 Fortunately, there are those who have written about virtue, and how to
 improve it, without bringing in any particular path.
@@ -147,25 +159,28 @@ be done. Look at the two resolutions below, and see which one is better:
 
   "I will develop the habits necessary to keep my temper in check."
 
-The first one sounds like a New Year's resolution of a teenager. It
-will not succeed. Worse yet, someone may convince themselves "well, at
-least I tried." Unfortunately, the only way that could be considered a
-success is if the purpose of the resolution
-was just to feel better about yourself.
+The first one has a weasel word - "try". It will not succeed; you
+can't measure a "try." And you can easily convince yourself "well, at
+least I tried." Worse that, if that's all you do, and you really did
+feel like you tried, you might even consider this a fixed,
+unchangeable part of your personality after a few lame attempts.
 
-The second one is more likely to result in a substantial
-change. Unfortunately, it is going to require a lot more work.
+But consider the other one. The second one is more likely to result in
+a substantial change.
+
+Unfortunately, it is going to require a lot more work.
 
 At this point, you may think: why does it need to be a habit? Can't it
 just be a case of being more mindful and not acting automatically?
 Isn't it just a case of more resolve and willpower? A habit implies an
 unthinking reaction, right?
 
-This is a tempting thought process. All of us like the idea that we
-have "free will." This is the underlying appeal of those who think
-this is just a case of "trying harder." If you have a bad habit,
-breaking it is just a case of stopping the bad habit, thinking about
-the situation, and choosing to do something else.
+This is a tempting thought - that this is really just about
+willpower. All of us like the idea that we have "free will." This is
+the underlying appeal of those who think this is just a case of
+"trying harder." If you have a bad habit, breaking it is just a case
+of stopping the bad habit, thinking about the situation, and choosing
+to do something else.
 
 Unfortunately, if that is your attitude, you have lost the
 battle. Like it or not, the bulk of actions that all of us take in the
@@ -199,9 +214,13 @@ So what does it take to form a habit?
 
 ## Underlying Habits of Virtue
 
+Let's make it a little easier. Suppose you want to be a better person,
+and you have a specific behavior in mind. This is a bit more ideal.
+
 One reason people don't like the idea of habits is that breaking bad
-habits and creating good habits is hard. Fortunately, this is
-well-studied. Psychologically, we know much more about habit
+habits and creating good habits is hard. However, doing so is
+possible, and even more fortunately, the process has been studied very
+well. Psychologically, we know much more about habit
 formation. To this end, I am heavily referencing Charles Duhigg's _The
 Power of Habit: How We Do What We Do in Life and Business_. I highly
 recommend this book.
