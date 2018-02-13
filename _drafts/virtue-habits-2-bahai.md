@@ -13,7 +13,7 @@ sense for you or not.
 
 To recap, the 4 core habits, as I wrote earlier, are the following:
 
-1. Contemplation and thought
+1. Reading and reflection on wisdom literature
 2. Self-reflection and self-analysis
 3. Meditation
 4. Prayer
@@ -21,17 +21,19 @@ To recap, the 4 core habits, as I wrote earlier, are the following:
 Let's dive in and see how these elements are present in the Baha'i
 model.
 
-## Contemplation and Thought
+## Reading and Reflection on Wisdom Literature
 
-This is an unfortunate name to give something. By this is meant a
-certain kind of reflective learning. Sometimes this is done in a
-reverential nature. But the core is to read from "wisdom literature"
-(however you want to define it), and think deeply about
-what you've read. And it needs to happen frequently enough that this
-sort of stuff becomes part of your life - not just for a few moments
-every weekend.
+To recap, a core habit of virtue improvement is to inform oneself
+about the nature of virtue. While one could do this by reading
+psychology books, in the prior column I recommended instead reading
+from "wisdom literature" - however you define it, but generally the
+classic works from religious and philosophical figures that have
+helped generations of people become better people. And after this
+reading, think deeply about the reading. It needs to happen frequently
+enough that this sort of stuff becomes part of your life - not just
+for a few moments every weekend.
 
-Well then, here we go:
+Well then, here we go. In the Baha'i Faith, the writings say:
 
    Recite ye the verses of God every morn and eventide.
 
@@ -50,11 +52,20 @@ duty of every individual to independently investigate reality for
 oneself, and key among these is making frequent reading of these
 writings a habit.
 
+So twice daily, short readings to remind yourself about how to stay
+good. Got it?
+
 ## Self-Reflection and Self-Analysis
 
-The following does not appear in the main corpus of Baha'i Laws, but I
-believe it has an important application towards one's struggle to be
-virtuous:
+This is particularly important in self-improvement. It is not possible
+to grow in virtue without some sort of frequent
+self-examination. Indeed, studies of habits have shown that some bad
+habits can be reduced by simply counting the number of times one does
+it and then reviewing it at the end of the day.
+
+As far as what the Baha'i Faith teaches, the following does not appear
+in the main corpus of Baha'i Laws (the Kitab-i-Aqdas), but I believe
+it has an important application towards one's struggle to be virtuous:
 
     O SON OF BEING!
     Bring thyself to account each day ere thou art
@@ -62,14 +73,11 @@ virtuous:
     thee and thou shalt be called to give account for thy deeds.
 
 As can be seen, the Godhead is rather uncompromising in such
-situations. Having been given one life, it seems we are to make the
-most of it. But for purposes of the habits, I'm going to focus on the
-prhase "bring thyself to account each day."
+situations.
 
-It is not possible to grow in virtue without some sort of frequent
-self-examination. Indeed, studies of habits have shown that some bad
-habits can be reduced by simply counting the number of times one does
-it and then reviewing it at the end of the day. By simply bringing
+Having been given one life, it seems we are to make the
+most of it. But for purposes of the habits, I'm going to focus on thert
+phrase "bring thyself to account each day." By simply bringing
 oneself an awareness of the problem and how frequently one does it, it
 is possible to make it less of a habit and more of a conscious action,
 and making it conscious allows you to break it - or substitute a
@@ -81,48 +89,48 @@ of end-of-day review of one's actions, or anything else. The key is to
 force daily self-reflection and, one assumes, how one can do better
 the next day.
 
-One thing I have experimented with in the past is journaling, the
-habit of writing one's thoughts at the end of the day. Note, however,
-that the stream-of-consciousness writing of a typical "writer's
-journal" is not what is meant here; instead, this is a means to force
-a daily self-examination for purposes of becoming a better person. I
-personally have found a blank journal ideal for focusing my thoughts;
-I know if I try to do some daily review mentally without having a pen
-in my hand, I have difficulty focusing on the task for more than one
-or two minutes. Perhaps you are the sort that can do a mental review
-without sitting down with pen and paper. But if you can't see yourself
-doing this in a disciplined manner, a daily journal may be a good
-place to start.
+As far as how  I have done it, I've begin  doing journaling, the habit
+of writing one's  thoughts at the end of the  day. Note, however, that
+this is not the stream-of-consciousness writing of a typical "writer's
+journal"; instead, this  is a means to force  a daily self-examination
+for  purposes of  becoming  a better  person. I  use  a blank  journal
+because  I know  if I  try to  do some  daily review  mentally without
+having a pen  in my hand, I  have difficulty focusing on  the task for
+more than one or two minutes. But  it's important to say this is how I
+do it; there is no particular mechanism prescribed. But journaling has
+its hardcore  fans as  a means  of character  development, so  I'm not
+alone in my use.
 
 ## Meditation
 
 When discussing meditation, it is necessary to discuss what kind of
-medidation. There is, commonly, the meditation-as-contemplation
-definition of the word. That is usful and necessary, and indeed, I've
-worked that into the first habit. What is meant here is the
-meditation-as-mindfulness - that is, meditation as practiced in
-classical Eastern traditions.
+meditation. There is, commonly, the meditation-as-contemplation
+definition of the word. That is usful and necessary, but what is meant
+here is the meditation-as-mindfulness - that is, meditation as
+practiced in classical Eastern traditions.
 
 The Baha'i Faith doesn't assign any laws on meditations and makes no
 mention of mantras. There is no emphasis on proper techniques for
 "mindfulness," and aside from a handful of prayers that prescribe
 positions, no advice on form of meditation is given. And yet, there is
-this:
+this, in the Kitab-i-Aqdas:
 
     It hath been ordained that every believer in God, 
     the Lord of Judgement, shall, each day, having washed 
     his hands and then his face, seat himself and, turning 
     unto God, repeat "Allah-u-Abha" ninety-five times.
 
-Every Baha'i must do this once a day. It certainly looks like a way to
-enter a meditative state for a short time.
+It certainly looks like a way to enter a meditative state for a short
+time. If you aren't a Baha'i, the phrase "Allah-u-abha" means "God is
+Most Glorious." It's similar to the common Muslim greeting of
+Allah-u-Akbar ("God is Great").
 
-Few Baha'is I know make the connection between this and mantras. This
-may be because it only takes a few minutes to do. But this is no
-different than Catholics who pray numerous repetitions of the rosary,
-unaware that they are cultivating the same mental state as meditating
-Buddhists. While no one could legitimately claim these are identical
-experiences, they are still far more alike than different.
+Few Baha'is I know make the connection between this activity and
+mantras. This may be because it only takes a few minutes to do. But
+this is no different than Catholics who pray numerous repetitions of
+the rosary, unaware that they are cultivating the same mental state as
+meditating Buddhists. While no one could legitimately claim these are
+identical experiences, they are still far more alike than different.
 
 In any event, if you are developing your own habits, the takeaway is
 that meditation can come in many forms and still be effective. It is
@@ -155,17 +163,34 @@ choose. One is directed to simply pick one of the three.
 What is the purpose of this prayer? Much like other modern religions,
 the purpose is closeness to God. The prescribed versus have a number
 of different themes, but the main theme is our insignificance relative
-to the Godhead. Nowhere in the Baha'i Writings is it said that we are
-to pray as a means for developing virtues! Yet, if one rules out any
-sort of discussions of "spirit world," "mystic forces," and other
-sorts of speculations, one is left with a practice that is intended to
-remind us of our place in the world - as a rather small part that is
-here to serve and assist others, not to glorify ourselves.
+to the Godhead. Note that nowhere in the Baha'i Writings is it said
+that we are to pray as a means for developing virtues! Yet, if one
+rules out any sort of discussions of "spirit world," "mystic forces,"
+and other sorts of speculations, one is left with a practice that is
+intended to remind us of our place in the world - as a rather small
+part that is here to serve and assist others, not to glorify
+ourselves.
 
 Aside from the obligatory prayer, there is no obligation to pray. My
 experience with other Baha'is is that they do pray otherwise, but
 generally read prayers extracted from Baha'i writings rather than make
 ones up on the spot.
+
+As far as my own practice, I may do this and a few others, but my
+nature is not one who is inclined to pray. Indeed, I had stopped
+praying for years before I became a Baha'i, and had this form of
+prayer not been obligatory, I still would not be doing so. The Baha'i
+Faith teaches that one cannot know God - the only reliable source of
+knowledge is through his/her/its Messangers - but my own personal
+conception of God is much closer to Plato and Tillich's "God of the
+Philosophers" than the "God is your best buddy who gives you nice
+things" of Prosperity Gospel hucksters. That background has made it
+harder to see the purpose of prayer, as prayer is so often frequently
+understood as being roughly equivalent to sacrificing a goat to
+appease the Harvest Gods, just more convenient and without all the
+mopping and cleanup. Personally, I now read prayers exclusively from
+the Baha'i Writings, and regard it as a form of "self-programming" to
+help The Divine work through me.
 
 
 ## So, How Do You Make These Habits a Habit?
@@ -183,8 +208,8 @@ What we have here is a regimen which could serve as an analog for the
 introductory physical workout. It's a prescribed course of action. It
 requires a time committment but isn't too onerous. It should create an
 immediate effect (if only by focusing ones thoughts on self-improvment
-throughout the day). I think I've shown that these basic Baha'i
-practices could form the foundation of an "initial workout" for virtue
+throughout the day). As such, for me these basic Baha'i
+practices form the foundation of an "initial workout" for virtue
 development.
 
 So then let's presume you've picked this up and you're convinced this
@@ -199,7 +224,8 @@ good intentions, and then in spite of everything, you will drift
 off. When you ask someone about it, they might mutter something about
 willpower, and maybe tell you keep trying. Someone of even more
 fanciful nature may even tell you your old self is "resisting"
-corrections. In my most honest opinion - all are balony.
+corrections. My honest, bluntest, tactless opinion on these theories?
+They're balony.
 
 You are having trouble because you haven't made any of this a
 *habit*. How do I know? Because that's the problem I had. If you want
@@ -210,12 +236,13 @@ day! So that obviously won't work.
 
 So... how do you make it a habit?
 
-Here's where I dig up Charles Duhigg's work. In his book on habits, he
-notes that you need *three things* to make a habit:
+Here's where I dig up Charles Duhigg's work again (it won't be the
+last time). In his book on habits, he notes that you need *three
+things* to make a habit:
 
 1. A cue
-2. The action
-3. The reward
+2. An action
+3. A reward
 
 You already know what the action is. But you might not have a cue. And
 you almost certainly haven't thought of the reward.
@@ -223,33 +250,40 @@ you almost certainly haven't thought of the reward.
 It's easier to think of this in terms of a bad habit. I'm going to
 break it down by discussing a bad habit I used to have.
 
-Several years ago I drove to work, and the gas station I frequented
+Several years ago I drove to work. Meanwhile, the gas station I frequented
 was right across from a Dunkin Donuts. I think you know how this
 goes. One day, when I was in a hurry, I crossed the street after
-filling up and got donuts. Over time, every time I filled up, I'd hop
-across the street to get two donuts and coffee. Then I started doing
-it when I didn't need gas but wanted to "reward myself." Suddenly, I
-was hitting it 2-3 times a week.
+filling up and got donuts.
+
+Over time, every time I filled up, I'd hop across the street to get
+two donuts and coffee. Then I started doing it when I didn't need gas
+but wanted to "reward myself."
+
+Suddenly, I was hitting it 2-3 times a
+week. I had a habit. A bad habit.
 
 Let's see how this worked:
 
 - The cue: initially the cue was "filling up my gas tank." Over time,
   the cue became "leaving my driveway to go to work."
 - The action: pick up donuts and coffee
-- The reward: eat donuts and coffee (donuts and coffee are its own
+- The reward: eat donuts and drink coffee (donuts and coffee are its own
   reward, you see).
 
 How did I break it? Well, I had a little help. I knew I wasn't going
 to give it up completely. So I shifted my cue back to: "filling up my
-gas tank ONLY." Meanwhile, I made sure I ate a bigger breakfast so I
-didn't leave the house starving. But the main help I had came several
-months later when my old car fell apart: my wife and I were fortunate
-enough to get a Prius. Suddenly my weekly fill-ups were every other
-week - and that was infrequent enough that I was then able to avoid
-temptation most of the time.
+gas tank ONLY." I stopped giving myself permission to detour, knowing
+that I wasn't entirely giving up my habit, just cutting
+back. Meanwhile, I made sure I ate a bigger breakfast so I didn't
+leave the house starving. But the main help I had came several months
+later when my old car fell apart: my wife and I were fortunate enough
+to afford a new Prius. Suddenly my weekly fill-ups were every other
+week - or less - making this infrequent enough that I was able to just
+use willpower to go "cold turkey." Even then, I still did it once in a
+while; it took a change in commute to drop it completely.
 
-Note that I didn't set out to do this, but once I started, it
-developed a motion all its own. And to break that habit, I couldn't
+Note that I didn't set out to make this a habit, but once I started, it
+developed a dynamic all its own. And to break that habit, I couldn't
 just go cold-turkey - I had to modify both the reward and the
 cue. Once I did that, I was able to cut out the action.
 
@@ -347,6 +381,41 @@ called a "cue."
 In my bad habit, the cue was filling up my gas tank. Normally I didn't
 pass directly by this Dunkin Donuts. Going one block out of my way was
 all it took to get me thinking "well, while I'm here I might as
-well..." For my noon prayer, my cue is (quite unfortunately) the
+well..." For the good habit you wish to adopt, you probably don't
+already have a cue, so you'll have to make one. In my case, for my
+noon prayer, my cue is (quite unfortunately) the
 stressed feeling about two hours after lunch when I'm really tired
-and need to push through two or three more hours of work.
+and need to push through two or three more hours of work. For my
+morning reading, I'm trying to make it the minute I plop into the
+train seat on my way to work. There are hazards to both of these - in
+particular, neither will work on the weekends. A good cue will be as
+consistent as possible. But both cases are simple. Even setting an
+alarm will do the trick.
+
+### Wrapping it Up
+
+So, to briefly summarize: this column outlined a concrete plan, drawn from
+the Baha'i Faith, that sets four keystone habits for improving your
+own virtue and character. These activities are
+- Brief readings and reflections on wisdom literature twice a day
+- A brief time set aside for explicit reflection on ones' actions
+during the day
+- Short period of a time set aside for meditation (in this case, using
+the Arabic phrase "Allah-u-Abha")
+- At least one prayer specifically written for daily reflection.
+
+The activites themselves do not make a habit; to make these habits,
+the following are required:
+* a cue
+* the activity itself
+* a reward
+Those reading this who are Baha'is have the activities prescribed, but
+those not Baha'is can choose these or other activities of a similar
+nature; otherwise, the rest is up to you.
+
+Just awarning before closing this lenthy column. These keystone habits
+themselves probably aren't going to be all you need to do to make the
+change you want. You probably have specific areas you want to work
+on. And any Baha'is reading this know that there are many more things
+suggested in the writings for improving oneself. Future columns will
+discuss those.
