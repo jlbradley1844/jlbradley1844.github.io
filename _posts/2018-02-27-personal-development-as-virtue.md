@@ -86,7 +86,7 @@ things?" Indeed, it isn't as if self-improvement is a new idea.
 
 Supposing someone has a resolution like so:
 
-"I will try to be a better person this year."
+    "I will try to be a better person this year."
 
 If you're an MBA or planner, or a psychologist, this will drive you
 nuts. As a goal, it's overly-broad, hard to measure, and not easy to act on.
@@ -100,7 +100,7 @@ My suggestion is this: someone who wants to be a better person is
 really saying he or she wishes to be more *virtuous*. This has a broad
 connotation that is generally understood. So let's modify the resolution:
 
-"I will try to be a more virtuous person this year."
+    "I will try to be a more virtuous person this year."
 
 Some may object, as "virtue" has a somewhat religious connotation, and
 is frequently bound up with such ideas as spirituality, holiness,
@@ -133,9 +133,9 @@ particular spiritual tradition.
 One important principle is Aristotle explains is that goodness in
 general is identical with moral goodness and wisdom:
 
-   ... virtue is not merely a state in conformity with the right
+   "... virtue is not merely a state in conformity with the right
    principle, but one that implies the right principle; and the
-   right principle in moral conduct is prudence.
+   right principle in moral conduct is prudence."
 
 In other words, goodness in a person _is_ virtue, and moral goodness
 flows out of these virtuous actions. Aristotle defines this virtue as
@@ -168,10 +168,10 @@ who knows it's important, versus someone who embodies it?
 It is the person's habits. A virtuous person is one of whose habits
 are of a virtuous nature. Aristotle, again:
 
-   Excellence is an art won by training and habituation. We do not act
+   "Excellence is an art won by training and habituation. We do not act
    rightly because we have virtue or excellence, but we rather have
    those because we have acted rightly. We are what we repeatedly do.
-   Excellence, then, is not an act but a habit.
+   Excellence, then, is not an act but a habit."
 
 Want to be a "better person"? It requires acquiring the habits of a
 "better person."
@@ -265,44 +265,44 @@ idea from business literature. It has to deal with goal-setting. I'll
 skip over the background and just dive straight in. To be achievable,
 a goal should be SMART:
 
-  Specific
-  Measureable
-  Achievable
-  Realistic
-  Time-oriented
+  *Specific
+  *Measureable
+  *Achievable
+  *Realistic
+  *Time-oriented
 
 While SMART analysis is intended for goals, not habits, it is possible
 to use them to evaluate those habits you wish to adopt. That will
 ensure your habits are really about actions you can perform, not fuzzy
 and unrealistic goals. So "becoming a better person," while salutory,
-doesn't make for a SMART habit. You'll have to figure out how you want
-to become better.
+doesn't make for a SMART habit. "Call my parents and siblings at least
+once a week, even when I'm angry at one of them" is such a resolution.
 
-Let's take one from my life. Here is one I'm presently working
-on. I'll start with a vague longing of the person I'd like to be at
-work:
+Let's take one from my life. Here is one I'm presently working on. I
+originally started with a vague longing of the person I'd like to be
+at work:
 
-"I would like to be much more agreeable and easy to approach; I would
-like to avoid being seen in a bad mood."
+    "I would like to be much more agreeable and easy to approach; I
+    would like to avoid being seen in a bad mood."
 
 This is all well and good, but it is not specific enough to work
 on. To be effective, we need to pick one bad habit we have that fits
 into this framework, and replace it with a good habit. Bad habits are
 never eliminated, just replaced with good habits. So what are specific
 things to work on from the above? For me personally, it means
- * smiling more often
- * not acting so intense
- * not swearing under my breath at the computer
- * be more available to others and more proactively helpful
+ * Smiling more often
+ * Not acting so intense
+ * Not swearing under my breath at the computer
+ * Be more available to others and more proactively helpful
 
 There's too much to unpack here to be useful. Probably, all of them
 are worth doing. Rather than doing all of them at once, it would be
 better if I handled one thing at a time. Let's do this:
 
- * not swearing under my breath at the computer
+ * Not swearing under my breath at the computer
 
 I'm a software developer, so this sort of comes with the territory -
-if I had a private office, I would be swearing, period. But since I
+when I had a private office, I would be swearing, period. But since I
 work in a [*cough*](https://www.sciencedirect.com/science/article/pii/S0272494413000340#fig1) [open office plan](https://www.newyorker.com/business/currency/the-open-office-trap), this behavior is disruptive and
 offputting to some. So I need to address it, by replacing this action
 with something else:
@@ -313,13 +313,13 @@ Well, that's better. Sort of. It could be a bit more concrete.
 
  * When I feel like swearing, I will step back from the computer
 
-Already, this is a little better. It's specific and achievable. This
+Here we go: a SMART habit, specific and achievable. This
 may be as good as I want. If this proves a tough habit to break,
 perhaps we can make it measurable and start ratcheting it down.
 
-Here's a few hints when trying to adopt these habits.
+So, now that we have a habit, a few hints:
 
-Didn't I have a bunch of things I wanted to do? Yes, I did. But I
+* Didn't I have a bunch of things I wanted to do? Yes, I did. But I
 don't have to tackle them all at once! It's reasonable to expect that
 given several weeks, I can tackle one habit and move onto the next
 one. There is an oft-repeated factoid that it took 21 days to form a
@@ -327,7 +327,7 @@ habit, but that's been widely debunked. Personally, I'd recommend at
 least a month for something to stick before moving one's focus onto
 something else.
 
-In the case of a bad habit, it is often recommended to start by simply
+* In the case of a bad habit, it is often recommended to start by simply
 noting how often you perform the habit. That brings your awareness to
 the habit. So for instance, in this case, I could just put tick marks
 on a post-it. Supposing, then, that I found out I'm averaging 30 such
@@ -335,20 +335,19 @@ incidents a day. I can set goals based on that - for instance "I will
 swear no more than 3 times a day by the end of this month." Now you
 have a new habit, along with the SMART criteria to go with it.
 
-There is plenty of other guidance on making your habits
-stick and this blog will discuss them, usually in the context of
-particular habits.
-
-But there is one particular challenge you've noticed - if you want to
+* There is one particular challenge you've noticed - if you want to
 be a better person, there are probably dozens of things you want to
 change! Indeed, if you look at list of virtues, there usually aren't
 just four or five of them - most list dozens of distinct things! You
 can probably think of dozens of things you'd want to improve on. What,
 then, do you do about having so many of them?
 
-It turns out there are certain habits that are very special. These are
-all things recommended in what I'd call "wisdom literature": the
-writings of classical philosophers and religious founders focused on
-making one a better person. These are what I call "keystone habits" of
-virtue. They aim toward making you a better person, whatever your
-particular challenges, and that is the goal of the next blog post.
+For this last point, wouldn't it be ideal to find some habits that
+would take care of a lot of things at once? There are. Charles
+Dughigg's work refers to these as "keystone habits". And it turns out
+that for becoming a better person, there are such keystone
+habits. These are habits consistently
+recommended in what I'd call "wisdom literature": the
+writings of classical philosophers and religious founders that are focused on
+making one a better person. Identifying these habits is the goal of
+the next blog post.
