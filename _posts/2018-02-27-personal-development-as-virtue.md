@@ -133,9 +133,9 @@ particular spiritual tradition.
 One important principle is Aristotle explains is that goodness in
 general is identical with moral goodness and wisdom:
 
-   "... virtue is not merely a state in conformity with the right
-   principle, but one that implies the right principle; and the
-   right principle in moral conduct is prudence."
+    "... virtue is not merely a state in conformity with the right
+    principle, but one that implies the right principle; and the right
+    principle in moral conduct is prudence."
 
 In other words, goodness in a person _is_ virtue, and moral goodness
 flows out of these virtuous actions. Aristotle defines this virtue as
@@ -166,12 +166,12 @@ between wanting to be kind, and actually being a kind person? Someone
 who knows it's important, versus someone who embodies it?
 
 It is the person's habits. A virtuous person is one of whose habits
-are of a virtuous nature. Aristotle, again:
+are of a virtuous nature.
 
-   "Excellence is an art won by training and habituation. We do not act
-   rightly because we have virtue or excellence, but we rather have
-   those because we have acted rightly. We are what we repeatedly do.
-   Excellence, then, is not an act but a habit."
+    "Excellence is an art won by training and habituation. We do not act
+    rightly because we have virtue or excellence, but we rather have
+    those because we have acted rightly. We are what we repeatedly do.
+    Excellence, then, is not an act but a habit."   -- Aristotle
 
 Want to be a "better person"? It requires acquiring the habits of a
 "better person."
@@ -187,9 +187,11 @@ But at least habits _can_ be changed; they are not a fixed part of
 your personality. Look at the two resolutions below, and see which one
 is better:
 
-  "I will try to keep my temper in check and swear less."
+  _"I will try to keep my temper in check and swear less."_
 
-  "I will develop the habits necessary to keep my temper in check."
+or...
+
+  _"I will develop the habits necessary to keep my temper in check."_
 
 The first one has the weasel word I picked on above - "try". This
 resolution is almost certainly doomed; one cannot measure a "try," and
@@ -265,11 +267,11 @@ idea from business literature. It has to deal with goal-setting. I'll
 skip over the background and just dive straight in. To be achievable,
 a goal should be SMART:
 
-  *Specific
-  *Measureable
-  *Achievable
-  *Realistic
-  *Time-oriented
+  * Specific
+  * Measureable
+  * Achievable
+  * Realistic
+  * Time-oriented
 
 While SMART analysis is intended for goals, not habits, it is possible
 to use them to evaluate those habits you wish to adopt. That will
@@ -282,8 +284,8 @@ Let's take one from my life. Here is one I'm presently working on. I
 originally started with a vague longing of the person I'd like to be
 at work:
 
-    "I would like to be much more agreeable and easy to approach; I
-    would like to avoid being seen in a bad mood."
+  _"I would like to be much more agreeable and easy to approach; I
+  would like to avoid being seen in a bad mood."_
 
 This is all well and good, but it is not specific enough to work
 on. To be effective, we need to pick one bad habit we have that fits
@@ -319,28 +321,29 @@ perhaps we can make it measurable and start ratcheting it down.
 
 So, now that we have a habit, a few hints:
 
-* Didn't I have a bunch of things I wanted to do? Yes, I did. But I
-don't have to tackle them all at once! It's reasonable to expect that
-given several weeks, I can tackle one habit and move onto the next
-one. There is an oft-repeated factoid that it took 21 days to form a
-habit, but that's been widely debunked. Personally, I'd recommend at
-least a month for something to stick before moving one's focus onto
-something else.
+    Didn't I have a bunch of things I wanted to do? Yes, I did. But I
+    don't have to tackle them all at once! It's reasonable to expect
+    that given several weeks, I can tackle one habit and move onto the
+    next one. There is an oft-repeated factoid that it took 21 days to
+    form a habit, but that's been widely debunked. Personally, I'd
+    recommend at least a month for something to stick before moving
+    one's focus onto something else.
 
-* In the case of a bad habit, it is often recommended to start by simply
-noting how often you perform the habit. That brings your awareness to
-the habit. So for instance, in this case, I could just put tick marks
-on a post-it. Supposing, then, that I found out I'm averaging 30 such
-incidents a day. I can set goals based on that - for instance "I will
-swear no more than 3 times a day by the end of this month." Now you
-have a new habit, along with the SMART criteria to go with it.
+    In the case of a bad habit, it is often recommended to start by
+    simply noting how often you perform the habit. That brings your
+    awareness to the habit. So for instance, in this case, I could
+    just put tick marks on a post-it. Supposing, then, that I found
+    out I'm averaging 30 such incidents a day. I can set goals based
+    on that - for instance "I will swear no more than 3 times a day by
+    the end of this month." Now you have a new habit, along with the
+    SMART criteria to go with it.
 
-* There is one particular challenge you've noticed - if you want to
-be a better person, there are probably dozens of things you want to
-change! Indeed, if you look at list of virtues, there usually aren't
-just four or five of them - most list dozens of distinct things! You
-can probably think of dozens of things you'd want to improve on. What,
-then, do you do about having so many of them?
+    There is one particular challenge you've noticed - if you want to
+    be a better person, there are probably dozens of things you want
+    to change! Indeed, if you look at list of virtues, there usually
+    aren't just four or five of them - most list dozens of distinct
+    things! You can probably think of dozens of things you'd want to
+    improve on. What, then, do you do about having so many of them?
 
 For this last point, wouldn't it be ideal to find some habits that
 would take care of a lot of things at once? There are. Charles

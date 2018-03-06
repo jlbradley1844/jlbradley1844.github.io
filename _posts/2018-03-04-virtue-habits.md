@@ -20,12 +20,14 @@ isn't a lot of uniformity there, and much of it is based on
 unscientific pop-psychology. Unfortunately, once one sets those aside,
 what is left is heavy, rigorous-sounding scientific books. While I may
 favor those, they usually don't have much in the way of concrete
-recommendations.
+recommendations. We can still learn a lot from these, but it isn't
+enough to come up with a plan.
 
-But virtue has been concern at least since Aristotle wrote about it -
-certainly even longer. There is an enormous amount of advice in wisdom
-literature on the clutivation of virtue. And certain habits come up
-again and again as worth cultivation:
+But this isn't the only place to look. Virtue has been concern at
+least since Aristotle wrote about it - certainly even longer. There is
+an enormous amount of advice in wisdom literature on the cultivation
+of virtue. And certain habits come up again and again as worth
+cultivation:
 
 1. Contemplation and Thought
 2. Self-Examination and Reflection
@@ -62,7 +64,6 @@ time for thought and contemplation, not just prayer.
 
     An hour’s contemplation is better than a year’s adoration.
                                       	     	-– Muhammad
-
 
     Philosophy is the stray camel of the Faithful, take hold of it
     wherever ye come across it.
@@ -167,15 +168,15 @@ inappropriate of deep thought when I read it back one week later from
 the journal. Others items which I mention in passing turn out to later
 give me important insights in my own behavior.
 
-A lot can be gained on one's own here. However, it is important to
-know when you should seek help. There are problems such as serious
-addictions and psychological diseases that are too big to handle on
-one's own. Many conditions (particularly depression) actually have
-physical causes, which thwart the ability to will one's way out of
-problems. Some of these may be caused by underlying diseases. So do
-not take this article as saying in any way that psychotherapy is
-unnecessary. Part of self-knowledge is knowing when to go to someone
-else for assistance.
+A caution is warranted here. Part of self-knowledge is knowing when
+you should seek help. There are problems such as serious addictions
+and psychological diseases (e.g. depression) that have been
+misleadingly conveyed as problems with virtue. Unfortunately, they
+involve medical components, and for many, become too big to handle on
+one's own. Conditions like depression even have physical causes which
+can thwart the ability to will one's way out of problems. So do not
+take this article as saying in any way that psychotherapy is
+unnecessary.
 
 
 ### Meditation
@@ -183,68 +184,67 @@ else for assistance.
 Apparently mindfulness(TM) is all the trend nowadays. This irks me a
 little - I've been doing meditation for years and now, suddenly they
 call it "mindfulness." I suppose I shouldn't be too curmudgeonly, but
-it seems like a rebranding undertaken by enterprising Marketing MBAs where they
-attempt to hide the obvious 
-religious background of meditation in order to sell mindfulness
-pillows and mindfulness mats and mindfulness apps and mindfulness
-courses. If you have meditated before, you are no doubt aware that
-meditation is easily taken up without the need for bringing home
+it seems like a rebranding undertaken by enterprising Marketing MBAs
+where they attempt to hide the obvious religious background of
+meditation in order to sell mindfulness pillows and mindfulness mats
+and mindfulness apps and mindfulness courses. If you have meditated
+before, you are no doubt aware that meditation is easily taken up
+without props, and for this activity, there is no need to bring home
 dust-collecting tchotckes from the atheletic store.
 
 But the word mindfulness(TM) as a marketing term is useful, in that it
 implies a specific sort of process. In particular, it is a reinvention
 of the Transcendental Meditation that became popular in the 1970s,
 after being discovered in the west as a critical element of Buddhist
-practice. Meditation, as a term, is so broad as to be useles - it
-could mean undisciplined rumination too - and of course, "mindfulness"
-is in itself just a term for paying attention. But mindfulness(TM)
-means something specific. Western religions of course, have their own
-spiritual traditions of meditation - or as one Baha'i told me "In
-prayer you might talk to God, but in meditation God talks to you!" But
-when a Buddhist talks about meditation (as in mindfulness(TM)), he
-means a particular sort of thing, of a nature quite dissimilar to
-meditation as understood in the West, which is closer to the studied
-contemplation I describe above.
+practice. Meditation, as a word, is almost so general it can describe
+any thought, even undisciplined rumination. And of course,
+"mindfulness" is in itself just a word for paying attention. But
+mindfulness(TM) means something specific. Western religions of course,
+have their own spiritual traditions of meditation - or as one Baha'i
+told me "In prayer you might talk to God, but in meditation God talks
+to you!" But when a Buddhist talks about meditation (as in
+mindfulness(TM)), he means a particular sort of thing: emptying one's
+thoughts - so that unhealthy ones can leave.
 
-Mindfulness means a
-distinct process, of emptying one's thoughts - generally so that
-unhealthy ones can leave. In secular practices, this can involve
-relief from anxiety, irrational thoughts, or anger. Outside of that,
-it can be used to cultivate positive thoughts. This provides another
-mechanism for making virtuous conduct more easily, by allowing us to
-practice disengaging from the sorts of reactive behaviors that often
-thwart attempts at virtuous conduct.
-
-This is central to Buddhism, Hinduism, and other religions of the
-orient. But western religions have their own equivalents. In
-particular, the repititious prayers of Catholocism and Islam seem to
-have the aim of clearing the mind and focusing it in much the same
-manner.
+This technique has a long history, and can be practiced universally.
+In secular practices, this can involve relief from anxiety, irrational
+thoughts, or anger. Outside of that, it can be used to cultivate
+positive thoughts. This provides another mechanism for making virtuous
+conduct more easily, by allowing us to practice disengaging from the
+sorts of reactive behaviors that often thwart attempts at virtuous
+conduct. Of course, it is not secular in origin: it is central to
+Buddhism, Hinduism, and other religions of the orient. Additionally,
+western religions have their own equivalents. In particular, the
+repititious prayers of Catholocism and Islam seem to have the aim of
+clearing the mind and focusing it in much the same manner.
 
 ### Prayer
 
-Finally, we have prayer. This is the heavy lifter of the Occidental
-religions. The great mystics and leaders of the Christian church wrote
-much of the commentary on prayer and how to derive wisdom from it -
-Theresa of Avila, Francis of Assisi, Thomas Merton. Islam has its own
-Sufi traditions in which these practices are central.
+Finally, we have prayer. This is central to most religions,
+particularly those of the west. The great mystics and leaders of the
+Christian church wrote much of the commentary on prayer and how to
+derive wisdom from it - Theresa of Avila, Francis of Assisi, Thomas
+Merton. Islam has its own Sufi traditions in which the practices of
+prayer are central.
 
-Unfortunately the reputation of prayer has suffered in the popular
-religion of the west. From childhood, many of us are taught - even
+Unfortunately the meaning of prayer has suffered in the popular
+culture of the west. From childhood, many of us are taught - even
 encouraged - to pray for _things_. This is unfortunately a reflection
-of what popular culture thinks prayer is supposed to be, and reflects
+of what media culture thinks prayer is supposed to be, and reflects
 even what some religious "leaders" tell us (irony quotes are
-intentional). In the movies and television, if anyone prays, it's for
-stuff. When it isn't for stuff, prayer is instead used as a
-storytelling symbol - a shorthand for indicating someone is a brittle,
+intentional, and particularly apply to the odius purveyors of the
+"prosperity gospel"). In the movies and television, if anyone prays,
+it's for stuff. When it isn't for stuff, prayer is instead used as a
+storytelling trope - a shorthand for indicating someone is a brittle,
 hidebound conservatism, or used for ham-fisted foreshadowing in a
-horror movie.  Cultural studies presentations are no better; when we
-are taught about ancient pagan religions, we are taught about things
-like sacrifice and ritual and the prayers that accompanied them. The
-prayers of modern believers is treated as qualitatively no different
-than those of a pagan tribesman who wants a successful hunt. The
-modern mystic is thereby rendered at the same intellectual level of an
-illiterate nomad who never left the company of is tribe.
+horror movie where someone is about to die.  Cultural studies
+presentations are no better; when we are taught about ancient pagan
+religions, we are taught about things like sacrifice and ritual and
+the prayers that accompanied them. The prayers of modern believers is
+treated as qualitatively no different than those of a pagan tribesman
+who wants a successful hunt. The mysticism of Saint Francis or
+Dorothy Day is thereby rendered at the same of sophistication as an
+illiterate nomad who never left the company of his tribe.
 
 This is a grave misunderstanding that both robs prayer of its meaning
 and its ability to actually help you. Prayer, as understood by the great
