@@ -2,7 +2,7 @@
 title: Why Dating Advice Is Oh So Horrible
 category: cutting-floor
 ---
-## About Bad Advice
+
 # And Why Dating Advice - Columns and Elsewhere - Are Oh So Horrible
 
 It is a truism that one should be wary of unsolicited advice.
@@ -59,7 +59,7 @@ books, and "counselors."
 
 Let's start with the worst source of advice: advice columns in
 magazines. The less said about them the better. They are there to help
-seel the makeup, clothes and accessories of the magazines they
+sell the makeup, clothes and accessories of the magazines they
 advertise in. If they make you feel inadequate and self-conscious,
 then mission accomplished.
 
@@ -88,8 +88,9 @@ about a year or two, until I figured out that much of this was not
 science, but simply scientific-sounding self-help pitched at desparate
 single men eager to change their luck.
 
-This gets into the worst: the consultants. Particularly those
-connected to "evolutionary psychology." It started in the nineties;
+This gets to the worst stort of help: dating consultants, particularly those
+connected to "evolutionary psychology." I can't speak for women; I'm
+all to aware of the situation for the guys. It started in the nineties;
 for all I know, it continues to this day. Back then, someone who was
 nothing more than a glorified social worker could hang their shingle
 as a "dating consultant," and charge men over a hundred dollars a
@@ -135,11 +136,13 @@ help, and may in fact suspect you are "resisting treatment."
 
 -------------------------------------------
 
-Finally, when you are reading self-help books, there are some advice
-that is good, but is not good for *you*. That is, it is misapplied in
-your case. If advice does not work for you, it is possible you are
-taking advice meant for someone in a different situation dealing with
-a very different sort of problem.
+Now, suppose that against all hope, you find a good self-help book -
+one which is reasonable, based on at least some established science,
+and remarkably no-nonsense about the adviace. It may turn out that
+much of the advice is good, but not good for *you*. That is, it is
+misapplied in your case. If advice does not work for you, it is
+possible you are taking advice meant for someone in a different
+situation dealing with a very different sort of problem.
 
 Why is that? And how do you avoid it?
 
@@ -158,37 +161,42 @@ dating you, but some are.
 GAMMAS: You have issues, physical or psychological, that keep you from
 being seen as attractive.
 
-Most of the advice written in self-help books is for the "alpha"
-women. That is because there are a lot of book readers that fall into
-this category, and they have enough romantic options that when the
-listen to advice, it can actually do them some good.  This advice
-generally solves what I would consider to be dating's version of
-"first world problems." An alpha receive a decent amount of romantic
-interest, but are only interested in reciprocating some people, and many of the ones desired are unattainable. Alphas are operating in
-what you can think of as a one-way marketplace. This is a scenario
-that is really easy to model and solve for.  Think of it like buying a
-car. These are problems of a buyer's marketplace; you may not be able
-to get what you want at a price you want, but you will eventually be
-able to get it. And so it is with most of the alphas buying the
-self-help books. They may wring their hands about outnumbering men
-with bachelor's degrees in NYC by almost 1.4 to 1. But they will be
-able to survive, perhaps by dating older men, or dating those without
-a degree but with an established career, or a number of
-alternatives. To this extent it is a _culling_ problem - being able to
-_recognize_ and pursue the best options for you. You might not get the
-exact one you want, but given time and the right search strategy, you
-will get one you are very happy with.
+Perhaps things are different now, but during my long spell as a single
+male, I found that most advice written in self-help books is for the
+"alpha" women. That is because there are a lot of book readers that
+fall into this category, and they have enough romantic options that
+when they listen to advice, it can actually do them some good.  This
+advice generally solves what I would consider to be dating world's
+version of "first world problems." An alpha receive a decent amount of
+romantic interest, but are only interested in reciprocating some
+people; many of the ones desired are unattainable, and it is easy to
+get accidentally attached to very attractive but otherwise
+incompatible suitors.
+
+Alphas are operating in what you can think of as
+a one-way marketplace. This is a scenario that is really easy to model
+and solve for.  Think of it like buying a car. These are problems of a
+buyer's marketplace; you may not be able to get what you want at a
+price you want, but you will eventually be able to get it. And so it
+is with most of the alphas buying the self-help books. They may wring
+their hands about outnumbering men with bachelor's degrees in NYC by
+almost 1.4 to 1. But they will be able to survive, perhaps by dating
+older men, or dating those without a degree but with an established
+career, or a number of alternatives. To this extent it is a _culling_
+problem - being able to _recognize_ and pursue the best options for
+you. You might not get the exact one you want, but given time and the
+right search strategy, you will get one you are very happy with.
 
 So if you pick up a self-help book aimed at women, you are going to
-find a lot of advice that basically boils down to "how to cull."
-Essentially, stop automatically picking the best looking guy, and go
-with some more meaningful things. Eventually, this will sink in
-courtesy of a book. More likely, it would have just as quickly sunk in
-through some other means; the mere fact that a problem was solved by a
-$11 investment in a trade paperback where the writer was much more
-concerned with readability than scientific rigor means the problem
-itself wasn't that hard to begin with, as anguishing as it is for the
-person having it.
+find a lot of advice that basically boils down to "how to cull."  The
+core advice is simple: stop automatically picking the best looking
+guy, and go with some more meaningful things. Eventually, this will
+sink in courtesy of a book. More likely, it would have just as quickly
+sunk in through some other means; the mere fact that a problem was
+solved by a $11 investment in a trade paperback where the writer was
+much more concerned with readability than scientific rigor means the
+problem itself wasn't that hard to begin with, as anguishing as it is
+for the person having it.
 
 If you are a beta, you are going to find a lot of this advice
 frustrating, as it won't solve your real problems. Why? A beta is in a
@@ -196,7 +204,7 @@ frustrating, as it won't solve your real problems. Why? A beta is in a
 difficult. Dating for betas is like interviewing for jobs. Here's why:
 because you are not compelling to many people, you will need meet a
 lot of other people, so that you can find some who might have interest
-in you. Worse yet, of those who do have interest, many will probably
+in you. Worse yet, of those who do have interest in you, many will probably
 be betas that you do not find them attractive. This means that the
 number of people you need to come in contact with may need to be an
 order of magnitude larger than the alphas to succeed. Is some of the
@@ -224,22 +232,22 @@ their over-competitive nature and desire to be seen as successful. So
 what many men really want to know isn't "How do I get a girlfriend and
 mantain a relationship," but instead: "How do I get with HER?"  or,
 "How do I get a lot of BEAUTIFUL women?" This framing allows
-con-artist authors a way to make a buck, as they have no qualms about
-promising a way for beta men to woo and date alpha women. In general,
-men don't buy self-help books, but if you find a desparate mark, you
-can bilk a guy out of a lot of money. It's an easy grift - give
-unattractive men advice they have heard from their alpha collegues
-(who have no trouble inducing interest themselves), and when their
-marks report lack of success, you tell them "You're doing it all
+con-artist authors an easy way to make a buck, as they have no qualms
+about promising a way for beta men to woo and date alpha women. In
+general, men don't buy self-help books, but if you find a desparate
+mark, you can bilk a guy out of a lot of money. It's an easy grift -
+give unattractive men advice they have heard from their alpha
+collegues (who have no trouble inducing interest themselves), and when
+their marks report lack of success, tell them "You're doing it all
 wrong," or "You need to project confidence!"  and keep pushing them in
 that direction. After all, you don't need to succeed; you just need to
 convince them that their success depends on continually forking over
-the dough, and make sure their marks know that if they fail, it's
-*their* fault.
+the dough, and making sure your marks keep thinking that if they fail,
+it's *their* fault.
 
-Men and women disadvantage themselves badly and beat themselves up
+Such men and women disadvantage themselves badly and beat themselves up
 because they don't really know the reality of the "average" situation.
-Their thought is that their lack of success is abnormal or
+Their belief is that their lack of success is abnormal or
 atypical. In fact, the truth is a little despressing, were it to be
 known. The difference in lives between someone who is very attractive
 and someone who is merely pleasant is enormous - much more so than you
@@ -279,30 +287,27 @@ need advice when you have math. And the math says you need NUMBERS. If
 you are an alpha who is damaged, you need a shrink, and that's about
 it. But if you are a beta, you need to meet a lot of people.
 
-This may mean *gasp* _*moving*_. But if it's serious enough, you'll do
+This may mean *(gasp)* _*moving*_. But if it's serious enough, you'll do
 it. Personally I love New York city, but I didn't move here just
 because it was fun. No, I had spent five long years in a high-tech
 "company town" and another three in Austin, all in my precious
 twenties. I had years of horrible luck in spite of doing whatever I
 could to improve my horrible love life. When I took a job in Houston -
-mainly out of convenience - I found myself was suddenly able to find
+mainly out of convenience - I found myself suddenly able to find
 dates without changing my approach at all.  For all the effort I spent
 all those years, a company move I took without any thought cured my
 problems.
 
 This means that if you're a cute single woman in New York that isn't
-meeting anyone, it means you may need to *gulp* move to San Fransico,
-Boston or somewhere else where the men are outnumbering you. Likewise,
-if you're a guy living in Silocon Valley, _*run away*_. You don't need
+meeting anyone, it means you may need to *yuck* move to San Fransico,
+Boston or somewhere else where the men are outnumbering you. Even
+Seattle where whiney women are grousing about men working at Amazon
+ruining the dating scene. Likewise,
+if you're a guy living in Silicon Valley, _*run away*_. You don't need
 many millions from your startup to attract someone, you just need to
 move somewhere where you have someone to attract.
 
-So while the problem with alphas is generally between the ears, the
-problem with betas is just math, and how to improve it. Oh, you can
-and should try to improve your looks, get better at socializing, all
-that stuff. But you are not going to accomplish a complete makeover
-except through the course of years of self improvement. In the
-meantime, your happiness can't sit on the back burner.
+---------------------------------
 
 Now if truly no one is interested in you, and you think you know why,
 you may be a gamma - someone who is going to find it very difficult to
@@ -325,8 +330,11 @@ one obvious thing that is holding you back (in my case, the
 depressive personality and poor physique), you may find there are
 other serious issues. I didn't have what I'd consider a "normal"
 dating life until I hit 30, and even past then, regular girlfriends
-were few and far between. But, it did get better. The only time it was
-bad was when I made the mistake of comparing my lack of success
-against friends I had who did much better without needing to do nearly
-any of the work I found necessary. Sometimes the worst thing you can
-do for your own happiness is compare yourself to others.
+were few and far between. But, it did get better. 
+
+Which leads to this final lesson I learned from experience: the only
+time it was really bad was when I made the mistake of comparing my
+lack of success against friends I had who did much better without
+needing to do nearly any of the work I found necessary. Sometimes the
+worst thing you can do for your own happiness is compare yourself to
+others.
