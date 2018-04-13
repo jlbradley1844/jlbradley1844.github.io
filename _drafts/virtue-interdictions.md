@@ -12,11 +12,20 @@ self-improvement goals include a healthy diet, this may mean a number
 of things. You might give up your breakfast doughnut, or your
 mid-afternoon snack, or a few other things.
 
-It may be that you actually need to set interdictions for
-yourelf. That is, things that are so bad for your own habits, that you
-decide you can no longer improve while indulging these in the least. These may be things that are so antithetical to what you are
-attempting to accomplish that it no longer makes sense to even
-consider it.
+Normally it is simply desireable to moderate things. Most things are
+morally neutral. Saturated fat may be bad for your heart, but having a
+steak every once in a while is fine. And even if that bothers you
+because you are vegetarian, and you believe it would be better for the
+world that everyone is vegetarian, you have to admit that the
+difference between going all vegetarian and cutting out 90% of your
+meat is negligible. It is rare that you have to give up something.
+
+Yet you may come to the point that you need to to set interdictions
+for yourelf. That is, you decide certain things are so bad for your
+character, or so easy to turn into bad habits, that you decide you can
+no longer improve while indulging in them even in moderation. These
+may be things that are so antithetical to what you are attempting to
+accomplish that it no longer makes sense to even consider it.
 
 A brief, amusing example. My wife joined weight-watchers some time
 back. As she told me, weight-watchers has a "points" system, where you
@@ -33,29 +42,30 @@ always healthier alternatives to indulging oneself in this
 manner. Eating ice cream is considered so antithetical to your main
 goal that it is not allowed. Fortunately, I am not on weight watchers.
 
-Then there are things that in themselves may not be directly opposed
-to your goals, but interfere with achieving them in other ways. For
-instance, in my twenties I knew people who have tried to cut back on
-alcohol, and to assist themselves in that goal, have actually made the
-decision to cut back socializing with certain friends. Why? Because
-hanging out with those friends always resulted in a night of
-alcohol-fueled stupidity. Or supposing you have decided you want to
-improve your mood. You may give up alcohol if drinking makes you
-depressed. Or you may give up ice cream if your depression triggers a
-binge-eating ice cream episode, leading to more depression.
+So you might have interdictions on things that are just directly
+opposed to your development of a person.  Then there are things that
+in themselves may not be directly opposed to your goals, but interfere
+with achieving them in other ways. For instance, in my twenties I knew
+people who have tried to cut back on alcohol, and to assist themselves
+in that goal, have actually made the decision to cut back socializing
+with certain friends. Why? Because hanging out with those friends
+always resulted in a night of alcohol-fueled stupidity. Or supposing
+you have decided you want to improve your mood. You may give up
+alcohol if drinking makes you depressed. Or you may give up ice cream
+if your depression triggers a binge-eating ice cream episode, leading
+to more depression.
 
 So it's pretty common to set interdictions for oneself.
 
 Now this isn't necessarily where you _start_, is it? Supposing one
-resolves to become a better person; say, you want to increase your
-courage. You're going to come up with a list of things to do to
-improve courage... say, maybe a) take one new risk a day; b) pick up a
-hobby that will increase exposure to something you'd normally be
-afraid of doing; c) maybe get a little therapy to help; and so on. You
-aren't going to pick up a list of things *not* to do. That seems
-entirely besides the point.
+resolves to become more corageous, for instance. You're going to come
+up with a list of things to do to improve courage... say, maybe a)
+take one new risk a day; b) pick up a hobby that will increase
+exposure to something you'd normally be afraid of doing; c) maybe get
+a little therapy to help; and so on. You aren't going to pick up a
+list of things *not* to do. That seems entirely besides the point.
 
-Even if your resolution is to "give up something"; e.g. the
+And even if your resolution is to "give up something"; e.g. the
 interdiction itself is the resolution, you probably aren't going to be
 successful by focusing on that. Instead, what psychologists say is
 more effective is to pick up an alternate habit and stick with
@@ -63,12 +73,16 @@ it. To give up smoking, for instance, people are told to get a
 different habit that will let them get out and socialize, to replace
 the ritual break they get from smoking.
 
-However, it's important to emphasise that this generally isn't where
-one starts. Consider it an advanced technique. The way it would
-normally work for self-improvement is:
+So what I'm saying is that while interdictions are frequently necessary for one's personal growth, this isn't where one starts!
+
+## Interdictions in Proper Focus
+
+Instead, I believe one should consider interdiction to be an advanced
+technique. The way it would normally work for self-improvement is:
 
 * First, you pick up an initial regimen for self improvement. You
-  apply it and start to notice it working.
+  apply it and start to notice it working. The original blog post
+  outlining the four core practices is one such regime.
 
 * As you proceed, you increase the difficulty. You begin noticing your
   weak points and focusing on those. You start to find certain
@@ -94,7 +108,8 @@ things that the most important part of the Baha'i moral code are what
 I'd call the "positive" the teachings; that is, the things you do that
 make you a better person.
 
-So why do they even have these interdictions?
+So why does the Baha'i Faith even have interdictions, and the
+associated "Thou-shalt-not"s?
 
 For the same reason you yourself might invent interdictions - because
 they interfere with your goals. Religions, as a whole, have their goal
@@ -111,11 +126,11 @@ are themselves framed as "a protection" for those practicing
 them. Personlly, I find it the only reasonable way to frame it, and
 I've been uncomfortable when others frame it in any other way. I've
 been in meetings, where I've seen people actually thumping the
-Kitab-i-Aqdas and bellowing "peoplee must abide for the laws God has
+Kitab-i-Aqdas and bellowing "people must abide for the laws God has
 revealed to us in This Day!" That's true and all - for everone who
-already agrees with such a statement. And therefore, doesn't need the
-reminder. For the millions of others who are not, I'd be surprised if
-any one of those millions who were exposed to that message would
+already agrees with such a statement. And doesn't need the
+reminder. For the 99.9% of the rest of the world, I'd be surprised if
+any one of those billions who were exposed to that message would
 instantly be convinced of the rightness of this stateument.
 
 I'm not sure what the reason is for that attitude; it certainly isn't
@@ -125,7 +140,7 @@ things. Perhaps some who hold closely their religion but wish to do a
 bare minimum for their own personal growth wish to focus on literal
 fulfillment of laws only. In any event, focus on the interdictions
 without a focus on the positive teachings or why the interdictions are
-in place loses the entire reason for its being. I tend to agree with
+in place loses the entire reason for their existence. I tend to agree with
 the writings of a certain Jewish carpenter who had some strong
 feelings about people who practice strict religious law without any
 adherence to the spirit of the law.
@@ -171,24 +186,24 @@ Now the Baha'i Faith actuall interdicts many others. There are dozens
 listed in the primary repository of "Baha'i Law," a tome called the
 Kitab-i-Aqdas (literally: "The Most Holy Book"). The bulk of the
 remaining interdictions are either obvious (e.g. killing, calumny) or
-either narrow in nature or less germane to the sort of "educated
+less germane to the sort of "educated
 Westerns" that are likely to be reading this; e.g things such as:
 * ascetism
 * mendicancy (i.e. begging as a profession)
 * kissing of hands to show obesiance
 * shaving one's head (particularly as a form of penitence)
 * pluralty of wives
-* bathe or shower once a week (!) (whether you need it or not, I guess)
-and so forth.
-This is the sort of thing that blows out the main text of the
-Kitab-i-Aqdas to 190 paragraphs of text. A highly recommended read,
-but not necessary to entirely recap here.
 
-All five of these interdictions deserve their own consideration. But
-to write at length would loes the focus, which is to develop one's
-virtues. While I have my own personal reasons for believing these are
-all useful for one's development, it would be self-indulgent to spend
-time attempting to prove these to others, scientifically or not,
-unless I can present it in a way that helps one reach their goals,
-without interpreting it in "innovative" ways.
+This is the sort of thing that blows out the main text of the
+Kitab-i-Aqdas to 190 paragraphs of text. In spite of the central
+nature of the Kitab-i-Aqdas in the Baha'i Faith, it does not convey
+the flavor of the movement adequately.
+
+In any event, all five of these interdictions deserve their own
+consideration. But to write at length would loes the focus, which is
+to develop one's virtues. While I have my own personal reasons for
+believing these are all useful for one's development, it would be
+self-indulgent to spend time attempting to prove these to others,
+scientifically or not, unless I can present it in a way that helps one
+reach their goals, without interpreting it in "innovative" ways.
 
