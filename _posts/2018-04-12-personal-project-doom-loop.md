@@ -178,12 +178,15 @@ because this was a personal project, I convinced myself all these risks
 were worth it, and "at least I have fun." Except, the things I learned
 aren't applicable to work, and... it wasn't really fun.
 
+As an aside, I had thought of giving "the Doom Loop" a different name of "Bryan Cranston Sydrome," after this classic scene:
+!["Malcom in Middle", light bulb changing][https://www.youtube.com/watch?v=AbSehcT19u0 "The Classic Light-Bulb Changing Scene"]
+
 --------------------------
 
 This is the point in my essay where I'd normally say HERE'S HOW I
 SOLVED IT AND YOU CAN TOO. But unfortunately I can't do that; I have
-to write up these lessons when they're fresh in my mind. And so to
-say, I don't have an answer.
+to write up these lessons when they're fresh in my mind. Meanging
+right now, there is no answer.  say, I don't have an answer.
 
 But what I do notice is that in my personal projects, I seem to
 jettison some habits that are second nature to me at work. Why?
@@ -197,10 +200,11 @@ like work. Basically, like work if I didn't have to worry about the business.
 * Any personal project should involve at most two technologies I'm
   unfamilair with, in the broadest sense. For the search engine, that
   realistically means the NLP library and Python 3; everything else
-  the same as at work. In other words,
-  don't compound it by trying to learn Chef in the critical path of
-  deploying your technology, pick up VS Code instead of emacs just to
-  try that out, etc.
+  the same as at work. In other words, don't compound it by trying to
+  learn Chef in the critical path of deploying your technology, pick
+  up VS Code instead of emacs just to try that out, etc. If I'm
+  learning a new computere language and a new IDE, then that's it - no
+  other new technologies for that project!
 
 * For new technologies - and let's face it, personal projects are all
   about the new technologies - do a quick pilot of the risk
@@ -219,24 +223,25 @@ like work. Basically, like work if I didn't have to worry about the business.
   hour counts, and being stuck for several hours can easily turn into no
   visible progress for two weeks.
 
-* "Plans are useless. Planning is indispensible." [The man who said
-  that]() was a flawed character whose primary reputation rests on
-  some very bad strategic calls. Nevertheless, I've lived by this
-  quote, and it doesn't make it less true. In personal projects, the
-  point of a plan is nuts - you don't really have anything other than
-  a loose purpose and an end goal. However, _planning_ is still
-  necessary if you want to avoid having nothing to show for your
-  efforts. You still need to worry about risks, contingencies,
-  dependencies, and all the things that go with a successful
-  project. The fact you have so little time to spend on personal
-  projects make planning more important, not less.
+* "Plans are worthess, but planning is everything." As a Baha'i,
+  perhaps it is incongruent to live by the dictates of a military
+  general, but Dwight Eisenhower was dead right on this one. Planning
+  - the exploration of risks and contingencies - is an essential
+  element in anything you take seriously; and you should take perosnal
+  projects seriously. At first, it sounds like a plan is pointless,
+  since your plan is just a loose purpose to learn something and maybe
+  have something when you're done. However, the second you want to
+  have something to show for your efforts, then risks, contingencies
+  and dependencies all become important. The fact you have so little
+  time to spend on personal projects make planning more important, not
+  less.
 
-Want to comment? Would love to. Except I have to add a discourse
-link. Except I don't know about how to do that in GitHub Pages. Maybe
-I need to learn jekyll better. Oh but once I do that, I need to
-refactor these posts, I really didn't like the way I did that. So to
-do that I'll need to learn Liquid, the layout engine. Oh and I have to
-worry about authentication and spamming. There's supposed to be this
-great other plug-in that handles that, but not sure it works with the
-version of Jekyll on GitHub pages, maybe I need to move this blog to
-another site...
+Want to comment? Would love to hear your comments! Except I have to
+add a discourse link. Except I don't know about how to do that in
+GitHub Pages. Maybe I need to learn jekyll better. Oh but once I do
+that, I need to refactor these posts, I really didn't like the way I
+did that. So to do that I'll need to learn Liquid, the layout
+engine. Oh and I have to worry about authentication and
+spamming. There's supposed to be this great other plug-in that handles
+that, but not sure it works with the version of Jekyll on GitHub
+pages, maybe I need to move this blog to another site...
