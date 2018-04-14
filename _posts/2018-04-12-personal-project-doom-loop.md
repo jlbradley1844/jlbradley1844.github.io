@@ -6,10 +6,10 @@ About a month ago, I laid to rest a parfectly good personal project. I
 spent some time in denial thinking I just had other things to do, but
 I know I probably won't revisit it for a while.
 
-lthough everything was well thought out, this project, like all
+Although everything was well thought out, this project, like all
 personal projects, seemed to die a horrible death. Not because it had
 gone bad, but because I had simply given up heart. Given that this has
-happened several times before, It's worth analyzing why it keeps
+happened several times before, it's worth analyzing why it keeps
 happening on my personal projects. This is particularly frustrating
 because I'm a senior engineer. People give me critical projects
 because they know _I will deliver_. I will ensure the code gets done
@@ -66,19 +66,20 @@ Not to happen. Instead, it wound up in the personal project doom loop.
 
 The reason I call it a doom loop is because this is the trap where you
 endlessly iterate, one roadblock after another after another, without
-actually converging on project completion. Visible project is followed
-by setbacks which obviate all work to that point. The reason this
-happens is that because, knowing it is a personal project and I'm
-doing it for _education_, I make all sorts of tradeoffs that would be
-unrealistic in my day job. This both in the name of learing new stuff
-saving time, since I'm so time-constrained. As a result, I loop around
-running into one roadblock after another, never actually achieving
-closure. So this is the doom loop: the more you work, the more
-unachievable the goal becomes.
+actually converging on project completion. Visible progress is
+followed by roadblocks and setbacks that obviate all work to that
+point. The reason this happens is that because, knowing it is a
+personal project and I'm doing it for _education_, I make all sorts of
+tradeoffs that would be unrealistic in my day job. This both in the
+name of learing new stuff and, ironically saving time. As a result, I
+loop around running into one roadblock after another, never actually
+achieving closure. The more I work, the more unachievable the goal
+becomes.
 
-So for the postmortem. Here's the rough sequence of highlighted
+So, on to the postmortem. Here's the rough sequence of highlighted
 actions, going back over a year and a half. Worse yet, this isn't the
-whole thing, just the most "epic fail" elements:
+whole thing, just the most "epic fail" elements. The problem
+practically diagnoses itself:
 
 1. Get an idea for a personal project. Unlike other ideas I have
 (i.e., bad), this one is realistic and doable in a reasonable
@@ -106,11 +107,11 @@ easy to install, but I finally got all this stuff working, and Vagrant isn't
 completely automated, but it's sort of where I need to go. Onto my
 project! I just need to... pick an NLP library.
 
-Uh oh.
-
-7. Tried to do a few toy programs in Scala. This is hard. I don't get
-any traction learning the language until buying my third text. (BTW
-Recommendation: Horstmann's [_Scala for the Impatient_, 2nd edition](http://horstmann.com/scala/index.html).)
+7. Uh oh. No good NLP libraries, they all seem to be Python
+nowadays. Also, tried to do a few toy programs in Scala. This is
+hard. I don't get any traction learning the language until buying my
+third text. (BTW Recommendation: Horstmann's [_Scala for the
+Impatient_, 2nd edition](http://horstmann.com/scala/index.html).)
 
 8. Screw it. Six months I've made no progress. Python it is! At least
 it has NLP libraries.
@@ -122,12 +123,10 @@ spaCy](https://spacy.io) looks interesting, and seems more lightweight
 than the others. Let's run with that.
 
 10. Oh, now I have to set up Vagrant boxes that I can run python
-on. Ok better go do that. Ubuntu, check. Python, check. Emacs and
-IPython, check.
+on. Ok, better go do that. Ok, so.... Ubuntu, check. Python, check. Emacs and
+IPython, check. Finally ready to code!
 
-11. CODING FINALLY WOOOOOOOO.
-
-(Picture hollywood montage of your
+11. CODING FINALLY WOOOOOOOO. (Picture hollywood montage of your
 humble author crouched over a computer, his face bathed with blue light...)
 
 12. Uh oh, I was reading a bad version of the API. For certain
@@ -166,12 +165,12 @@ something else. About a month or to ago. Even if I take up the
 challenge again, there is very little usable code to migrate over to a
 solr-based solution. So I'll be starting almost from scratch.
 
-It's pretty evident where I went wrong. I didn't need to learn scala, I
-didn't need to learn vagrant, I didn't need to fiddle a process for making
-immutable dev boxes, I didn't need to migrate to the latest NLP,
-indeed, I didn't need to use NLP, truth be told... all these things
-I didn't have to do. And I wouldn't have done it at work. I would've
-made a lot more practical tradeoffs.
+It's pretty evident where I went wrong. I didn't need to learn Scala,
+I didn't need to learn Vagrant, I didn't need to fiddle with a process
+for making immutable dev boxes, I didn't need to migrate to the
+latest, hottest NLP library, indeed, I didn't need to use NLP, truth
+be told... all these things I didn't have to do. And I wouldn't have
+done it at work. I would've made a lot more practical tradeoffs.
 
 But somehow,
 because this was a personal project, I convinced myself all these risks
@@ -179,14 +178,13 @@ were worth it, and "at least I have fun." Except, the things I learned
 aren't applicable to work, and... it wasn't really fun.
 
 As an aside, I had thought of giving "the Doom Loop" a different name of "Bryan Cranston Sydrome," after this classic scene:
-!["Malcom in Middle", light bulb changing][https://www.youtube.com/watch?v=AbSehcT19u0 "The Classic Light-Bulb Changing Scene"]
+["Malcom in Middle", light bulb changing][https://www.youtube.com/watch?v=AbSehcT19u0 "The Classic Light-Bulb Changing Scene"]
 
 --------------------------
 
 This is the point in my essay where I'd normally say HERE'S HOW I
 SOLVED IT AND YOU CAN TOO. But unfortunately I can't do that; I have
-to write up these lessons when they're fresh in my mind. Meanging
-right now, there is no answer.  say, I don't have an answer.
+to write up these lessons when they're fresh in my mind. Meaning I'm writing this before I have an answer.
 
 But what I do notice is that in my personal projects, I seem to
 jettison some habits that are second nature to me at work. Why?
@@ -225,8 +223,8 @@ like work. Basically, like work if I didn't have to worry about the business.
 
 * "Plans are worthess, but planning is everything." As a Baha'i,
   perhaps it is incongruent to live by the dictates of a military
-  general, but Dwight Eisenhower was dead right on this one. Planning
-  - the exploration of risks and contingencies - is an essential
+  general, but Dwight Eisenhower was dead right on this one. Planning -
+  the exploration of risks and contingencies - is an essential
   element in anything you take seriously; and you should take perosnal
   projects seriously. At first, it sounds like a plan is pointless,
   since your plan is just a loose purpose to learn something and maybe
