@@ -178,7 +178,7 @@ were worth it, and "at least I have fun." Except, the things I learned
 aren't applicable to work, and... it wasn't really fun.
 
 As an aside, I had thought of giving "the Doom Loop" a different name of "Bryan Cranston Sydrome," after this classic scene:
-["Malcom in Middle", light bulb changing][https://www.youtube.com/watch?v=AbSehcT19u0 "The Classic Light-Bulb Changing Scene"]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AbSehcT19u0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 --------------------------
 
@@ -225,7 +225,7 @@ like work. Basically, like work if I didn't have to worry about the business.
   perhaps it is incongruent to live by the dictates of a military
   general, but Dwight Eisenhower was dead right on this one. Planning -
   the exploration of risks and contingencies - is an essential
-  element in anything you take seriously; and you should take perosnal
+  element in anything you take seriously; and you should take personal
   projects seriously. At first, it sounds like a plan is pointless,
   since your plan is just a loose purpose to learn something and maybe
   have something when you're done. However, the second you want to

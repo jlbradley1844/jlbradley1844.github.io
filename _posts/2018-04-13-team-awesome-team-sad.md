@@ -231,13 +231,13 @@ is to make those same developers responsible for maintenance.
 peeve. One of the things that makes Team Sad so sad is the ingrained
 belief they have that *good engineering practices are not what their
 paid to do and are not part of their mandate.* Testing? Automated
-builds? Proper scoping and forensics?  "Why are you fiddling with that
-- we need features, we need bug fixes." While a culture like this is
-often blamed on "the bean counters" who are driving the budgets,
+builds? Proper scoping and forensics?  "Why are you fiddling with
+that? Stop - we need features, we need bug fixes." While a culture like this
+is often blamed on "the bean counters" who are driving the budgets,
 frequently it is the engineering managers that are responsible for
 this attitude, an attitude that is frequently absorbed by the
 engineers themselves, some of which were shunted to this department as
-"B Team" players. The answer? If you're in such a department - step
+"B Team" players. The answer? If you're in such a department, step
 up. Sometimes the best leaders are arise without being promoted to
 that level. If you're in middle management, realize that there is no
 substitute for good leadership, and you should not allow some
@@ -268,7 +268,7 @@ post](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-
 those developers you wanted so badly to retain by letting them play
 with the hottest technology? They'll leave when the big rewrite turns
 into a Death March. The best way to improve your technology is through
-an incremental refresh, not blowing everythong up with "golden boys" and
+an incremental refresh, not blowing everything up with "golden boys" and
 starting from scratch. And speaking of which,
 
 5. Drop "Research." Okay, there is a place for actual
