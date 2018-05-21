@@ -24,8 +24,16 @@ enter into fellowship with the righteous, for he hath drunk the cup of
 eternal life at the hands of the immortal Cup-bearer and even as the true
 morn doth quicken and illumine the hearts of the dead. (HW-P 58)
 
+Time and again have We admonished Our beloved ones to avoid, nay to flee
+from, anything whatsoever from which the odour of mischief can be
+detected. The world is in great turmoil, and the minds of its people are
+in a state of utter confusion. We entreat the Almighty that He may
+graciously illuminate them with the glory of His Justice, and enable them
+to discover that which will be profitable unto them at all times and under
+all conditions. (TB LD)
 
-CHARACTER
+
+CHARACTER (and Virtue)
 
 A good character is, verily,
 the best mantle for men from God. With it He adorneth the temples of His
@@ -39,12 +47,69 @@ it spoken unto thee, and magnify not the faults of others that thine own
 faults may not appear great; and wish not the abasement of anyone, that
 thine own abasement be not exposed. (HW-P 44)
 
+It behoveth the people of Bahá to render the Lord victorious through the
+power of their utterance and to admonish the people by their goodly deeds
+and character, inasmuch as deeds exert greater influence than words. (TB KF)
+
+Say: Honesty, virtue, wisdom and a saintly character redound to the exaltation
+of man, while dishonesty, imposture, ignorance and hypocrisy lead to his
+abasement. By My life! Man’s distinction lieth not in ornaments or wealth,
+but rather in virtuous behaviour and true understanding. (TB KF)
+
+In the estimation of the
+people of Bahá man’s glory lieth in his knowledge, his upright conduct,
+his praiseworthy character, his wisdom, and not in his nationality or
+rank. (TB KF)
+
+Arise, O people, and, by the power of God’s might, resolve to
+gain the victory over your own selves, that haply the whole earth may be
+freed and sanctified from its servitude to the gods of its idle
+fancies—gods that have inflicted such loss upon, and are responsible for
+the misery of their wretched worshippers. These idols form the obstacle
+that impedeth man in his efforts to advance in the path of perfection. (TB LD)
+
+Let them that bear
+allegiance to this Wronged One be even as a raining cloud in moments of
+charity and benevolence and as a blazing fire in restraining their base
+and appetitive natures. (TB LD)
+
+
+CHARITY
+
+Charity is pleasing and praiseworthy in the sight of God and is regarded
+as a prince among goodly deeds. Consider ye and call to mind that which
+the All-Merciful hath revealed in the Qur’án: ‘They prefer them before
+themselves, though poverty be their own lot. And with such as are
+preserved from their own covetousness shall it be well.’(17) Viewed in
+this light, the blessed utterance above is, in truth, the day-star of
+utterances. Blessed is he who preferreth his brother before himself.
+Verily, such a man is reckoned, by virtue of the Will of God, the
+All-Knowing, the All-Wise, with the people of Bahá who dwell in the
+Crimson Ark. (TB KF)
+
 
 CLEANLINESS
 
 The choice of clothing and the cut of the beard and its dressing are left
 to the discretion of men. But beware, O people, lest ye make yourselves
 the playthings of the ignorant. (TB BI)
+
+
+COURAGE
+
+Valiant acts will
+ensure the triumph of this Cause, and a saintly character will reinforce
+its power. (TB LD)
+
+
+COURTESY
+
+O people of God! I admonish you to observe courtesy, for above all else it
+is the prince of virtues. Well is it with him who is illumined with the
+light of courtesy and is attired with the vesture of uprightness. Whoso is
+endued with courtesy hath indeed attained a sublime station. It is hoped
+that this Wronged One and everyone else may be enabled to acquire it, hold
+fast unto it, observe it, and fix our gaze upon it. (TB LD)
 
 
 CREATIVITY
@@ -110,7 +175,17 @@ such as crafts, trades and the like. We have graciously exalted your
 engagement in such work to the rank of worship unto God, the True One. (TB BI)
 
 
-EXCELLENCE
+EDUCATION
+
+The Pen of Glory counselleth everyone regarding the instruction and
+education of children. Behold that which the Will of God hath revealed
+upon Our arrival in the Prison City and recorded in the Most Holy
+Book.(48) Unto every father hath been enjoined the instruction of his son
+and daughter in the art of reading and writing and in all that hath been
+laid down in the Holy Tablet. (TB IS)
+
+
+EXCELLENCE (esp. education and arts)
 
 It is permissible to study sciences and arts, but such sciences as are
 useful and would redound to the progress and advancement of the people. (IB BI)
@@ -128,6 +203,30 @@ edification of its peoples. (TB TA)
 In this Day the sun of craftsmanship shineth above the horizon of the
 occident and the river of arts is flowing out of the sea of that region.
 One must speak with fairness and appreciate such bounty. (TB TA)
+
+Great indeed is the claim of
+scientists and craftsmen on the peoples of the world. Unto this beareth
+witness the Mother Book on the day of His return. (TB TJ)
+
+
+FEAR OF GOD
+
+... that which guardeth and restraineth man both outwardly and
+inwardly hath been and still is the fear of God. It is man’s true
+protector and his spiritual guardian. It behoveth him to cleave
+tenaciously unto that which will lead to the appearance of this
+supreme bounty. (TB LD)
+
+O Jalíl! Admonish men to fear God. By God! This fear is the chief
+commander of the army of thy Lord. Its hosts are a praiseworthy character
+and goodly deeds. Through it have the cities of men’s hearts been opened
+throughout the ages and centuries, and the standards of ascendancy and
+triumph raised above all other standards. (TB IS)
+
+In this Revelation the hosts that can render it victorious are the hosts
+of praiseworthy deeds and upright character. The leader and commander of
+these hosts hath ever been the fear of God, a fear that encompasseth all
+things and reigneth over all things. (TB IQ)
 
 
 FRIENDSHIP
@@ -179,7 +278,6 @@ O YE RICH ONES ON EARTH! The poor in your midst are My trust; guard ye My
 trust, and be not intent only on your own ease. (HW-P 54)
 
 
-
 GRATITUDE
 
 O SON OF BEING! With the hands of power I made thee and with the fingers
@@ -191,6 +289,21 @@ thereof. (HW-A 12)
 O SON OF SPIRIT! Ask not of Me that which We desire not for thee, then be
 content with what We have ordained for thy sake, for this is that which
 profiteth thee, if therewith thou dost content thyself. (HW-A 18)
+
+
+HAPPINESS
+
+Living in seclusion or practising asceticism is not acceptable in the
+presence of God. It behoveth them that are endued with insight and
+understanding to observe that which will cause joy and radiance. Such
+practices as are sprung from the loins of idle fancy or are begotten of
+the womb of superstition ill beseem men of knowledge. In former times and
+more recently some people have been taking up their abodes in the caves of
+the mountains while others have repaired to graveyards at night. Say, give
+ear unto the counsels of this Wronged One. Abandon the things current
+amongst you and adopt that which the faithful Counsellor biddeth you.
+Deprive not yourselves of the bounties which have been created for your
+sake. (TB KF)
 
 
 HUMILITY
@@ -206,6 +319,9 @@ O EMIGRANTS! The tongue I have designed for the mention of Me, defile it
 not with detraction. If the fire of self overcome you, remember your own
 faults and not the faults of My creatures, inasmuch as every one of you
 knoweth his own self better than he knoweth others. (HW-P 66)
+
+Humility exalteth man to the heaven of glory and power, whilst
+pride abaseth him to the depths of wretchedness and degradation. (TB KF)
 
 
 JUSTICE
@@ -229,8 +345,16 @@ through the knowledge of thy neighbour. Ponder this in thy heart; how it
 behoveth thee to be. Verily justice is My gift to thee and the sign of My
 loving-kindness. Set it then before thine eyes.
 
+And if thine eyes be turned towards
+justice, choose thou for thy neighbour that which thou choosest for
+thyself. (TB KF)
 
-KNOWLEDGE
+The light of men is
+Justice. Quench it not with the contrary winds of oppression and tyranny.
+The purpose of justice is the appearance of unity among men. (TB KF)
+
+
+KNOWLEDGE (Pursuit of)
 
 Knowledge is one of the wondrous gifts of God. It is incumbent upon
 everyone to acquire it. Such arts and material means as are now manifest
@@ -239,14 +363,42 @@ revealed in Epistles and Tablets through His Most Exalted Pen—a Pen out of
 whose treasury pearls of wisdom and utterance and the arts and crafts of
 the world are brought to light. (TB TA)
 
+In truth, knowledge is a veritable treasure
+for man, and a source of glory, of bounty, of joy, of exaltation, of cheer
+and gladness unto him. Thus hath the Tongue of Grandeur spoken in this
+Most Great Prison. (TB TJ)
 
-LOGIC
+
+LOGIC (and avoidance of Superstition)
 
 It is men like unto Hádí Dawlat-Ábádí(6) who, with
 turban and staff,(7) have been the source of opposition and hindrance and
 have so grievously burdened the people with superstitions that even at the
 present time they still expect the appearance of a fictitious person from
 a fictitious place. Be ye warned, O men of understanding. (TB TA)
+
+Most of the
+people in Persia are steeped in deception and idle fancy. How great the
+difference between the condition of these people and the station of such
+valiant souls as have passed beyond the sea of names and pitched their
+tents upon the shores of the ocean of detachment. Indeed none but a few of
+the existing generation hath yet earned the merit of hearkening unto the
+warblings of the doves of the all-highest Paradise. ‘Few of My servants
+are truly thankful.’(12) People for the most part delight in
+superstitions. They regard a single drop of the sea of delusion as
+preferable to an ocean of certitude. By holding fast unto names they
+deprive themselves of the inner reality and by clinging to vain imaginings
+they are kept back from the Dayspring of heavenly signs. God grant you may
+be graciously aided under all conditions to shatter the idols of
+superstition and to tear away the veils of the imaginations of men. (TB KF)
+
+We heard that which the person in question hath mentioned regarding
+certain teachers of the Faith. Indeed he hath spoken truly. Some heedless
+souls roam the lands in the name of God, actively engaged in ruining His
+Cause, and call it promoting and teaching the Word of God; and this
+notwithstanding that the qualifications of the teachers of the Faith, like
+unto stars, shine resplendent throughout the heavens of the divine
+Tablets. (TB KF)
 
 
 LOVE
@@ -259,6 +411,11 @@ glory—and to arise to promote this pre-eminent Cause, that fire may turn
 into light, and hatred may give way to fellowship and love. I swear by the
 righteousness of God! This is the sole purpose of this Wronged One. (TB TA)
 
+The brightness of the fire of your love will no doubt fuse
+and unify the contending peoples and kindreds of the earth, whilst the
+fierceness of the flame of enmity and hatred cannot but result in strife
+and ruin. (TB LD)
+
 
 MAGNANIMITY
 
@@ -269,6 +426,23 @@ sweet savors of holiness breathing from My kingdom of sanctity. (HW-A 6)
 O QUINTESSENCE OF PASSION! Put away all covetousness and seek contentment;
 for the covetous hath ever been deprived, and the contented hath ever been
 loved and praised. (HW-P 50)
+
+
+MERCY
+
+If thine eyes be
+turned towards mercy, forsake the things that profit thee and cleave unto
+that which will profit mankind. (TB KF)
+
+
+MODERATION
+
+In all matters moderation is
+desirable. If a thing is carried to excess, it will prove a source of
+evil. Consider the civilization of the West, how it hath agitated and
+alarmed the peoples of the world. An infernal engine hath been devised,
+and hath proved so cruel a weapon of destruction that its like none hath
+ever witnessed or heard. (TB KF)
 
 
 OBEDIENCE
@@ -286,6 +460,12 @@ for the protection of the world and the safeguarding of its peoples—a
 light upon those who acknowledge and recognize the truth, and a fire unto
 such as turn away and deny. (TB TJ)
 
+It is incumbent upon everyone to observe God’s holy commandments, inasmuch
+as they are the wellspring of life unto the world. The heaven of divine
+wisdom is illumined with the two luminaries of consultation and compassion
+and the canopy of world order is upraised upon the two pillars of reward
+and punishment. (TB IS)
+
 
 "PASSION"
 
@@ -297,6 +477,60 @@ PATIENCE
 
 O SON OF MAN! For everything there is a sign. The sign of love is
 fortitude under My decree and patience under My trials. (HW-A 48)
+
+
+PEACEFULNESS
+
+Strife leads to
+bloodshed and provokes commotion amongst people. Hearken ye unto the Voice
+of this Wronged One and deviate not therefrom. (TB KF)
+
+Strife and conflict befit the beasts of the wild. It was through the grace
+of God and with the aid of seemly words and praiseworthy deeds that the
+unsheathed swords of the Bábí community were returned to their scabbards.
+Indeed through the power of good words, the righteous have always
+succeeded in winning command over the meads of the hearts of men. (TB LD)
+
+This Wronged One hath forbidden the people of God to engage in contention
+or conflict and hath exhorted them to righteous deeds and praiseworthy
+character. In this day the hosts that can ensure the victory of the Cause
+are those of goodly conduct and saintly character. (TB LD)
+
+
+REFLECTION
+
+O people of Bahá! The source of crafts, sciences and arts is the power of
+reflection. Make ye every effort that out of this ideal mine there may
+gleam forth such pearls of wisdom and utterance as will promote the
+well-being and harmony of all the kindreds of the earth. (TB KF)
+
+
+REVERENCE (and respect for RELIGION)
+
+Schools must first train
+the children in the principles of religion, so that the Promise and the
+Threat recorded in the Books of God may prevent them from the things
+forbidden and adorn them with the mantle of the commandments; but this in
+such a measure that it may not injure the children by resulting in
+ignorant fanaticism and bigotry. (TB KF)
+
+They that are
+possessed of wealth and invested with authority and power must show the
+profoundest regard for religion. In truth, religion is a radiant light and
+an impregnable stronghold for the protection and welfare of the peoples of
+the world, for the fear of God impelleth man to hold fast to that which is
+good, and shun all evil. Should the lamp of religion be obscured, chaos
+and confusion will ensue, and the lights of fairness and justice, of
+tranquillity and peace cease to shine. Unto this will bear witness every
+man of true understanding. (TB IS)
+
+The purpose of religion as revealed from the heaven of God’s holy Will is
+to establish unity and concord amongst the peoples of the world; make it
+not the cause of dissension and strife. The religion of God and His divine
+law are the most potent instruments and the surest of all means for the
+dawning of the light of unity amongst men. The progress of the world, the
+development of nations, the tranquillity of peoples, and the peace of all
+who dwell on earth are among the principles and ordinances of God. (TB IS)
 
 
 SACRIFICE
@@ -312,6 +546,12 @@ SELF-EXAMINATION
 O SON OF BEING! Bring thyself to account each day ere thou art summoned to
 a reckoning; for death, unheralded, shall come upon thee and thou shalt be
 called to give account for thy deeds. (HW-A 31)
+
+Indeed, there existeth in man a faculty
+which deterreth him from, and guardeth him against, whatever is unworthy
+and unseemly, and which is known as his sense of shame. This, however, is
+confined to but a few; all have not possessed and do not possess
+it. (TB KF)
 
 
 SELF-WORTH
@@ -376,6 +616,10 @@ cursing and reviling of any soul, and guard your eyes against that which
 is not seemly. Set forth that which ye possess. If it be favourably
 received, your end is attained; if not, to protest is vain. (TB BI)
 
+Leave ye unto themselves the immature ones
+of the world—they that are moved by selfish desire and cling to the
+exponents of idle fancy. (TB KF)
+
 
 THANKFULNESS
 
@@ -426,7 +670,8 @@ Trustworthiness is the greatest portal
 leading unto the tranquillity and security of the people. In truth the
 stability of every affair hath depended and doth depend upon it. (TB TA)
 
-One day of
+We will now mention unto thee Trustworthiness and the station thereof in
+the estimation of God, thy Lord, the Lord of the Mighty Throne. One day of
 days We repaired unto Our Green Island. Upon Our arrival, We beheld its
 streams flowing, and its trees luxuriant, and the sunlight playing in
 their midst. Turning Our face to the right, We beheld what the pen is
@@ -443,7 +688,8 @@ great ornament of the people of Bahá, and the vesture of glory unto all
 who are in the kingdom of creation. I am the supreme instrument for the
 prosperity of the world, and the horizon of assurance unto all beings.”
 Thus have We sent down for thee that which will draw men nigh unto the
-Lord of creation. (TB TA quoted)
+Lord of creation. (TB IS)
+
 
 UNITY
 
@@ -461,8 +707,42 @@ shelter of the tree of His tender mercies and act in accordance with that
 which God desireth. Ye are all the leaves of one tree and the drops of one
 ocean. (TB BI)
 
+In these days it is incumbent upon everyone to adhere tenaciously unto
+unity and concord and to labour diligently in promoting the Cause of God,
+that perchance the wayward souls may attain that which will lead unto
+abiding prosperity. (TB KF)
 
-WISDOM 
+O ye men of wisdom among nations!
+Shut your eyes to estrangement, then fix your gaze upon unity. Cleave
+tenaciously unto that which will lead to the well-being and tranquillity
+of all mankind. This span of earth is but one homeland and one habitation.
+It behoveth you to abandon vainglory which causeth alienation and to set
+your hearts on whatever will ensure harmony. (TB KF)
+
+We enjoin upon them that are the
+emblems of His names and attributes to firmly adhere henceforth unto that
+which hath been set forth in this Most Great Revelation, not to allow
+themselves to become the cause of strife, and, until the end that knoweth
+no end, to keep their eyes directed towards the dayspring of these
+resplendent words which have been recorded in this Tablet. Strife leads to
+bloodshed and provokes commotion amongst people. Hearken ye unto the Voice
+of this Wronged One and deviate not therefrom. (TB KF)
+
+The sixth Ishráq is union and concord amongst the children of men. From
+the beginning of time the light of unity hath shed its divine radiance
+upon the world, and the greatest means for the promotion of that unity is
+for the peoples of the world to understand one another’s writing and
+speech. In former Epistles We have enjoined upon the Trustees of the House
+of Justice either to choose one language from among those now existing or
+to adopt a new one, and in like manner to select a common script, both of
+which should be taught in all the schools of the world. Thus will the
+earth be regarded as one country and one home. The most glorious fruit of
+the tree of knowledge is this exalted word: Of one tree are all ye the
+fruit, and of one bough the leaves. Let not man glory in this that he
+loveth his country, let him rather glory in this that he loveth his kind. (TB IS)
+
+
+WISDOM (and avoidance of Folly)
 
 O CHILDREN OF THE DIVINE AND INVISIBLE ESSENCE! Ye shall be hindered from
 loving Me and souls shall be perturbed as they make mention of Me. For
@@ -481,6 +761,33 @@ the agent and guide for true knowledge. Indeed in the estimation of men of
 wisdom keenness of understanding is due to keenness of vision. The people
 of Bahá must under all circumstances observe that which is meet and seemly
 and exhort the people accordingly.
+
+In brief, dissensions among various sects have opened the way to weakness.
+Each sect hath picked out a way for itself and is clinging to a certain
+cord. Despite manifest blindness and ignorance they pride themselves on
+their insight and knowledge. Among them are mystics who bear allegiance to
+the Faith of Islám, some of whom indulge in that which leadeth to idleness
+and seclusion. (TB KF)
+
+This Wronged One hath invariably treated the wise with affection. By the
+wise is meant men whose knowledge is not confined to mere words and whose
+lives have been fruitful and have produced enduring results. It is
+incumbent upon everyone to honour these blessed souls. (TB KF)
+
+Above all else, the greatest gift
+and the most wondrous blessing hath ever been and will continue to be
+Wisdom. It is man’s unfailing Protector. It aideth him and strengtheneth
+him. Wisdom is God’s Emissary and the Revealer of His Name the Omniscient.
+Through it the loftiness of man’s station is made manifest and evident. It
+is all-knowing and the foremost Teacher in the school of existence. It is
+the Guide and is invested with high distinction. (TB KF)
+
+O people of God! Righteous men of learning who dedicate themselves to the
+guidance of others and are freed and well guarded from the promptings of a
+base and covetous nature are, in the sight of Him Who is the Desire of the
+world, stars of the heaven of true knowledge. It is essential to treat
+them with deference. (TB LD)
+
 
 OTHER QUOTES OF INTEREST
 
@@ -535,6 +842,148 @@ Who is the Bearer of the Most Great Name... True belief in God and
 recognition of Him cannot be complete save by acceptance of that which
 He hath revealed and by observance of whatsoever hath been decreed by
 Him and set down in the Book by the Pen of Glory. (TB TJ)
+
+O God, my God! Adorn the heads of Thy loved
+ones with the crown of detachment and attire their temples with the
+raiment of righteousness. (TB KF)
+
+The people of Bahá burn brightly amidst the gatherings even as a candle
+and hold fast unto that which God hath purposed. This station standeth
+supreme above all stations. Well is it with him who hath cast away the
+things that the people of the world possess, yearning for that which
+pertaineth unto God, the Sovereign Lord of eternity. (TB KF)
+
+That which the aforesaid persons [mystics, certain Sufis] have
+mentioned concerning the stations of Divine Unity will conduce in no
+small measure to idleness and vain imaginings. These mortal men have
+evidently set aside the differences of station and have come to regard
+themselves as God, while God is immeasurably exalted above all
+things. Every created being however revealeth His signs which are but
+emanations from Him and not His Own Self. All these signs are
+reflected and can be seen in the book of existence, and the scrolls
+that depict the shape and pattern of the universe are indeed a most
+great book. Therein every man of insight can perceive that which would
+lead to the Straight Path and would enable him to attain the Great
+Announcement. Consider the rays of the sun whose light hath
+encompassed the world. The rays emanate from the sun and reveal its
+nature, but are not the sun itself. Whatsoever can be discerned on
+earth amply demonstrateth the power of God, His knowledge and the
+outpourings of His bounty, while He Himself is immeasurably exalted
+above all creatures. (TB KF)
+
+The fear of God hath
+ever been a sure defence and a safe stronghold for all the peoples of the
+world. It is the chief cause of the protection of mankind, and the supreme
+instrument for its preservation. (TB KF)
+
+The Pen of the Most High
+exhorteth, at this moment, the manifestations of authority and the sources
+of power, namely the kings, the sovereigns, the presidents, the rulers,
+the divines and the wise, and enjoineth them to uphold the cause of
+religion, and to cleave unto it. Religion is verily the chief instrument
+for the establishment of order in the world and of tranquillity amongst
+its peoples. The weakening of the pillars of religion hath strengthened
+the foolish and emboldened them and made them more arrogant. Verily I say:
+The greater the decline of religion, the more grievous the waywardness of
+the ungodly. This cannot but lead in the end to chaos and
+confusion. (TB KF)
+
+The faults of kings, like their favours, can be great. A king who is not
+deterred by the vainglory of power and authority from observing justice,
+nor is deprived of the splendours of the day-star of equity by luxury,
+riches, glory or the marshalling of hosts and legions shall occupy a high
+rank and a sublime station amongst the Concourse on high. It is incumbent
+upon everyone to extend aid and to manifest kindness to so noble a soul.
+Well is it with the king who keepeth a tight hold on the reins of his
+passion, restraineth his anger and preferreth justice and fairness to
+injustice and tyranny. (TB KF)
+
+In the city of justice it is the unrivalled
+Speaker Who, in the year nine, illumined the world with the joyful tidings
+of this Revelation. And it was this peerless Source of wisdom that at the
+beginning of the foundation of the world ascended the stair of inner
+meaning and when enthroned upon the pulpit of utterance, through the
+operation of the divine Will, proclaimed two words. The first heralded the
+promise of reward, while the second voiced the ominous warning of
+punishment. The promise gave rise to hope and the warning begat fear. Thus
+the basis of world order hath been firmly established upon these twin
+principles. (TB KF)
+
+We have formerly ordained that people should converse in two languages,
+yet efforts must be made to reduce them to one, likewise the scripts of
+the world, that men’s lives may not be dissipated and wasted in learning
+divers languages. Thus the whole earth would come to be regarded as one
+city and one land. (TB KF)
+
+The purging of such deeply-rooted and
+overwhelming corruptions cannot be effected unless the peoples of the
+world unite in pursuit of one common aim and embrace one universal
+faith. (TB KF)
+
+Wherefore fear ye, O My
+well-beloved ones? Who is it that can dismay you? A touch of moisture
+sufficeth to dissolve the hardened clay out of which this perverse
+generation is moulded. The mere act of your gathering together is enough
+to scatter the forces of these vain and worthless people. (TB LD)
+
+Every man of insight will, in this day, readily admit that the counsels
+which the Pen of this Wronged One hath revealed constitute the supreme
+animating power for the advancement of the world and the exaltation of its
+peoples. (TB LD)
+
+Watch over yourselves, for the Evil One is lying in wait,
+ready to entrap you. Gird yourselves against his wicked devices, and, led
+by the light of the name of the All-Seeing God, make your escape from the
+darkness that surroundeth you. Let your vision be world-embracing, rather
+than confined to your own self. The Evil One is he that hindereth the rise
+and obstructeth the spiritual progress of the children of men. (TB LD)
+
+The summons and the message which We gave were never
+intended to reach or to benefit one land or one people only. Mankind in
+its entirety must firmly adhere to whatsoever hath been revealed and
+vouchsafed unto it. Then and only then will it attain unto true liberty. (TB LD)
+
+Whilst in the Prison of Akká, We revealed in the Crimson Book that which
+is conducive to the advancement of mankind and to the reconstruction of
+the world. The utterances set forth therein by the Pen of the Lord of
+creation include the following which constitute the fundamental principles
+for the administration of the affairs of men:
+
+  First: It is incumbent upon the ministers of the House of Justice to
+  promote the Lesser Peace so that the people of the earth may be
+  relieved from the burden of exorbitant expenditures. This matter is
+  imperative and absolutely essential, inasmuch as hostilities and
+  conflict lie at the root of affliction and calamity.
+
+  Second: Languages must be reduced to one common language to be
+  taught in all the schools of the world.
+
+  Third: It behoveth man to adhere tenaciously unto that which will promote
+  fellowship, kindliness and unity.
+
+  Fourth: Everyone, whether man or woman, should hand over to a
+  trusted person a portion of what he or she earneth through trade,
+  agriculture or other occupation, for the training and education of
+  children, to be spent for this purpose with the knowledge of the
+  Trustees of the House of Justice.
+
+  Fifth: Special regard must be paid to agriculture. Although it hath
+  been mentioned in the fifth place, unquestionably it precedeth the
+  others.  Agriculture is highly developed in foreign lands, however
+  in Persia it hath so far been grievously neglected. It is hoped that
+  His Majesty the Sháh—may God assist him by His grace—will turn his
+  attention to this vital and important matter.
+
+  Were men to strictly observe that which the Pen of the Most High
+  hath revealed in the Crimson Book, they could then well afford to
+  dispense with the regulations which prevail in the world. (TB LD)
+
+In formulating the principles and laws a part hath been devoted to
+penalties which form an effective instrument for the security and
+protection of men. However, dread of the penalties maketh people desist
+only outwardly from committing vile and contemptible deeds, while that
+which guardeth and restraineth man both outwardly and inwardly hath been
+and still is the fear of God. (TB LD)
 
 
 GENERAL PURPOSE GRIEF
@@ -595,3 +1044,50 @@ tyranny ascribe unto Me in My days. Some of them say: ‘He hath laid claim
 to divinity’; others say: ‘He hath devised a lie against God’; still
 others say: ‘He is come to foment sedition’. Base and wretched are they.
 Lo! They are, in truth, enslaved to idle imaginings. (TB TA)
+
+Gracious God! It was intended that at the time of the manifestation of the
+One true God the faculty of recognizing Him would have been developed and
+matured and would have reached its culmination. However, it is now clearly
+demonstrated that in the disbelievers this faculty hath remained
+undeveloped and hath, indeed, degenerated. (TB TJ)
+
+[regarding a certain famous mystic] ... such men are they whose words
+are the pride of the world, and whose deeds are the shame of the
+nations. (TB KF)
+
+We have said: ‘My imprisonment doeth Me no harm, nor do the things that
+have befallen Me at the hands of My enemies. That which harmeth Me is the
+conduct of my loved ones who, though they bear My name, yet commit that
+which maketh My heart and My pen to lament.’ Such utterances as these have
+again and again been revealed, yet the heedless have failed to profit
+thereby, since they are captive to their own evil passions and corrupt
+desires. (TB KF)
+
+The unbelievers and the faithless have set their minds on four things:
+first, the shedding of blood; second, the burning of books; third, the
+shunning of the followers of other religions; fourth, the extermination of
+other communities and groups. Now however, through the strengthening grace
+and potency of the Word of God these four barriers have been demolished,
+these clear injunctions have been obliterated from the Tablet and brutal
+dispositions have been transmuted into spiritual attributes. (TB LD)
+
+From the lips of
+the members of this sect [Shi'ih] foul imprecations fall unceasingly, while they
+invoke the word ‘Mal’ún’ (accursed)—uttered with a guttural sound of the
+letter ‘ayn—as their daily relish. (TB LD)
+
+The people aforetime joined partners with God, though they professed
+belief in His unity; and although they were the most ignorant amongst men,
+they considered themselves the most accomplished. But, as a token of
+divine retribution upon those heedless ones, their erroneous beliefs and
+pursuits have, in this Day of Judgement, been made clear and evident to
+every man of discernment and understanding. (TB IS)
+
+Governments should fully acquaint themselves with the conditions of those
+they govern, and confer upon them positions according to desert and merit.
+It is enjoined upon every ruler and sovereign to consider this matter with
+the utmost care that the traitor may not usurp the position of the
+faithful, nor the despoiler rule in the place of the trustworthy. Among
+the officials who in the past have governed in this Most Great Prison
+some, praise be to God, were adorned with justice, but as to others, We
+take refuge with God. (TB IS)
