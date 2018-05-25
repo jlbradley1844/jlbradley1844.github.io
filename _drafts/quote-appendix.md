@@ -164,6 +164,10 @@ endued with courtesy hath indeed attained a sublime station. It is hoped
 that this Wronged One and everyone else may be enabled to acquire it, hold
 fast unto it, observe it, and fix our gaze upon it. (TB LD)
 
+Hold ye fast unto refinement under all conditions, that your eyes may
+be preserved from beholding what is repugnant both to your own selves
+and to the dwellers of Paradise. (KA)
+
 
 CREATIVITY
 
@@ -232,6 +236,14 @@ wings with the clay of waywardness and vain desires, and suffer them not
 to be stained with the dust of envy and hate, that ye may not be hindered
 from soaring in the heavens of My divine knowledge. (G CLIII)
 
+By My life! Neither the
+pomp of the mighty, nor the wealth of the rich, nor even the ascendancy of
+the ungodly will endure. All will perish, at a word from Him. (KA)
+
+Lament not in your hours of trial, neither rejoice therein; seek ye the
+Middle Way which is the remembrance of Me in your afflictions and
+reflection over that which may befall you in future. (KA)
+
 
 DETACHMENT (from material things)
 
@@ -255,6 +267,9 @@ the hearts of men could comprehend it! (G CXXXIX)
 The things of the
 earth ill beseem you. Cast them away unto such as may desire them, and
 fasten your eyes upon this most holy and effulgent Vision. (G CXXXIX)
+
+Rejoice not in the things ye possess; tonight they are yours,
+tomorrow others will possess them. (KA)
 
 
 AVOIDANCE OF DISPUTATION
@@ -524,6 +539,20 @@ INDUSTRIOUSNESS
 To engage in some
 profession is highly commendable, for when occupied with work one is less
 likely to dwell on the unpleasant aspects of life. (TB LM)
+
+
+JOYFULNESS
+
+Pride not yourselves on much reading of the verses
+or on a multitude of pious acts by night and day; for were a man to read a
+single verse with joy and radiance it would be better for him than to read
+with lassitude all the Holy Books of God, the Help in Peril, the
+Self-Subsisting. Read ye the sacred verses in such measure that ye be not
+overcome by languor and despondency. Lay not upon your souls that which
+will weary them and weigh them down, but rather what will lighten and
+uplift them, so that they may soar on the wings of the Divine verses
+towards the Dawning-place of His manifest signs; this will draw you nearer
+to God, did ye but comprehend. (KA)
 
 
 JUSTICE
@@ -1747,7 +1776,6 @@ failed to attain the presence of the All-Glorious; they have spent their
 lives in search of Him, yet did not behold the beauty of His countenance.
 Thou without the least effort didst attain thy goal, and without search
 hast obtained the object of thy quest. Yet, notwithstanding, thou didst
-
 remain so wrapt in the veil of self, that thine eyes beheld not the beauty
 of the Beloved, nor did thy hand touch the hem of His robe. Ye that have
 eyes, behold and wonder. (HW-P 22)
@@ -1828,10 +1856,7 @@ Governments should fully acquaint themselves with the conditions of those
 they govern, and confer upon them positions according to desert and merit.
 It is enjoined upon every ruler and sovereign to consider this matter with
 the utmost care that the traitor may not usurp the position of the
-faithful, nor the despoiler rule in the place of the trustworthy. Among
-the officials who in the past have governed in this Most Great Prison
-some, praise be to God, were adorned with justice, but as to others, We
-take refuge with God. (TB IS)
+faithful, nor the despoiler rule in the place of the trustworthy. (TB IS)
 
 Regard not the
 children of the world and all their doings but fix thy gaze upon God and
@@ -1957,3 +1982,32 @@ law or standard could men be justified in cleaving to the denials of such
 petty-minded souls and in ignoring the faith of them that have renounced,
 for the sake of the good pleasure of God, their life and substance, their
 fame and renown, their reputation and honor?... (G XCI)
+
+122 Consider the pettiness of men’s minds. They ask for that which
+injureth them, and cast away the thing that profiteth them. They are,
+indeed, of those that are far astray. We find some men desiring liberty,
+and priding themselves therein. Such men are in the depths of ignorance.
+
+123 Liberty must, in the end, lead to sedition, whose flames none can
+quench. Thus warneth you He Who is the Reckoner, the All-Knowing. Know ye
+that the embodiment of liberty and its symbol is the animal. That which
+beseemeth man is submission unto such restraints as will protect him from
+his own ignorance, and guard him against the harm of the mischief-maker.
+Liberty causeth man to overstep the bounds of propriety, and to infringe
+on the dignity of his station. It debaseth him to the level of extreme
+depravity and wickedness.
+
+124 Regard men as a flock of sheep that need a shepherd for their
+protection. This, verily, is the truth, the certain truth. We approve of
+liberty in certain circumstances, and refuse to sanction it in others. We,
+verily, are the All-Knowing.
+
+125 Say: True liberty consisteth in man’s submission unto My commandments,
+little as ye know it. Were men to observe that which We have sent down
+unto them from the Heaven of Revelation, they would, of a certainty,
+attain unto perfect liberty. Happy is the man that hath apprehended the
+Purpose of God in whatever He hath revealed from the Heaven of His Will
+that pervadeth all created things. Say: The liberty that profiteth you is
+to be found nowhere except in complete servitude unto God, the Eternal
+Truth. Whoso hath tasted of its sweetness will refuse to barter it for all
+the dominion of earth and heaven. (KA)
