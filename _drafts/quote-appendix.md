@@ -278,6 +278,13 @@ O SON OF DUST! Verily I say unto thee: Of all men the most negligent is he
 that disputeth idly and seeketh to advance himself over his brother. Say,
 O brethren! Let deeds, not words, be your adorning. (HW-P 5)
 
+71 O people! Dispute not concerning My Cause, for ye shall never fathom
+the manifold wisdom of your Lord, nor shall ye ever gauge the knowledge of
+Him Who is the All-Glorious, the All-Pervading. Whosoever layeth claim to
+have known His Essence is without doubt among the most ignorant of all
+people. Every atom in the universe would charge such a man with imposture,
+and to this beareth witness My tongue which speaketh naught but the truth. (SLH SH)
+
 
 DUTY
 
@@ -526,6 +533,14 @@ latter endureth a century. (...)
 That seeker should, also, regard backbiting as grievous error, and keep
 himself aloof from its dominion, inasmuch as backbiting quencheth the
 light of the heart, and extinguisheth the life of the soul. (CXXV)
+
+Say: Would it profit you in the least if, as ye fondly imagine, your
+names were to endure? Nay, by the Lord of all worlds! Was the idol
+‘Uzzá(10) made any greater by this, that its name lived on amidst the
+worshippers of names? Nay, by Him Who is the Self of God, the
+All-Glorious, the All-Compelling! Should your names fade from every mortal
+mind, and yet God be well pleased with you, ye will indeed be numbered
+among the treasures of His name, the Most Hidden. (SLH SH 87)
 
 
 IDEALISM
@@ -1754,6 +1769,22 @@ world.” The potentialities inherent in the station of man, the full
 measure of his destiny on earth, the innate excellence of his reality,
 must all be manifested in this promised Day of God. (G CLXII)
 
+My creatures are even as the fish of
+the deep. Their life dependeth upon the water, and yet they remain unaware
+of that which, by the grace of an omniscient and omnipotent Lord,
+sustaineth their very existence. Indeed, their heedlessness is such that
+were they asked concerning the water and its properties, they would prove
+entirely ignorant. (SLH SH)
+
+It is indeed in Our power to take up a handful of dust and to adorn it
+with the vesture of Our Names. This, however, would be but a sign of our
+favour, and not an indication of any merit it may have inherently
+possessed. Thus hath it been revealed in truth by Him Who is the Sovereign
+Revealer, the All-Knowing. Consider the Black Stone,(11) which God hath
+made a point whereunto all men turn in adoration. Hath this bounty been
+conferred upon it by virtue of its innate excellence? Nay, by Mine own
+Self! (SLH SH 90)
+
 
 GENERAL PURPOSE GRIEF
 
@@ -2011,3 +2042,13 @@ that pervadeth all created things. Say: The liberty that profiteth you is
 to be found nowhere except in complete servitude unto God, the Eternal
 Truth. Whoso hath tasted of its sweetness will refuse to barter it for all
 the dominion of earth and heaven. (KA)
+
+... how
+many those who subsist on the coarsest bread, who take for their only seat
+the grass of the field, and who undergo every manner of hardship, merely
+to maintain their superiority in the eyes of men! Thus do We expose their
+deeds, that this may serve as a warning unto others. These are the ones
+who subject themselves to all manner of austerities before the gaze of
+others in the hope of perpetuating their names, whilst in reality no
+mention shall remain of them save in the curses and imprecations of the
+dwellers of earth and heaven. (SLH SH 86)
