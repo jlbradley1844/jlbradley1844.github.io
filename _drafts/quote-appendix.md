@@ -244,6 +244,11 @@ Lament not in your hours of trial, neither rejoice therein; seek ye the
 Middle Way which is the remembrance of Me in your afflictions and
 reflection over that which may befall you in future. (KA)
 
+Regard the afflictions endured in the path of God as comfort
+itself. Every affliction suffered for His sake is a potent remedy,
+every bitterness is naught but sweetness and every abasement an
+exaltation. (TU 3.7)
+
 
 DETACHMENT (from material things)
 
@@ -603,6 +608,16 @@ Lay not on any soul a load which ye would not wish to be laid upon you,
 and desire not for any one the things ye would not desire for yourselves.
 This is My best counsel unto you, did ye but observe it. (G LXVI)
 
+Justice, which consisteth in rendering each his due, dependeth upon
+and is conditioned by two words: reward and punishment. From the
+standpoint of justice, every soul should receive the reward of his
+actions, inasmuch as the peace and prosperity of the world depend
+thereon, even as He saith, exalted be His glory: “The structure of
+world stability and order hath been reared upon, and will continue to
+be sustained by, the twin pillars of reward and punishment”. In brief,
+every circumstance requireth a different utterance and every occasion
+calleth for a different course of action. (TU 2.37)
+
 
 KNOWLEDGE (Pursuit and application)
 
@@ -658,6 +673,10 @@ lest ye be of them that give good counsel to others but forget to follow
 it themselves. The words of such as these, and beyond the words the
 realities of all things, and beyond these realities the angels that are
 nigh unto God, bring against them the accusation of falsehood. (G CXXVIII)
+
+Verily I say, whatsoever leadeth to the decline of ignorance and the
+increase of knowledge hath been, and will ever remain, approved in
+the sight of the Lord of creation. (TU 1.15)
 
 
 LOGIC (and avoidance of Superstition)
@@ -849,6 +868,16 @@ can, in this Day, inflict a greater harm upon this Cause than dissension
 and strife, contention, estrangement and apathy, among the loved ones of
 God. Flee them, through the power of God and His sovereign aid, and strive
 ye to knit together the hearts of men... (G V)
+
+
+PRACTICALITY
+
+Every age hath its own problem, and every soul its particular
+aspiration. The remedy the world needeth in its present-day
+afflictions can never be the same as that which a subsequent age may
+require. Be anxiously concerned with the needs of the age ye live in,
+and centre your deliberations on its exigencies and requirements.” (TU
+2.5)
 
 
 PRUDENCE
@@ -1093,6 +1122,9 @@ kindliness and good-will. Help him to see and recognize the truth, without
 esteeming yourself to be, in the least, superior to him, or to be
 possessed of greater endowments. (G VI)
 
+The Lord of celestial wisdom saith: A harsh word is even as a sword
+thrust; a gentle word as milk. The latter leadeth the children of men
+unto knowledge and conferreth upon them true distinction. (TU 1.13)
 
 THANKFULNESS
 
@@ -1151,6 +1183,8 @@ Beautify your tongues, O people, with truthfulness, and adorn your souls
 with the ornament of honesty. Beware, O people, that ye deal not
 treacherously with any one. (G CXXXVI)
 
+Say: The tongue hath been created to bear witness to My truth; defile
+it not with falsehood. (TU 1.17)
 
 TRUSTWORTHINESS
 
@@ -1259,6 +1293,11 @@ quenching the fire of hate and enmity which smouldereth within the hearts
 and breasts of men. By this single utterance contending peoples and
 kindreds will attain the light of true unity. (TB KA)
 
+The first utterance of Him Who is the All-Wise is this: O children of
+dust! Turn your faces from the darkness of estrangement to the
+effulgent light of the daystar of unity. This is that which above all
+else will benefit the peoples of the earth. (TU 1.10)
+
 
 WISDOM (and avoidance of Folly)
 
@@ -1325,6 +1364,11 @@ friend? Its observance is highly essential, inasmuch as this theme hath
 been set forth in numerous Tablets revealed from the empyrean of the Will
 of Him Who is the Manifestation of the light of divine unity. (TB O)
 
+It is clear and evident, therefore, that the first bestowal of God is
+the Word, and its discoverer and recipient is the power of
+understanding. This Word is the foremost instructor in the school of
+existence and the revealer of Him Who is the Almighty. All that is
+seen is visible only through the light of its wisdom. (TU 1.2)
 
 OTHER QUOTES OF INTEREST
 

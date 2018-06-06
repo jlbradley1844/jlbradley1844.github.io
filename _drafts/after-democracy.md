@@ -47,15 +47,15 @@ highest levels.
 The result is that nowadays, alternatives to capatalist economies are
 generally framed as _different_ capitalist economies. One may think of
 the United States, China and the Nordic countries as all having
-different countries, but it is remarkable that all of them are, in
+different economic systems, but it is remarkable that all of them are, in
 fact, identifiably capitalistic. The only difference is the sphere for
 regulation and how much targeted government intervention certain
 narrow industries receive. Given what we know about the uneven
 distribution of resources in economies throughout the world, it is
 remarkable that the only alternative agreed upon by critics of
 capitalism are heavily redistributive tax levies that transfer wealth
-from the wealthy to keep the poor while keeping the entire basic
-system otherwise intact.
+from the wealthy to the poor - all the while, keeping the entire basic
+capitalist structure otherwise intact.
 
 If an alternative to market economics is unthinkable for lack of
 alternatives, alternatives to democracy is just as unthinkable because
@@ -310,18 +310,17 @@ conform to civic best-practices. As stated by the Guardian:
     imperfect, precarious, and expedient measures feverishly resorted
     to by agitated humanity. (BA )
 
-However, not
-all of the defenders had the awareness to point out that the institutions of
-the Baha'i Faith are hardly and an ideal state themselves, nor should
-they be expected to be. Perhaps some Baha'is are offended by the idea
-of "reform," as they may think it implies the fact the Baha'i Faith is
-imperfect. But in fact, the institutions are themselves not finished,
-and as such; they are "reformed" every time a change is introduced,
-such as Area Teaching committees or Regional councils. Talking about
-"reform" is only a problem when such a campaign is carried out in an
-orchestrated manner with help from parties outside of the Baha'i
-Faith, particularly when such efforts bypass existing channels for
-suggesting change.
+However, not all of the defenders have the awareness to point out that
+the institutions of the Baha'i Faith are hardly and an ideal state
+themselves. Nor should they be expected to be. Perhaps some Baha'is
+are offended by the idea of "reform," as they may think it implies the
+fact the Baha'i Faith is imperfect. But in fact, the institutions are
+themselves not finished; indeed, they are "reformed" every time a
+change is introduced, such as Area Teaching committees or Regional
+councils. Talking about "reform" is only a problem when such a
+campaign is carried out in an orchestrated manner with help from
+parties outside of the Baha'i Faith, particularly when such efforts
+bypass existing channels for suggesting change.
 
 The caveat, therefore, is that what the Baha'i Faith has to offer to
 the world are not structural reforms, or reforms in the nature of
@@ -354,14 +353,17 @@ incomplete list would include the following:
 
 1. Elimination of partisan politics
 2. Emphasis on smaller legislative units aiming toward consensus decisions
-2. Re-emphasis on federalism and decentralization as a governing
+3. "Consultation" as a mechanism for debate
+4. Emphasis on "republican" principle of leadership by representatives;
+e.g. mandated responsibility is not to particular consituents but to
+ideal governance.
+5. Moderate transparency in deliberations
+6. Emphasis on universal participation
+7. Improved participation by individuals in matters of governance
+8. Proper education in civic virtues
+9. Indirect election of higher-level offices
+10. Re-emphasis on federalism and decentralization as a governing
 principle
-3. Emphasis on "republican" principle of leadership by representatives
-4. Limited transparency in deliberations
-4. Emphasis on universal participation in politics
-5. Improved participation by individuals in matters of governance
-6. Proper education in civic virtues
-7. Indirect election of higher-level offices
 
 
 All of these should be easily recognizable to Baha'is. Ironically,
@@ -369,7 +371,7 @@ many of these have their antecedents in recommendations by the
 "founding fathers" of the US. As Baha'is, we are well aware of the
 flaws of many of the historical figures that founded the United
 States; for some, the accomidation made by such figures with slavery
-makes makes any recommendations by such figures immediately
+makes any recommendations by such figures immediately
 suspect. However, we should not overlook the reverence with which many
 US Citizens hold such figures. If we can use their arguments to
 advance the ways in which the Baha'i Faith can improve our own civic
@@ -654,7 +656,7 @@ Let's go through these recommendations one at a time.
     This new-born Administrative Order incorporates within its
     structure certain elements which are to be found in each of the
     three recognized forms of secular government [democracy,
-    autocracy/dictatorship/monarchy, aristocy/oligarchy;
+    autocracy/dictatorship, aristocracy/monarchy/oligarchy;
     cross-reference to Aristotle's three types], without being in any
     sense a mere replica of any one of them, and without introducing
     within its machinery any of the objectionable features which they
