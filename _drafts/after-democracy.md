@@ -4,81 +4,48 @@ category: article
 ---
 
 Those of us raised in the United States are given, as our birthright,
-two world views which generally reign unquestioned, at least among
+a world views which generally reigns unquestioned, at least among
 educated society:
 
 * A capitalistic economy, based on "market-based" principles;
-* A government which nominally democratic, and technically republican.
 
-One measure of the widespread acceptance of these two world views is
-the fact that most educated citizens cannot imagine any form of
+* A government which nominally democratic, and technically republican,
+  based on partisan coalitions vying for government control through
+  elections.
+
+This two-faceted view of society is so widespread and accepted that
+most educated citizens cannot imagine any form of
 economy or government that could possibly be superior in nature to
-it. Efforts at reform or improvement tend to be framed in accordance
+this. Efforts at reform or improvement tend to be framed in accordance
 with how conformant any improvements are with these two world
 views. Indeed, one reason for "the end of history" narrative at the
 completion of the 20th century was due to a lack of any realistic
 compelling alernative for these world views.
 
-At this point, the capitalistic economy is a given. The failed
-alternative economies of the late twentieth century all posed very
-similar alternatives - that of massive state control. Marxist
-governments imposed this for theoretical reasons; other regimes, be
-they fascist, military juntas or other states imposted state control
-out of convenience, all the better to confiscate the goods necessary
-to pay off supporters and favored classes. Since all forms relied on
-excessive state control, all suffered the same general problems.
-State control caused such economies to develope inefficiencies
-that made them unable to compete with capitalistic
-alternatives. Whatever one may think the root cause of collaps of
-these governments was, the fact that economic inefficiencies and an
-inability to compete on the world states was a crucial contributor.
+From the point of view of The Baha'i Faith, both have much scope of
+improvement. In this paper, we will focus on the default view of
+government. While the Baha'i Faith has much to say about economic
+concerns, and there is certainly an interplay between the economic
+system and the civic government of states, we will consider issues of
+economics out of the scope of this paper.(1)
 
-The nature of these inefficiencies is debateable. The textbook
-explanation is that state-controlled economies lacked the pricing
-mechanisms that served to send signals throughout the economy that
-kept demand and supply balanced. While that may be true, it is
-possible that even more damage was caused because by placing all
-control in the economy in the hands of government. By doing so, it
-made the government itself the prime target for the sociopathically
-greedy and the grifter. As a result, these economies were not only
-inefficient, but frequently run through with corruption through the
-highest levels. In any event, alternatives to capatalist economies are
-generally framed as _different_ capitalist economies. One may think of
-the United States, China and the Nordic countries as all having
-different economic systems, but it is remarkable that all of them are, in
-fact, identifiably capitalistic, and it is
-remarkable that the only alternative agreed upon by critics of
-capitalism are heavily redistributive tax levies that transfer wealth
-from the wealthy to the poor - all the while, keeping the entire basic
-capitalist structure otherwise intact.
-
-The primary problem is a lack of a thinkable, appealing
-alternative. There are in fact, glimmerings of alternatives for those
-who wish to look: social enterpreneurs working off of grants and
-funding aggregators; economic theorists testing alternate currencies;
-the open source software community, where product is given away and
-services based on that product are sold. Indeed, much of the wealth
-created today is in the form of intellectual property, which once
-created, can be used by any number of people. But as of yet, there is no
-sign of an alternative to market economies as efficient models for distribution.
-
-If an alternative to market economics is unthinkable for lack of appealing
-alternatives, alternatives to democracy is just as unthinkable. While
-known alternatives to capitalism are generally viewed as disagreeable,
-known alternatives to democracy are generally feared outright. It's
-difficult to find alternatives to market economies, but quite easy to
-find its primary alternative: the antidemocratic kleptocracy.
-Indeed, much of the present concern with US Government is the
-possiblity that the same thing could happen here through a
-_herrenvolk_ corruption of our current system. Indeed, for all of
-the alternatives of democracy in the 20th century - communism,
-military dictatorships, fascism - all of them had this same underlying
-dynamic of an authoritarian ruler propped up by a broad-based favored
-class that worked to ensure the stability of the system. Whether this
-favored class was membership in a political party, oligarchy, or
-military group, did not matter; the underlying mechanism was the
-same. And the result was just as horrifying for the citizens
-unfortunate enough to find themselves in an unfavored class under such misrule.
+One reason for tis two-pronged world view is the complete lack of
+appealing alternatives. While known alternatives to capitalism are
+generally viewed as disagreeable and inefficient, known alternatives
+to democracy are generally feared outright. It's difficult to find
+alternatives to market economies, but quite easy to find the primary
+alternative to partisan representative democracies: the antidemocratic
+kleptocracy. Indeed, for all of the alternatives of democracy in the
+20th century - communism, military dictatorships, fascism - all of
+them had this same underlying dynamic of an authoritarian ruler
+propped up by a broad-based favored class that worked to ensure the
+stability of the system. Whether this favored class was membership in
+a political party, oligarchy, or military group, did not matter; the
+underlying mechanism was the same. And the result was just as
+horrifying for the citizens unfortunate enough to find themselves in
+an unfavored class under such misrule. Indeed, much of the present
+concern with US Government is the possiblity that the same thing could
+happen here through a _herrenvolk_ corruption of our current system.
 
 Perhaps as a result, alternatives to representative democracy are
 rarely envisioned, if at all. While democracy has its problems, such
@@ -86,17 +53,26 @@ problems are generally aired by the extremely marginalied, or
 alternatively, those who generally have little concern for a just
 society. The good-government believers in liberalism, while well aware
 of such flaws, instead refer to democracy as "the worst form of
-government, except for all the others." Problems with democracy are
-generally thought only in terms of fixing them by eliminating
-corporate bias, corruption and influence-buying, or structural fixes
-aimed at making the system more pure.
+government, except for all the others." Attempts to improve government
+are generally thought of only in terms of marginal structural fixes:
+eliminating corporate bias, corruption and influence-buying, or
+governmental modifications aimed at making the system more purely
+democratic.
 
-There is another, disagreeable, possibility: that improving government
-may mean moving away from representative democracy as it is presently
-thought of throughout the world. Democracies throughout the world have
-similar problems:
+    I've said it before and I'll say it again. Democracy simply
+    doesn't work.
+        -- Kent Brockman (fictional character on _The Simpsons_)
+
+Anyone who lived through the nineties in the US is probably familiar
+with this quote, intended to be satirical. Unfortunately, those of us
+living presently may be wondering if this is true.  Despite the
+efforts of reformers, things are getting worse, not
+better, all seem to be falling to the same intractable problems:
 
 * easy corruption of the system by entrenched, monied interest;
+
+* obvious manipulation of popular will caused by propaganda against
+  minority groups;
 
 * gridlock caused by thoughtless partisanship, entrenched by masses of
   voters that use the franchise to reward those in their on class and
@@ -110,46 +86,67 @@ similar problems:
   propaganda by entrenched interests that benefit from the status quo;
 
 * a remarkable vulnerability to corruption and majoritarian abuses of
-  power due to the repeated ability of socoipathic demagogues to
-  repeatednly get themselves elected to positions of power, from which
-  they can rig democratic systems to serve their ends.
+  power due;
+
+* the ability of demagogues to entirely subvert the system by rigging
+  democratic institutions once they gain positions of power.
 
 Defenders of both liberalism and democracy, therefore, have a
 challenge: it seems they can either have a society in conformance with
 liberal values, or one that values the ability of voters to chose
 their representatives through majority vote. Current trends indicate
 that having both of these at the same time are implausible, since
-voters frequently elect representatives who seem inclined to take a
-hammer to said liberal values.
+voters frequently use their franchise to elect representatives whose
+core political platform is to take a hammer to said liberal values.
 
-There is an alternative approach, though, that is frequently not
-discussed: that something else is needed besides democracy. Something
-that involves all citizens in a broad-based vision of self-government
-which eliminates the flaws of representative democracy while not repeating
-the mistakes that brought down the flawed institutions
-that democracy replaced, be they monarchical, authoritarian,
-totalitarian, oligarchical or otherwise.
+There is another, disagreeable, possibility: that improving government
+may mean moving away from representative democracy as it is presently
+thought of throughout the world. Something that involves all citizens
+in a broad-based vision of self-government which eliminates the flaws
+of representative democracy while not repeating the mistakes that
+brought down the flawed institutions that democracy replaced, be they
+monarchical, authoritarian, totalitarian, oligarchical or
+otherwise. In its vision of the Baha'i Administrative Order, The Faith
+can contribute many positive elements for discussion.
 
 It must be acknowledged that there is a very reasonable fear for any
-government that does not incorporate democratic structures or uses
-them in an indrect manner (say, by electing electors to actually
-select leaders). Movements to limit democracy and public input have
-frequently been used by powerful minorities as a way to assert their
-power over a majority or by historically privileged groups to retain
-this privelege in the face of public unpopularity. Yet this sort of
-antidemocracy need not be the only alternative, and it is necessary to
-produce a vision of something beyond democracy that remedies its flaws
-without introducing other problems.
+government that does not incorporate familiar democratic structures
+such as political parties or uses them in an indirect manner (say, by
+electing electors to actually select leaders). Movements to limit
+democracy and public input have frequently been used by powerful
+majorities as a way to exclude input from disfavored minorities or by
+historically privileged groups to retain this privelege in the face of
+public unpopularity. Yet this sort of antidemocracy need not be the
+only alternative, and it is necessary to produce a vision of something
+beyond democracy that remedies its flaws without introducing other
+problems.
 
-This being a Baha'i blog, the question is if the Baha'i Faith has
-ideas to lead to the next stage beyond democracy. While there ideas,
-the answer is complex. The Baha'i Faith has many ideals enshrined that
-are worth examining. Many of these ideals are not new, but instead
-reflect some of the ideals of the founders of The United States of
-America. If adopted, such ideals would surely strengthen
-democracy. But the main contribution may be to suggest models that
-move beyond the democratic model, while at their core remaining
-democratic in form.
+Nonetheless, if the world must move to something beyond the standard
+models of representative democracy, and The Baha'i Faith claims to
+offer a solution in its Administrative Order, the question is exactly
+_what_ it has to offer. The answer is complex. The Baha'i Faith has
+many ideals enshrined that are worth examining. Many of these ideals
+are not new, but instead reflect some of the ideals of other thinkers
+of democracy in the past.
+
+Ironically, many of these ideas have strong parallels with recommendations by
+the "founding fathers" of the US. As Baha'is, we are well aware of the
+flaws of many of the historical figures that founded the United
+States; for some, the accomidation made by these figures with slavery
+makes any recommendations by such figures immediately
+suspect. However, we should not overlook the reverence with which many
+US Citizens hold such figures. This is unsurprising; at the time of
+the American Revolution, the American Government, too, was _sui
+generis_, and some of these ideas were adopted for the early
+republic. Over time, many were discarded, some for reasons of
+expedience; others, because they could not work in isolation from
+other principles.
+
+The point then, is that The Baha'i Faith's Administrative Order has
+much to thinkers and reformers of government. Whether or not
+democracies throughout the world are currently in a moment of crisis
+is debateable. What is not debateable is the constant need of new
+ideas to ensure progress in this area.
 
 --------------------------------------------
 
@@ -171,13 +168,14 @@ It doesn't take much study of this structure to note that, at least
 with respect to a representative democracy, there is much that doesn't
 "look right" to Western eyes. Assembly votes are by plurality, not
 majority. There is no formal "separation of powers." There is no
-system of political parties or factions, to seemingly organize people
-on the basis of comon interest. There are no nominations or runoff
-elections. The representatives are not held as responsible to the
-voters, which is just as well, since in practice there is no way of
-knowing the way any assemblyperson voted. Indeed, while minutes of
-meetings are available, consultation is frequently confidential. There
-is no "Robert's Rules of Order" to keep parliamentarians usy.
+system of political parties or factions to organize people on the
+basis of comon interest. There are no nominations or runoff
+elections. The representatives that are elected are not held as
+responsible to the voters, which is just as well, since in practice
+there is no way of knowing the way any assemblyperson voted. Indeed,
+while minutes of meetings are available, they are done so in a way
+that does not identify the speakers. There are no "Robert's Rules of
+Order" to keep parliamentarians busy.
 
 From the point of view of any political scientist, then, this looks
 like a flawed democracy. And in the past, influential declared Baha'is
@@ -213,9 +211,9 @@ truly a democracy, at least not in the sense we are used to:
    the objectionable features which they inherently possess.
        (Shoghi Effendi, The World Order of Baha'u'llah, p. 152)
 
-What is the Baha'i Faith, then? What can be said about it, and how is
-it classified? We are told that it is a model for future governance of
-the human race, but if it is not a democracy, what is it?
+What is the Baha'i Faith governance model, then? We are told that it
+is a model for future governance of the human race, but if it is not a
+democracy, what is it?
 
 It is a form of _participative government_ for sure. In the west, we
 generally think of participative government as meaning a
@@ -247,8 +245,7 @@ western liberal outlook has become associated with an unnecessarily
 narrow perspective on what a "good government" should look like. Given
 this narrowing vision, even the most well-engineered, well-meaning
 alternative will be discareded thoughtlessly simply on the basis of
-it being unfamiliar. This is ironic given the open minded nature that
-otherwise is associated with liberal discourse.
+it being unfamiliar.
 
 It is necessary to examine the Baha'i Faith with an open viewpoint to
 ensure that its strengths are recognized and that it is properly
@@ -265,30 +262,34 @@ other mistakes in analysis.
 
 Such an accounting is key for the necessary defense of the
 faith. There are some communities within which the Baha'i community
-operates that is skeptical of any organization with governance that
-does not follow normal rules of representative democracies, including the
-necessary traceability for decisions made. Others are defenders of
-liberalism who would otherwise be well-wishers but react negatively to
-unfamiliar constructs which may seem undemocratic. Finally there are
-those who are negatively disposed toward organized religion itself and
-will take any opportunity to use points of novelty to paint our
-administrative organization as regressive. Proper conceptualization is
-necessary to defend our institutions from a point of strength.
+operates that are skeptical of any organization with governance that
+does not follow normal rules of representative democracies, including
+the necessary traceability for decisions made. Indeed, there have
+beeen governments that have negatively reacted to its structure, egged
+on by the accusations of those who wish The Baha'i Faith ill. Others
+are defenders of liberalism who would otherwise be well-wishers but
+react negatively to unfamiliar constructs which may seem
+undemocratic. Finally there are those who are negatively disposed
+toward organized religion itself and will take any opportunity to use
+points of novelty to paint our administrative organization as
+regressive. Proper conceptualization is necessary to defend our
+institutions from a point of strength.
 
-## A Summary of Key Baha'i Principles
+## An Analysis of Key Baha'i Principles from the Writings
 
 There are a number of key principles that underlie Baha'i
-governance. While all of these are familiar to Baha'is, it is worth
-reiterating in this paper. Many are unusual for civic bodies, and all
-are worth examining.
+governance. While all of these are familiar to Baha'is, they are worth
+identifying them explicitly. Many of these principles are unusual for
+civic bodies, and all are worth examining.
 
-Many of students of The Faith, including the bulk of Baha'is, are
-familiar with these principles of Baha'i governance as laid laid forth
-in Shoghi Effendi's _World Order of Baha'u'llah_. However, this is not
-a latter-day innovation imposed upon the teachings outlined by
-Baha'u'llah. Shoghi Effendi was at pains to point out to believers
-that the most important of these principles were restatements of
-principles enunciated by both Baha'u'llah and 'Abdu'l-Baha:
+Students of The Faith, including the bulk of Baha'is, are familiar
+with these principles of Baha'i governance as laid laid forth in
+Shoghi Effendi's _World Order of Baha'u'llah_. However, one must
+realize this was not a latter-day innovation imposed upon the
+teachings outlined by Baha'u'llah. Shoghi Effendi was at pains to
+point out to believers that the most important of these principles
+were restatements of principles enunciated by both Baha'u'llah and
+'Abdu'l-Baha:
 
     The concentration of authority in the hands of the elected
     representatives of the believers; the necessity of the submission
@@ -302,24 +303,10 @@ principles enunciated by both Baha'u'llah and 'Abdu'l-Baha:
 So far from being inventions by The Guardian, the bulk of these have
 antecedents in writings of both Baha'u'llah and 'Abdu'l-Baha.
 
-Ironically, many of these have strong parallels with recommendations by
-the "founding fathers" of the US. As Baha'is, we are well aware of the
-flaws of many of the historical figures that founded the United
-States; for some, the accomidation made by these figures with slavery
-makes any recommendations by such figures immediately
-suspect. However, we should not overlook the reverence with which many
-US Citizens hold such figures. This is unsurprising; at the time of
-the American Revolution, the American Government, too, was _sui
-generis_, and some of these ideas were adopted for the early
-republic. Over time, many were discarded, some for reasons of
-expedience; others, because they could not work in isolation from
-other principles.
-
 This author has identified a number of key governing principles of the
 Baha'i Faith. While not claimed to be either exhaustive or
 authoritative, this can serve as a good summary of principles that can
-be carried over to other governing organizations. Let's revisit some
-of these:
+be carried over to other governing organizations.
 
 **Decisions Made through Consultation, with Strong Preference for Unanimity**
 
@@ -345,6 +332,10 @@ tasks forces and grassroots activities only indirectly answerable to
 such institutions.
 
 It should be noted that
+
+
+
+
 
 **Governing Representatives Have No Constituency**
 
@@ -1142,6 +1133,41 @@ any presumed excesses of civic governance.
 
 ## Lessons for Governance
 
+From the above, we have a number of recommendations that can be used
+to improve civic governance, from small organizations, to regional
+goverments up to nation-states themselves. Summarizing from the above:
+
+1. Importance of nonpartisan consultative deliberation.
+
+2. Representation work on behalf of organization as a whole, rather
+than constituents.
+
+3. Voting based on character, deliberative abilities, and
+ability to listen.
+
+4. Ban on political parties and factions.
+
+5. Strict limits on campaigning and electioneering; ban on block
+voting.
+
+6. Proper control of election environment; emphasis on ease of
+voting. Goal of 100% participation.
+
+7. Representatives selected in a manner to represent diverity of
+views (e.g. proportional representation, sortition, etc.).
+
+8. Minimal consitituion focusing on rulemaking body.
+
+9. Indirect elections of regional, national and international bodies.
+
+10. Limited transparency of deliberations to ensure frank exchange of
+views.
+
+11. Importance of educating all in civic virtues.
+
+12. Emphasis on decentralization; federalism.
+
+
 ### For Voluntary Organizations, Nonprofits, Corporations
 
 
@@ -1150,6 +1176,56 @@ any presumed excesses of civic governance.
 
 # Concluding notes
 
+
+# Endnotes and Appendices
+
+(1) Much as alternatives to our current form of democracy are so
+unappealing that it is resigned to as a given, the capitalistic
+economy is also accepted as a given. The failed
+alternative economies of the late twentieth century all posed very
+similar alternatives - that of massive state control. Marxist
+governments imposed this for theoretical reasons; other regimes, be
+they fascist, military juntas or other states imposted state control
+out of convenience, all the better to confiscate the goods necessary
+to pay off supporters and members of favored classes. Since all forms
+relied on excessive state control, all suffered the same general
+problems.  State control caused such economies to develope
+inefficiencies that made them unable to compete with capitalistic
+alternatives. Whatever one may think the root cause of collaps of
+these governments was, the fact that economic inefficiencies and an
+inability to compete on the world states was a crucial contributor.
+
+The nature of these inefficiencies is debateable. The textbook
+explanation is that state-controlled economies lacked the pricing
+mechanisms that served to send signals throughout the economy that
+kept demand and supply balanced. While that may be true, it is
+possible that even more damage was caused because by placing all
+control in the economy in the hands of government. By doing so, it
+made the government itself the prime target for the sociopathically
+greedy and the grifter. As a result, these economies were not only
+inefficient, but frequently run through with corruption to the highest
+levels. In any event, alternatives to capatalist economies are
+generally framed in terms of _different_ capitalist models. One may
+think of the United States, China and the Nordic countries as all
+having different economic systems, but remarkably all of them are
+identifiably capitalistic. Indeed, alternatives proposed by critics of
+capitalism usually consist of heavily redistributive tax levies to
+transfer wealth from the wealthy to the poor - all the while, keeping
+the entire basic capitalist structure otherwise intact.
+
+The primary problem is a lack of a practical, appealing alternative
+that can work on an international scale. There are in fact,
+glimmerings of alternatives for those who wish to look: social
+enterpreneurs working off of grants and funding aggregators; economic
+theorists testing alternate currencies; the open source software
+community, where product is given away and services based on that
+product are sold. Indeed, much of the wealth created today is in the
+form of intellectual property, which once created, can be used by any
+number of people. This fact in and of itself is enough to break
+standard economic models, which are based on goods that, once produced
+can only be used by a single purchaser. But as of yet, there is no
+sign of an alternative to market economies as efficient models for
+distribution.
 
 # Appendix: On Church and State
 
@@ -1160,16 +1236,26 @@ presume that future developments will inevitably lead to a rebirth of the
 Vatican I reform - a unitary merge of State and Religion in which the
 Baha'i Faith's own institution of governance, as it _currently
 exists_, is the central point of centralized control for this
-government. The Baha'i Faith has much to say about government, but it
-is a misreading to think that _current_ institutions are anything more
-than an embryonic foreshadowing of what may happen in the future. It
-is tempting, but probably inappropriate at this present moment, to
-envision how the involvement of Baha'i institutions will impact secular
-institutions in the future.
+government. Conversely, some academics both inside and outside the
+faith have made efforts to assert the converse, and claim that certain
+statements by 'Abdu'l-Baha mean that the Baha'i Faith should and can
+never claim any secular power.
+
+In this author's honest opinion, forcing one's view onto such
+controversies is a bit like insisting on solutions to the eventual
+overpopulation of our martian colonies. Much as one figures that it
+will eventually require a solution, it is so far removed that one
+cannot but think this is a proxy fight over something else.  The
+Baha'i Faith has much to say about government, but it is a misreading
+to think that _current_ institutions are anything more than an
+embryonic foreshadowing of what may happen in the future. It is
+tempting, but probably inappropriate at this present moment, to
+envision how the involvement of Baha'i institutions will impact
+secular institutions in the future.
 
 The Baha'i Faith anticipates the formation of a world government; it
-anticipates the formation over time of an entire world commonwealth;
-it even prophecies a golden age in which these two merge. This is quite
+anticipates the formation over time of an entire world
+commonwealth. These points are quite
 explicit in Shoghi Effendi's _World Order of Baha'u'llah_:
 
     ... as the Baha'i Faith permeates the masses of the peoples of
@@ -1180,19 +1266,18 @@ explicit in Shoghi Effendi's _World Order of Baha'u'llah_:
     rights, the duties, and responsibilities incumbent upon the
     world's future super-state.
 
-Critics have used writings such as these levy against the Faith the charge that
-what we seek is a new Caliphate. Baha'is have tended to react by
-pointing out the noncoercive nature of Baha'i membership and the
-democratic mechanism of elections. What both critics and defenders
-fail to realize that the institutions of the Faith themselves are
-intended to evolve over time. The current form of Baha'i governance is
-not in its ideal, finished state - no more than the present
-presedential or parliamentary forms of democratic governance are in
-their finished state. Shoghi Effendi explicitly indicates that the
-primary difference between these rests in the fact that it is
-explicitly outlined by our Prophet and Founder Baha'u'llah, but such
-an argument is unlikely to convince a skeptic. The other primary
-difference he gives may be more meaningful:
+Critics have used writings such as these levy against the Faith the
+charge that what we seek is a new Caliphate. Baha'is have tended to
+react by pointing out the noncoercive nature of Baha'i membership and
+the democratic mechanism of elections, and the fact that world
+government and commonwealth may mean entirely different things. What
+both critics and defenders fail to realize that the institutions of
+the Faith themselves are intended to evolve over time. Shoghi Effendi
+gives two defenses of this accusation of trying to create a new
+caliphate. His first defense, which will only resonate with believers,
+is that the religious governmental structure is explicitly outlined by
+our Prophet and Founder Baha'u'llah. For nonbelievers, the other
+defense he gives is more meaningful:
 
     ... whatever is deemed necessary to incorporate into it in order
     to keep it in the forefront of all progressive movements, can,
@@ -1212,7 +1297,7 @@ difference he gives may be more meaningful:
     has been already enacted and enforced by a preceding House of
     Justice. (21-Mar-1930)
 
-That is, because the law and structure of the governance is not laid
+That is, because only the framework for governance is laid
 down, it is possible to make whatever changes to administrative
 structure that is required going forward. Very importantly, it implies
 that decisions made are never final, and prior decision is never truly
