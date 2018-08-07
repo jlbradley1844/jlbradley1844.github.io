@@ -1477,19 +1477,17 @@ demographics.
 Before discussing what the Baha'i Faith has to offer in this area,
 there are some important caveats that need to be acknowledged. This is
 important to prevent recommending practices that may not work in
-secular settings.
+secular settings. While Baha'i Faith has much to offer on the issue of
+participative governance, it is important to note this is not the
+primary purpose of the Baha'i Faith. It addresses this issue
+extensively, insofar as it serve the purpose of "creating an
+ever-advancing civilization."  However, the Baha'i Faith itself cannot
+be confused with a political system, or even a movement of social
+reform, much as it can contribute to those areas.
 
-While Baha'i Faith has much to offer on the issue of participative
-governance, it is important to note this is not the primary purpose of
-the Baha'i Faith. It addresses this issue extensively, insofar as it
-serve the purpose of "creating an ever-advancing civilization."
-However, the Baha'i Faith itself cannot be confused with a political system,
-or even a movement of social reform, much as it can contribute to
-those areas.
-
-A first point is that the Baha'i Institutions, as they currently
-exist, are primary spiritual instatutions for the propagation and
-protection of The Faith. As such, they are limited in both the power
+It must be remembered that the Baha'i Institutions, as they currently
+exist, are primary "spiritual" instatutions for the propagation and
+protection of The Faith. They are limited in both the power
 and sphere of operation. While this does not mean it is impractical to
 look at Baha'i governance and decision-making as a model, it
 does mean that certain values and ethical mores that are taken for
@@ -1498,12 +1496,15 @@ secular political solutions. This means any civic or secular
 institution adopting these may wish to enforce safeguards that do not
 exist in the Baha'i Faith.
 
-For instance, the fact that elections must take place in an atmosphere
-of reverent reflection and prayer is seen as central to governance,
-and electioneering is prohibited at voting. Having been a voter for
-over thirty years, I can confidently say the elections in the USA also
-take place in a quiet, respectful environment. However, this is not
-just because Americans are unusually polite. Electioneering in Baha'i
+An example may make this concrete. Baha'i elections must take place in
+an atmosphere of reverent reflection and prayer, which is seen as
+central to governance; electioneering is prohibited at voting. United
+States elections have some of the same features; polling places are
+unusually orderly, and I rarely hear anyone talking in the line for
+polling. Having voted in Baha'i elections for over twenty years and US
+elections for over thirty years, I can confidently say that both
+elections take place in a quiet, respectful environment. However, the
+nature of enforcement is quite different. Electioneering in Baha'i
 voting is so unthinkable that controls are rarely thought of as
 necessary. However, in civic elections in the United States, there are
 usually purposely visible law enforcement officials prominently
@@ -1512,36 +1513,41 @@ the orange pylons at the polling booth when handing out
 pamphlets. Nothing keeps honest people honest like armed enforement.
 
 This means we need to cast a more skeptical eye on practices that
-could be easy to corrupt due to bad faith and agency concerns. For
-instance, the diversity necessary for proper selection of Spiritual
-Assemblies requires plurality voting, which requires that everyone
-take to heart Shoghi Effendi's warnings against corruption, collusion,
-partisan politics and formation of blocs. One reason plurality voting
-is probably rare in practice is it is so easily frustrated by the use
-of "block voting" by groups within organizations. Wispering campaigns
-could be used to target elected members, perhaps initiated by electees
-who wish to drive out a member with unknown views. Members could
-likewise selectively leak their opposition to initiatives sponsored by
-their own bodies, to limit its effectiveness. This does not mean that
-secular governance cannot learn from the Baha'i Faith, but it does
-mean that additional safeguards not practiced by Baha'is must be
-introduced.
+could be easy to corrupt due to bad faith and agency concerns. At the
+very least, we would need safeguards that are thought of as
+unnecessary. For instance, the diversity necessary for proper
+selection of Spiritual Assemblies requires plurality voting, which
+requires that everyone take to heart Shoghi Effendi's warnings against
+corruption, collusion, partisan politics and formation of blocs. One
+reason plurality voting is probably rare in practice may be because it
+is easily corrupted by the use of "block voting" by groups within
+organizations. Whispering campaigns could be used to target elected
+members, perhaps initiated by electees who wish to drive out members
+with disagreeing views. Members could likewise selectively leak their
+opposition to initiatives sponsored by their own bodies, to limit
+their effectiveness. This does not mean that secular governance cannot
+learn from the Baha'i Faith, but it does mean that additional
+safeguards not practiced by Baha'is must be introduced. For voting,
+this may mean automatic checks for "block voting" and retention of
+ballots. For elected officials, this may require prohibitions on
+speech similar to those used on juries when one is told not to discuss
+the case outside the jury room.
 
 A final point is that Baha'i governance is presumed to be weilded by
 those who care about the Baha'i Faith. This is so obvious you may
-wonder why I'm saying this. But in this day and age, it seems obvious
+wonder why I'm saying this. But it is worth remembering
 that some people wish to serve in goverments for the purposely
 proclained intention of ruining said government for one's own
 reasons. Someone may gain control of institutions in order to force
-them into inefficiency, providing an excuse to set up new institutions
-tailored to one's own liking. Or someone who wishes to weaken the
+them into inefficiency, providing them an excuse to set up new institutions
+tailored to their own liking. Or, someone who wishes to weaken the
 power of civic governance may find it easy to run things exremely
 badly and inefficiently, essentially wrecking things for everyone,
-than to have an honest debate about any presumed excesses of civic
+rather than to have an honest debate about any presumed excesses of civic
 governance. The lack of checks and balances in this system means that
 if a corrupt slate of candidates did somehow gain control of the
-organization, it could do an enormous amount of damage within their
-yearlong control of the organization.
+organization, it could do an enormous amount of damage under their
+control until new elections can be held.
 
 # Lessons for Governance
 
@@ -1592,9 +1598,12 @@ change executive, but is not free in any way to amend core principles.
 11. Limited transparency of deliberations to ensure frank exchange of
 views.
 
-12. Importance of educating all in civic virtues.
+12. Importance of education of citizenry in civic virtues.
 
 13. Emphasis on decentralization; federalism.
+
+14. Heavy emphasis on input and feedback from members at large, but no
+mechanism to bypass leadership via referendum process.
 
 As indicated in the caveat above, it may not be possible to adopt any
 single one in isolation, and many may require enforement mechanisms
