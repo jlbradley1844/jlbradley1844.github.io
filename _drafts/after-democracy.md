@@ -76,15 +76,15 @@ problems:
 
 * Easy corruption of the system by entrenched, monied interest;
 
-* Obvious manipulation of popular will caused by propaganda against
+* Obvious manipulation of popular through crude propaganda against
   minority groups;
 
 * Gridlock caused by thoughtless partisanship, entrenched by masses of
   voters that use the franchise to reward those in their on class and
   punish those outside of it;
 
-* The elevation of the incompetent and corrupt by "low-information
-  voters";
+* The elevation of incompetend and corrupt elected representatives
+  based on "in-group" membership;
   
 * The creation of disconnected bureaucracies that frequently must
   ignore popular will in the name of "getting something done";
@@ -93,10 +93,9 @@ problems:
   neither the skills nor the mandate to defend their decisions against
   propaganda by entrenched interests that benefit from the status quo;
 
-* A remarkable vulnerability to majoritarian abuses of
-  power;
+* Vulnerability to majoritarian abuses of power;
 
-* The ability of demagogues to entirely subvert the system by rigging
+* The ability of elected officials to subvert the system by rigging
   democratic institutions once they gain positions of power.
 
 Many of these problems have been the signal signs of poorly
@@ -172,15 +171,15 @@ From this point of view, then, it would not seem that the Baha'i Faith
 has much to offer; it is yet another democratically-elected
 institution. Yet it doesn't take much study of this structure to note
 that, at least with respect to a representative democracy, there is
-much that doesn't "look right" to Western eyes. Assembly members are
+much that is unusual to Western eyes. Assembly members are
 elected by plurality, not majority, with no runoff. There is no formal
 "separation of powers." There is no system of political parties or
 factions to organize people on the basis of comon interest. There are
 no nominations or runoff elections. The representatives that are
 elected are not held as responsible to the voters, which is just as
 well, since in practice there is no way of knowing the way any
-assembly person voted; minutes of meetings are generally open and
-available, but are written in a way that does not identify the
+assembly person voted: minutes of meetings, while open and
+available, are written in a way that does not identify the
 speakers. There are no "Robert's Rules of Order" to keep
 parliamentarians busy.
 
@@ -213,7 +212,7 @@ so dominant that even autocracies find it convenient to mimic the
 institutions of such government, in spite of the fact that the
 resulting assemblies rarely carry out any meaningful mandate. (After
 all, if the government is superfluous, why spend time being creative
-when you draw your consititution? Just copy one that's popular and
+when you draw your consititution? Just copy a popular one and
 go about ignoring it.)
 
 In fact, these unusual points are not flaws, but important features. A
@@ -235,7 +234,7 @@ nation-state. In many cases, these features are not novel, but were
 presented by earlier writers from the enlightenment founders of
 democracy; such writings give perspective on theese points.
 
-## An Analysis of Key Baha'i Principles from the Writings
+# An Analysis of Key Baha'i Principles from the Writings
 
 There are a number of key principles that underlie Baha'i
 governance. While all of these are familiar to Baha'is, they are worth
@@ -260,8 +259,8 @@ were restatements of principles enunciated by both Baha'u'llah and
     publications, have been sedulously instilled by Abdu'l-Baha, as
     evidenced by His authenticated and widely-scattered Tablets. (27-Feb-1929)
 
-So far from being inventions by The Guardian, the bulk of these have
-antecedents in writings of both Baha'u'llah and 'Abdu'l-Baha.
+So, far from being inventions by The Guardian, the bulk of these features have
+antecedents in writings by both Baha'u'llah and 'Abdu'l-Baha.
 
 This author has identified a number of key governing principles of the
 Baha'i Faith. While not claimed to be either exhaustive or
@@ -273,6 +272,12 @@ other governing organizations. The hope is that it can contribute to a
 dialog on improving existing governing structures, both at the secular
 level, and at the level of governments of voluntary civic
 associations.
+
+This section is extremely heavy on citations. These citations are
+important for context. The primary purpose of this analysis was to
+shed light on the nature of many of the unsual features of Baha'i
+governance, and it is not possible to understand their intent without
+reference to the writings that indicate the nature of these features.
 
 **Decisions Made through Consultation, with Strong Preference for Unanimity**
 
@@ -319,11 +324,12 @@ tablets. This excerpt from 'Abdu'l-Baha includes many important points:
 
 	(Abdu'l-Baha, Baha'i World Faith - Abdu'l-Baha Section, p. 406)
 
-Ideally consultation will result in a unanimous decision. If this is
-not possible, it may be necessary to make a decision by majority vote,
-but this is never a preferred alternative. If a vote was taken, the
-decision is treated no differently than any other unanimous decision;
-there is no "minority report" or dissention:
+Ideally, consultation will result in a unanimous decision by the
+deliberating assembly. If unanimity is not possible, it may be
+necessary to make a decision by majority vote, but this is never a
+preferred alternative. If a vote was taken, the decision is treated no
+differently than any other unanimous decision; there is no "minority
+report":
 
     "It is important to realize that the spirit of Bahá'í consultation
     is very different from that current in the decision-making
@@ -365,7 +371,8 @@ there is no "minority report" or dissention:
 
 	(Compilations, Lights of Guidance, p. 47)
 
-Some further principles regarding consultation in communities:
+Some further principles regarding consultation in the Baha'i governing
+institutions:
 
     "In your letter of 4 April you enquire further about the
     principles governing the presence of a member of the National
@@ -439,7 +446,8 @@ such institutions.
 It should be noted that the spirit of consultation is as important as
 the mechanics of the consultation. Ordinary political discourse
 commonplace is considered far from the ideal. 'Abdu'l-Baha' commented
-on a parliamentary seesion he once attended:
+on this distinction, by contrasting consultation against a discussion
+he viewed in a parliamentary seesion:
 
     In this Cause consultation is of vital importance, but spiritual
     conference and not the mere voicing of personal views is
@@ -539,12 +547,11 @@ involving infringement of one's rights or improper procedures, the
 members are encouraged to appeal to a higher authority if it is not
 possible to get satisfaction from the assembly:
 
-    Appeal of a Decision 
-    Whenever there is any infringement of Bahá'í
-    rights, or lapse in the proper procedure, the friends should take
-    the matter up with the Assembly concerned, and, if not satisfied,
-    then with the National Spiritual Assembly. This is both their
-    privilege and their duty.
+    Whenever there is any infringement of Bahá'í rights, or lapse in
+    the proper procedure, the friends should take the matter up with
+    the Assembly concerned, and, if not satisfied, then with the
+    National Spiritual Assembly. This is both their privilege and
+    their duty.
 
         Shoghi Effendi, July 10, 1942, enclosed with a letter written
         on behalf of the Universal House of Justice, dated January 1,
@@ -552,7 +559,7 @@ possible to get satisfaction from the assembly:
 
 	(Compilations, NSA USA - Developing Distinctive Baha'i Communities)
 
-Consultation is so sentral to the Baha'i Faith, and has been found so
+Consultation is so central to the Baha'i Faith, and has been found so
 helpful in areas outside of the Baha'i Faith, that this is probably
 the feature of the Baha'i Faith most eagerly adopted by civic
 organizations outside of the faith. However, there are many more
@@ -614,11 +621,11 @@ allow his own inclinations to interfere with decisions.
 Contrariwise, the conditions of the community are indeed important,
 and must inform all deliberations. Continuing, Shoghi Effendi elaborates:
 
-    They may, indeed they
-    must, acquaint themselves with the conditions prevailing among the
-    community, must weigh dispassionately in their minds the merits of
-    any case presented for their consideration, but must reserve for
-    themselves the right of an unfettered decision. (WOB 8-Feb-1934)
+    They may, indeed they must, acquaint themselves with the
+    conditions prevailing among the community, must weigh
+    dispassionately in their minds the merits of any case presented
+    for their consideration, but must reserve for themselves the right
+    of an unfettered decision. (WOB 8-Feb-1934)
 
 Assembly members must not make their decision in isolation from the
 community, but should rather be very informed with any information
@@ -668,7 +675,7 @@ anyone serving on these elcted bodies:
     on the other. (BA 18-Oct-1927)
 
 **Voting Based on Character and Competency Rather than Political
-  Positions; Determination Requires Community Involvement**
+  Positions; Making This Determination Requires Community Involvement**
 
 Civic virtues are particularly important among those empowered in the
 government itself; some of this has already been alluded to in the
@@ -676,15 +683,15 @@ section on the duty of representatives. Being that representatives are
 responsible to no one except themselves (and each other, to some
 extent), all representatives must be of ideal moral calibre.
 
-This is described at length in 'Abdu'l-Baha's political work _The
-Secret of Divine Civilization_, which is perhaps the only book-length
-work in the Baha'i Faith dedicated to political manners. In it, very
-little time is spent on recommending concrete aspects of governance;
-in fact, very few of the the specific recommendations in this paper
-are mentione! Rather, much is written about the moral qualifications
-necessary of all those who serve, legislate and work for and on behalf
-of the civic government. Passages like this are typical to the tenor
-of the writing:
+This facet of government is described at length in 'Abdu'l-Baha's
+political work _The Secret of Divine Civilization_, the only
+book-length work in the Baha'i Faith dedicated to political
+manners. In it, very little time is spent on recommending concrete
+aspects of governance; in fact, very few of the the specific
+recommendations in this paper are mentioned! However, much is written
+about the moral qualifications necessary of all those who serve,
+legislate and work for and on behalf of the civic government. Passages
+like this are typical:
 
     While the setting up of parliaments, the organizing of assemblies
     of consultation, constitutes the very foundation and bedrock of
@@ -711,7 +718,7 @@ of the writing:
 
 	(Abdu'l-Baha, The Secret of Divine Civilization, p. 17)
 
-And later, he writes to the same effect:
+Later, he writes to the same effect:
 
     It is unquestionable that the object in establishing parliaments
     is to bring about justice and righteousness, but everything hinges
@@ -795,27 +802,28 @@ usually a "leader." This person, be it the prime minister, president,
 mayor or chief executive, is generally the one person who is looked to
 as the head of government.
 
-No such person exists in any elected Baha'i institution. Smaller
-institutions have their own officers, with their own responsibility;
+No such person exists in any elected Baha'i institution (4). While these
+institutions have their own officers, with their own responsibilities;
 e.g. a permanent chair of the meetings, a treasurer, and so
-forth. These offices should not be taken as signaling someone is the
+forth, these offices should not be taken as signaling someone is the
 "leader" of that institution.
 
 To make this distinction even more concrete, my understanding (based
 on a visit to Haifa in 2002) is that the chairmanship of the Universal
-House of Justice rotates between its members. As far as other elected
-bodies, the voting process, interestingly enough, requires an actual
-majority election, without nominations, for all offices. This can
-frequently requires several rounds of balloting.
+House of Justice rotates between its members. A notable point of
+interest is the way in which these officers are selected. They are
+voted on by the elected bodies themselves, and officer selection
+requires an actual election by the majority, without nominations. This
+can frequently requires several rounds of balloting.
 
 As such, there is a culture that seeks to avoid elevating those in the
 elected bodies as being higher rank than other members of the Baha'i
 Faith, in spite of their position of responsibility. This is in marked
-contrast to civic society in popular culture, that generally looks at
-the executive, even elected ones, as a sort of "king" who leads the
-nation; it is of course far-removed from the authoritarian or fascist
-ideal, which uses a cult of personality to elevate a leader beyond
-questioning.
+contrast to popular culture's vision of leadership that generally
+looks at chief executives as a sort of "king" who leads the
+nation. Indeed, it is the polar opposite of the authoritarian or
+fascist ideal, which uses a cult of personality to elevate a leader
+beyond questioning.
 
 Ironically, the Baha'i writings have a special regard for kingship,
 in a very specific way: Baha'u'llah himself seemed particularly
@@ -826,25 +834,16 @@ Baha'u'llah later in the same writing references the "two signs of the
 maturity of mankind," one of which is that no man will be willing to
 bear the weight of kingship.
 
-Baha'is reading will probably note one obvious omitted trait of
-the Administrative order that would seem to undercut this point. One
-unusual feature of the Baha'i Faith is that the lack of a unitary
-executive has historically not been a feature of the Baha'i
-Faith. Instead, 'Abdu'l-Baha, in his
-will and testament, created the "Guardianship" rather than call for
-the election of the Universal House of Justice. This was seen as
-having a complimentary role to the Universal House of Justice, but the
-Guardian, as he existed, was for all intents and purposes the center
-of the Baha'i Faith. However, the Guardianship as a living source of
-authority ended in 1957 when the sole Guardian, Shoghi Effendi, died
-without a replacement. In the sixty-one years that have followed, no
-single individual has never directed the affairs of the Baha'i Faith.
-
 **Complete Ban on Campaigning, Electioneering, Block Voting and
   Political Parties**
 
-Indeed, the whole voting system is determined to keep such political
-issues from even being considered. Again, Shoghi Effendi:
+Elections are to be based on the moral and character qualifications of
+the candidates, and the entire environment in which voting takes place
+is intended to make it difficult to take political considerations into
+account when making this decision. Political parties are seen as
+particularly pernicious, to such an extent that Baha'is are not even
+allowed to belong to such organizations in their civic duties. Again,
+Shoghi Effendi:
 
     Let them exercise the utmost vigilance so that the elections are
     carried out freely, universally and by secret ballot. Any form of
@@ -896,6 +895,11 @@ this must inform the attitude of the voter:
     detached from all things but Him, seeking His guidance and
     supplicating His aid and bounty.
         (Letter written on behalf of Shoghi Effendi 27-Feb-1923)
+
+Fortunately, the US nation in which this author resides still seems to
+have enough respect for the voting process to make sure that most
+polling areas are orderly and respectful. While this may fail in some
+places, at least the ideal is respected.
 
 **Plurality Voting for Governing Representatives, Without Nominations**
 
@@ -964,8 +968,8 @@ stated this was because he wished it to take this form initially, but
 not tie the hands of the Universal House of Justice in the future. In
 any case, it remains the law throughout the Baha'i community.
 
-In any event, it is clear Shoghi Effendi favored this, particularly
-the lack of nominations:
+In any event, Shoghi Effendi clearly favored this, particularly the
+lack of nominations:
 
     As to the practice of nomination on Bahá'í elections, this the
     Guardian firmly believes to be in fundamental dis-accord with the
@@ -988,7 +992,7 @@ the lack of nominations:
        Guidance_, p. 9)
 
 As regards to why plurality is favored, one possibility may be to guarantee
-a representation of a divers set of elected officials.  Note the
+a representation of a diverse set of elected officials.  Note the
 emphasis placed on electors to vote for representatives that represent
 the diversity of the community. While there is no concept of "identity
 politics," electors cannot be unaware of the need to have
@@ -1013,7 +1017,8 @@ of that person:
 	(Shoghi Effendi, _The Advent of Divine Justice_ pp. 28-29)
 
 
-**Immutability of Certain Features Combined With Ease of Changing Governing Structures**
+**Immutability of Certain Features Combined With Ease of Changing
+  Governing Structures**
 
 Most governing bodies have constitutions. Constitutions are important
 because they describe not only how the structure of government, but
@@ -1026,31 +1031,28 @@ codes. However, what is unusual is the process for change.
 
 * Features laid down by the certain central figures of The Faith
   cannot be changed, as they are considered central to The Faith
-  itself. This writing has concentrated on just those features. All of
+  itself. This writing has concentrated mainly on those features. All of
   these features, except, arguably, certain points in the election
   process, are fixed and unchangeable.
 
-* However, anything else is flexible and can be changed through a
+* Anything else is flexible and can be changed through a
   majority vote by the primary governing body (the Universal House of
   Justice).
 
 This is noteable because if you limit your concerns only those bodies
 completely described by the writings of the central figures, such
-bodies are far too embryonic to completely elaborate the full
+writings are far too embryonic to completely elaborate the full
 governing structure. For instance, the assemblies are legislative, and
 perhaps to some extent, judicial arms of government. Discussion of an
-executive branch is entirely lacking. As a result, even medium-sized Baha'i
-assemblies are supplimented with various committees and groups that
-carry out assembly decisions. All of these are created by the
-assemblies and can be changed through consultation.
-
-This includes the supreme institutions of the Baha'i Faith, who have
+executive branch is entirely lacking. As a result, even medium-sized
+Baha'i assemblies are supplimented with various committees and groups
+that carry out assembly decisions. All of these are created by the
+elected assemblies and can be changed as seen fit by those assemblies.
+This includes the supreme institutions of the Baha'i Faith, which has
 brought into being institutions such as the appointed counselors and
 auxiliary boards, regional institutions, and recently, the various
-learning institutions. As such, the full scope of Baha'i governance is far more
-complex than that laid down in this writing; as these are pragmatic
-structures that may change, I have not attempted to analyze these for
-lessons in secular governance.
+learning institutions. As such, the full scope of Baha'i governance is
+far more complex than that laid down in this writing.
 
 The result is the ability to change governing institutions easily,
 based on the needs of the day. Shoghi Effendi has written with respect
@@ -1076,14 +1078,12 @@ to this:
 
 So there is no amendment process, as such; the core principles and
 certain elements are fixed and unchangeable, but everything in their
-implementation may be changed as a regular act of law. There are other
-safeguards in place to prevent this.
+implementation may be changed as a regular act of law.
 
 **Emphasis on Universal Participation in the Franchise**
 
-Far from any interest to narrow or cherry-pick the electorate, it is
-seen as a mandate to ensure as close to universal participation in the
-franchise as possible:
+It is seen as a mandate to ensure as close to universal participation
+in the franchise as possible:
 
     The universal participation of the blievers in every aspect of the
     faith... will endow the Baha'i community with such strenght that
@@ -1105,7 +1105,10 @@ There are, of course, exceptions to this. "Loss of voting rights" is a
 sanction sometimes applied to Baha'is, but these are for sactions of a
 serious matter. It seems evident that it is impermissible to revoke
 voting rights or make it difficult to vote simply because one is in a
-group disfavored by the governing authorities.
+group disfavored by the governing authorities. This is a far cry from
+models of current civic governance, which are frequently corrupted by
+the desire to "cherry pick" the voters that select an elected
+representative.
 
 **Indirect Election of Secondary and Tertiary Representatives**
 
@@ -1142,8 +1145,8 @@ representation, rather than by assembly. Per Shoghi Effendi:
     justice. (BA 12-May-1925)
 
 This is not happenstance; it appears Abdu'l-Baha himself was drawn
-towards indirect elections for positions of importance. Consider this excerpt,
-from _Star of the West_:
+towards indirect elections for positions of importance, even civic
+governments. Consider this excerpt, from _Star of the West_:
 
    Someone else asked regarding election and whether the country
    should be ruled by the people or by the wise ones among the people.
@@ -1191,9 +1194,10 @@ House of Justice does its deliberations; when the light is on,
 deliberations have begun, and one cannot enter the chamber then.
 
 Minutes are to be kept to justify decisions and provide limited
-transparency; they are not to be used to state who has expressed a
-particular view. See the following reference regarding the meetings of
-a National Spiritual Assembly:
+transparency into the reasons for assembly decisions; they are not to
+be used to identify who has expressed a particular view. See the
+following reference regarding the meetings of a National Spiritual
+Assembly:
 
     The purpose of the minutes is to record the action of the Assembly
     with sufficient back-ground information so that one reading the
@@ -1298,6 +1302,33 @@ point of view, this is a subsidiary relationship rather than one of
 equality. However, in practice, the bulk of all ordinary decisions are
 made at the lowest level practical.
 
+**No Referendum Process**
+
+There is no referendum process. In spite of the importance of
+community consultation, all recommendations to the assembly must be
+discussed and approved by the assembly. They cannot abdicate their
+role of deliberation and discussion to a majority vote on an issue.
+
+When placed in the context of Baha'i governance, this particular
+limitation makes more sense. The purpose of the elected institutions
+is to ensure that an elected group of people representing the
+community come to an informed decision among themselves. When it is
+the case that the community itself comes to a particular decision
+through consultation and wishes the elected body to act on it through
+recommendation, it is entirely likely that the elected body may do
+just that. But experience has shown that the majority referendum
+process can be corrupted in a number of ways. It is not a requirement
+that initiatives come from the elected institutions; in fact, it is
+expected that many of the initiatives are themselves products of the
+community that exected institutions simply provide feedback
+on. However, one critical purpose of this institution is to serve as a
+check of any passions a majority may have. Introducing majority
+referendum into this structure would, at is worst, serve to undermine
+elected officials whose charter is to make informed decisions on
+behalf of the community, as well as ensure that minority views are
+taken into account in decisions.
+
+
 **Importance of Civic Virtues**
 
 A final point is easy to overlook, but it must be emphasized. The
@@ -1353,11 +1384,93 @@ describing the Baha'i governing system. Let no one doubt - the Baha'i
 Administrative Order **is** a democracy. However, it is unusual enough
 that one may legitimately consider it as an entirely new structure.
 
-However, there is one historical structure that this has some elements
-in common with - the rule by "sortition," or rule by jury. The best
-known example is that of certain Greek communities of antiquity, where
-rulers were drawn from citizens by lots.
+There is one historical structure that this has some elements in
+common with - the rule by "sortition," or rule by jury. The best known
+example is that of certain Greek communities of antiquity, where
+rulers were drawn from citizens by lots. This is a little-known area
+of political science - the only thing I could find on the internet was
+an obscure preprint on "Government by Jury". Yet it makes several
+interesting point about how this might be a superior form of
+government:
 
+* By selecting a group of people from random, you get a good
+  cross-section of the community. This makes it much closer to a full
+  direct democracy, in that people selected are a subset of the
+  community at large, rather than those simply of those preferred by
+  majorities.
+
+* The purpose of the group is to deliberate, rather than represent
+  someone else's viewpoint. It is to fact-find and come up with the
+  best decision.
+
+* Juries generally discuss resolution of their issues in isolation,
+  where they can be free of public pressures.
+
+It is this author's assessment that the elected bodies of Baha'i
+governance bear far more resemblence to government by sortion than
+government by representative bodies. True, they are elected, but
+there are a few things I've noticed before. Some are from
+recollections of a small sample size (having served as teller a few
+times), but I'd be surprised if they failed to hold up unde r study:
+
+* The elected members of the assembly generally form a microcosm,
+  demographically speaking, of the community that they represent. It
+  is rare for one element to dominate (unless, of course, it dominates
+  the community).
+
+* In the larger communities, it is rare for any one Baha'i to actually
+  collect a pure majority of votes.
+
+* People already on assemblies garner their share of votes, but it is
+  rare to see someone vote for all nine to stay put. It is likewise
+  rare to see a ballot with votes for none of the existing assembly
+  members.
+
+* There doesn't seem to be much correlation with how people vote. I
+  suspect correlations between people voted for are actually quite
+  low, indicating Baha'is are taking very seriously Shoghi Effendi's
+  warning against collusion in voting. It also means any presumption
+  of a "conservative" versus "liberal" divides within the Baha'i
+  community is probably nonsense. Were it the case, you would clearly
+  see it in correlated voting patterns.
+
+* I suspect the distribution of votes for members in the community
+  follows a power law once the community reaches a certain size. I
+  would need siginificantly more vote totals to bear this out.
+
+There is frequent complaints of low turnover on assemblies, and I've
+heard some people complain in muttered tones that it is due to
+complacency or people voting for the same people. In fact, this is
+just a natural outcome of the way the votes fall out; there is no
+"incumbent slate" that is forcing the same people on the community
+again and again. My suspicion is the votes for individuals remain
+stable over time. If the vote distribution really does follow the
+power law, and people really are voting on the basis of how one judges
+the character of someone in the community, then there is little reason
+to think that the vote count any single individual collects would
+change dramatically
+over time, since their character certainly isn't going to change
+much. The more likely outcome is that you will have several people
+year over year who do well in voting, with perhaps some movement in
+the vote total order once you are past the top five vote getters,
+resulting one or two new people getting on the assembly occasionaly.
+And that is indeed what you do see.
+
+The longing for a "throw the bums out" slate is a feature of
+representative government, but is usually associated with partisan
+politics. In the context of a "jury government," the intention is that
+in the final analysis, it really doesn't matter which representaties
+you pick, so long as they are loyal and competent enough to follow
+their process carefully. As such, "throw the bums out" may not work,
+if what you get is another distribution of "bums" drawn from the same
+sample set, more likely than not looking exactly like the first set in
+composition. This author's suspicion is that the Baha'i Elections are
+working as intended; the reason for the dissatisfaction may very well
+be because, not in spite of, the fact that the elected assemblies
+reflect the community of voters within the Baha'i community; and that
+were there massive turnover, the makeup of the new assemblies would
+very much resemble the old one in the mix of opinions, attitudes and
+demographics.
 
 ## Caveats for Learning
 
@@ -1375,7 +1488,7 @@ or even a movement of social reform, much as it can contribute to
 those areas.
 
 A first point is that the Baha'i Institutions, as they currently
-exists, are primary spiritual instatutions for the propagation and
+exist, are primary spiritual instatutions for the propagation and
 protection of The Faith. As such, they are limited in both the power
 and sphere of operation. While this does not mean it is impractical to
 look at Baha'i governance and decision-making as a model, it
@@ -1393,9 +1506,10 @@ take place in a quiet, respectful environment. However, this is not
 just because Americans are unusually polite. Electioneering in Baha'i
 voting is so unthinkable that controls are rarely thought of as
 necessary. However, in civic elections in the United States, there are
-usually law enforcement officials plainly visible who will slap
-handcuffs on anyone who don't stay outside of the orange pylons at the
-polling booth when handing out pamphlets.
+usually purposely visible law enforcement officials prominently
+stationed who will slap handcuffs on anyone who don't stay outside of
+the orange pylons at the polling booth when handing out
+pamphlets. Nothing keeps honest people honest like armed enforement.
 
 This means we need to cast a more skeptical eye on practices that
 could be easy to corrupt due to bad faith and agency concerns. For
@@ -1403,12 +1517,12 @@ instance, the diversity necessary for proper selection of Spiritual
 Assemblies requires plurality voting, which requires that everyone
 take to heart Shoghi Effendi's warnings against corruption, collusion,
 partisan politics and formation of blocs. One reason plurality voting
-is probably rare is it is so easily frustrated by the use of "block
-voting" by groups within organizations. Wispering campaigns could be
-used to target elected members, perhaps initiated by electees who wish
-to drive out a member with unknown views. Members could likewise
-selectively leak their opposition to initiatives sponsored by their
-own bodies, to limit its effectiveness. This does not mean that
+is probably rare in practice is it is so easily frustrated by the use
+of "block voting" by groups within organizations. Wispering campaigns
+could be used to target elected members, perhaps initiated by electees
+who wish to drive out a member with unknown views. Members could
+likewise selectively leak their opposition to initiatives sponsored by
+their own bodies, to limit its effectiveness. This does not mean that
 secular governance cannot learn from the Baha'i Faith, but it does
 mean that additional safeguards not practiced by Baha'is must be
 introduced.
@@ -1416,16 +1530,20 @@ introduced.
 A final point is that Baha'i governance is presumed to be weilded by
 those who care about the Baha'i Faith. This is so obvious you may
 wonder why I'm saying this. But in this day and age, it seems obvious
-that one can adopt a political position of _intentionally_ ruining the
-government for one's own reasons. Someone may gain control of
-institutions in order to force them into inefficiency, providing an
-excuse to set up new institutions tailored to one's own liking. Or
-someone who wishes to weaken the power of civic governance may find it
-easy to run things exremely badly and inefficiently, essentially
-wrecking things for everyone, than to have an honest debate about
-any presumed excesses of civic governance.
+that some people wish to serve in goverments for the purposely
+proclained intention of ruining said government for one's own
+reasons. Someone may gain control of institutions in order to force
+them into inefficiency, providing an excuse to set up new institutions
+tailored to one's own liking. Or someone who wishes to weaken the
+power of civic governance may find it easy to run things exremely
+badly and inefficiently, essentially wrecking things for everyone,
+than to have an honest debate about any presumed excesses of civic
+governance. The lack of checks and balances in this system means that
+if a corrupt slate of candidates did somehow gain control of the
+organization, it could do an enormous amount of damage within their
+yearlong control of the organization.
 
-## Lessons for Governance
+# Lessons for Governance
 
 As discussed, the Baha'i Faith embeds a number of ideas in its
 governance. One may borrow one or some of these elements to improve
@@ -1441,6 +1559,8 @@ we hope that not only can it be used as an improvement, but that it
 can serve as a guiding principles for new forms of governance to take
 us beyond the majoritarian representation democracies that are
 accepted as givens throughout the world.
+
+Restating the principles from the above analysis, they are as follows:
 
 1. Importance of nonpartisan consultative deliberation, and consensus
 decision-making as strongly-preferred ideal.
@@ -1476,17 +1596,20 @@ views.
 
 13. Emphasis on decentralization; federalism.
 
-From the above, we have a number of recommendations that can be used
-to improve civic governance, from small organizations, to regional
-goverments up to nation-states themselves. Outside of the context of
-the Baha'i Faith, it is interesting to speculate which ones may be of
-use, and which ones require use in tandem with others in order to
-prevent corruption.
+As indicated in the caveat above, it may not be possible to adopt any
+single one in isolation, and many may require enforement mechanisms
+that are unneeded and undesireable in the religious community from
+which it springs. But with this caveat, there are still a wide range
+of reommendations that can be used to improve civic governance, from
+small organizations, to regional goverments up to nation-states
+themselves. Outside of the context of the Baha'i Faith, it is
+interesting to speculate which ones may be of use, and which ones
+require use in tandem with others in order to prevent corruption.
 
-### For Voluntary Organizations, Nonprofits, Corporations
+## For Voluntary Organizations, Nonprofits, Corporations
 
 
-### For Civic Governance
+## For Civic Governance
 
 
 # Concluding notes
@@ -1500,33 +1623,31 @@ economy is also accepted as a given. The failed
 alternative economies of the late twentieth century all posed very
 similar alternatives - that of massive state control. Marxist
 governments imposed this for theoretical reasons; other regimes, be
-they fascist, military juntas or other states imposted state control
+they fascist, military juntas or othertherwise, imposted state control
 out of convenience, all the better to confiscate the goods necessary
 to pay off supporters and members of favored classes. Since all forms
 relied on excessive state control, all suffered the same general
-problems.  State control caused such economies to develope
-inefficiencies that made them unable to compete with capitalistic
-alternatives. Whatever one may think the root cause of collaps of
+problems. Whatever one may think the root cause of collaps of
 these governments was, the fact that economic inefficiencies and an
 inability to compete on the world states was a crucial contributor.
 
-The nature of these inefficiencies is debateable. The textbook
-explanation is that state-controlled economies lacked the pricing
-mechanisms that served to send signals throughout the economy that
-kept demand and supply balanced. While that may be true, it is
-possible that even more damage was caused because by placing all
-control in the economy in the hands of government. By doing so, it
-made the government itself the prime target for the sociopathically
-greedy and the grifter. As a result, these economies were not only
-inefficient, but frequently run through with corruption to the highest
-levels. In any event, alternatives to capatalist economies are
-generally framed in terms of _different_ capitalist models. One may
-think of the United States, China and the Nordic countries as all
-having different economic systems, but remarkably all of them are
-identifiably capitalistic. Indeed, alternatives proposed by critics of
-capitalism usually consist of heavily redistributive tax levies to
-transfer wealth from the wealthy to the poor - all the while, keeping
-the entire basic capitalist structure otherwise intact.
+The textbook explanation is that state-controlled economies lacked the
+pricing mechanisms that served to send signals throughout the economy
+that kept demand and supply balanced. While that may be true, it is
+possible that even more damage was caused by placing all control in
+the economy in the hands of the state. By doing so, it made the
+government itself, rather than individual enterprises, the prime
+target for the sociopathically greedy and the grifter. As a result,
+these economies were not only inefficient, but frequently run through
+with corruption to the highest levels. In any event, current
+alternatives to capatalist economies are generally framed in terms of
+_different_ capitalist models. One may think of the United States,
+China and the Nordic countries as all having different economic
+systems, but remarkably all of them are identifiably
+capitalistic. Indeed, alternatives proposed by critics of capitalism
+usually consist of heavily redistributive tax levies to transfer
+wealth from the wealthy to the poor - all the while, keeping the
+entire basic capitalist structure otherwise intact.
 
 The primary problem is a lack of a practical, appealing alternative
 that can work on an international scale. There are in fact,
@@ -1540,28 +1661,34 @@ number of people. This fact in and of itself is enough to break
 standard economic models, which are based on goods that, once produced
 can only be used by a single purchaser. But as of yet, there is no
 sign of an alternative to market economies as efficient models for
-distribution.
+distribution of goods and services.
 
-(2) An important note regarding critics of The Baha'i Faith:
+(2) This work has been undertaken primarily with an eye towards
+analyzing features that make it differ from current democratic
+structures through society, and how others can benefit by adopting
+these features. But a secondary reason for this work is to ensure that
+the Administrative Order is characterized properly, to that
+questioning souls can properly understand it. While there are some who
+may attack the Baha'i Faith governance due to bad faith, there are no
+doubt many more who have legitimate questions about its structure, and
+such people deserve thoughtful answers.
 
 It is important to note from the outset that the features delimited
 are looked upon with skepticism by many.  From the point of view of
 someone only familiar with current civic models of government, one
 that presumes representatives must represent consituents and takes
 such things as political parties and coalition politics as a given,
-the Baha'i Faith may look like a flawed democracy. Indeed,
-there have been governments that have negatively reacted to its
-structure, egged on by the accusations of those who wish The Baha'i
-Faith ill. There are also those defenders of liberalism who would
-otherwise be well-wishers but react negatively to unfamiliar
-constructs which are seen as undemocratic. Finally there are those who
-are negatively disposed toward organized religion itself and will take
-any opportunity to use points of novelty to paint our administrative
+the Baha'i Faith looks like a flawed democracy. Indeed, there have
+been governments that have negatively reacted to its structure, egged
+on by the accusations of those who wish The Baha'i Faith ill. There
+are also those defenders of liberalism who would otherwise be
+well-wishers but react negatively to unfamiliar constructs which are
+seen as undemocratic. Finally there are those who are negatively
+disposed toward organized religion itself and will take any
+opportunity to use points of novelty to paint our administrative
 organization as regressive.
 
-Proper conceptualization of the structure of Baha'i governance is
-necessary to defend Baha'i institutions from a point of
-strength. There have been well-known controversies in the past thirty
+There have also been well-known controversies in the past thirty
 years as some academics, no doubt steeped in the knowledge of
 democracies and liberal norms, initiated a campaign to "fix" the
 elected institutions to adhere to such forms. Indeed, well before
@@ -1580,39 +1707,35 @@ of the west:
 	(The Universal House of Justice, A Wider Horizon, Selected
 	Letters 1983-1992, p. 218)
 
-It is necessary to examine the Baha'i Faith with an open viewpoint, to
-ensure that its strengths are recognized and that it is properly
-understood. If one wishes to use Baha'i governance as a model and
+If one wishes to use Baha'i governance as a model and
 apply its principles to secular governances, one must surely
-understand the model first, rather than misclassifying it. The primary
-reason for doing this enumeration was to allow other organizations and
-civic governments to benefit from this model, but a secondary reason
-was to make clear its benefits and help characterize its nature.  Any
+understand the model first, rather than misclassifying it. Any
 recommendation to "reform" it cannot be done without acknowledging its
 strengths and mechanisms. Once properly understood, such reasons for
 reform may disappear; contrariwise, if after understood, reasons for
 reform remain, then surely a strong case for such reform can be made
 and justified in consultation with the community.
 
-One thing that stands out from many criticism is the fact that many
-reformers seem to have an ideal government already in mind: the
+One thing that stands out in much questioning is the fact that many
+skeptics seem to have an ideal government already in mind: the
 Popperian ideal, in which two opposed parties vie for control and
 battle for favor of voters. Under such a mindset, the only problem
 with contemporary governments is the need for modifications at the
 margins, such as controls on election spending and a more engaged and
-educated population. Unfortunately, such thinking overlooks the deep
-problems with representative democracies that have become apparent
-over time. Overlooked by all these reformers this is the possiblity
-that there may be forms of participative governments that may be more
-just and fair while being less "democratic" in the terms we know. In
-this author's opinion, what is needed is less "democracy" in the
-majoritarian sense, and more focus on justice and maintaining the
-rights and responsibilities all citizens share.
+educated population. Unfortunately, the premature acceptance of this
+model overlooks the deep problems with representative democracies that
+have become apparent over time. Questioners and would-be "reformers"
+frequently overlook the possiblity that there may be forms of
+participative governments that may be more just and fair while being
+less "democratic" in the terms we know. In this author's opinion, what
+is needed is less "democracy" in the majoritarian sense, and more
+focus on justice and maintaining the rights and responsibilities all
+citizens share.
 
-(3) One of the most obvious points elided is some of the writings in
-the Baha'i Faith concerning the relationship between church and
+(3) One of the most obvious points this analysis purposely elides is
+the Baha'i Faith's attitude toward the relationship between church and
 state. This is a issue that bears further serious analysis by scholars
-within the Baha'i Faith.
+within the Baha'i Faith, but is out of the scope of this paper.
 
 This author has found that within the Baha'i Faith, there are a wide
 variety of beliefs of how this relationship may develop over
@@ -1633,8 +1756,8 @@ Religion in which the Baha'i Faith's own institution of governance, as
 it _currently exists_, is the central point of centralized control for
 this government. There are even those who insist that this is the one
 correct view. This author's honest opinion is that forcing one's view
-onto such controversies is a bit like insisting on solutions to the
-eventual overpopulation of our martian colonies. Much as one figures
+onto such controversies is a bit like insisting one's solution to the
+eventual overpopulation of Martian colonies. Much as one figures
 that it will eventually require a solution, it is so far removed that
 one cannot but think this is a proxy fight over something else.  The
 Baha'i Faith has much to say about government, but it is a misreading
@@ -1644,10 +1767,11 @@ tempting, but probably inappropriate at this present moment, to
 envision how the involvement of Baha'i institutions will impact
 secular institutions in the future.
 
-The Baha'i Faith anticipates the formation of a world government; it
-anticipates the formation over time of an entire world
-commonwealth. These points are quite
-explicit in Shoghi Effendi's _World Order of Baha'u'llah_:
+It is, however, important to be able to address misconceptions brought
+by questioners. The Baha'i Faith anticipates the formation of a world
+government; it anticipates the formation over time of an entire world
+commonwealth. These points are quite explicit in Shoghi Effendi's
+_World Order of Baha'u'llah_:
 
     ... as the Baha'i Faith permeates the masses of the peoples of
     East and West, and its truth is embraced by the majority of the
@@ -1658,7 +1782,7 @@ explicit in Shoghi Effendi's _World Order of Baha'u'llah_:
     world's future super-state.
 
 Critics have used writings such as these levy against the Faith the
-charge that what we seek is a new Caliphate. Baha'is have tended to
+charge that what Baha'is seek is a new Caliphate. Baha'is have tended to
 react by pointing out the noncoercive nature of Baha'i membership and
 the democratic mechanism of elections, and the fact that world
 government and commonwealth may mean entirely different things. What
@@ -1688,15 +1812,14 @@ defense he gives is more meaningful:
     has been already enacted and enforced by a preceding House of
     Justice. (21-Mar-1930)
 
-That is, because only the framework for governance is laid
-down, it is possible to make whatever changes to administrative
-structure that is required going forward. Very importantly, it implies
-that decisions made are never final, and prior decision is never truly
-binding. This implies a level of dynamism in its structure that many
-believers may not be aware of. Most Americans are used to the
-near-impossibility of amending the constitution and believe it to be a
-necessary part of democracy, unaware that many political scientists
-consider that to be its most serious flaw. Again, Shoghi Effendi:
+That is, because only the framework for governance is laid down, it is
+possible to make whatever changes to administrative structure that is
+required going forward.  This implies a level of dynamism in its
+structure that many believers may not be aware of. Most Americans are
+used to the near-impossibility of amending the constitution and
+believe it to be a necessary part of democracy, unaware that many
+political scientists consider that to be its most serious flaw. Again,
+Shoghi Effendi:
 
     Not only will the present-day Spiritual Assemblies be styled
     differently in future, but they will be enabled also to add
@@ -1718,52 +1841,24 @@ And similarly with regard to the institutions of that time:
 While this was written in 1929, Baha'is will readly admit that this
 quote covers the present-day orders of the Baha'i Faith with equal accuracy.
 
-Unfortunately, some of the wrongheaded criticism of Baha'i
-institutions and Baha'i governance has actually come from influential
-academics inside the Faith working with outsiders as a bloc, to change
-things more to their liking. Such critics have posed "reforms"
-intended to fix what they perceive as deficiencies in the present
-Baha'i administrative order. Inevitably, these reforms are all things
-borrowing from present-day secular governance, things such as
-nominations, guarantees of separation of church and state, and various
-other things. Many Baha'i defenders were quick to reject these
-reforms, seeing a campaign carried out in isolation from the greater
-community. A greater flaw was that some of this campaign may have been
-simply an attempt to get Baha'i institutions to conform to civic
-best-practices without acknowledging that there may be good reasons
-for such current practices as they exist. As stated by the Guardian:
+(4) Baha'is reading will probably note one obvious omitted trait of the
+Administrative order that would seem to undercut this point. One
+unusual feature of the Baha'i Faith is that the lack of a unitary
+executive may be due to something of a historical accident.
+'Abdu'l-Baha, in his will and testament, created the "Guardianship,"
+rather than call for the election of the Universal House of
+Justice. This Guardian was seen as having a complimentary role to the
+Universal House of Justice. In practice, the only Guardian who ever
+took the position at a time when the Universal House of Justice had
+been formed and died before its election could be held. This position
+ended in 1957 when the sole Guardian, Shoghi Effendi, died without a
+replacement. In the sixty-one years that have followed, no single
+individual has never directed the affairs of the Baha'i Faith.
 
-    Let us be on our guard lest we measure too strictly the Divine
-    Plan with the standard of men. I am not prepared to state that it
-    agrees in principle or in method with the prevailing notions now
-    uppermost in men's minds, nor that it should conform with those
-    imperfect, precarious, and expedient measures feverishly resorted
-    to by agitated humanity. (BA )
-
-Meanwhile, not all of the defenders have the awareness to point out that
-the institutions of the Baha'i Faith are hardly and an ideal state
-themselves. Nor should they be expected to be. Perhaps some Baha'is
-are offended by the idea of "reform," as they may think it implies the
-fact the Baha'i Faith is imperfect. But in fact, the institutions are
-themselves not finished; indeed, they are "reformed" every time a
-change is introduced, such as Area Teaching committees or Regional
-councils. Talking about "reform" is only a problem when such a
-campaign is carried out in an orchestrated manner with help from
-parties outside of the Baha'i Faith that excludes dissenting voices
-from such a conversation; and this is particularly so when such efforts
-bypass existing channels for suggesting change and instead are
-directed to a world at large that is still quite ignorant and
-suspicious about anything this Faith may offer.
-
-The caveat, therefore, is that what the Baha'i Faith has to offer are
-probably not specific structures or models for consitutions.
-Instead, what it has to offer at this point are principles. We know
-based on the writings that however the Administrative Order may
-evolve, there are certain principles that it must conform with. It is
-mainly these principles that can be used to evolve the next step in
-the life of secular institutions.
-
-
+For this reason, I have included this as a salient feature of the
+Baha'i Faith. One can only speculate whether the founders of the
+Baha'i Faith knew that somehow this line would end even before the
+election of the Universal House of Justice.
 
 ---------------------------------
 
