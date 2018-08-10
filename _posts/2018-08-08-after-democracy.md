@@ -2,10 +2,11 @@
 title: What to Do After Democracy
 category: in-progress
 ---
+# What to Do After Democracy
 
 Those of us raised in the United States are given, as our birthright,
-a world views which generally reigns unquestioned, at least among
-educated society:
+a world view which generally reigns unquestioned, at least among
+educated society. This world view has the following as its ideal:
 
 * A capitalistic economy, based on "market-based" principles;
 
@@ -22,11 +23,11 @@ views. Indeed, one reason for "the end of history" narrative at the
 completion of the 20th century was due to a lack of any realistic
 compelling alernative for these world views.
 
-From the point of view of The Baha'i Faith, both have much scope of
+From the point of view of The Baha'i Faith, both have much scope fore
 improvement. In this paper, we will focus on society's current view on
 civic governance. While the Baha'i Faith has much to say about economic
 concerns, and there is certainly an interplay between the economic
-system and the civic government of states, we will consider issues of
+system and civic government, we will consider issues of
 economics out of the scope of this paper.(1)
 
 One reason for this two-pronged world view is the complete lack of
@@ -51,7 +52,7 @@ through a _herrenvolk_ corruption of our current system.
 Perhaps as a result, alternatives to current forms of representative
 democracy, be they parlimentiary, presidential or otherwise, are
 rarely envisioned. While democracy has its problems, problems with
-democracy as such are mainly aired by the extremely marginalied, or
+democracy as such are mainly aired by the extremely marginalized, or
 alternatively, affluent or wealthy society members with no professed
 concern for a just society. The good-government believers in
 liberalism, while well aware of problems with democracy, are content in
@@ -76,14 +77,14 @@ problems:
 
 * Easy corruption of the system by entrenched, monied interest;
 
-* Obvious manipulation of popular through crude propaganda against
+* Obvious manipulation of popular will through crude propaganda against
   minority groups;
 
-* Gridlock caused by thoughtless partisanship, entrenched by masses of
+* Gridlock caused by unconsidered partisanship, entrenched by masses of
   voters that use the franchise to reward those in their on class and
   punish those outside of it;
 
-* The elevation of incompetend and corrupt elected representatives
+* The elevation of incompetent or corrupt elected representatives
   based on "in-group" membership;
   
 * The creation of disconnected bureaucracies that frequently must
@@ -110,7 +111,7 @@ Defenders of both liberalism and democracy, therefore, have a
 challenge: it seems they can either have a society in conformance with
 liberal values, or one that values the ability of voters to chose
 their representatives through majority vote. Current trends indicate
-that having both of these at the same time are sometimes infeasible,
+that having both of these at the same time are a happy coincidence,
 since voters of all the nations frequently use their franchise to
 elect representatives whose core political platform is to take a
 hammer to said liberal values. It is time to consider a unpopular
@@ -127,15 +128,16 @@ authoritarian, totalitarian, oligarchical or otherwise. To this, one
 may look to the vision of the Baha'i Administrative Order.
 
 As Baha'is, we belief the Baha'i model of governance can contribute
-many positive elements for discussion. While democratic in operation,
-it presents several unusual features that distinguish it markedly from
-normal democratic structures. Many of these ideals are not new, but
-instead reflect some of the ideals of other thinkers of democracy in
-the past. Ironically, many of these ideas have strong parallels with
-recommendations by the "founding fathers" of the US and the other
-enlightenment thinkers of democracy's early days. Over time, many were
-discarded, some for reasons of expedience; others, because they could
-not work in isolation from other principles.
+many positive elements in discussion of governance. While democratic
+in operation, the Baha'i model presents several unusual features that
+distinguish it markedly from normal democratic structures. Many of
+these ideals are not new, but instead reflect some of the ideal of
+other thinkers of democracy in the past. INdeed, many of these
+ideas have strong parallels with recommendations by the "founding
+fathers" of the US and the other enlightenment thinkers of democracy's
+early days. Over time, many were discarded, some for reasons of
+expedience; others, because they could not work in isolation from
+other principles.
 
 It must be acknowledged that there is a very reasonable fear for any
 government that does not incorporate familiar democratic structures
@@ -188,12 +190,12 @@ forth in writings such as The World Order of Baha'u'llah. While the
 Baha'i Faith uses "democratic methods," the Baha'i Faith is not
 truly a democracy, at least not in the sense we are used to:
 
-   This new-born Administrative Order incorporates within its
-   structure certain elements which are to be found in each of the
-   three recognized forms of secular government [democracy, despotism
-   or aristocracy], without being in any sense a mere replica of any
-   one of them, and without introducing within its machinery any of
-   the objectionable features which they inherently possess.
+    This new-born Administrative Order incorporates within its
+    structure certain elements which are to be found in each of the
+    three recognized forms of secular government [democracy, despotism
+    or aristocracy], without being in any sense a mere replica of any
+    one of them, and without introducing within its machinery any of
+    the objectionable features which they inherently possess.
        (Shoghi Effendi, The World Order of Baha'u'llah, p. 152)
 
 What is the Baha'i Faith governance model, then? We are told that it
@@ -215,24 +217,26 @@ all, if the government is superfluous, why spend time being creative
 when you draw your consititution? Just copy a popular one and
 go about ignoring it.)
 
-In fact, these unusual points are not flaws, but important features. A
-proper understanding of the Baha'i model of governance must identify
-these features so that they can be appreciated for the improvements
-they suggest on the democratic model. This paper will show that the
-bulk of these unusual features, far from being flaws in the democratic
-model, are intentional mechanisims, the central purpose of which is to
-ensure that proper decisions are made that takes into account the
-views of as broad a representation of the members of the Baha'i Faith
-as possible. (2)
+In fact, the unusual points in Baha'i governance are not flaws, but
+important features. A proper understanding of the Baha'i model must
+identify these features so that they can be appreciated for possible
+improvements on existing democratic decision-making. This paper will
+show that the bulk of these unusual features, far from being due to
+omissions, are intentional mechanisims, the central purpose of which
+is to ensure that proper decisions are made that takes into account
+the views of as broad a representation of the members of the Baha'i
+Faith as possible. (2)
 
-This paper will proceed as follows: an analysis of key unusual
-features of the Baha'i Faith will take much of the paper. After
-analysis, the paper will discuss the improvements the Baha'i model
-offers in both smaller-scale civic and volunteer organization,
-followed by consideration of this model at the scale of the
-nation-state. In many cases, these features are not novel, but were
-presented by earlier writers from the enlightenment founders of
-democracy; such writings give perspective on theese points.
+This paper will proceed as follows: an analysis of some key features
+of the Baha'i governance will take much of the paper. After analysis,
+the paper will discuss the improvements the Baha'i model offers in
+both smaller-scale civic and volunteer organization, followed by
+consideration of this model at the scale of the nation-state. In many
+cases, these features are in fact not novel, but simply unfamiliar,
+having been proposed by earlier writers of democracy and current
+writers working toward much the same aim: improvment to democratic
+decision-making. Where possible, this perspective will be provided on
+these points.
 
 # An Analysis of Key Baha'i Principles from the Writings
 
@@ -259,19 +263,18 @@ were restatements of principles enunciated by both Baha'u'llah and
     publications, have been sedulously instilled by Abdu'l-Baha, as
     evidenced by His authenticated and widely-scattered Tablets. (27-Feb-1929)
 
-So, far from being inventions by The Guardian, the bulk of these features have
+So, far from being inventions by Shoghi Effendi, the bulk of these features have
 antecedents in writings by both Baha'u'llah and 'Abdu'l-Baha.
 
-This author has identified a number of key governing principles of the
-Baha'i Faith. While not claimed to be either exhaustive or
-authoritative; in particular, many of the religious aspects of Baha'i
-governments have been purposely omitted due to scope of work
-(3). Rather, the goal of this list is practical in nature: to
-serve as a summary of governing principles that can be carried over to
-other governing organizations. The hope is that it can contribute to a
-dialog on improving existing governing structures, both at the secular
-level, and at the level of governments of voluntary civic
-associations.
+This section identifies a number of key governing principals, but does
+not claim to be exhaustive or authoritative. In particular, many of
+the religious aspects of Baha'i governments have been purposely
+omitted due to scope of work (3). Rather, the goal of this list is
+practical in nature: to serve as a summary of governing principles
+that can be carried over to other secular governing
+organizations. The hope is that it can contribute to a dialog on
+improving existing governing structures, both at the secular level,
+and at the level of governments of voluntary civic associations.
 
 This section is extremely heavy on citations. These citations are
 important for context. The primary purpose of this analysis was to
@@ -412,17 +415,13 @@ made through consultation. Regarding the function of elected
 representatives:
 
     Their function is not to dictate, but to consult, and consult not
-    only among themselves, but **as much as possible with the friends
-    whom they represent**. They must regard themselves in no other light
+    only among themselves, but as much as possible with the friends
+    whom they represent. They must regard themselves in no other light
     but that of chosen instruments for a more efficient and dignified
     presentation of the Cause of God.
 
 	(Shoghi Effendi, Baha'i Administration, p. 64), emphasis added
 	by this author.
-
-Emphasis is added to note that elected representatives must not only
-bring forward their own opinions and thoughts in discussion, but must
-also be aware of those throughout the community.
 
 Likewise, Baha'i communities have meetings where all members of the
 Baha'i Faith may make recommendations and proposals for consideration
