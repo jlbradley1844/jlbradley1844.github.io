@@ -2,6 +2,7 @@
 title: What to Do After Democracy
 category: in-progress
 ---
+
 # What to Do After Democracy
 
 Those of us raised in the United States are given, as our birthright,

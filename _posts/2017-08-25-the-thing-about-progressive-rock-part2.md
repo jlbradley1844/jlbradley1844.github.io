@@ -1,6 +1,7 @@
 ---
 title: The Right Kind of Uncool (Part II)
 ---
+
 # The Right Kind of Uncool (or, About Progressive Rock)
 ## Part II
 

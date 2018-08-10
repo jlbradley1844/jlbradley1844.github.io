@@ -2,6 +2,7 @@
 title: Open Communities and Their Enemies
 category: in-progress
 ---
+
 ## Open Communities and Their Enemies
 
 Is there any word more homespun and apple-pie than community?

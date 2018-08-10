@@ -1,7 +1,7 @@
 ---
 title: The Real Reason Creeds and Politics Don't Mix
-category: articles
 ---
+
 ## The Real Reason Creeds and Politics Don't Mix
 One of the core beliefs of the Baha'i Faith is that we should avoid
 involvement in partisan political activities. By extension, that means
