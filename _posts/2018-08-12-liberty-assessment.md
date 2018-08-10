@@ -1,7 +1,8 @@
 ---
-title: Liberty: An Assessment
+title: Liberty: A Baha'i Assessment
 category: in-progress
 ---
+
 Last year (2017) in response to a Wilmette Institute course in
 Philosophy, I put together a paper as a final project. With the
 encouragement of one of the instructors, I was urged to make an actual
@@ -12,15 +13,18 @@ To make a long story short, this did not happen. It had turned out
 that I had missed some critical sources, necessitating a
 rewrite. After the rewrite, I had to admit to myself that this was not
 anything terribly important - certainly not enough to go through the
-ordinary review process or submission. With other projects beckoning,
-I pulled the plug on this one.
+ordinary review process or submission. In addition, there is a long
+discussion given to defense of issues raised by critics of the Baha'i
+Faith that really doesn't go well with the paper, but the paper isn't
+complete without them either, so I could figure how to handle.
+With other projects beckoning, I pulled the plug on this one.
 
 One good thing about a blog is it allows me to present this to others
 who are interested without making any unnecessary claim to
 attention. So I'm presenting here, something of the product of
 individual scholarship. Make of it what you will - or won't.
 
-# Liberty: An Assessment
+# Liberty: A Baha'i Assessment
 
 ### Abstract:
 
@@ -1197,13 +1201,13 @@ there is a conflict between the application of justice and the
 granting of liberties in society, the Bahá’í teachings will invariably
 come down on the side of justice.
 
-There is also important between the Baha’i Faith and other critics of
+There is also important difference between the Baha’i Faith and other critics of
 liberalism. Generally, other critics of liberalism come from the point
 of view referred to as conservativism. Conservatism is generally
 thought of as the strain of thought most opposed to liberalism. But
 the Bahá’í viewpoint should not be confused with conservatism simply
 because it offers a critique to liberalism. An overview of the points
-above should show that the forward-looking Bahá’í viewpoint be
+above should show that the forward-looking Bahá’í viewpoint should not be
 confused with conservatism, with its traditionalism and
 backward-looking views. The following quote from The World Order of
 Baha’u’llah by Shoghi Effendi is a typical quote regarding the Baha’i
