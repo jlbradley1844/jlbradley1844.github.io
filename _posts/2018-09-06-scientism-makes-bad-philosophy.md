@@ -6,8 +6,8 @@ title: Scientism Makes Bad Philosophy
 
 I ran into this whopper of an article on the usually-excellent
 [Aeon](aeon.co) website:
-(Why It's Only Science That Can Answer All the Big
-Questions)[https://aeon.co/ideas/why-its-only-science-that-can-answer-all-the-big-questions]
+[Why It's Only Science That Can Answer All the Big
+Questions](https://aeon.co/ideas/why-its-only-science-that-can-answer-all-the-big-questions)
 
 This seems to be amateur philosophy, so I'll do my own amateur
 philosophy and post a definition from wikipedia:
@@ -18,13 +18,13 @@ philosophy and post a definition from wikipedia:
     scientific method or similar scientific standards.
 
 Usually articles which fall prey to scientism go to great
-lengths to hide this weakness. This one is so blatent about it that
+lengths to hide this weakness. This one is so blatent about it,
 it's embedded right there in the title.
 
-When I read it, I had one of those little moments of self-doubt that I
+When I read the article, I had one of those little moments of self-doubt that I
 usually have when I see something like this; e.g. "Is this article as
 really bad as I think it is? What am I missing?" Turns out I wasn't
-alone, it appeared in the 'badphilosophy' reddit forum, so I wasn't
+alone; it appeared in the 'badphilosophy' reddit forum, so I wasn't
 the only one.
 
 The typical positivist canard is
