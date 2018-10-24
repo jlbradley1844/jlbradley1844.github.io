@@ -226,8 +226,7 @@ winning inevitable, but at least you aren't shut out of the game.
 So, with that out of the way, here's what I learned, and what you must
 know in order to be both happy and single:
 
-## 1. There is no "friend zone" or "nice guy" penalty. Acting like a jerk
-will get you nowhere.
+## 1. There is no "friend zone" or "nice guy" penalty. Acting like a jerk will get you nowhere.
 
 Let's start this list by also demolishing a cherished myth of the PUA
 scene.
@@ -253,13 +252,12 @@ category 1 men are taken, most category 2 men are not, and that's why
 so many of men you find attractive and available are jerks, in spite
 of the fact that most men are not jerks.
 
-## 2. For men: your mid-twenties are going to be your
-  WORST years dating. Steel yourself.
+## 2. For men: your mid-twenties are going to be your WORST years dating. Steel yourself.
 
 The following explains why so many guys - the majority in fact - feel
 if they aren't tall, good-looking or ridiculously successful, the odds
 are somehow stacked against them, as they spend too much time in too
-many brewpubs populated by too many dateless women and too many
+many brewpubs populated by too many dateless men and too many
 sausagefest music festivals and mixers.
 
 A lot of guys leave college and take their baby-face with them to
@@ -308,8 +306,7 @@ tough. When someone tells you that you should have no problems,
 _ignore them_. Your biggest problem is the idea that it should be
 easy. _It isn't going to be easy._
 
-## 3. Physical cues matter a lot. But there's nothing you can do about
-   them.
+## 3. Physical cues matter a lot. But there's nothing you can do about them.
 
 Guys are notoriously shallow. Women are less shallow, but only by
 comparison. They want tall and good-looking. If you're neither, you're
@@ -338,8 +335,7 @@ that with all the guys in their thirties who still won't look at a
 woman who weighs more than a hundred fifteen pounds.) You don't need
 all the women to come around; all you need is one.
 
-## 4. Fixing your personality will help more than anything. But don't
-  count on it giving you the success you want now; it will later.
+## 4. Fixing your personality will help more than anything. But don't count on it giving you the success you want now; it will later.
 
 The reason here is twofold. First, you can't change your height, and
 aside from good grooming, you're only going to improve your appearance
@@ -405,8 +401,7 @@ best if you change who you hang out with.
 
 ## 6. Take all advice with a grain of salt.
 
-## 7. To engineers especially: You might not need a change in
-  attitude. You might need a U-Haul instead.
+## 7. To engineers especially: You might not need a change in attitude. You might need a U-Haul instead.
 
 This is a biggie. Some of the hippest, hottest places with tight job
 markets are tech heavy-areas like Seattle, San Francisco, Boston and
@@ -430,8 +425,7 @@ attractive women will quickly pair up, leaving the bars full of
 unhappy men in the midst of 3-year-long dating dry spells. Treat your
 cities like you treat your bars: if there's no women there, leave.
 
-## 8. The "chick advice" books are correct: concentrate on growing a social
-  life. Just don't expect it will immediately help your dating.
+## 8. The "chick advice" books are correct: concentrate on growing a social life. Even though it won't immediately help your dating.
 
 A lot of dating advice books, particularly those aimed at women, will
 tell you to concentrate on "growing a life"; e.g. becoming more
