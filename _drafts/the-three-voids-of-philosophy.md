@@ -2,11 +2,13 @@
 title: The Three Voids of Philosophy
 ---
 
-I should confess some trepidation on this. I'm a philosophy amateur. I
-haven't had an academic training in the discipline, and given how many
-outsiders have produced bad philosophy, I don't consider this a good
-thing. I've read just enough to be dangerous, and hopefully, make sure
-I don't make bad logical errors.
+I should confess some trepidation writing this post. I'm a philosophy
+amateur. That's *amateur*, not *auteur*. I haven't had an academic
+training in the discipline, and given how many philosophyoutsiders
+just manage to produce really really bad but well-written philosophy,
+I don't consider this a good thing, particular since I can't even
+count on well-written. I've read just enough to be dangerous, and
+hopefully, make sure I don't make bad logical errors.
 
 That being said, I've read a fair bit, much of it fairly recent, and
 it does broaden my thought to some extent. Not as much as it should,
@@ -19,21 +21,22 @@ inside of it; or going much further back, the "Platonic World," where
 all of the universal concepts exist in a world of perfection outside
 of this one. Given this background, twentieth century philosophy seems
 unusually small bore. Instead of big ideas, the past hundred years
-have instead seen a capitulation to a certain constrained materialist
-outlook. The reasons are legion - the triumph of materialist
-positivism in late nineteenth century thought; the rise of the
-analytic school of philosophy in the early twentieth century that
+have instead seen a capitulation to a certain constrained reductivist,
+materialist outlook. The reasons are legion - the triumph of
+materialist positivism in late nineteenth century thought; the rise of
+the analytic school of philosophy in the early twentieth century that
 regarded many metaphysical ideas as being nothing more than "word
 games"; an onward march of scientific progress that resulted in many
 of the core issues unders discussion being abandoned by the field of
 philosophy as pursuits of an essentially scientific nature. By
-midcentury, the field was dominated by set theorists, analytic
+midcentury, the field was dominated by set theorists and analytic
 philosophers, determined that everything be seen, proven and
-rigorously defined, and their continental mirror-cousins the
-deconstructionists, who were only certain that nothing was
-knowable. And if the field of philosophy itself was not so uniform and
-monochromatic, the major figures one might read about in the popular
-press certainly were.
+rigorously defined. If you didn't buy that, the only alternative taken
+seriously were the continental mirror-cousins, the deconstructionists,
+who were only certain that nothing was knowable. And if the field of
+philosophy itself was not so uniform and monochromatic as I pose, the
+major figures one might read about in the popular press certainly
+were.
 
 Likewise, suppose one takes take a Philosophy 101 course. In it, you
 will encounter terminology describing some of the major fields covered by
@@ -46,32 +49,32 @@ philosophy:
 * Values, e.g. "The Good, The Beautiful," Aesthetics, etc.
 
 These are all fields of study going back to the great Greek
-philosophers. However, if you walk up to many of your philosophy
-professors and say you are going to do your thesis in one of these
-fields, you will find your studies to be strongly constrained. If you
-read philosophy books aimed at the general public, you will find out
-why quickly - these areas are no longer considered the stuff of
-serious philosophy. How did these once-great areas of study become
-obsolete?
+philosophers. For some, this *is* philosophy. However, if you walk up
+to many of your philosophy professors and say you are going to do your
+thesis in one of these fields at your nearby State U., you will find
+your studies to be strongly constrained. If you read recently-written
+philosophy books aimed at the general public, you will find out why
+quickly - these areas are no longer considered the stuff of serious
+philosophy. How did these once-great areas of study become obsolete?
 
 The reason is because the dominant strain in philosophy for the past
-century and a half has been materialist, and materialist philosophy
-has very little use for discussions of these concepts. The Mind/Body
-problem is regarded as solved; your mind is a phantom of your brain,
-and your thoughts can be traced by by electrical signals in your
-brain; your consciousness is just a trick created by your brain, as is
-your sense of free will. The mechanics, still unknown, are left to the
-reader, as it is assumed that science will solve it for
-us. Metaphysics is essentially regarded as useless untestable magical
-claims. Teleology, the study of the purpose of things, is no better,
-as nothing can be claimed to have any purpose, as things simply _are_.
-Finally, ethics, aesthetics and other value-driven judgements are
-regarded as essentially human concerns, and are value-neutral
-concepts, either defined arbitrarily by culture or validated only by
-evolutionary fitness. Either way, all of these fields are presumed to
-be based on untestable claims and therefore worthless; or perhaps the
-stuff of relativism and cultural studies, interesting, but not
-Philosophy.
+century and a half has been materialist; specifically, a reductive
+materialist philosophy has very little use for discussions of these
+concepts. The Mind/Body problem is regarded as solved; your mind is a
+phantom of your brain, and your thoughts can be traced by by
+electrical signals in your brain; your consciousness is just a trick
+created by your brain, as is your sense of free will. The mechanics,
+still unknown, are left to the reader, as it is assumed that science
+will solve it for us. Metaphysics is essentially regarded as useless
+untestable magical claims. Teleology, the study of the purpose of
+things, is no better, as nothing can be claimed to have any purpose,
+as things simply _are_.  Finally, ethics, aesthetics and other
+value-driven judgements are regarded as essentially human concerns,
+and are value-neutral concepts, either defined arbitrarily by culture
+or validated only by evolutionary fitness. Either way, all of these
+fields are presumed to be based on untestable claims and therefore
+worthless; or perhaps the stuff of relativism and cultural studies,
+interesting, but not Philosophy.
 
 In 2012 Thomas Nagel penned a short end-of-career book titled _Mind &
 Cosmos_ that seemed to break with this outlook. The book came with
@@ -90,11 +93,11 @@ desparate to look for patterns, then the book argues that you _must_
 go outside of materialist philosophy -  because materialist philosophy
 denies all of these things as having meaning.
 
-Roughly, the main thesis of the book is that science has claimed too
+The main thesis of his book is that science has claimed too
 much territory for itself; the mind-body problem, far from being a
 purely mechanical question of neurons, is a pervasive problem far from
 being solved; and that the present sciences are too limited to yet
-yield the definitive answers it claims:
+yield the definitive answers it claims to questions of philosophy:
 
     It may be frustrating to acknowledge, but we are simply at the
     point in the history of human thought at which we find ourselves,
@@ -115,10 +118,10 @@ yield the definitive answers it claims:
 
 Nagel's book spends much of this time probing areas in which science,
 and therefore materialistic philosphy has fallen short, and posits
-that there are unseen aspects of reality that are involved. This
-problem is not the fact that philosophers have these theories; it's
-the fact that this theory claims a very large number of them, whom
-will not countenance any alternatives:
+that there are unseen aspects of reality that are involved. The
+problem is not the fact that philosophers have these materialist
+theories, but the fact that so many philosophers, scientists and
+serious thinkers will will not countenance any alternatives:
 
    My target is a comprehensive, speculative world picture that is
    reached by extrapolation from some of the discoveries of biology,
@@ -127,7 +130,7 @@ will not countenance any alternatives:
    materialism is widely assumed assumed to be the only serious
    possibility. (p. 4)
 
-In the book's conclusion, he calls for humility in the current
+In the book's conclusion, he calls for humility by the current
 scientific and philosophical establishment, given the reach of what we
 do not know:
 
@@ -139,46 +142,47 @@ do not know:
     and Darwinism of the gaps — to adapt one of its own pejorative
     tags. (p. 127)
 
-For the most part, in spite of Nagel's considerable reputation, the
-book seemed to have been received with mediocre reviews. The part that
-caused the most objection was its argument against evolution itself as
-a complete explanation of the current world. Nagel claims we still
-don't know enough about the mechanics of how life actually started or
-evolved from simple prototypical life into complex forms, or why
-evolution would have produced sentience and consciousness, and there
-is no reason to believe that science will be able to answer these
-questions with the tools they have today. Strongly materialist
-philosophers and the "New Atheists" rejected this argument _in toto_;
+Upon release of the book a few years ago, it was received with
+mediocre reviews, in spite of Nagel's considerable reputation, . The
+part that caused the most objection was his argument against evolution
+itself as a complete explanation of the current world. Nagel claims we
+still don't know enough about the mechanics of how life actually
+started or evolved from simple prototypical life into complex forms,
+or why evolution would have produced sentience and consciousness, and
+there is no reason to believe that science will be able to answer
+these questions with the tools they have today. Strongly materialist
+philosophers and the "New Atheists" rejected this argument _en toto_;
 having read some of the reviews, one gets the idea that they did not
 so much read the book as skim the first third of the book for
 quotations that they could take offense to. They seemed particularly
 incensed that Nagel had some sympathy for the Intelligent Design
 community, in spite of his having serious disagreements with them. For
-many philosophers, this is consorting with the enemy, the friends of
-dread Religion. But even more fair-minded observers indicated that his
-proofs were quite weak; in particular, his assertion that we don't
-know the mechanics of how life evolved from non-life seems to ignore
-the last twenty-odd years of research in the field.
+many philosophers, this is consorting with the enemy, the
+pseudointellectual brownshirts of dread Religion. But even more
+fair-minded observers indicated that his proofs were quite weak; in
+particular, his assertion that we don't know the mechanics of how life
+evolved from non-life seems to ignore the last twenty-odd years of
+research in the field.
 
 I very liked this book, though not his arguments against evolution,
-which I also found unpersuasive. This was only part of the book.  I
-felt this was hardly the main thrust of the argument, even though some
-may claim that without proving this point, entire argument falls
-apart. But I appreciated something he attempted far more
+which I also found unpersuasive. This was particularly problematic
+given some of his later claims reseted on this assertion. However, I
+appreciated something he attempted that I felt was far more
 consequential: an attempt to restore meaningful discussions around
-concepts that still deserve addressing; concepts that in spite of
+concepts that still deserve addressing, concepts that in spite of
 their intrinsic importance have been swept aside as untestable,
 unverifiable, ill-posed or meaningless.
 
 -------------------------------
 
+What are some of these important concepts? I alluded to them earlier.
 Supposing you are a reflective person. Being such a person, you might
 think reflective thoughts. "What is my purpose in life?" "What am I
 doing here?" "How do I know what is good, is good?" "What does it mean
 to be a good persion?" "Do my ethical choices matter?" You may even
 ask this of your friends. Depending on your friends, they may tell you
-to just put down the bong and stop asking dumb questions. But for the most
-part, this has been the stuff of philosophy.
+to just put down the bong and stop asking dumb questions. But historically,
+this has been the stuff of philosophy.
 
 Unfortunately, the response from the most popular philosophy writers
 and/or scientists posing as philisophy writers will also be "You heard
@@ -198,20 +202,21 @@ mindset seems to be exactly what Nagel is targeting here.
 It should be set at the outset that not all philosophers believe this;
 Nagel is hardly a voice calling from the wilderness. The impression
 that all philosophers speak in one voice is probably a consequence of
-market segmentation in nonfiction books. The number of people who
-read philosophy casually is vanishingly small; the number of
-professional practitioners, much smaller still. If you want to publish
-philosophy that is actually read, as opposed to mearly cited by some
-other philosophy publication, you have to print what someone wants to
-read. And what people want to read, apparently, is either
-justification for the sort of skeptical materialist outlook that has
-represented the dominant world view. There is an equally large
-section situated elsewhere in the bookstore given to sloppy
-refutations of this world view aimed at "people of Faith."
-Unfortunately this book, being one of the rare examples
-of a trade press book fitting into neither camp, has unfortunately
-been stuck in to the latter camp, in spite of Nagel's professed
-atheism.
+market segmentation in nonfiction books. The number of people who read
+philosophy casually is vanishingly small; the number of professional
+practitioners, much smaller still. If you want to publish philosophy
+that is actually read, as opposed to mearly cited by some other
+philosophy publication, you have to print what someone wants to
+read. And what people apparently want to read is justification for the
+sort of skeptical materialist outlook that is defended by these
+publications, written for people who loath religious people or those
+who loath humanity and find Ayn Rand insufficient to the task. While
+there are dissenting respectable voices, they do not sell; at least,
+not as well as the sloppy religious refutations of this world view
+aimed at "people of Faith."  Unfortunately this book, being one of the
+rare examples of a trade press book fitting into neither camp, it has
+unfortunately been stuck in to the latter camp, in spite of Nagel's
+reputation and professed atheism.
 
 While the reception given Nagel's message is unfortunate dismissal, my
 hope is that it will still prove one more voice of encouragement
@@ -224,16 +229,15 @@ three of the main themes in Nagel's book:
 * Purpose
 * Values and Ethics
 
-Currently, of the first two fields, many materialists claim these are
-not worth studying - they are concepts that simply don't exist in any
-meaningful way; as I mentioned above; consciousness, free will and
-purpose are rendered all meaningless questions, caused by defects in
-our wetware that cause us to think we have all three when we have
-none. This leaves things like values and ethics, which have received a
+Of the first two fields, many materialists claim these cannot bear
+study, as they are concepts that simply don't exist in any
+meaningful way; they are illusions caused by defects in
+our wetware that cause us to think we have these things when we have
+none. This leaves the last thing, values and ethics, which have received a
 serious amount of study, but mainly in attempts to wrench their
 definition from a materialist world view that yields little in the way
-of evidence to such an endeavor. The result is simply to leave such
-questions as identical to studies of preference.
+of evidence to assist such an endeavor. The result is simply to leave
+questions of values and ethics as simply studies of preference.
 
 In my mind, the handling of ethics and political philosophy is
 particularly tricky in the case of materialist philosophers. I find
@@ -245,7 +249,8 @@ except as a means of classify existing systems without choosing
 sides. While I respect writers such as Popper, Rawls and a lot of the
 pragmatists who have tried to justify ethics and liberal governance
 under generally materialist frameworks, not all philosophers are
-either so thoughtful or concerned about preserving them.
+either so thoughtful or concerned about seriously defending this
+tradition as if it needs defending.
 
 Instead, many writers, particularly the scientists posing as philosophers,
 rely on a flawed ethics known as "naturalism." Naturalism is a sort of
@@ -256,55 +261,45 @@ cannot rely on "human nature" as a foundation. The flaw in naturalism
 is obvious - just because someone says that it's "human nature"
 (whatever that means) to act a certain way doesn't mean _I_ should act
 in that way. It's human nature to get angry at rivals and hurt
-them; does that make it OK to do so?  None of the writers that I've
-referred to above make an arguments based on human nature. But this
-hasn't stopped writers from using this flawed justification.
+them; does that make it OK to do so?  While I haven't read anything by
+serious philosophers to make this argument, its flaws
+hasn't stopped writers from using this it.
 
 In particular, many of the "new atheist" writers labor under the naive
 presumption that enlightened ethics and liberal democratic governance
-are commonsense corrolaries of materialist philosophy, that simply
-flow from the way "we're supposed to be." Based on this, they make
-their grand claim that purging mankind of the religious impulse
+are commonsense corrolaries of materialist philosophy, and that they
+simply flow from the way "we're supposed to be." Based on this, they
+make their grand claim that purging mankind of the religious impulse
 will result in an upswing of morality and respect for democratic norms
 everywhere. We don't have to go back and look at the examples of
-Stalinist USSR or Maoist China to see that this isn't a natural
-consequence of the imposition of atheistic philosophies; we can simply look at
-current events that show this to be increasingly naive, as recent
+Stalinist USSR or Maoist China to see that the forceful imposition of
+atheistic philosophies doesn't result in this as a natural
+consequence; we can simply look at current events, where recent
 democratic failures have trended with _increasing_ secularism
-throughout Europe and America. To address the obvious objection to
-this logic, support for nationalists is strongest by far among those
-who claim a religious identity but do not practice their
-religion. Examination will show that among dedicated believers, these
-movements have far less support. Lest such atheist writers thing I am
-practicing the "true scotsmans" fallacy, it is notable that a large
-chunk of the alt-right are also self-proclaimed agnostics who feel
-their religion is cultural signifier only. Serious atheistic
-philosophers such as John Gray have been vocal in pointing out that
-atheism, far from being conducive to ethical conduct and democracy,
-settles nothing in the ethical sense. So it isn't just the religious
-that have problems with this line of reasoning.
+throughout Europe and America.(1)
 
-Once one throws out the arguments of the atheistic evangelists,
-leaving the most serious philosophical writings, one is left with this
-unpromising fact: materialist philosophy hasn't given much of a
-consensus on what good ethical behavior is. This is probably because
-such philosophers have no common point of agreement to work forward
-from. Where materialist philosophers have managed to develop coherent
-ethical frameworks, it is because they have posited universal ideals
-that are decidedly nonmaterial, and presumed that mankind should
-aspire to these ideals, just... because. For instance, the ideal of
-Justice, as written by Rawls and others, may be practiced by material
-beings operating in a material univers, but Justice itself is an
-interloper from a different platonic universe, and fits into our
+Once one throws out the fallacious naturalistic arguments of the
+evangelists of atheism, leaving the serious defenders, one is left
+with this unpromising impression that materialist philosophy hasn't
+given much of a consensus on what good ethical behavior is. This is
+probably because such philosophers have no common point of agreement
+to work forward from. Where materialist philosophers have managed to
+develop coherent ethical frameworks, it has worked by positing
+universal ideals that are decidedly nonmaterial, and presumed that
+mankind should aspire to these ideals, just... because. For instance,
+the ideal of Justice, as written by Rawls and others, may be practiced
+by material beings operating in a material univers, but Justice itself
+is an interloper from a different platonic universe, and fits into our
 three-dimentional material world no more naturally than a tesseract.
 
-While Nagel's book may have been animated by his distrust of the promise
-of future scientific breakthroughs to explain the origin of life
-(something referred to elsewhere as "promissary materialism"), he
-seems just as motivated by materialism's incompatibility with _ethical
-realism_. Ethical realism is the notion that there are such things
-that are _right_ and _wrong_ independent of cultural or relative
-concerns. He explains his position thusly:
+What does Nagel say about this? While his book may have been
+animated by his distrust of the promise of future scientific
+breakthroughs to explain the origin of life and the phenomenon of
+consciousness (something referred to elsewhere as "promissary
+materialism"), he seems just as motivated by materialism's
+incompatibility with _ethical realism_. Ethical realism is the notion
+that there are such things that are _right_ and _wrong_ independent of
+cultural or relative concerns. He explains his position thusly:
 
     My insistence that realism about value is not a metaphysical
     postulation of extra entities or properties might suggest that
@@ -337,26 +332,30 @@ recognize truth; this again, follows along the lines of Street's
 argument. Here, his ground seems a bit weaker. If one is a pure
 pragmatist, who believes there is no such thing as a corresponding
 truth, then perhaps evolution can explain our definition of truth
-somewhat. But one can be believe in both evolution while knowing that
+somewhat. But one can be believe in evolution while knowing that
 evolution has actually selected for situations in which we believe
 absolute total falsehoods. There is a whole subfield of behavior
 sciences dedicated to studying areas in which our brains do not select
 for truth. The popular text on this, Kahneman's _Thinking Fast and
-Slow_, provides plenty of examples of this.
+Slow_, provides plenty of examples of this. So any evolutionary
+thinker can point out that our brains are not wired to detect truth,
+and we need a fair bit of education to fix that.
 
 But this, I believe, points back to the main point Nagel wants to
 make. We can all think of immoral actions we can take to increase our
 reproductive choices. We can all think of times we've been changed our
 minds and felt something that was once false is now true. The point
 Nagel is making is that we seem to have these innate facilities that
-recognize these points, but there is no way to explain these
-facilities through evolution. Our ability to recognize certain
-abstract truths, what Nagel refers to as "mind-independent" truths,
-would be selected for in no way by evolutionary fitness. It would be
-odd indeed if such a facility was simply coincidental happenstance to
-exist in the one specimin of hominids that exist today. Barring such
-an unusual concidence, the existence of this facility must be due to
-some other sort of agent, one not explained by evolutionary mechanics.
+recognize these points and correct things, inspite of our inherit
+capability of wishful thinking and motivated reasoning. There is no
+good way to explain these facilities through evolution. Our ability to
+recognize certain abstract truths, what Nagel refers to as
+"mind-independent" truths, would be selected for in no way by
+evolutionary fitness. It would be odd indeed if such a facility was
+simply coincidental happenstance to exist in the one specimin of
+hominids that exist today. Barring such an unusual concidence, the
+existence of this facility must be due to some other sort of agent,
+one not explained by evolutionary mechanics.
 
 This line of thinking is a point Nagel harkens to repeatedly. Think of
 the famous mind-body problem and consciousness. True, we can trace
@@ -385,7 +384,8 @@ such as "psycho-phisicla identity theory", he states:
 In general, the explanation of humans as a physical "meat machine" is
 certainly possible, but there is no explanation of the _qualia_ that
 gives rise to sentience. We could just as well be robotic automatons
-and yet be carrying out the same actions.
+and yet be carrying out the same actions, the so-called "philosophical
+zombie" that philosophical like David Chalmers has posed.
 
 Nagel, in fact, believes consciousness itself to be one of the most
 significant features of our world - so much so that it cannot be posed
@@ -401,39 +401,46 @@ as being due to pure happenstance, as materialists are wont to do:
     something fundamental must be changed in our conception of the
     natural order that gave rise to life. (pp. 45-46)
 
-To this, materialist philosophers do have a rather credible argument -
-consciousness is, in fact, a complete accident in our material
-world. We were lucky to have evolved sentience, and luckier still to
-have the intelligence enough to argue about such matters. This seems
-to be the philosophical version of the "parallel worlds" theory of why
+To this, materialist philosophers have what they find is a convincing
+argument - consciousness is, in fact, a complete accident in our
+material world. We were lucky to have evolved sentience, and luckier
+still to have the intelligence enough to argue about such matters. But
+because of this, we can have these discussions. The fact that we are
+having these discussion is proof only that we got lucky. This seems to
+be the philosophical version of the "parallel worlds" theory of why
 certain cosmological constants are balanced such that life exists -
-essentially, that they aren't balanced, it's just we would only turn
-up on the worlds that allow for life.
+essentially, that they aren't balanced, it's just that there are
+billions of parallel universes and we would only turn up in the ones
+that allow for life.
 
 Getting back to the main point, I feel that materilistic philosophy is
-giving up "too much"; by presuming that our understanding of the
+giving up "too much," by presuming that our understanding of the
 universe will never change in a significant way and that all we have
 yet to do is fill in the gaps in ever-more-inscrutable quantum
 mechanics, they also make the presumption that we can have definite
-knowledge of the answer to these big questions. And that answer is:
-there is no answer. There is no answer to our purpose in life; there
-is no free will to ponder over; there is no universal ethics to aspire
-to. We simply have to muddle through as best we can with the tools at
-hand.
+knowledge of the answer to these big questions. Once philosophy
+accepts this self-imposed limitation, it becomes a less powerful
+tool. Rather than expore those questions, they instead offer a simple
+answer: there is no answer. There is no answer to our purpose in life;
+there is no free will to ponder over; there is no universal ethics to
+aspire to. We simply have to muddle through as best we can with the
+tools at hand.
 
 ---------------------------
 
-The rather powerful report to all of this is, "So what?" While this
-non-answer answer seem negative to some, others would welcome it. A
-pure materialist would at least have consistency on his or her
-side. The answer "there is no answer" is, at the very least, one
-requiring a very simple world, one free of as-yet-unknown mechanics
-behind our consciousness or platonic universes from which independent
-ethical principles are derived. Such a person has achieved true
-freedom in both the intellecual and ethical sense, and is free to make
-his way in the universe as he sees fit. What one does with this
-freedom is one's personal philosophy, and a host of philosophies were
-developed in the twentieth century to cater to this freedom.
+Such a conclusion is, on its own, rather useless in assisting both our
+lives and our communities. The rather powerful report to this last
+objection is, "So what?" While this non-answer answer would seem like
+giving up to me, others would welcome it. A pure materialist would at
+least have consistency on his or her side. The answer "there is no
+answer" is, at the very least, one requiring a very simple world, one
+free of as-yet-unknown mechanics behind our consciousness or platonic
+universes from which independent ethical principles are derived. Such
+a person has achieved true freedom in both the intellecual and ethical
+sense, and is free to make his way in the universe as he sees
+fit. What one does with this freedom is one's personal philosophy, and
+a host of philosophies were developed in the twentieth century to
+cater to this freedom.
 
 The problem is that are questions that still need answering, where the
 answer "There is no answer" will not do. In particular, there are
@@ -454,53 +461,47 @@ a rather dark creed, but at least it is easy to defend. If one is not
 a fink and just happens to just have a noble disposition, one can lead
 an exemplary life. If you're horrible, you get to be horrible, but
 fortunately most people are not horrible. The "new atheists"
-frequently posit that atheists as a whole are more ethical than
-people of faith, and they are eager to cite studies showing a
-statistically significant (if small) differences showing that. On a
-personal note, I would probably get along much better with a crowd of
-atheists than a crowd of fundamentalists. Is the solution, then, an
-hands-off libertarianism?  Allowing everyone to make their way in this
-world as they see fit?
-
-If you think this properly reflects the beliefs of the more strident
-materialists and atheists, you are quite mistaken. In their writings,
-concepts like guarantees of personal liberty, equality before the law,
-and the host of rights accorded with left-of-center societies are
-presumed to arise naturally out of the matrix of material law. Ideals
-I love, but hardly fitting into a libertarian philosophy. These
-writers are instead quite insistent that the primary roadblock to this
-are metaphysics and postulation of greater entities, unethical
-presumptions that distort human nature and explain Why We Can't Have
-Nice Things like competent functioning democracies and healthy,
-ethical civic lives. Unfortunately, this is nothing more than wishful
-thinking. The framework of universal rights and liberal governance did
-not spring from a materialistic basis. However much one may dislike
-Neitchze, one cannot simply discard his arguments simply because they
-lead to inconvenient conclusions.
+frequently posit that atheists as a whole are more ethical than people
+of faith, and they are eager to cite studies showing a statistically
+significant (if small) differences showing that. However, the "new
+athesists" then pose that concepts like guarantees of personal
+liberty, equality before the law, and the host of rights accorded with
+left-of-center societies are presumed to arise naturally out of the
+matrix of materialism. I'm happy to hear this, as these are ideals I
+love, but none of these ideas arise from science. While these writers
+are insistent that the primary roadblock to the triumph of these ideas
+is the belief in metaphysics and postulation of greater entities,
+unethical presumptions that distort human nature and explain Why We
+Can't Have Nice Things like competent functioning democracies, this is
+wishful thinking. The framework of universal rights and liberal
+governance did not spring from a materialistic basis. However much one
+may dislike Neitchze, one cannot simply discard his arguments simply
+because they lead to inconvenient conclusions.
 
 Not all atheistic philosophers are this inconsistent. One can believe
 in a moral realism or ethical universals and still hold that the
 essence of the universe is essentially mechanical _as a working
-theory_. What one cannot do is hold lofty assertions of moral realisms
-and universal rights, and then at the same time hold a theory of
-nature that gives these assertions no foundation, all the while
+theory_. But what one cannot do is hold lofty assertions of moral
+realisms and universal rights, and then at the same time hold a theory
+of nature that gives these assertions no foundation, all the while
 attacking those who presume any different foundation rests on
 superstition. Why?  Because under strict materialism, appeals to
 brotherly love or universal rights or even simply the survival of the
 human race and the planet so that "we can keep the conversation going"
-are not obvious conclusions of a materialistic worldview; they are
+are not obvious conclusions of a materialistic worldview. They are
 much more easily explained as the dictates of faulty wetware and
-sentimentality. One cannot invoke extrauniversals like "natural law"
-and "justice" as if they are platonic ideals, when the only existence
-they actually have is as private propery of certain
+sentimentality. A materialist cannot invoke extrauniversals like
+"natural law" and "justice" as if they are platonic ideals if they can
+only be defined as private propery of epiphenomenon of certain
 sufficiently-complex biological neural networks; compelling to the
 thinker, but hardly compelling enough to result in enforcement of
-behavioral norms on others. Under such a worldview, humans are free to
-work together and build their Leviathan or whatever government they
-want, but they had best be resigned to the knowledge that this is a
-result of their own selfish impulses; nothing grander actually exists.
+behavioral norms on others. Instead, the best one can say is that
+humans are free to work together and build their Leviathan or whatever
+government they want, but they had best be resigned to the knowledge
+that this is a result of their own selfish impulses; nothing grander
+actually exists.
 
-Moving on from the subject of individual ethics, there is possibly an
+Moving on from the subject of individual ethics, there is an
 even more problem compelling problem of collective ethics. Shared
 ethics requires a framework agreed to widely by society as a
 whole. Mankind is currently faced with crises if, badly handled, could
@@ -514,10 +515,178 @@ insignificant planet fated to fall victim to the Great Filter of
 Fermi and doomed to extinction.
 
 If, however, these assumptions are mistaken, then there is a real
-possiblity that failing to grapple with these
-letting everyone figure the answer out for
-oneself 
+possiblity that failing to grapple with these issues is an abdication
+of the search for truth.
+
+Philosophy and science give us a number of tools in the search for
+truth. If science yields no answers in certain areas of the search for
+truth, or is yet too immature, I feel no compunction about
+disregarding any dictates that I should stop looking for answers
+elsewhere. The search can take place any number of ways.
+
+Nagel's own hypothesis is that of a believer in a _neutral
+monism_. Monism is a belief that all that exists is a single
+substance; while not a dualist belief, an neutral monist will hold
+that there is a physical part of reality, and a part that is
+immaterial that is also part of that reality, and that is the part
+explaining consciousness and the like.  This is one proposition; and a
+believer in neutral monism can well believe in the reality of immaterial
+concepts like ethical realism and justice.
+
+A completely different solution is that offered by classical
+pragmatism. By "classical," I'm not referring to the those pragmatists
+like Rorty, who claim that the search for answers in and of itself is
+somehow misguided and wrong. I'm instead referring to the earlier
+followers of James, Pearce and their ilk who may encourage the search
+for truth in spite of the fact that nothing may truly be knowable. I'm
+in agreement with Nagel when he states that "The best we can do is to
+develop the rival alternative conceptions in each important domain as
+fully and carefully as possible, depending on our antecedent
+sympathies, and see how they measure up. That is a more credible form
+of progress than decisive proof or refutation." (p.127). I do not
+regard it as a coincidence that Dewey, a pragmatist, has also been the
+philosopher to give the most forceful voice defending the principles
+of liberal democracies as imperative.
+
+There are other forms of truth in the human experience, though not in
+the form of rigorous proofs; some philosophers have urged us to see
+this in the essentially "human" acitivities such as the arts, the
+literature and our collective cultures. I haven't read much on this
+line of thought, but I would like to suggest revisiting a different
+line of thought that, however discredited, may assist in our search
+for the answers.
+
+When one looks through the history of culture, one is faced with the
+reality of religion and the spiritual impulse as an ever-present
+reality. While some cultures here and there have given this more or
+less importance, it has been an ever present reality. This is an
+important, overlooked source of truth - provided one knows where to
+looks! Western philosophers have spent well neigh 400 years debunking
+the features of the fixed creeds they are familiar with - in
+particular, Christianity. I do not wish to belabor this point, other
+than indicating that I do not recommend looking for guidance in the
+fixed creeds embodied by religious organizations.
+
+Rather, it has been noted that there are probably structures in our
+brain itself that support the religious impulse. Predictably, the
+reductive materialists have treated this as an accident of evolution,
+this time an unhappy one that must be treated like any other cognitive
+bais or disorder. This reaction is predictable, being that the
+defenders of theism obviously reacted as if this was a watertight
+defense of their case.
+
+But that being said, we have thousands of years of philosophy and
+thought, much of it dedicated toward elaborating principles of right
+and wrong and justice. Much of this is based in the religious
+impulse. The fact that such concepts as justice, goodness and human
+purpose continue to recur, and be addressed by both the religious
+impulse and philosophy should be seen as significant. Those who claim
+that such concepts are illusory because science and a reductive
+materialist world view has no insights to yield should recognize the
+possibility that the problem could be a lack of tools sufficient to
+the task on their part, not that there is no answer. If the three-hundred
+year old philosophers like Locke used essentially Christian concepts define
+such important concepts as "natural rights" and "equality under the
+law," and today's contemporary materialists can say nothing more than
+"the answer is, there is no answer," then score one for the
+three-hundred year old philosopher.
+
+My strong opinion, then, is that the religious impulse is yet another
+source of truth that can fill these voids. However, two things are
+necessary to move foward in this direction. The first, quite
+obviously, is simple recognition that the religious impulse itself
+should be leveraged, not defeated. Not for nothing have both new
+atheists writiers and outspoken atheists scientists like E. O. Wilson
+have called for something very much like "secular churches" for the
+defense of ideals they cherish - ideals their philosophy unfortunately
+has no actual backing for. There seems to be a growing sense that the
+loss of a particular type of religious experience is a growing problem
+- in particular, that of the mainline "wishy-washy" Protestentism that
+wasted little time defending its own creeds and dogmas and instead
+spent its effort on the building of social capital, community, shared
+purpose and a committment to responsible participative governance. If
+this is a fuzzy ideal of a church that perhaps never existed, it is
+all the more need then to support those institutions where they do
+exist.
+
+The other thing that is necessary comes from the defenders of
+religion. Namely, pick the turf you choose to defend carefully.
+
+When I say that there is uncovered ground in philosophy, this is a
+call to action. Fields like ethics and collective values are an
+imperative of the time, as is the search for global ethics that lead
+to a better society. While there may be many materialists who think
+that prior sentence is nonsense, most do not, particularly since they
+fear unjust societies, which tend to find educated pointy-headed
+philosophers and scientists to be the convenient targets of their
+deadly purges. There is plenty to back such ideals up within the
+religious impulse too.
+
+However, the call for religion to contribute is a fraught one, since
+so many followers of religions have negative contributions to give. On
+the one hand, religion is tied to culture, and as such, religion is
+frequently weighted weighted with the baggage of culturally convenient
+untruths. For every religious follower whose heart burns with love for
+one's fellow man, it seems you will have another fanatic religious
+follower who is seemingly blind to any spiritual impulses yet is happy
+to use religion as a tool to elevate his own preference. One cannot
+simply use religion as an answer, when so much of it consists of
+harmful cultural practices; only a religion stripped bare of this
+overlay can meaningfully contribute to philosophical discussions.
+
+The other problem religion has contributing is the fact that even
+aside from cultural baggage, one has the baggage of excessive doctrine
+weighing it down. Through the end of the nineteenth century, theism
+still had its defenders in the academy, mainly in the form of idealist
+movements. Such movements, however, were generally handicapped by
+their marriage to a protestant christianity with its own intellectual
+overhead. Some idealists were fit to pose a "God of the philosophers,"
+postulating a space for defense of such abstract ideas as The Good and
+Justice. But others were invariably weighed down by their self-imposed
+need to defend core Christian concepts, such as the ostensibly
+singular nature of the Christ figure. Contemporary popular defenses of
+theism are are generally so as driven by the need to "testify" to this
+world view that they spend their time literally preaching to the
+choire, weakening their arguments so much as to be useless to the
+wider discussion outside of their own narrow creeds.
+
+For religiously-oriented philosophers to contribute in this
+discussion, therefore, they must make hard decisions. We have, on one
+hand, a religious impulse, seemingly shared by all humans, in which
+certain concepts are acknowledge to exist and be defended in spite of
+their immateriality. And we have on the other hand, the religious
+creeds themselves, which tend to weigh down the religious practices with
+a host of philosophically indefensible or inconsistent
+beliefs. Philosophers of religion must rededicate themselves to taking
+Occam's razor to their own beliefs, realizing that any idiosyncratic
+belief they may have in distinctive creeds are, more likely than not,
+contigent and accidental in nature. It is one thing to pose the
+existence of a deity or being in accordance with Anselm's proofs, and
+posit some loosely defined human spirit as being identical with the
+Mind of dualism. It is yet another thing to insist on a host of
+doctrinal beliefs - miraculous resurrections, theories of original
+sin, the godhead as trinity, virgin births, innerant scripture - as
+part and parcel of this defense.
 
 
 
 
+
+(1) To this objection, these new atheists will no doubt indicate that
+these movements are supported by the ever-shinking religious minority.
+This is mainly based on the fact that they view all religious
+believers as an undifferentiated mass. The main thing that must be
+pointed out is that support for nationalists is strongest by far among
+those who claim a religious identity _but do not practice their
+religion_. Examination will show that among dedicated believers, these
+movements have far less support. Lest such atheist writers thing I am
+practicing the "true scotsmans" fallacy, it must be noted that a large
+chunk of the alt-right are self-proclaimed atheists who feel their
+religion is cultural signifier only. While atheism itself is not at
+fault for these defective views, it is plain that practicing an
+atheistic creed does not automatically make one a defender of liberal
+democracies. Serious atheistic philosophers such as John Gray have
+been vocal in pointing out that atheism, far from being conducive to
+ethical conduct and democracy, settles nothing in the ethical sense,
+so it isn't just the religious that have problems with this line of
+reasoning.
