@@ -12,50 +12,62 @@ blacks, those I know in my circle are those who have managed to do
 well enough that they aren't obvious targets. As for actual friends,
 my lack of black friends is matched by my lack of white friends.
 
-But unfortunately, the question must turn to what to do. This may be
-the reason this issue is rarely discussed - even among those who agree
-there is a problem, there is nothing obvious to be done. "The
-problem," such as it is, is most obviously embodied by white racists,
-who are not surprisingly completely outside of the social circles of
-those that are concerned by this fact. The whites who do have racist
-relations have found such people to be impervious to reason to an
-almost perverse degree, and in any case consider lack of contact with
-such people to be a precious benefit. And obviously, African-Americans
-do not want to deal with such people - the mere fact such people are
-allowed to exist in polite society and law enforcement is perhaps the
-worst embodiment of racism that there is.
+But unfortunately, the question must turn to _what to do._ This
+uncomfortable fact may be the reason this issue is rarely discussed.
+Even among those who agree there is a problem, there is nothing
+obvious that can easily be done by those of good will. "The problem of
+racism," such as it is, is most obviously embodied by white racists,
+particularly those in positions of authority. Not surprisingly, these
+people seem completely outside of the social circles of the whites who
+are concerned by racism. This is for a very good reason: most whites
+who do have racist relations have found such people to be impervious
+to reason to an almost perverse degree, to they extent that they
+consider lack of contact with such people to be a precious
+benefit. Meanwhile, there are few African-Americans who are willing to
+risk their neck to "educate" these people; indeed, they may rightly
+feel that the fact such people are allowed at all as authority figures
+in politics and law enforcement is the worst embodiment of racism
+society holds in store for them. This seems to place the problem out
+of the control of either the whites or blacks who wish to move forward.
 
-This formulation, however, is not too hard, but too easy. It lets
-people off the hook, while at the same time leaving the problem in the
+If you may suspect that this pat formulation is either too hopeless or
+too easy, you are right on either count. It lets those who are
+concerned off the hook, while at the same time leaving the problem in the
 hands of those who wish to perpetuate it. Obviously, it would be ideal
 if the solution laid among those of good will, where racists can be
-excluded.
+excluded. Is there such a solution?
 
-Fortunately, there is a solution. It lies in the writings of Baha'i
-authority Shoghi Effendi.
+In fact, there is! It lies in the writings of Baha'i authority Shoghi
+Effendi. It is rather nonobvious.
 
 Shoghi Effendi was the leader of the Baha'i community during the
 1920-1950 timeframe. He had a rather nasty problem himself with racism
-as it existed in the Baha'i community. This was even more problematic,
-because the Baha'i Faith is a religious community, one that explicitly
-forbids prejudice and racism! However, in spite of the leadership
-shown by the prior leader, Abdu'l-Baha, many community members found
-it all to easy to follow the lead of society, by having defacto
-self-segregated communities for instance.
+as it existed in the Baha'i community. The existence of racism was
+especially problematic in the Baha'i community, because the Baha'i
+Faith is a religious community, one that explicitly forbids prejudice
+and racism! In spite of the leadership shown by the prior leader,
+Abdu'l-Baha, many community members found it all to easy to follow the
+lead of society, by having defacto self-segregated communities for
+instance within prominent communities such as Washington D.C.
 
 Shoghi Effendi lived in the then-territory of Palestine, and unlike
 Abdu'l-Baha, never visited America. The most he could realistically do
-is give guidance. But the guidance he gave was instructive. The most
-significant writing to this was a book-length letter to the Baha'i
-community in America titled _The Advent of Divine Justice_. Written in
-the late 1930s, it covered a broad range of issues, but spent several
-pages writing about how the Baha'i Faith must address the issue of
-race, both within its ranks and in society at large.
+was give guidance. But the guidance he gave was timely and
+critical. While he wrote repeatedly to his fellow American believers
+on this subject over the course of his thirty-odd year tenure as
+leader of the Baha'i Faith, his most significant writing on this topic
+came in a book-length letter to the Baha'i community in America titled
+_The Advent of Divine Justice_. Written in the late 1930s, it covered
+a broad range of issues, but spent several pages writing about how the
+Baha'i Faith must address the issue of race, both within its ranks and
+in society at large. It is referred to by American Baha'is even to
+this day.
 
 The guidance is notable, in that it does not give the same guidance to
 whites and African-Americans! It does not make the mistake of giving
 in to half-hearted urges of "tolerance" and "seeing beyound race."
-Instead, it gives specific instructions, that differ. To the whites he says:
+Instead, it gives specific instructions, that differ based on the race
+of the believer. To the whites he says:
 
 > Let the white make a supreme effort in their resolve to contribute
 > their share to the solution of this problem, to abandon once for all
@@ -70,18 +82,19 @@ Instead, it gives specific instructions, that differ. To the whites he says:
 
 African-Americans get their own tasks. Though one might view these as
 easier than those assigned to whites, that is only right, and it does
-not mean they are difficult tasks. (Important aside regarding
+not mean they are not difficult tasks. (Important aside regarding
 vocabulary: please keep in mind that this passage was written in 1937,
 when the term "Negroes" was the proper term to use. Tempted as I am to
 "correct" or leave it out, I will respect the author and leave it intact.)
 
-> Let the Negroes*, through a
+> Let the Negroes, through a
 > corresponding effort on their part, show by every means in their power
 > the warmth of their response, their readiness to forget the past, and
 > their ability to wipe out every trace of suspicion that may still
 > linger in their hearts and minds.
 
-And finally, those that must be carried out by both:
+And finally, there are those tasks that must be carried out by both blacks
+and whites:
 
 > Let neither think that the solution
 > of so vast a problem is a matter that exclusively concerns the
@@ -102,25 +115,22 @@ And finally, those that must be carried out by both:
 > the hopes He cherished for their joint contribution to the fulfillment
 > of that country’s glorious destiny.
 
-To some extent, those of the African-Americans are those they have to
-bear anyway as citizens of society. While we can think of plenty of
-whites who aren't keeping up their end of this, there are very few
-African-Americans that I have met who don't keep up their end of the
-solution. Those who think, for example, that African-Americans are
-insufficiently deferential to law enforement are generally those who
-come into very little contact with that community.
+While we can think of plenty of whites who aren't keeping up their end
+of this, there are very few African-Americans that I have met who
+don't keep up their end of the solution.
 
 In short, the resolution of the issue of race relations in this country
 is solvable. It lies within the grasp of those of good will. And it is
 primarily the responsiblity of those who are in the majority in this
 country anyway: the whites.
 
-The challenge, then, is not determine what is to do, but instead
-become determined to "plow one's own row." One must concentrate on
-what one's own community must do, and not get distractd by any
-perceived failure of response by the other community. Remember that
-there are others of ill will in both your community and the others;
-this is not under your control, or under the control of those you
-affiliate with in that community. Only in this manner can you and your
-organization lead the way forward, and only by leading can the rest of
-the community follow.
+The challenge, then, is not determine what _society_ should do, but
+instead become determined to "plow one's own row." One must
+concentrate on what oneself must do within one's own community, and
+not get distractd by any perceived failure of response by
+others. Remember that there will be others of ill will that you will
+meet; this is not under your control. Instead, befriend who you can
+and do what you can to help. You don't get to pick your poison, but
+you can act on your duties, knowing it will make a difference. Only in
+this manner can you and your organization lead the way forward, and
+only by leading can allow the rest of the community to follow.

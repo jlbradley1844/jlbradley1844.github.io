@@ -67,12 +67,12 @@ As someone who has practiced it, I can say that _during_ the fact, it
 does not help your willpower at all! While the disruption of your
 schedule may be a good time to adopt some new habits, it is not the
 time to pick up a habit that requires a lot of willpower. Keeping your
-bad habits in check will be enough of a challeng. And anyone who is
-hoping to use it to lose a significant amount of weight may also be
-disappointed! But would I recommend it to someone in good health who
-isn't Baha'i? Absolutely! Unfortunately, I cannot feel my willpower
-"grow" once I've exited the fast, but if what we know about the
-science of willpower is correct, it should.
+bad habits in check will be enough of a challenge. And anyone who is
+hoping to use the fast period to lose a significant amount of weight
+may also be disappointed! But would I recommend it to someone in good
+health who isn't Baha'i? Absolutely! Unfortunately, I cannot feel my
+willpower "grow" once I've exited the fast, but if what we know about
+the science of willpower is correct, it should.
 
 ## Review of Expenditures
 
@@ -178,12 +178,6 @@ it, so obviously you are interested; those who are disinterested are
 not forced to read. I make some effots to ensure this is read, but
 will not evangelize for it.
 
-
-
-Teaching is not to be confused with evangelism. Teaching is, um,
-teaching, and if you find these practices good, it is only natural you
-would tell others who may benefit.
-
 ## Personal Growth through Life Stages
 
 I've discussed practices on a day-by-day basis. Now I'd like to take
@@ -214,11 +208,11 @@ One thing that has induced much worry about the so-called millenials
 is delay and foot-draging of young adults as they put off these life
 stages. I'm not too eager to draw generalizations about entire
 generations of youth; if you think the problem is lack of character
-clutivation - whose fault is that? My personal tendency is to think
+cultivation - whose fault is that? My personal tendency is to think
 most millenials get a raw deal from scociety. I
 personally was quite lucky in being able to get a college education
 and being inclined toward a profession that pays well. I certainly
-wouldn't what to be in the position of a hard-working twentysomething
+wouldn't want to be in the position of a hard-working twentysomething
 male who wasn't academically inclined and who has trouble finding work
 in a chosen trade that pays well; even if you have a job, people
 without a degree can increasingly find contracting marriage difficult
@@ -234,10 +228,8 @@ meeting them seems far more salutary than regarding these as
 
 * the first "real" job is only considered valid in your targeted
 profession, and
-
 * marriage is not to be attempted until one is
 professionally established, and 
-
 * childbearing is not attempted until both parents are at a suitable
 point in their profession and their material means.
 
@@ -249,11 +241,27 @@ situation, whereby entire sections of society are considered
 pregnancy becomes difficult to effect quite little to
 recommend to it.
 
----------------
+I fibbed a little, there are actually four stages.  The final life
+stage is preparing for death. Here, the Baha'i Faith recommends
+meeting this instead of avoiding thoughts of it. In particular,
+everyone is required to have a will. While Baha'i law has a (rather
+complicated) rules for inheritance in case of intestancy, Baha'is are
+required to dedicate their own will, ensuring that this is only
+applied in unusual circumstances.
 
-The final life stage is preparing for death, and here again, the
-Baha'i Faith recommends meeting this instead of postponing it. In
-particular, everyone is required to have a will. While Baha'i law has
-a (rather complicated) will for intestancy, Baha'is are required to
-dedicate their own will, ensuring that this is only applied in unusual
-circumstances.
+--------------------------
+
+So that's a brief wrap-up of some of the other ways that the Baha'i
+Faith cultivates virtue, ways that don't involve a set of daily
+habits.  Like the daily habits, these are all things I would recommend
+to anyone, regardless of religious inclination. You can do this if you
+don't have a religious, believing bone in your body. Indeed, for some
+of these, you are probably doing them already.
+
+The final way the Baha'i Faith cultivates virtue is a set of
+interdictions; while the nature of the Fiath places less importance on
+those, it is part of the Baha'i Faith that must be considered. But
+introductions to the Baha'i Faith tend to de-emphasize these, even
+though we have an extensive code of conduct. The reason is not because
+they are unpopular (though they are); it is because they are less
+important. We'll consider that in a final post on this series.
