@@ -63,22 +63,22 @@ unmaintainable.
 
 Here is the problem with this behavior:
 1. Eventually you're going to stop getting away with it
-2. Eventually you're going to grow at least a little of a conscience
+2. Eventually you're going to grow at least a little conscienceness
 
-Nobody can do this. Anyone with a modicum of business sense and big
-brass cajones could be very, very successful at a huge number of
-grifts and fraudulent activites, and the penalty of being caught is
-very low. There is even plenty of help in the philosophy aisle of the
-bookstore, if you want to snuff out whatever is getting in the way of
-your killer instinct. That will make you the absolute alpha male, the
-ubermensch striding the world through scrappiness and "disruptive"
-rule-breaking. But most men have a conscience, even if it's just a
-sliver, that keeps them from such depths. Instead, perhaps they may be
-able to throttle their conscience enough to kicking down minorities or
-other out-groups, but they can't do it consistently. Whether through
-concience or fear, they simply can't keep up the nonstop warrior
-outlook. They cannot be "real men" according to their chimpanzee code
-of conduct.
+Nobody can do this. In theory, it should be easy. Anyone with a modicum
+of business sense and big brass cajones could be very, very successful
+at a huge number of grifts and fraudulent activites, and the penalty
+of being caught is very low. There is even plenty of help in the
+philosophy aisle of the bookstore, if you want to snuff out whatever
+is getting in the way of your killer instinct. That will make you the
+absolute alpha male, the ubermensch striding the world through
+scrappiness and "disruptive" rule-breaking. But most men have a
+conscience, even if it's just a sliver, that keeps them from such
+depths. Instead, perhaps they may be able to throttle their conscience
+enough to kick down minorities or other out-groups, but they can't
+do it consistently. Whether through concience or fear, they simply
+can't keep up the nonstop warrior outlook. They cannot be "real men"
+according to their chimpanzee code of conduct.
 
 Perhaps that is the reason why some men wish to outsource their
 thuggishness to detestable leaders. They could be a "real man," if
