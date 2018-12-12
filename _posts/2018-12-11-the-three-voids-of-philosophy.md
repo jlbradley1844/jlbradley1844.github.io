@@ -1,4 +1,4 @@
-````````---
+---
 title: The Three Voids of Philosophy
 ---
 
