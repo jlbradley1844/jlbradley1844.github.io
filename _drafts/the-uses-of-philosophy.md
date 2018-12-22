@@ -29,7 +29,7 @@ have to study philosophy. Perhaps one may do this to either appear
 "well rounded" in conversation by familiarizing oneself with ideas of
 import in the past, no matter how disregarded or unscientific these
 ideas are. Or perhaps one has an antireligous interest; for such
-people, the philosophy section seems to serve the same function as the
+people, the philosophy book section seems to serve the same function as the
 religious book section does for believers. Members of both groups want
 to read books to assure themselves that they are right, and all those
 _other people_ are stupid, evil or both.
@@ -44,41 +44,66 @@ emperically testable, then it is part of Science; if not, then it is
 not the place for the study of truth. Given the developments in the
 late nineteenth and early twentieth century, philosophy itself seemed
 to assist in this effort, as positivists and analytic philosophers
-heaped scorn on philosophical exercises like metaphysics and
+heaped scorn on philosophical exercises like talk of metaphysics and
 nonemperical approaches, essentially leaving only scientifically
-testable truths as the ones worth studying. If that is the case then,
-perhaps philosophy is a decent place to learn how to form arguments,
-think logically and properly conduct forensics; a worthy goal, but
-hardly about finding grand truths.
+testable truths as the ones worth studying.
 
-But is that all there is? A way to improve one's argumentation, and
-nothing more than a study of techniques? Much as the classical
-sophists placed argumentation over actual truth, a modern student of
-philosophy may be more interested in winning the argument and
-persuading, actual truth and facts being besides the point. Here
-again, as different set of twentieth century philosophers can assist
-this effort, as many have assailed truth itself as a social construct,
-perhaps imposed by those in power. And there have been other concerns
-by philosophers that any attempt to establish truth definitively may
-be harmful, if the end result is to attempt a final edifice to be
-imposed upon poeple. While such arguments have some compelling moral
-insights, the movement away from truth may give philosophy itself a
-bad name. Indeed, I recently read an article on Brexit, which has
-proven itself to be a bad idea sold through lies. Their theory was
-that the British political class was heavily educated in philosophy
-due to their elite background, producing a generation of "rotters"
+If that is the case then, perhaps philosophy is a decent place to
+learn how to form arguments, think logically and properly conduct
+forensics; a worthy goal, but hardly about finding grand
+truths. Perhaps a modern student of philosophy may be more interested
+in winning the argument and persuading, actual truth and facts being
+besides the point. Here again, a different set of twentieth century
+philosophers have assisted this effort, as many have assailed truth
+itself as a social construct, imposed by those in power. And there
+have been other concerns by philosophers that any attempt to establish
+truth definitively may be harmful, if the end result is to attempt a
+final edifice to be imposed upon poeple. While such arguments have
+some compelling moral insights, the movement away from truth may give
+philosophy itself a bad name. Indeed, I recently read an article on
+Brexit, which has proven itself to be a bad idea sold through
+lies. The root cause analysys blamed the educational background of the
+British political class. These elites typically have a heavy
+background in philosophy and law, producing a generation of "rotters"
 whose main skill was at debating on their feet and hoodwinking people
-in arguments instead of producing things of value; truth was never a
-concern for such people. In any event, even the modest, utilitarian
-goal of improved argumentation leaves a lot on the table; the "big
-questions" philosophy used to address don't go away just because
-science can't answer it easily.
+in arguments instead of producing things of value. It seems truth was
+never a concern for such people.
+
+Perhaps we can take a counterintuitive notion, and say that it is
+really religion that is the study of truth. This is counterintuitive
+because no one has seriously proposed this; a lot of philosophers,
+particularly of the analytic persuasion, will say that all religion is
+nonsense. Indeed, such philosophers sometimes seem like
+frozen-in-amber copies of 18th century philosophers, railing at The
+Church as if it still had the same power and sway over society as it
+did in the middle ages. Meanwhile, other philosophers and scientists
+(they aren't all atheists!) will tell you there are two _magesteria_,
+such as they call it. Science is for the study of certain verifiable
+truths, religion is for the study of certain truths not illuminated by
+scientists, and perhaps philosophy is about how these work
+together. But this nice little theory doesn't hold up to scrutiny in
+real life. It should stand to reason that if there is one reality,
+there will be areas of practical overlap, in ethics and phenomenology,
+for instance. Without addressing these overlaps, religion simply
+functions as a spackle to cover areas of ignorance, to be slowly
+chipped away as science progresses. Thus we get the atheistic
+scientists' "God of the gaps," a God borne of ignorance that nobody
+believes in, but that atheists seem to strongly believe the religious
+believe in.
+
+In any event, what we seem to be left with is a philosophy with a
+modest, utilitarian goal of improved argumentation. This leaves a lot
+on the table. The "big questions" philosophy used to address don't go
+away just because science can't answer it easily. So why do we read
+and study philosophy?
+
+## A Modest Proposal
 
 A better approach may be to regard philosophy as invaluable tool in
 the _search_ for truth. The American pragmatist school, though not
-quite as influential than it was a century ago, still looms large, and
+quite as influential now than it was a century ago, still looms large, and
 it has never claimed to be about the study of any single truth per se.
-Instead, its focus is about how to search for and recognize truth.
+Instead, its focus was about how to search for and recognize truth.
 Giving people the tools to be able to search for truth and recognize
 errors is invaluable, and seems a far more noble an aim than simply
 dominating others in verbal exchanges. And note that by the "search
@@ -88,30 +113,10 @@ talking about the tools for thinking critically about ones
 pre-existing views and purge from them the errors that tend to creep
 into the thinking of all.
 
-Also, what does that mean for those who also study religion, which
-also claims to be about some sort of truth? Well, a lot of
-philosophers, particularly of the analytic persuasion, will say that
-all religion is nonsense. Indeed, such philosophers sometimes seem
-like frozen-in-amber copies of 18th century philosophers, railing at
-The Church as if it still had the same power and sway over society as
-it did in the middle ages. Meanwhile, other philosophers and
-scientists (they aren't all atheists!) will tell you there are two
-_magesteria_, such as they call it. Science is for the study of
-certain verifiable truths, religion is for the study of certain truths
-not illuminated by scientists, and perhaps philosophy is about how
-these work together. But that doesn't really indicate how this works
-in practice. It should stand to reason that if there is one reality,
-there will be areas of practical overlap, in ethics and phenomenology,
-for instance. Otherwise, the religion simply functions as a spackle
-for areas of ignorance, to be slowly chipped away as science
-progresses. Thus we get the atheistic scientists' "God of the gaps," a
-God borne of ignorance that nobody believes in, but that atheists seem
-to strongly believe the religious believe in.
-
 I would like to put forth a different set of uses for philosophy:
-* A tool to independent investigation of the truth
-* A tool for shared, concrete understanding
-* A tool for grappling with real problems of collective governance
+* A tool to the independent investigation of the truth
+* A tool for producing shared, concrete understanding between people
+* A tool for analyzing real problems of collective governance
 
 This is mainly after the aims of the Baha'i Faith. Those who study the
 Baha'i Faith have a genuine interest in philosophy, but their concerns
@@ -125,16 +130,17 @@ much contemporary philosophy, it does not think of the field as the
 study of The Truth, so much as _investigation_ of the truth.
 
 The above proposal, therefore, is that philosophy is of use for
-investigating the truth, without settling it. Additionally, there are
-aims for this search of truth; while settling truth for oneself may be
-desired, it is necessary to commit to a path to truth that many can
-collectively agree on. And likewise, that this must have proper aims;
-under the Baha'i faith, the aim of the development of mankind,
-civilization, and proper governance. Here, the philosophical basics
-such as sound reason and agreement on known facts are of considerable
-importance. Finally, the aims of he Baha'i Faith hold collective
-governance as of special importance, making philosophical fields such
-as ethics of particular importance.
+investigating the truth and settling on answers to allow progress to
+move forward - not to settle truth for once and for all. Additionally,
+there are aims for this search of truth; while settling truth for
+oneself may be desired, it is necessary to commit to a solutions
+that many can collectively agree on. And likewise, that this must have
+proper aims; under the Baha'i faith, the aim of the development of
+mankind, civilization, and proper governance. Here, the philosophical
+basics such as sound reason and agreement on known facts are of
+considerable importance. Finally, the aims of he Baha'i Faith hold
+collective governance as of special importance, making philosophical
+fields such as ethics of particular importance.
 
 ## A Reading List of Contemporary Philosophy
 
@@ -154,42 +160,54 @@ On the other hand, just _any_ reading list will not do. There is a
 reason religious people - and many Baha'is - do not look to philosophy
 as often as it should. For over a century, dominant strains of Western
 philosophy were hostile not only to religion, but discussion of
-spirituality of any form. Schools of emperical positivism in the late
-ninteenth century, followed by the analyitic positivist who found
-themselves dominant by the mid-twentieth century forced the entire
-field of study to be nominally atheistic and suspicious, if not
-downright hostile, to many of the ideals held dear so anyone of even
-the slightest religious inclination.  This has not resulted in
-writings that are erroneous per say; rather, it has shrunken the
-concerns of philosopy only to statements of logic and emperically
-testable facts, and an outright disdain for matters of metaphysics,
-teleology and ethics.
+spirituality of any form. Indeed, some philosophies seemed tailor-made
+to people looking to rationalize the worst personality
+defects. Schools of emperical positivism in the late ninteenth
+century, followed by the analyitic positivist who found themselves
+dominant by the mid-twentieth century forced the entire field of study
+to be nominally atheistic and suspicious, if not downright hostile, to
+many of the ideals held dear so anyone of even the slightest religious
+inclination. Indeed, sometimes entire philosophies are made up simply
+to justify inclinations that would otherwise be easy to defend; though
+I don't want to name names, one writer whose name rhymes with "Man Band"
+fits into this category.
+This has not resulted in writings that are erroneous per
+say; rather, it has shrunken the concerns of philosopy only to
+statements of logic and emperically testable facts, and an outright
+disdain for matters of metaphysics, teleology and ethics.
 
 Given that these matters are very much of concern to Baha'is - indeed,
 to all non-philosophers - it is necessary to read a bit more
-widely. Rather than identify philosophers whose writings are so
+widely. Rather than simply blacklisg philosophers whose writings are
 inimical to the spirit of Faith as to prove useless in the search for
 truth and shared understandings, it is better to identify those that
 are useful.
 
+I'm only an early student of philosophy, so am just getting
+started. But as soon as one starts learning beyond the "Philosophy
+101" level, it becomes very obvious: Philosophy is a _big_ field. That
+means lots of schools, and lots of specializations. So to this end,
+this reading list is going to proceed based on these sections, with a
+little note as to why the field may be useful.
 
 Analytic:
 
 Analytic philosophers married empericism and verificationist
 tendencies with hardcore mathematics. The goal, one imagines, was to
 thrust rigor into philosophy and bring the scientific process to bear
-to the field, along with all the advances that entailed. Unfortunately
-many of the "greatest philosophers" acclaimed in the twentieth century
-English speaking world - Bertrand Russel, Rudolph Carnap and the whole
-Vienna circle were atheistic in outlook. While not all of them made
-much of their atheism, the field in general remains hostile to
-anything even mildly religious. Indeed, much of the reason so many
-analytic philosophers wished away areas like metaphysics and
-spirituality was because their unscientific nature was seen as an
-encumberance to this cause. (It seems you can throw the baby out with
-the bathwater if you have no patience for babies.)  Indeed, the modern
-world view decried in _Century of Light_ had its foundations built by
-analytic philosophers.
+to the field, along with the speed of advance that this
+promised. Unfortunately, many of the "greatest philosophers" acclaimed
+in the twentieth century English speaking world - Bertrand Russel,
+Rudolph Carnap and the whole Vienna circle were explicitly atheistic in
+outlook. While not all of them made much of their atheism, followers
+of this method
+remain hostile to anything even mildly religious. Indeed,
+much of the reason so many analytic philosophers wished away areas
+like metaphysics and spirituality was because their unscientific
+nature was seen as an encumberance to this cause. (It seems you can
+throw the baby out with the bathwater if you have no patience for
+babies.)  Indeed, the modern world view decried in _Century of Light_
+had its foundations built by analytic philosophers.
 
 While this does not mean that all work in this field is in error -
 there are plenty of theistic analytic philosophers that have built on
@@ -204,25 +222,20 @@ attempted to use these tools outside of the strict-verificationist
 framework, or readings that are so foundational that one simply cannot
 ignore them.
 
+That being said, there are plany of analytic philosophers that are
+helpful to study, and not all of them reflect the strident materialism
+of the logical positivists.
 
-
-Bracketting early Analytic philosophy, and some notable exceptions in
-the post-1950 period—for example, original and important work by
-G.E.M. Anscombe, Peter Strawson,
-Gareth Evans , Phillipa Foot,
-Judith Jarvis Thomson, Harry Frankfurt, Rorty, Bernard Williams,
-Brian O’Shaughnessy, Richard Wollheim, Derek Parfit,
-John McDowell, Susan Haack, and a few others—good riddance to bad
-rubbish.
-
+William Hatcher (of course)
+W. V. Quine
+Alvin Plantinga
+G.E.M. Anscombe
 John Rawls
-Hilary Putnam
 Thomas Nagel
 Mary Midgley
-
+Phillipa Foot
 Saul Kripke
 Ruth Barcan Marcus
- 
 David Kellogg Lewis
 Peter Hacker
 Lofteh Zadeh
@@ -233,30 +246,39 @@ Jerry Fodor
 Christine Korsgaard (maybe)
 Peter Unger
 Jennifer Saul (maybe)
+Judith Jarvis Thomson (maybe)
+Peter Strawson (perhaps - hardcore analytic)
+Harry Frankfurt
+Richard Wollheim (for "Wollheim's Paradox")
 
-Quine
-Alvin Plantinga
+The most famous analytic serious philosopher in the English-speaking world in
+the twentieth century - indeed, of any sort of philosopher - is
+arguably Bertrand Russel, and perhaps he should be read if only to
+familiarize oneself with the most common serious objections to theism and
+non-materialist metaphysics. The most common _popular_ philosopher is
+Ayn Rand, and I see no reason to read her. While perhaps an effective
+propagandizer for the worst of positivist beliefs, her works are not
+sufficiently rigorous to be taken seriously.
 
 Process Philosopy:
 Alfred North Whitehead
 Charles Hartshorne
 
 Pragmatic:
-
 C. S. Pierce
 James
 Dewey
-Rorty
+Rorty (limited)
 Hilary Putnam
 
-"Continental"
+"Continental":
 Edmund Husserl
 Henri Bergson
 Hannah Arendt
 Leo Strauss
 Karl Jaspers
 Martin Buber
-ernst Cassirer
+Ernst Cassirer
 Jean Baudrillard "Simulacra and Simulation"
 
 Late Idealist:
@@ -277,12 +299,11 @@ Theodor Adorno
 Other:
 Alasdair MacIntyre: virtue ethics, Thomist
 Cornel West
-Antonai Etazai (spelling? communitarianism)
-Amartya Sen
-Kwame Anthony Appiah
-Phillipa Foot
+Amatai Etzioni (not really a philosopher)
+Amartya Sen (ethics)
+Kwame Anthony Appiah (ethics)
 
-Theologies:
+Theology:
 Paul Tillich
 
 
