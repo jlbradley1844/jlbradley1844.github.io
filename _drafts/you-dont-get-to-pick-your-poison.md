@@ -12,30 +12,34 @@ blacks, those I know in my circle are those who have managed to do
 well enough that they aren't obvious targets. As for actual friends,
 my lack of black friends is matched by my lack of white friends.
 
-But unfortunately, the question must turn to _what to do._ This
-uncomfortable fact may be the reason this issue is rarely discussed.
-Even among those who agree there is a problem, there is nothing
-obvious that can easily be done by those of good will. "The problem of
-racism," such as it is, is most obviously embodied by white racists,
-particularly those in positions of authority. Not surprisingly, these
-people seem completely outside of the social circles of the whites who
-are concerned by racism. This is for a very good reason: most whites
-who do have racist relations have found such people to be impervious
-to reason to an almost perverse degree, to they extent that they
-consider lack of contact with such people to be a precious
-benefit. Meanwhile, there are few African-Americans who are willing to
-risk their neck to "educate" these people; indeed, they may rightly
-feel that the fact such people are allowed at all as authority figures
-in politics and law enforcement is the worst embodiment of racism
-society holds in store for them. This seems to place the problem out
-of the control of either the whites or blacks who wish to move forward.
+But unfortunately, the question must turn to _what to do._ Lack of
+consensus and clarity on this issue may explain why this issue is
+rarely discussed.  Even among those who agree there is a problem,
+there seems nothing obvious that can easily be done by those of good
+will. "The problem of racism," such as it is, is most obviously
+embodied by white racists, particularly those in positions of
+authority. Not surprisingly, these people are frequently completely
+outside of the social circles of the whites who are concerned by
+racism. This is for a very good reason: most whites who do have racist
+relations have found such people to be impervious to reason to an
+almost perverse degree, to they extent that they consider lack of
+contact with such people to be a precious benefit. Efforts to
+"educate" these people, more often than not, backfires badly as they
+continue to stubbornly dig into their obsolete attitudes. Meanwhile, there
+are few African-Americans who are willing to risk their neck to
+"educate" these people; indeed, they may rightly feel that the fact
+such people are allowed at all as authority figures in politics and
+law enforcement is the worst embodiment of racism society holds in
+store for them.
 
-If you may suspect that this pat formulation is either too hopeless or
-too easy, you are right on either count. It lets those who are
-concerned off the hook, while at the same time leaving the problem in the
+This seems to place the problem out of the control of either the
+whites or blacks who wish to move forward.  But if you may suspect
+that this pat formulation is either too hopeless or too easy, you are
+right on both counts. This view lets those who are concerned off the
+hook, while at the same time leaving resolution of the problem in the
 hands of those who wish to perpetuate it. Obviously, it would be ideal
-if the solution laid among those of good will, where racists can be
-excluded. Is there such a solution?
+if the solution laid among those of good will, no matter what the
+deeds of the unrepentant rascists. Is there such a solution?
 
 In fact, there is! It lies in the writings of Baha'i authority Shoghi
 Effendi. It is rather nonobvious.
@@ -65,14 +69,17 @@ this day.
 
 The guidance is notable, in that it does not give the same guidance to
 whites and African-Americans! It does not make the mistake of giving
-in to half-hearted urges of "tolerance" and "seeing beyound race."
-Instead, it gives specific instructions, that differ based on the race
-of the believer. To the whites he says:
+in to half-hearted urges of "tolerance" and "seeing beyound race"; nor
+does it believe that a "color-blind" attitude is sufficient.  Instead,
+it gives specific instructions, that differ based on the race of the
+believer.
+
+To the whites he says:
 
 > Let the white make a supreme effort in their resolve to contribute
 > their share to the solution of this problem, to abandon once for all
 > their usually inherent and at times subconscious sense of superiority,
-> to correct their tendency towards revealing a patronizing attitude
+> to correct their tendency towar
 > towards the members of the other race, to persuade them through their
 > intimate, spontaneous and informal association with them of the
 > genuineness of their friendship and the sincerity of their intentions,
@@ -124,13 +131,22 @@ is solvable. It lies within the grasp of those of good will. And it is
 primarily the responsiblity of those who are in the majority in this
 country anyway: the whites.
 
-The challenge, then, is not determine what _society_ should do, but
-instead become determined to "plow one's own row." One must
-concentrate on what oneself must do within one's own community, and
-not get distractd by any perceived failure of response by
-others. Remember that there will be others of ill will that you will
-meet; this is not under your control. Instead, befriend who you can
-and do what you can to help. You don't get to pick your poison, but
-you can act on your duties, knowing it will make a difference. Only in
-this manner can you and your organization lead the way forward, and
-only by leading can allow the rest of the community to follow.
+The challenge, then, is not determine what _society_ should do; there
+are indeed plenty. Nowhere in this formulation does it rule out
+further actions or specify that society should take no further
+concerns. Indeed, should white people think of the concerns of all
+people, rather than just of those of themeselves, they cannot help but
+note structural inequalities that are imperative to act upon. However,
+it is easy to let social and political concerns crowd out the work
+that individuals themselves must do.
+
+Instead, those of good wiill must redouble their determination to
+"plow one's own row." One must concentrate on what oneself must do
+within one's own community, and not get distractd by any perceived
+failure of response by others. Remember that there will be others of
+ill will that you will meet; this is not under your control. Instead,
+befriend who you can and do what you can to help. You don't get to
+pick your poison, but you can act on your duties, knowing it will make
+a difference. Only in this manner can you and your organization lead
+the way forward, and only by leading can allow the rest of the
+community to follow.
