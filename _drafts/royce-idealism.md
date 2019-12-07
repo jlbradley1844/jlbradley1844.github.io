@@ -32,11 +32,12 @@ being "The Religious Problems and The Theory of Being," and "The
 Internal and External Meaning of Ideas."  The first was taken from an
 earlier talk and expanded; the other two were later printed in _The
 World and the Individual_, a two-volume work printed 1899-1901 which
-is probably Royce's most important middle-period writing, and the most
-critical one as far as his idealistic philosophy.  I've titled this
-section after the last paper of the three, as "the four conceptions of
-being" is probably Royce's most important contribution to idealistic
-philosophy.
+is Royce's most important metaphysical work and the most critical one
+as far as his idealistic philosophy. Royce himself referred to this
+volume in later years as containing the most elaborate statement of
+his metaphysical views. I've singled out the last paper of the three,
+as "the four conceptions of being" is probably Royce's most important
+contribution to idealistic philosophy.
 
 In these papers, Royce elaborates four of what he calls "conceptions
 of being," to explain exactly why we cannot rest easy with the claims
@@ -497,9 +498,61 @@ particularly the social commentary which was eager to break with those
 philosophers who embodied what he felt were the excesses of both
 individualism and materialism.
 
+This view does not repeal the third conception of reality so much as
+extend it:
+
+    ... if you follow our Fourth Conception, you will now agree with
+    the critical rationalist when he asserts that Being essentially
+    involves what gives the validity to ideas. But you will have
+    discovered what conditions are necessary to constitute
+    validity. The valid finite idea is first, for whoever possess it,
+    an observed and empirical fulfillment of purpose. But this
+    fulfillment is also observed in this instant as something
+    incomplete. Therefore it is that a finite idea seeks beyond itself
+    for its own validity.
+
+Indeed, Royce poses this as a synthesis of the three prior
+conceptions.
+
+Note that this conception does not dispense with empericism:
+
+    I know of no truth that is not an empirical truth, whatever
+    further character it also possesses. An idea, according to our
+    original definition, is already a fragment of experience although
+    partially fulfilling a purpose. The fulfillment of an idea could
+    not possibly take any form that was not also empirical.
+
+But you cannot do this outside the form of that posed by sentient
+beings:
+
+    Experience then is real. Aye, but what experience? And above all,
+    in what sense is experience real? What kind of Being has
+    experience? This question must be answered by any one who glibly
+    asserts that experience is.
+
+The ideal of this fourth conception gives rise to The Ideal, or The
+Absolute, which is the full being referred to. This is posed as a
+logical extension of the fourth conception. The immediate objection of
+any skeptic is obvious: "Yet you talk of final Being, and of its
+constitution. Perhaps there is no final Being. Perhaps there is only
+the present fragment of empirical life."
+
+    If one asserts: A is all or, There is naught but A, the assertion
+    involves ideas, and if it means anything these ideas possess some
+    object. Now by hypothesis, the present moment, or A, does not
+    itself contain the direct experience of the fact that it includes
+    the whole universe of Being. For if A were certainly aware that
+    nothing besides itself could exist, it would consciously have
+    present what exhausted, even in the very present consciousness of
+    A, the whole possible meaning of the idea of Being. But A would
+    itself then be a completely embodied meaning, an absolutely
+    self-possessed Whole of experience, fulfilling its own purpose. Or
+    in other words, our own Fourth Conception of Being would directly
+    apply to it.
 
 
-**"The Concept of The Absolute and the Dialectical Method"**
+
+## "The Concept of The Absolute and the Dialectical Method"**
 
 This appears to have been from the same series of lectures, but
 covering the period after Kant, with the birth of German idealism,
@@ -571,7 +624,7 @@ further illuminate his view of truth, as something being both rigorous
 and constructed.
 
 
-**"Self-Consciousness, Social Consciousness and Nature"**
+## "Self-Consciousness, Social Consciousness and Nature"**
 
 This wide-ranging paper covers a number of topics, mostly relating to
 metaphysics and consciousness itself. In spite of the title, it is
@@ -629,135 +682,47 @@ Here are some of the more interesting ideas:
   consciousnessness somehow, however dim. Why do we not communicate
   with these? Because we do not live at the same scale.
 
-**"The Religious Problems and the Theory of Being"**
-**"The Internal and External Meaning of Ideas"**
+## A Summary of Rocye's Thought
 
-These two papers from Rocye's middle period discuss some of his ideas
-on _ideas_. In particular, as an idealist, he views ideas as
-particularly significant; to a true idealist, our philosophical world
-is made up of ideas of this sort much the same way that atoms make up
-the world for materialists.
+Writings such as these are what Royce is known for. How well does it
+stand the test of time? How does it concord with ideas of reality
+elsewhere? Are these ideas useful?
 
-To start with, Royce views the study of these ideas as the basis for
-philosophical reason. The material world, on the other hand, is the
-world of brute facts; things just _are_; it is the scientific theories
-about our world that is noble, and these scientific theories persist
-in turning up baffling irregularities in the world of fact. He regards
-both mysticism and neoplatonism as philosophies that attempted to over
-come such irregularities through simple disregard of the world of
-fact.
+My own personal opinion is that these ideas are useful, and seem to be
+logically consistent as far as it goes. But the common objection of
+idealism still holds for Rocye's writings: in posing an ultimate
+reality, they have done what you might think of as a "proof of
+existence." Like Anselm's original proof of God, they manage to use
+logic to prove the existence of a being which may easily be recognized
+as somehow God, though idealists usually prefer something more
+indirect like The Absolute to distinguish it from less mature
+conceptualizations. However, like any mathematical proof of existence,
+they are less satisfying than a "proof of construction," which manage
+to characterize for us what such a solution looks like in the process.
 
-Ideas, such as the scientific theories, are something that can be
-known, and it is important that these ideas relate to reality. But the
-idea exists in a reality not in the world of fact; instead, it is only in the
-consciousness of a person; and it is significant only in that the idea
-embodies an _act of will_. Royce is emphatic on this point - it is
-simply not possible separate an idea from the act of will that could
-potentially embody it. Whether this act of will is carried out - or
-even possible to carry out - is of no import. That will is how the
-world of idea is carried out into reality. The actions of people and
-less sentient creatures all carry out ideas that create this
-reality. (Other writings elaborate that less sentient beings are also
-carrying out ideas, albeit ones that are instinctual or force of
-habit; indeed, material objects themselves carry out "ideas" in the
-laws of nature.)
+Any Baha'i can recognize this conundrum. A core point of Baha'i
+doctrine, one the founding prophets are particularly insistent on, is
+the absolute unknowability of The Godhead. The concept of a God is
+irresolutly like "the God of the philosophers." Unfortunately, this
+doesn't satisfy the need to paint a picture.
 
-    Whatever else our ideas are, and however much or little they may
-    be, at any moment, expressed in rich, sensuous imagery, it is
-    certain that they are ideas not because they are masses or series
-    of images, but because they embody present conscious
-    purposes. Every idea is as much a volitional process as it is an
-    intellectual process.
+An idealist will, of course, defend their arguments as still being
+valid. If this is as far as they can detail their Absolute, then that
+is what we are left with. Just because you want something does not
+mean someone will be around to give it to you. Nor is this a useless
+conclusion. Wittgenstein may have derided these conclusions of
+abstract unknowable beings as being simply "word games," but an
+existence proof is something. If you have it, you cannot go forward as
+if it has not been proven.
 
-Being then becomes our existence as we carry out ideas:
-
-    To be means simply to express, to embody the complete internal
-    meaning of a certain absolute system of ideas,—a system, moreover,
-    which is genuinely implied in the true internal meaning or purpose
-    of every finite idea, however fragmentary.
-
-And The Meaning (in the philosophical sense) is founded in the Will
-and Purpose that caries out these ideas. This underlies his theory of
-immortality of beings outlined elsewhere: a being is a bit like an
-irrational number that goes on forever, and the process of being is
-the will to embody an idea that, much like an irrational number, will
-approach its limit only at infinity.
-
-It is important to note that even physical processes are themselves
-ideas coming into being. Royce is notable in that he treats the
-abstract ideas as being just as worth of consideration,
-metaphysically, as the concrete ideas in reality. He contrasts this
-attidue toward a prior materialist conception:
-
-    When Mr. Spencer, according to the tradition of the long series of
-    thinkers whom he in this respect follows, speaks, in a well-known
-    passage, of “symbolic” ideas as essentially inferior in the
-    conscious definiteness of their truth to ideas whose relation to
-    their objects we can directly picture, he applies a criterion to
-    the testing of ideas which is as crude as if one should argue that
-    a razor is not as good a tool as a hammer, because, forsooth, the
-    test of a tool shall be its weight, or the amount of noise that
-    you can make when you use it. Many admirable ideas are, indeed, of
-    the type of mental pictures. That is not only obvious, but worth
-    remembering. There is no reason why such images should not be both
-    valid and important. Sensuous experience may show you many sorts
-    of truth that we cannot at present otherwise express.
-
-Further elaborations refer to his "fourth conception of being"
-(referred to elsewhere). In it, he notes the fact that our own logic and
-ideas cannot tell us what it is - but can tell us what is not. Ideas
-about nonexistent beings are possible, while logic shows us they
-cannot be true. Or as he states: "... our insight is always
-_destructive of merely abstract possibilities_." Royce was actually
-quite fond of formal logic, and other works showed he eagerly followed
-the novel developments in set theory that were to lead to analytic
-philosophy. Yet here, he claims math is limited, in that it shows us a
-perfect world that can never hope to replace the need for
-empericism. All it can do is cut off possibilities, showing that
-certain things cannot exist in the world of being.
-
-Likewise, we develop ideas through experience - external experience,
-that is, our interaction with the real world. But this is no "pure
-experience"; this is both intermediate and _selected_ - something we
-actually attend to in exclusion to other things. Indeed, the
-scientific method works by experiments in which we carefully control
-things so that we are only looking at particular things we choose to
-look at. The scientific method, notably, does not show us Truth, but
-can only show us what fails.
-
-The answer to all of this is the "common sense" one... just deal with
-the facts. We have things that we _know_ from common sense, our senses
-tell us things exist, provided we have them in working order. To which
-Royce rejoinders:
-
-    This theory, as usually stated, is simply full of inconsequences
-    and inaccuracies that I cannot here undertake to follow
-    out... Neither do our internal meanings ever present to us, nor
-    yet do our external experiences ever produce before us, for our
-    inspection, an object whose individuality we ever really know as
-    such. Neither internal meanings nor external meanings, in their
-    isolation, are in the least adequate to embody individuality.
-
-You may claim to know something, but you cannot know any further than
-you can describe, and that will inevitabley be limited. Restating his
-prior point:
-
-    ... external experience, in confirming ideas, furnishes a positive
-    content which our human internal meanings never can construct for
-    themselves, still the service of our external experience, in
-    reavealing what is Real, has perfectly obvious limitations. It can
-    confirm our hypotheses, but never adequately; for it shows us only
-    particular instances that agree with such of our hypotheses as
-    succeed.
-
-This leads back to knowledge as of reality and being as very much like
-his description of an ideal becoming a reality - a process much like a
-mathematical limit where we can only approach knowledge by using
-experience and logic to rule out possibilities, but never actually
-achieve knowledge. "The Real, then, is, from this point of view,
-that which is immediately beyond the whole of our series of possible
-efforts to bring, by any process of finite experience and of merely
-general conception, our own internal meaning to a complete
-determination."
-
-
+So what is the main benefit of these writings? The main benefit is
+unfortunately not some sort of illumination or direct knowledge of The
+Absolute. Instead, like many proofs, the purpose is simply that of
+having proven something. One reason for the death of theism in the
+field of popular philosophy is this impression cultivated by the
+scientifically minded that there is insufficient warrant to believe in
+such a deity. If writings like this do nothing but provide warrant for
+belief in such a think, then that is something nonetheless. A
+metaphysics that makes space for deity may be undesired by those who
+wish to abolish religion as a pox on humanty, but for those not
+similarly afflicted, it is surely a relief.

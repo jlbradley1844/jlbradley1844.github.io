@@ -8,7 +8,7 @@ This post continues the survey of the writings of Josiah Royce
 (1855-1916); the last post covered [some idealistic
 works](royce-idealism); this will cover his more explicitly religous
 works. The final post will be a slight departure, and cover applied
-philosophy on some of the problems of his day.
+philosophy on ethics and some of the problems of his day.
 
 One reason for my interest in Royce, besides the fact that he is
 overlooked, is the fact that he is an idealist. Though I can't say I'm
@@ -22,7 +22,7 @@ to Baha'is, so much the better.
 
 So this will survey some of his religious works. It must be noted that
 Josiah Royce was a product of Protestant America, and his writings
-very much betray some of those themes. However, as a serious thinker,
+are very much in alignment with its themes. However, as a serious thinker,
 he took the other great faiths of the world seriously and looked at
 all the faiths for insight. This sets him apart from those you might
 think of as theologians, who generally are sectarians first and
@@ -460,312 +460,135 @@ a rational order? (3) In what sense is the world ethical? The effort
 to answer these questions cannot be made by exclusive emphasis on one
 of them."
 
+## "The Problem of Job"
 
-**"The Fourth Conception of Being"**
+In this writing of 1898, Royce, being a good religious philosopher,
+tackles the question of theophany. Or to use normal English: "If the
+creator God is all-good, how can evil exist in the world?" As in much
+of his other religous work, Royce has a unique perspective.
 
+Royce's launching point is the story in the Book of Job. This is an
+excellent vantage point to study this logic, as the story of Job is
+the story of a struggle all men have:
 
+    The world, for Job, is the work of a being who, in the very nature
+    of the case, ought to be intelligible (since he is wise), and
+    friendly to the righteous, since, according to tradition, and by
+    virtue of his divine wisdom itself, this God must know the value
+    of a righteous man. But—here is the mystery—this God, as his works
+    get known through our human experiences of evil, appears to us not
+    friendly, but hopelessly foreign and hostile in his plans and his
+    doings. The more, too, we study his ways with man, the less
+    intelligible seems his nature.
 
-**"The Rediscovery of the Inner Life: From Spinoza to Kant"**
+The problem of Job is a very particular one, and a very important one
+in theophany. Problems of evil are generally answered in very
+particular ways. Some will hold that there is no good and evil - for
+instance, the "evil" of the natural world, the predators and diseases,
+is but a part of nature that is only evil in certain contexts, neither
+good nor bad. Indeed, some manmade evils are simply natural rivalries
+to be understood and explained away. Another is to acknowledge that
+evils do exist, but to assert that all things being equal, is a
+natural inevitablity of the world in which sentient creatures exist;
+evil exists only because it must exist in some small form in this best
+of all possible worlds.
 
-This is one part of at least two lectures on the "inner life," in
-which Royce takes up the history of philosophical though in this area
-from mid-seventeenth century to the end of the eighteenth
-century. Major philosophers discussed include Spinoza, Locke, Berkely
-and Hume, but not Kant.
+The problem of Job is important because it brings to light the fact
+that these attitudes are of little use when the evil is happening to
+you. Even if you can take things "in perspective," there are always
+some people who encounter great evil, seemingly for the most random
+reasons. And if evil must be overcome in one's life, why is it so
+ill-distributed among humankind? "If I can only reach a given goal by
+passing over a given road, say of evolution, it may be well for me to
+consent to the toilsome journey. Does that explain why I was created
+so far from my goal?... One justifies the surgery, but not the
+disease; the toil, but not the existence of the need for the toil; the
+penalty, but not the situation which has made the penalty necessary,
 
-One particular focus here is the rise of skepticism. The
-mid-seventeenth century brought the triumph of reason as an orienting
-framework for philosophy. Such a world view pushed aside ideas of
-inner life and human nature. But many philosophers, skeptics and
-otherwise, pointed out serious limits:
+As regards the existince of evil acts by people, one may defend the
+presence of evil acts as a necessity of our free will. But why is the
+universe such that there should be a victim? Why would God allow the
+innocent to be victimized at the hands of the evil?
 
-* Locke, dispensed with ideals of "innate ideas." He contributed to
-skepticism by noting the limits of our understanding coming from the
-senses. Rather than innate ideas, he felt all human nature came from
-experience, pointing the way for future empericists. "External
-material things, as the objects of sensation, and the operations of
-our own minds within" are the explanation for reason and our own inner
-life.
+An alternate solution is presented by Royce's philosophical
+idealism. Royce's framework is unsurprising, but he feels that this
+approach is a novel way of sidestepping this. This is because it "...
+frankly admits that Job’s problem is, upon Job’s presuppositions,
+simply and absolutely insoluble. Grant Job’s own presupposition that
+God is a being other than this world, that he is its external creator
+and ruler, and then all solutions fail. God is then either cruel or
+helpless, as regards all real finite ill of the sort that Job
+endures." His idealistic viewpoint depends on his view of the Godhead:
 
-* Berkely pointed out that these ideas of experience are themselves
-intermediated by our senses - there is no such thing as a material
-substance directly discoverable to us. Instead we have ideas - ideas
-that Berkely thought were the language of God, but that other
-philosophers answered differently in the coming years.
+    God is not in ultimate essence another being than yourself. He is
+    the Absolute Being. You truly are one with God, part of his
+    life. He is the very soul of your soul. And so, here is the first
+    truth: When you suffer, your sufferings are God’s sufferings...
 
-* Hume was brought forth as the eighteenth-century skeptical answer to
-the seventeenth-century reasoners - we know nothing with certainty.
+    The true question then is: Why does God thus suffer? The sole
+    possible, necessary, and sufficient answer is, Because without
+    suffering, without ill, without woe, evil, tragedy, God’s life
+    could not be perfected.
 
-At this point, Royce stops before surveying Kant, but not before
-emphasizing what the growth of skepticism meant for the philosophical
-study of inner life:
+When one contemplates the totality of experience then, suffering
+exists because it must exists to complete God's creation. Without
+suffering there is no struggle, and without struggle there is no
+meaning:
 
-    ... if the skepticism of the eighteenth
-    century is to be gotten rid of, this will only be by transcending it,
-    living through and beyond it, not by neglecting or by simply refuting
-    it, from without.
+    ... man is not merely setting his acts or his estimates of good
+    and evil side by side and taking the sum of each; but he is making
+    his own relatively primary acts, impulses, desires, the objects of
+    all sorts of secondary impulses, desires, and reflective
+    observations. His whole inner state is one of tension; and he is
+    either making a secondary experience of evil out of his estimate
+    of a primary experience of good, as is the case when he at once
+    finds himself disposed to pursue a given good and to thwart this
+    pursuit as being an evil pursuit; or else he is making a secondary
+    experience of good out of his primary experience of evil,
 
-This emphais points to later writings in phenomenology; e.g. Husserl.
+In a very real sense, evil must exist so that mankind may overcome it,
+and that God's creation be fulfilled in this overcoming. Or as Royce
+states it:
 
-**"The Concept of The Absolute and the Dialectical Method"**
+    To view God’s nature thus is to view his nature as the whole
+    idealistic theory views him, not as the Infinite One beyond the
+    finite imperfections, but as the being whose unity determines the
+    very constitution, the lack, the tension, and relative disharmony
+    of the finite world. 
 
-This appears to have been from the same series of lectures, but
-covering the period after Kant, with the birth of German idealism,
-which as you might guess was of particular interest of Royce. The
-point here was to outline some of the more problematic views of the
-self particular to the idealists.
+    The existence of evil, then, is not only consistent with the
+    perfection of the universe, but is necessary for the very
+    existence of that perfection. This is what we see when we no
+    longer permit ourselves to be deceived by the abstract meanings of
+    the words “good” and “evil” into thinking that these two opponents
+    exist merely as mutually exclusive facts side by side in
+    experience,
 
-* points out that German idealism was a reflection of the tendencies
-  and problems of German civilization of that age; e.g. the growth of
-  romanticism, the emphasis on intellectual and spiritual life caused,
-  perhaps by political weakness...
-
-* Kant himself continued the skeptical movement through his most
-  prominent writings, the Critiques - on Practical Reason, Pure
-  Reason. The result was "negative"; e.g. not a system of ideals, but
-  a critique of what was available. The transition away from Kant's
-  philosophy to later idealism was a reflection on and a reaction to
-  thre ideals in German life - individualism, respect for the
-  intellectual life and a somewhat apolitical idealism.
-
-This led to two tropes regarding the inner life - the self as the
-heroic individual and sovereign of the new spiritual order, and the
-self as the explorer and discoverer of Truth. This herioc
-individualism is contrasted with the nihilistic, merciless
-individualism of Nietchzsche. Royce himself seems far more positively
-inclined toward these idealistic individualists, far more that some of
-his contemporaries, quipping "our extreme individualists are fond of
-making, as it were, pyramids of the skulls of their enemies." The
-heroic individualists of idealism were idealists - and not just in
-the philosophical sense.
-
-However, carrying forward from this, the idealists then had their
-problem - the absolute, however conceived, was of a conception
-directed by the self itself. Man, far from being a product of The
-Absolute, was a product of Nature. One way of addressing this was to
-keep concepts of The Absolute impersonal, to prevent it being a
-creature of man's limited reasoning. Another way was to revisit what
-Royce thinks of as a "Hindu" mindset, in considering that The Divine
-can best be known through knowledge of our true self. The upshot of
-these attitudes, far from leading to a rigorous synthesis of these
-tendencies, instead led idealsm to a very distinct tendency of
-detached intellectualism and abstraction, parodied by their critics as
-nothing but unintelligible phraseology.
-
-Royce states that the answer to this problem was met by use of a very
-old philosophical tool: the dialectic. The idea behind the dialectic,
-known by many of you who have at least passing knowledge of Hegel, is
-that knowledge advances from the synthesis of two opposing thesis that
-seem to be in opposition. Or as Royce puts it:
-
-   "...they developed a method which depends upon recognizing that the
-   truth is a synthesis of antithetical moments or aspects, which does
-   not ignore but unifies opposition."
-
-The upshot is that truth, so defined, becomes a construction:
-
-   "Nothing is true, for them, unless therein the sense, the purpose,
-   the meaning of some active process is carried out, expressed,
-   accomplished. Truth is not for these post-Kantian idealists
-   something dead and settled apart from action. It is a construction,
-   a process, an activity, a creation, an attainment." 
-
-While Royce himself was no pragmatist, like pragmatists, he did not
-understand truth as being as simple as static correspondence. Like
-pragmatists, truth only existed where there was a "cash value" in our
-ability to act on it. It is just that as an idealist, that cash value
-was toward something rather more abstract. Later lectures would
-further illuminate his view of truth, as something being both rigorous
-and constructed.
+"You can never clean the world of evil; but you can subordinate evil. The justification of the presence in the world of the morally evil becomes apparent to us mortals only insofar as this evil is overcome and condemned. It exists only that it may be cast down."
 
 
-**"Self-Consciousness, Social Consciousness and Nature"**
+## A Summary Perspective on Royce's Religous Works
 
-This wide-ranging paper covers a number of topics, mostly relating to
-metaphysics and consciousness itself. In spite of the title, it is
-hard to pick out an overarching theme. The goal, ostensibly is to
-figure an explanation of how we can be creatures of nature, "the sport
-of purely physical law," yet somehow be apart of it as the only
-entities with an awareness of both nature and other conscious
-creatures with this same awareness of nature and each other. Some of
-this prefigures some recent objects of interest.
+Royce wrote a great deal about religion, even for a philosopher of the
+day. It is true that idealists were generally more positively inclined
+toward religion that other schools of philosophy; particularly so the
+empericists, who were becoming increasingly dismissive of anything of
+that nature. But Royce seemed to have a particular interest, and many
+of his addresses are to the clergy of his day. This is even in spite
+of the fact that he spent little time on such traditionally Christian
+imperatives like "proving" the fact of the Resurrection, or the
+existence of a heaven for True Believers or the existence of Original
+Sin, topics that many more explicitly religious philosphers had vainly
+expended so much ink over. Royce's concerns were more universal; what
+can we say about the Godhead, given that we have no direct experience
+of it, and how should a religious community properly function.
 
-Here are some of the more interesting ideas:
-
-- Metaphysically, man's social consciousness, that is, his awarenes of
-  other sentient beings of mankind, is generally not thought of
-  metaphysically significant, and is generally left to ethics. These
-  ethicists, moreover, seem to view such relationships from a highly
-  abstract view. Royce feels that the consciousness of others, and our
-  own self-consciousness (our consciousness of other's awareness of
-  us) is just as worthy of consideration, metaphysically. Indeed, the
-  only class of objects outside of ourselves that we can verify
-  without skepticism that truly exists are the existence of other
-  beings.
-
-- Evolution is not just differentiation of one type of animal to
-  another. It is also a history of differentiation from one colony to
-  the other, one society to another, and to new social orders.
-
-- Our own consciousness, as such, is a product of being in a matrix of
-  other beings. Our own self-consciousness, such as it is, is a
-  product of our own differentiation of our own needs and our own
-  perceptions from others. You cannot imagine the development of a
-  distinct consciousness without some *other* with which to define it
-  against. Otherwise, one would not be able to contrast the
-  "experience as individuall mine" against experience as a whole, and
-  would not be able to conceive of experiences just outside of ours.
-
-- Against this, our awareness of nature takes a secondary
-  importance. Nature itself is simply a mass of "possibilities of
-  sensation." This again is given meaning by the experience of others,
-  by which we are able to contrast private experiences and the
-  experiences of others against the underlying nature of a
-  thing-as-such. Indeed, the only way we can accurately confirm facts
-  is by communicating with other beings that they do, in fact, agree
-  with the same fact as we see them.
-
-- Royce borrows some ideas from Pierce about consciousness, along with
-  some of his own. Namely, that consciousness itself is about the will
-  and decision, and habits, such as everyone falls prey to, are indeed
-  signs of fainter consciousness within us. Under this framework, the
-  consciousness of the animals exists but at a very much lower level,
-  these animals themselves being dominated by habit. Indeed, under
-  timelines of extremely long nature, even matter itself can be said
-  to be dimly conscious, were you to grant that these "habits of
-  nature" (e.g. physical laws) are themselves a sign of
-  consciousnessness somehow, however dim. Why do we not communicate
-  with these? Because we do not live at the same scale.
-
-**"The Religious Problems and the Theory of Being"**
-**"The Internal and External Meaning of Ideas"**
-
-These two papers from Rocye's middle period discuss some of his ideas
-on _ideas_. In particular, as an idealist, he views ideas as
-particularly significant; to a true idealist, our philosophical world
-is made up of ideas of this sort much the same way that atoms make up
-the world for materialists.
-
-To start with, Royce views the study of these ideas as the basis for
-philosophical reason. The material world, on the other hand, is the
-world of brute facts; things just _are_; it is the scientific theories
-about our world that is noble, and these scientific theories persist
-in turning up baffling irregularities in the world of fact. He regards
-both mysticism and neoplatonism as philosophies that attempted to over
-come such irregularities through simple disregard of the world of
-fact.
-
-Ideas, such as the scientific theories, are something that can be
-known, and it is important that these ideas relate to reality. But the
-idea exists in a reality not in the world of fact; instead, it is only in the
-consciousness of a person; and it is significant only in that the idea
-embodies an _act of will_. Royce is emphatic on this point - it is
-simply not possible separate an idea from the act of will that could
-potentially embody it. Whether this act of will is carried out - or
-even possible to carry out - is of no import. That will is how the
-world of idea is carried out into reality. The actions of people and
-less sentient creatures all carry out ideas that create this
-reality. (Other writings elaborate that less sentient beings are also
-carrying out ideas, albeit ones that are instinctual or force of
-habit; indeed, material objects themselves carry out "ideas" in the
-laws of nature.)
-
-    Whatever else our ideas are, and however much or little they may
-    be, at any moment, expressed in rich, sensuous imagery, it is
-    certain that they are ideas not because they are masses or series
-    of images, but because they embody present conscious
-    purposes. Every idea is as much a volitional process as it is an
-    intellectual process.
-
-Being then becomes our existence as we carry out ideas:
-
-    To be means simply to express, to embody the complete internal
-    meaning of a certain absolute system of ideas,—a system, moreover,
-    which is genuinely implied in the true internal meaning or purpose
-    of every finite idea, however fragmentary.
-
-And The Meaning (in the philosophical sense) is founded in the Will
-and Purpose that caries out these ideas. This underlies his theory of
-immortality of beings outlined elsewhere: a being is a bit like an
-irrational number that goes on forever, and the process of being is
-the will to embody an idea that, much like an irrational number, will
-approach its limit only at infinity.
-
-It is important to note that even physical processes are themselves
-ideas coming into being. Royce is notable in that he treats the
-abstract ideas as being just as worth of consideration,
-metaphysically, as the concrete ideas in reality. He contrasts this
-attidue toward a prior materialist conception:
-
-    When Mr. Spencer, according to the tradition of the long series of
-    thinkers whom he in this respect follows, speaks, in a well-known
-    passage, of “symbolic” ideas as essentially inferior in the
-    conscious definiteness of their truth to ideas whose relation to
-    their objects we can directly picture, he applies a criterion to
-    the testing of ideas which is as crude as if one should argue that
-    a razor is not as good a tool as a hammer, because, forsooth, the
-    test of a tool shall be its weight, or the amount of noise that
-    you can make when you use it. Many admirable ideas are, indeed, of
-    the type of mental pictures. That is not only obvious, but worth
-    remembering. There is no reason why such images should not be both
-    valid and important. Sensuous experience may show you many sorts
-    of truth that we cannot at present otherwise express.
-
-Further elaborations refer to his "fourth conception of being"
-(referred to elsewhere). In it, he notes the fact that our own logic and
-ideas cannot tell us what it is - but can tell us what is not. Ideas
-about nonexistent beings are possible, while logic shows us they
-cannot be true. Or as he states: "... our insight is always
-_destructive of merely abstract possibilities_." Royce was actually
-quite fond of formal logic, and other works showed he eagerly followed
-the novel developments in set theory that were to lead to analytic
-philosophy. Yet here, he claims math is limited, in that it shows us a
-perfect world that can never hope to replace the need for
-empericism. All it can do is cut off possibilities, showing that
-certain things cannot exist in the world of being.
-
-Likewise, we develop ideas through experience - external experience,
-that is, our interaction with the real world. But this is no "pure
-experience"; this is both intermediate and _selected_ - something we
-actually attend to in exclusion to other things. Indeed, the
-scientific method works by experiments in which we carefully control
-things so that we are only looking at particular things we choose to
-look at. The scientific method, notably, does not show us Truth, but
-can only show us what fails.
-
-The answer to all of this is the "common sense" one... just deal with
-the facts. We have things that we _know_ from common sense, our senses
-tell us things exist, provided we have them in working order. To which
-Royce rejoinders:
-
-    This theory, as usually stated, is simply full of inconsequences
-    and inaccuracies that I cannot here undertake to follow
-    out... Neither do our internal meanings ever present to us, nor
-    yet do our external experiences ever produce before us, for our
-    inspection, an object whose individuality we ever really know as
-    such. Neither internal meanings nor external meanings, in their
-    isolation, are in the least adequate to embody individuality.
-
-You may claim to know something, but you cannot know any further than
-you can describe, and that will inevitabley be limited. Restating his
-prior point:
-
-    ... external experience, in confirming ideas, furnishes a positive
-    content which our human internal meanings never can construct for
-    themselves, still the service of our external experience, in
-    reavealing what is Real, has perfectly obvious limitations. It can
-    confirm our hypotheses, but never adequately; for it shows us only
-    particular instances that agree with such of our hypotheses as
-    succeed.
-
-This leads back to knowledge as of reality and being as very much like
-his description of an ideal becoming a reality - a process much like a
-mathematical limit where we can only approach knowledge by using
-experience and logic to rule out possibilities, but never actually
-achieve knowledge. "The Real, then, is, from this point of view,
-that which is immediately beyond the whole of our series of possible
-efforts to bring, by any process of finite experience and of merely
-general conception, our own internal meaning to a complete
-determination."
-
-
+These are the concerns of anyone who is religious, or even "spiritual but
+not religious." So from the point of view of this survey, these may not
+have been his most innovative and inventive writings, or those that he
+spent the most time on. But for any believer looking to expand one's
+horizons, they may be the most useful. And if one is still inclined to
+look upon some of these arguments skeptically - for instance, with his
+"argument from error," a concept I know of no other major philosopher
+building on - then these are still of plenty of interest for those
+believing religious problems are deserving of original thought.
