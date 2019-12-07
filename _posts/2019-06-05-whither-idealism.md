@@ -109,12 +109,12 @@ tell you what was wrong with it: it made a host of unverifiable
 claims, the logic that was used was fuzzy and imprecise, it attempted
 to pass of religion as philosophy, and so on and so forth. But if you
 ask this same person how much they read of this philosophy and engaged
-with it, they will likely tell you that they personally didn't bother
-- why, after all, would you engage with such nonsense? To them, it is
-a bit like spending time studying flat-earther literature. They "know"
+with it, they will likely tell you that they personally didn't bother -
+why, after all, would you engage with such nonsense? To them, it is
+a bit like spending a month studying flat-earther literature. They "know"
 it is nonsense, and a semester or two spent studying this is time
-taken from their life expectancy they will never get back. But aside
-from assertion and attitude, they will offer no formal proof
+taken from their life that they will never get back. But aside
+from assertion and attitude, objectors will offer no formal proof
 forthcoming. Perhaps some will admit their dislike is aesthetic;
 e.g. some of the "naturalist" critics following Santayana. But most people
 nowadays will tall you they simply don't like anything that can't be
@@ -137,7 +137,9 @@ doing nothing but speaking only for the facts as they see it, and that
 it is the inventors of metaphyical philosophy such as the idealists
 that are weaving fanciful notions. We must look at nature and nature
 alone, and if that means drawing certain conclusions about what it is
-to live a moral life - if, indeed, such a thing exists, so be it.
+to live a moral life - if, indeed, such a thing exists. Indeed, many
+will claim you will need sufficient "warrant" to even pose such a
+thing.
 
 I do not believe the detractors of idealism did this in service to an
 agenda - as an aside, I suspect one reason academic philosophers hold
