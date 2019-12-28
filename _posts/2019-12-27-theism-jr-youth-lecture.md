@@ -179,11 +179,11 @@ is no replication of such signs. Such signs are proof to the viewers
 on hand only. Indeed, Jesus withheld such signs from those he felt not
 worthy:
 
-   And the Pharisees came forth, and began to question with him
-   [Jesus], seeking of him a sign from heaven, tempting him. And he
-   sighed deeply in his spirit, and saith, "Why doth this generation
-   seek after a sign? Verily I say unto you, there shall no sign be
-   given unto this generation."
+    And the Pharisees came forth, and began to question with him
+    [Jesus], seeking of him a sign from heaven, tempting him. And he
+    sighed deeply in his spirit, and saith, "Why doth this generation
+    seek after a sign? Verily I say unto you, there shall no sign be
+    given unto this generation."
 
 	(King James Bible, Mark 8:11-12)
 
@@ -462,17 +462,3 @@ immmaterial spirit, but your actions say otherwise. You may claim to
 blaspheme "the Son," yet your belief does not blaspheme "The Holy
 Spirit"; it upholds it.  A fuller answer to this is a bit complicated,
 but there is one. I'll follow up in a subsequent post.
-
-
-----------------------------
-
-* For any adults reading along, this isn't quite true; I believe
-  Phillipa Foote's _Natural Ethics_ are the best defense of virtue
-  ethics in an atheistic framework. But my understanding is she's
-  mainly proposing a restatement of Aristotle's own
-  philosophy. Aristotle is a secular philosopher, but is generally
-  considered by some theists as nonsecular due to his belief in a
-  creator-God. I'd daresay most people of a materialist bent have
-  hardly even heard this philosopher, I'm afraid; they are far more
-  likely to be familiar with Neitzche, who famously derided the very
-  concept of virtuous conduct.
