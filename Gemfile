@@ -16,7 +16,7 @@ gem "minima", "~> 2.0"
 
 # This is an alternate theme which I prefer a little better. Note that only
 # a handful of themes are supported on GitHub pages
-gem "jekyll-theme-dinky", "~> 0.0.4" 
+gem "jekyll-theme-dinky", "~> 0.1.1" 
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
