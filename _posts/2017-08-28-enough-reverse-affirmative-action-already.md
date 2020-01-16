@@ -3,7 +3,6 @@ title: Enough with this Foot Dragging on Outreach
 ---
 
 # It Isn't Reverse Discrimination. It's Doing Your Job as a Hiring Manager.
-
 I'm going to push back against a certain sort of chatter from wwf
 (whiney white folk) in the engineering sector that I've been hearing a
 long number years. It has to do with the fact that every time there is

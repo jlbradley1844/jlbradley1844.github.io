@@ -3,7 +3,6 @@ title: I'll pass on bitcoin
 ---
 
 ## Bitcoin? Pass.
-
 Some time ago I wrote up a blog post about Bitcoin. It was mainly
 negative in nature. I saw a few things that seriously concerned me:
 

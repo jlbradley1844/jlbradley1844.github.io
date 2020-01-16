@@ -2,6 +2,7 @@
 title: The Personal Project Doom Loop
 ---
 
+##The Personal Project Doom Loop
 About a month ago, I laid to rest a parfectly good personal project. I
 spent some time in denial thinking I just had other things to do, but
 I know I probably won't revisit it for a while.

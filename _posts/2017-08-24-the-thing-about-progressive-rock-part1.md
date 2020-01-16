@@ -5,10 +5,9 @@ category: cutting-floor
 
 # The Right Kind of Uncool (or, About Progressive Rock)
 ## Part I
+Progressive rock is in the news again... well, sort of.
 
-Progressive rock is in the news again.
-
-Well sort of. In as much as you see the occasional headline on rock
+In as much as you see the occasional headline on rock
 anymore, which is infrequent, and on the near-comotose genre of
 progressive rock, which is even moreso.
 

@@ -1,8 +1,8 @@
 ---
 title: Thanks Goodness for Little Favors
 ---
-# The Start of Something Better Is Still Better
 
+# The Start of Something Better Is Still Better
 The news is suddenly full of sexual harrassment claims against
 powerful men. This is sudden and unusual. What is sudden is the fact
 that so many mainstream media providers (I'm using that descriptively, not

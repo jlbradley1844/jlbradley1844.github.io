@@ -3,7 +3,6 @@ title: Three Cheers for Moral Grandstanding!
 ---
 
 ## Three Cheers for Moral Grandstanding!
-
 I'd like to believe this article on [moral
 grandstanding](https://aeon.co/ideas/moral-grandstanding-theres-a-lot-of-it-about-all-of-it-bad)
 is sincere. In this article, the author argues that much of the moral

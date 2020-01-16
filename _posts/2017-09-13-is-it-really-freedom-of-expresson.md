@@ -2,8 +2,8 @@
 title: Is It Really Freedom of Expression that They're Fighting For?
 category: in-progress
 ---
-## The Gig Is Up: We All Know It Isn't Really About Free Speech
 
+## The Gig Is Up: We All Know It Isn't Really About Free Speech
 I grew up in Kentucky, and went to a Catholic high
 school. <unconnectedRant>Lots of people up in the northeast have this
 "baby boomer" vision of what this was about - nuns who walked around

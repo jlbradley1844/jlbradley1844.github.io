@@ -3,7 +3,6 @@ title: Team Awesome vs. Team Sad in Tech
 ---
 
 # The Team Awesome / Team Sad Split in Tech
-
 We are coming into a tight job market in tech; one in which it is hard
 to find good engineers, and hard to retain those you do hire.
 

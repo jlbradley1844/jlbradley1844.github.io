@@ -3,7 +3,6 @@ title: Personal Development as Virtuous Habits
 ---
 
 # Personal Development as Virtuous Habits
-
 Who among us doesn't want to be a better person?
 
 As I'm writing this, the New Year's has passed some several weeks

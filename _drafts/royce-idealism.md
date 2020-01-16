@@ -17,7 +17,18 @@ rest of his writings. So this is what I'll start this survey on. Later
 posts will discuss some more explicitly religious writings and some of
 his social commentary.
 
-## "The Fourth Conception of Being" and Related Talks
+Also, a bit of an apology; readers of this blog (if anyone is out
+there) have probably noticed I kicked a series of posts on Royce's
+writings months ago, only to fail to complete them. I've been working
+on a number of other things that have bothered me. Meanwhile, I've
+spent some time trying to rework what I had written up, as it had
+gotten far too long and tedious. Rather than a detailed survey, I'm
+going to focus on a broad overview, in an effort to make this more
+readable. In doing so, I've made some generalizations that can only be
+clarified by reference to the original texts; I hope you'll forgive
+the omissions.
+
+## Royces Key Ideas in Idealism
 
 Josiah Royce started as an idealist; far from being the first
 idealist, he was by now defending a long philosophical
@@ -26,57 +37,35 @@ scoffers were from the "common-sense" school of empericism - that is,
 if you can't point to it, it ain't there. Some of his most important
 work is in refutation of that idea.
 
-"The Fourth Conception of Being" is the last paper in a series of
-papers which elaborate his conception in the anthology, the other two
-being "The Religious Problems and The Theory of Being," and "The
-Internal and External Meaning of Ideas."  The first was taken from an
-earlier talk and expanded; the other two were later printed in _The
-World and the Individual_, a two-volume work printed 1899-1901 which
-is Royce's most important metaphysical work and the most critical one
-as far as his idealistic philosophy. Royce himself referred to this
-volume in later years as containing the most elaborate statement of
-his metaphysical views. I've singled out the last paper of the three,
-as "the four conceptions of being" is probably Royce's most important
-contribution to idealistic philosophy.
+Perhaps his largest contribution to this argument is his idea of four
+"conceptions of being."  "The Fourth Conception of Being" is the last
+paper in a series of papers which elaborate his conception in the
+anthology, though prior writings were aimed at setting up these
+ideas. This and other writings were collected in _The World and the
+Individual_, a two-volume work printed 1899-1901 which is Royce's most
+important metaphysical work and the most critical one as far as his
+idealistic philosophy. Royce himself referred to this volume in later
+years as containing the most elaborate statement of his metaphysical
+views.
 
-In these papers, Royce elaborates four of what he calls "conceptions
-of being," to explain exactly why we cannot rest easy with the claims
-of the empericists. He begins with almost a half-hearted apology of
-his treatment of the subject: "It is pretentious to wrestle with
-angels; but there are some blessings that you cannot win in any other
-way." And regarding those who would simply ignore metaphysics: "...the
-dreariness which men often impute to Metaphysics, is merely the
-dreariness of not understanding the subject,—a sort of dreariness for
-which indeed there is no help except learning to understand."
+In these papers, Royce poses four possible "conceptions of being," or
+rather, conceptions of Being. These are conceptions about are existence
+which, when posed, explain why we cannot simply rest easy with the
+claims of the empericists. He begins with almost a half-hearted
+apology of his treatment of the subject: "It is pretentious to wrestle
+with angels; but there are some blessings that you cannot win in any
+other way." And regarding those who would simply ignore metaphysics:
+"...the dreariness which men often impute to Metaphysics, is merely
+the dreariness of not understanding the subject,—a sort of dreariness
+for which indeed there is no help except learning to understand."
 
-Early in the first paper, he introduces his purpose: "My precise
-undertaking then, in the following lectures, is to show what we mean
-by Being in general, and by the special sorts of Reality that we
-attribute to God, to the World, and to the Human Individual." In other
-words, he is going to clarify what is meant in terms of Being, and
-show various conceptions of this. In relation to this, he then
-introduces the concept of Idea:
+In his telling the four conceptions of being are as follows:
 
-    In brief, an idea, in my present definition may, and, as a fact
-    always does, if you please, appear to be representative of a fact
-    existent beyond itself. But the primary character, which makes it
-    an idea, is not this its representative character, is not its
-    vicarious assumption of the responsibility of standing for a being
-    beyond itself, but is its inner character as relatively fulfilling
-    the purpose (that is, at presenting the partial fulfillment of the
-    purpose), which is in the consciousness of the moment wherein the
-    idea takes place. It is in this sense that we speak of any
-    artistic idea, as present in the creative mind of the artist. I
-    propose, in stating my own view hereafter, to use the word “idea”
-    in this general sense.
-
-The conceptions of Being that Royce elaborates are in particular
-relation to this world of Idea.
-
-The first conception of being elaborated by Royce is that of the
-empericist: of no relation between the two. The physical world is what
-it is; and as regard this world of the Idea, it cannot provide any
-overt illumination. As stated:
+_One_ The physical world is what it is; and as regard this world of
+the Idea, it cannot provide any overt illumination. There is no
+meaning other than what is assigned to it. Its defenders feel they are
+simply following ccommon sense. As Royce states in his writing on this
+theme:
 
     Conceive it as a realm for pure scientific theory; and, so far as
     your knowledge reaches, it is full at once of the show of a noble
@@ -97,6 +86,57 @@ a number of ways to handle this:
     speculative thinking, to a criticism of this human type of
     consciousness itself. Upon such a criticism, Plato founded his
     conception of the Ideal World.
+
+Meanwhile, what about the world of the Idea, to an empericist of this
+sort? The commonsense view is that Idea is simply nothing more than
+mental states, a vapor so ephemeral it might as well not exist.
+
+_Two_ The physical world may or may not exist; all we have are our own
+experiences. These experiences, while pointing to the physical world,
+do not bring us any closer to a knowledge of reality. All we know is
+experience; neither Idea nor Fact can be known directly. This view is
+described by Rocye as the "mystical" conception of being.
+
+
+Early in the first paper, he introduces his purpose: "My precise
+undertaking then, in the following lectures, is to show what we mean
+by Being in general, and by the special sorts of Reality that we
+attribute to God, to the World, and to the Human Individual." In other
+words, he is going to clarify what is meant in terms of Being, and
+show various conceptions of this.
+
+The problem, essentially, is that to do this is to give up on fact
+itself and the idea of an independently valid fact: "Being cannot be
+defined as the ineffable immediate fact that quenches ideas, and that
+makes them all alike illusory". It is one thing to walk away from a
+problem that has been proven unsolvable; the second conception does
+not do this, but is simply being content with what is simply in front
+of oneself.
+
+
+--------------------
+
+In relation to this, he then
+introduces the concept of Idea:
+
+    In brief, an idea, in my present definition may, and, as a fact
+    always does, if you please, appear to be representative of a fact
+    existent beyond itself. But the primary character, which makes it
+    an idea, is not this its representative character, is not its
+    vicarious assumption of the responsibility of standing for a being
+    beyond itself, but is its inner character as relatively fulfilling
+    the purpose (that is, at presenting the partial fulfillment of the
+    purpose), which is in the consciousness of the moment wherein the
+    idea takes place. It is in this sense that we speak of any
+    artistic idea, as present in the creative mind of the artist. I
+    propose, in stating my own view hereafter, to use the word “idea”
+    in this general sense.
+
+The conceptions of Being that Royce elaborates are in particular
+relation to this world of Idea.
+
+The first conception of being elaborated by Royce is that of the
+empericist: of no relation between the two.
 
 Philosophers from Plato onwards have provided their own answers, in an
 attempt to imbue the world of fact with some sort of meaning; that is,

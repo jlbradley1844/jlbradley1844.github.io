@@ -1,8 +1,8 @@
 ---
 title: Why Jekyll is the Best Thing for Your Development Blog
 ---
-# Jekyll is the Best Thing for Your Development Blog
 
+# Jekyll is the Best Thing for Your Development Blog
 I have started and quit blogs several times now. I believe I have ended
 this cycle. And I have Jekyll to thank.
 

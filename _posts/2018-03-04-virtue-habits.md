@@ -3,7 +3,6 @@ title: Keystone Habits for Virtue Improvement
 ---
 
 # The Keystone Habits of Virtue
-
 Charles Duhigg's _The Power of Habits_ notes that not all habits are
 equal in terms of impact. He notes that many businesses have
 particular habits called "Keystone Habits." These are good habits

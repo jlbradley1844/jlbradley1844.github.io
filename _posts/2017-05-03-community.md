@@ -4,7 +4,6 @@ category: in-progress
 ---
 
 ## Open Communities and Their Enemies
-
 Is there any word more homespun and apple-pie than community?
 
 Today's society, particularly the urban societies most live in, is

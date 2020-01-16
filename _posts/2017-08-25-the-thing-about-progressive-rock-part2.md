@@ -4,7 +4,6 @@ title: The Right Kind of Uncool (Part II)
 
 # The Right Kind of Uncool (or, About Progressive Rock)
 ## Part II
-
 I wrote a post where I discussed the unfair reasons why rocked critics disliked
 progressive rock. I shoved it into the cutting floor - it seemed to
 much like venting to be worth publishing. I'm hoping this post is

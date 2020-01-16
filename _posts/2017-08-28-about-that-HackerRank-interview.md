@@ -4,7 +4,6 @@ Title: Why I Use HackerRank. Still.
 
 # I Know HackerRank Stinks. Here's Why I Use It.
 ## And What You Can Do About It As a Candidate.
-
 Are you a software engineer? You'll have to deal with something. If,
 indeed, you haven't dealt with it dozens of times already. The
 technical phone screen - if not using a tool called HackerRank, then

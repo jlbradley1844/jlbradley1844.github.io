@@ -3,7 +3,6 @@ title: This Is Not About Scoring Easy Points
 ---
 
 # Sometimes You Have To Speak Out Even When It's Obvious
-
 I'm a Baha'i (for background, see practically every other column I've
 posted). One thing I try to do to live up to my belief is avoid
 writing about partisan rancor, and try (ok, maybe not all that hard)

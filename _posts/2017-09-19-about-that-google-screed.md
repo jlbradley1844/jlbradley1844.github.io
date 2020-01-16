@@ -3,7 +3,6 @@ title: About That "Google Memo" Screed
 ---
 
 #About That Memo at Google That Had Everyone Talking
-
 A few weeks ago everyone was talking about this. Being in technology,
 I figured I'd address it.
 

@@ -4,7 +4,6 @@ category: cutting-floor
 ---
 
 ## So Who Is It That's Threatening Your Values, Anyway?
-
 One thing I write about is the nastiness of partisanship in American
 society. I would say that it is responsible for screwing up and
 corrupting our politics, but that actually gives partisanship too
