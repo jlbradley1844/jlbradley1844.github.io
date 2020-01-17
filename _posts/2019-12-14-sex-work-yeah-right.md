@@ -2,8 +2,7 @@
 title: How is "Sex Work" a Thing, Anyway?
 ---
 
-# "Sex Worker": How is This Even a Thing, Anyway?
-
+## "Sex Worker": How is This Even a Thing, Anyway?
 I tend to read a lot of left-of-center press - and even leftist. The
 reasons I feel are not so much intellectual as availability. Call it
 the "availability bias" of intellectually respectable press - while I

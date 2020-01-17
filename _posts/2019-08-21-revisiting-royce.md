@@ -1,9 +1,8 @@
----
+n---
 title: Revisiting Josiah Royce
 ---
 
 # Revisiting Josiah Royce
-
 I have elsewhere published a post detailing the [loss of interest in
 certain philosophical topics in the early twentieth
 century](the-three-voids-of-philosophy). I have also elsewhere

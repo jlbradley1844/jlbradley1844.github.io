@@ -2,6 +2,7 @@
 title: Present at Birth: The "Paleo" Diet
 ---
 
+##Present at Birth: The "Paleo" Diet
 "Hey Joe, get this! Corn causes arthritis!"
 
 "Oh... and Joe. Beans cause alzheimers!"

@@ -3,7 +3,6 @@ title: Why Tech Firms Keep "Snubbing" Your Livable Mid-Sized City
 ---
 
 # Why Tech Firms Keep "Snubbing" Your Livable Mid-Sized City
-
 This post is semiprofessional in nature, aimed at those starting or
 thinking of starting a career in technology. I'm basically trying to
 phrase productivly what would otherwise be an emotional, self-centered

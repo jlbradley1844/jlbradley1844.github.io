@@ -2,12 +2,7 @@
 title: A Meditation on Meditation
 ---
 
-# A Meditation on Meditation
-
-or
-
-### Really, It Isn't That Hard
-
+# A Meditation on Meditation (really, it isn't that hard)
 I've discussed in earlier blog post a sort of "foundational" exercise
 for virtues based on prayer, meditation and reflection. After some
 difficulties early last year, I've finally settled into this habit,

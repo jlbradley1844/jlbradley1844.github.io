@@ -4,7 +4,6 @@ category: article
 ---
 
 # A Recap: Why Might a Virtue Workout Work
-
 I have offered up a mechanism, based on what I and numerous others are
 doing every day, that I think _should_ work. This was worked out by
 careful study of classical philosophy, religious study, and the Baha'i

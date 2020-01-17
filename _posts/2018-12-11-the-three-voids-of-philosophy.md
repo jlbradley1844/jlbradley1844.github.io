@@ -2,6 +2,7 @@
 title: The Three Voids of Philosophy
 ---
 
+# The Three Voids of Philosophy
 I should confess some trepidation writing this post. I'm a philosophy
 amateur. That's *amateur*, not *auteur*. I haven't had an academic
 training in the discipline, and given how many philosophy outsiders

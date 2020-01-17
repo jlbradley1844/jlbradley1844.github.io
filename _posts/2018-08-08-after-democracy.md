@@ -4,7 +4,6 @@ category: in-progress
 ---
 
 # What to Do After Democracy
-
 Those of us raised in the United States are given, as our birthright,
 a world view which generally reigns unquestioned, at least among
 educated society. This world view has the following as its ideal:

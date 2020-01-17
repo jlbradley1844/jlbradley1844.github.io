@@ -3,7 +3,6 @@ title: Miscellaneous Thoughts of Early 2019
 ---
 
 ## A few miscellaneous subjects
-
 I've taken a break from my usual blogging (the prior post is one I sat
 on for months before actually hitting the "publish" button).  Not that
 anyone is going to notice or care. I'm not advertising this blog in

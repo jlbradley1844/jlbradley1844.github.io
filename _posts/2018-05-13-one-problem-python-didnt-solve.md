@@ -2,10 +2,7 @@
 title: Python Programming and Recruiting
 ---
 
-# Python Programming and Recruiting
-
-## Or: One Problem Python Doesn't Solve
-
+# Python Programming and Recruiting (or: One Problem Python Doesn't Solve)
 _In which we revisit a recurring series of rants in which I am once again
 tasked with the perennial unsolvable problem of "why can't we find
 good engineering talent."_

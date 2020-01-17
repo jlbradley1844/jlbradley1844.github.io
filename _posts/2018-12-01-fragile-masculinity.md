@@ -2,8 +2,7 @@
 title: What Fragile Masculinity is Really All About
 ---
 
-# What Fragile Masculinity is Really All About
-
+## What Fragile Masculinity is Really All About
 A very short blog post, this time about the so-called "fragile masculinity."
 
 One theory behind the resurgency of authoritarian leaders and

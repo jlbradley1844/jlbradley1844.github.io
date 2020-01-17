@@ -3,7 +3,6 @@ title: What Happened to Idealism
 ---
 
 # What Happened to Idealism
-
 A Baha'i oriented post. Let's set the scene with a critical quoate:
 
     If you should ask a thousand persons, "What are the proofs of the

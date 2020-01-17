@@ -2,12 +2,7 @@
 title: Who Killed Community
 ---
 
-# Who Killed American Community Life
-
-or
-
-## The Fontaine Ferry Misdirection
-
+## Who Killed American Community Life (or: The Fontaine Ferry Misdirection)
 There has been much commentary about the slow death of community life
 in the United States - about as long as I can remember. I was
 recalling this upon seeing a book advertised [... ] The thesis of the

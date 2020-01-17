@@ -3,7 +3,6 @@ title: The Trouble with Brilliant Engineers
 ---
 
 # The Trouble with Brilliant Engineers
-
 Have you been trying to get continuous integration running in your
 company, or continuous deployments? Have you tried upgrading your
 forensic tools to make it quicker to find bugs? Upgrade the team's

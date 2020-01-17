@@ -3,7 +3,6 @@ title: Freedom, as a Tribe
 ---
 
 # Freedom, as a Tribe
-
 So yesterday at work I'm minding my own business and I get an
 interruption. We have a Slack-like chat tool at work, and I'm used to
 getting people bothering me out of the blue for one thing or another a

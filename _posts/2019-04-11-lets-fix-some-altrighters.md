@@ -1,10 +1,7 @@
 ---
 title: To That Guy Who Wrote That Screed
 ---
-# Some REAL Advice to the Guy Who Wrote That Google Screed
-
-### Or: Advice To Men Who Do Not Wish to Repeat My Mistakes
-
+## Some REAL Advice to the Guy Who Wrote That Google Screed (or: not repeating my mistakes)
 The following is a post I wrote after a spate of news which saw in the
 headlines various issues such as a high profile firing of an opponent
 of HR practices at Google and various alt right movements. I put it
@@ -34,7 +31,7 @@ workforce. Go figure.)
 Inconcievably, such people think of themselves as victims. Ironically
 they are. But not for the reason they think they are!
 
-HENCE, THIS BLOG POST. People in alt-right thug groups are almost
+HENCE, THIS BLOG POST. People in alt-right thug groups are perhaps
 beyond reaching, but some of their fellow travelers are not. This blog
 post is not just to
 [http://www.slate.com/blogs/the_slatest/2017/08/07/google_fires_engineer_who_authored_anti_diversity_memo.html](that

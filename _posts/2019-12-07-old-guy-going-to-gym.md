@@ -3,7 +3,6 @@ title: Some Advice for Going to the Gym over Forty
 ---
 
 # Some Advice When You're Over Forty, and Need to Hit the Gym.
-
 Over the past few years, I've learned something the hard way. I have
 an achey body to show for it.
 

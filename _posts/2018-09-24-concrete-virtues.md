@@ -2,6 +2,7 @@
 title: Getting Real about the Virtues
 ---
 
+#Getting Real about the Virtues
 Self-improvement, as a whole, is a laudable goal. It is also a popular
 one; bookstores have entire sections called self-help which consist of
 books on self-improvement. Go on YouTube and you will find plenty of
@@ -285,7 +286,7 @@ This is a virtue of wisdom and knowledge and is repeatedly referenced
 in the writings. In the above list of virtues, it is most similar to
 "perspective."
 
-* Avoidance of disputation, Peacefulness
+* Avoidance of disputation, peacefulness
 
 These are virtues of humanity. The Baha'i Faith makes a distinction
 between disagreements and polite arguments on one hand, and rancor and
@@ -301,13 +302,13 @@ humanity.
 
 * Fear of God
 
-Classicaly, this is generally associated with awe and reverence as a
+Classically, this is generally associated with awe and reverence as a
 transcendent virtue. However, certain Baha'i writings do talk of fear
 of God in the ordinary sense of the word; that is, dread of
 punishment. In the Baha'i Faith, this is generally accepted as a
 metaphor for a spritual concept, but is also used to indicate there is
 a justice on a spiritual level. Books like _God Passes By_ describe
-God's judgement as if it were something identical to karma.
+God's judgement as if it were something very much like karma.
 
 * Friendship, Unity
 
@@ -318,8 +319,9 @@ of the teachings.
 
 Another aspect of justice which is also related to faithfulness, it
 presumes that there are particular ideals that are good and worth
-defending. Its lack in modern society is more notable by the presence
-of its total absence, which is a corrosive cynicism.
+defending, even to the pain of one's own death. Its lack in modern
+society is more notable by the presence of its total absence, which is
+the corrosive cynicism of "LOL Nothing Matters."
 
 * Logic
 
@@ -331,14 +333,15 @@ cognitive flaws and biases.
 
 * Obedience
 
-This is a virtue in many cultures but is not univerals; it is easily
+This is a virtue in many cultures but is not univeral; it is easily
 misused by many "honor societies" in the service of enforcement of
 inegalitarian societies, and frequently abets iniquity. In the Baha'i
 Faith, however, rightful obidience is essentially used in a few
 different contexts totally distinct from this. The more important
 context is obedience to God's commandments, generally related to
 self-regulation and self control, virtues of temperance. There is also
-obediencto Baha'i institutions, which is generally more related to
+obedience Baha'i institutions, which is generally more related to
 appeals to loyalty, unity and other virtues of humanity. Ergo, in this
 situation, one obeys out of recognition of respect for the institution
-and the individuals working on behalf of the institution.
+and perhaps the individual efforts of of those who work of the
+institution.

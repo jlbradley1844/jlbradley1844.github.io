@@ -2,9 +2,7 @@
 title: How *Not* to Destroy Genetic Diversity
 ---
 
-# How *Not* to Destroy Genetic Diversity
-
-### Or, Give It Up for "Jungle Fever"
+## How *Not* to Destroy Genetic Diversity (or: Give It Up for "Jungle Fever")
 
 I'll keep this short, because I'm hoping if I limiting the length, it
 will limit the opportunities I have for accidentally slandering the

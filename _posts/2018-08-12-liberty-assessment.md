@@ -1,8 +1,9 @@
 ---
 title: Liberty: A Baha'i Assessment
-category: in-progress
+category: articles
 ---
 
+# Liberty: A Baha'i Assessment
 Last year (2017) in response to a Wilmette Institute course in
 Philosophy, I put together a paper as a final project. With the
 encouragement of one of the instructors, I was urged to make an actual
@@ -16,15 +17,13 @@ anything terribly important - certainly not enough to go through the
 ordinary review process or submission. In addition, there is a long
 discussion given to defense of issues raised by critics of the Baha'i
 Faith that really doesn't go well with the paper, but the paper isn't
-complete without them either, so I could figure how to handle.
-With other projects beckoning, I pulled the plug on this one.
+complete without adding them either, so I could figure how to handle
+this.  With other projects beckoning, I pulled the plug on this one.
 
 One good thing about a blog is it allows me to present this to others
 who are interested without making any unnecessary claim to
 attention. So I'm presenting here, something of the product of
 individual scholarship. Make of it what you will - or won't.
-
-# Liberty: A Baha'i Assessment
 
 ### Abstract:
 
@@ -52,8 +51,8 @@ without requiring structural tradeoffs.*
 One of the fruits of living in modern liberal democratic societies is
 the healthy dose of liberties provided to all its denizens, at least
 in theory (1). Some may object that there is much more to go: one may
-reasonably say that in practice what one is at liberty to do very much
-depends on one’s material station in life and that liberties are not
+reasonably say that in practice, what one is at liberty to do very much
+depends on one’s material station in life, and that liberties are not
 even across society; one may rightly complain about abuse of civil
 rights in minority neighborhoods; one could even object to excess
 government interference in the free marketplace, and so forth. But in

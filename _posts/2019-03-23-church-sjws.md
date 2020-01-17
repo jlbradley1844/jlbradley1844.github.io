@@ -3,7 +3,6 @@ title: About Those Social Justice Warriors
 ---
 
 ## About Those "Social Justice Warriors" Ruining that Old-Time Religion
-
 This is not a political post. Yet there are certainly those who will
 see it as entirely political.
 
@@ -16,12 +15,13 @@ churches.
 If you'd been an avid consumer of mass media, this trend may come as
 something of a shock. Certainly, in popular culture, references to
 religious activities have been rare for quite obvious reasons; a
-sitcom family is far less appealing if they join a church that many
-Americans are ill-disposed toward. But in the news, the story was
-always focused on declines of mainline protestant churches only.
-Meanwhile, evangelical churches were always on the cusp of triumph, as their
-megachurches filled, their shows became ever more present on cable,
-and their favored politicians became elected again and again.
+sitcom family is far less appealing if they join a particular church
+that many Americans are ill-disposed toward. But in the news, the
+story was always focused on declines of mainline protestant churches
+only.  Meanwhile, evangelical churches were always on the cusp of
+triumph, as their megachurches filled, their shows became ever more
+present on cable, and their favored politicians became elected again
+and again.
 
 The truth is actually otherwise. Christianity as a whole has been
 losing followers steadily. Certain trends had masked this. Evangelical

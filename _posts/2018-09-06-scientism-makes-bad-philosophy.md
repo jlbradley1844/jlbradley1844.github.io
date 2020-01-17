@@ -2,13 +2,10 @@
 title: Scientism Makes Bad Philosophy
 ---
 
-# Scientism Makes Bad Philosophy
-
-I ran into this whopper of an article on the usually-excellent
-[Aeon](aeon.co) website:
-[Why It's Only Science That Can Answer All the Big
+# Scientism Makes Bad Philosophy I ran into this whopper of an article
+on the usually-excellent [Aeon](aeon.co) website: [Why It's Only
+Science That Can Answer All the Big
 Questions](https://aeon.co/ideas/why-its-only-science-that-can-answer-all-the-big-questions)
-
 This seems to be amateur philosophy, so I'll do my own amateur
 philosophy and post a definition from wikipedia:
 
@@ -27,11 +24,10 @@ really bad as I think it is? What am I missing?" Turns out I wasn't
 alone; it appeared in the 'badphilosophy' reddit forum, so I wasn't
 the only one.
 
-The typical positivist canard is
-that questions that can't be answered be recourse to emperical testing
-are untestable and therefore meaningless. Since philosophy has moved
-beyond that assertion, the writer instead makes an even stronger
-claim:
+The typical positivist canard is that questions that can't be answered
+be recourse to emperical testing are untestable and therefore
+meaningless. Since philosophy has moved beyond that assertion, the
+writer instead makes an even stronger claim:
 
     One class consists of invented questions that are often based on
     unwarranted extrapolations of human experience. They typically

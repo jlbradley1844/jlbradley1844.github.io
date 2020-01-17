@@ -2,6 +2,7 @@
 title: About the, um, benefits of drinking
 ---
 
+## About the, um, benefits of drinking
 [So now we see some correction to the odd conventional wisdom that
 moderate drinking is good for
 you](https://www.vox.com/2018/4/24/17242720/alcohol-health-risks-facts). It

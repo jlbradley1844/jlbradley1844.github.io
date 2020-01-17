@@ -2,40 +2,28 @@
 title: Theism: A Lecture for Junior Youth
 ---
 
-# Theism: A Lecture for Junior Youth
-
-or
-
-### Why Believe in this "God" Thing Anyway
-
+# Theism: A Lecture for Junior Youth (or: What's this God thing anyway)
 This is not a regular blog post. Instead, this is targeted at young
-adolescents, rather than anyone who might stumble accross this post.
-I occasionally have to step in as an
-assistant in our Sunday junior youth program for the Baha'i
-community. This is generally the ages 11-14 group. While I normally
-work with the 5-8 group, I much prefer the
-older groups. With older groups you can start talking about things
-that are truly religious and ethical; younger childre think too
-concretely for anything beyond inspirational stories.
+adolescents, rather than anyone who might stumble accross this post. And any young adolescent that you might know.
 
 So here's why I wrote this post for teens (and precocious tweens). The
-problem some teachers have with teaching this group is they start
-thinking skeptical, logical thoughts, and they ask bothersome
-questions like "How do we know there is a God" and "What's wrong if I
-don't believe in God but I'm still agood person."  Many youth
-coordinators, not being philosophically inclined themselves, will not
-know how to answer this; or, they will give a deep personal story and
-testimony which answers the issue for themselves, but will be seen as
-a dodge by skeptical listeners. I can't confess to being any better
-myself; if pressed for an answer, I'd probably burden the listener
-with some ridiculously hard=to-follow argument from idealists and
-neo-Aristotaliens which is liable to baffle them. And that's the BEST
-case. In the worst case, my poor suffering listeners will nod their
-head in agreement but continues to silently nurse their doubts over
-the course of years, masking their ever growing unbelieve with a
-passive, cheerful disengagement of the subject. The minute they step
-onto a college campus, they drop any interest in religion thoughts
-outright.
+problem some reigious teachers and youth organizers have with
+teaching this group is they start thinking skeptical, logical
+thoughts, and they ask bothersome questions like "How do we know there
+is a God" and "What's wrong if I don't believe in God but I'm still
+agood person."  Many youth coordinators, not being philosophically
+inclined themselves, will not know how to answer this; or, they will
+give a deep personal story and testimony which answers the issue for
+themselves, but will be seen as a dodge by skeptical listeners. I
+can't confess to being any better myself; if pressed for an answer,
+I'd probably burden the listener with some ridiculously hard=to-follow
+argument from idealists and neo-Aristotaliens which is liable to
+baffle them. And that's the BEST case. In the worst case, my poor
+suffering listeners will nod their head in agreement but continues to
+silently nurse their doubts over the course of years, masking their
+ever growing unbelieve with a passive, cheerful disengagement of the
+subject. The minute they step onto a college campus, they drop any
+interest in religion thoughts outright.
 
 And of course, they do have a valid question: "What's wrong if I don't
 believe in God but I'm still a good person?" After all, this is their

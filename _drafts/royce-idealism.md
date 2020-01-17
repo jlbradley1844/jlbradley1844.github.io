@@ -28,7 +28,7 @@ readable. In doing so, I've made some generalizations that can only be
 clarified by reference to the original texts; I hope you'll forgive
 the omissions.
 
-## Royces Key Ideas in Idealism
+## Royce's Key Ideas in Idealism
 
 Josiah Royce started as an idealist; far from being the first
 idealist, he was by now defending a long philosophical
@@ -59,13 +59,13 @@ other way." And regarding those who would simply ignore metaphysics:
 the dreariness of not understanding the subject,—a sort of dreariness
 for which indeed there is no help except learning to understand."
 
-In his telling the four conceptions of being are as follows:
+In his telling, the four conceptions of being are as follows:
 
 _One_ The physical world is what it is; and as regard this world of
 the Idea, it cannot provide any overt illumination. There is no
-meaning other than what is assigned to it. Its defenders feel they are
-simply following ccommon sense. As Royce states in his writing on this
-theme:
+meaning other than what is assigned to it. Its defenders,
+"common-sense" materialists, feel they are follow their senses to
+deduce what is obvious about the world:
 
     Conceive it as a realm for pure scientific theory; and, so far as
     your knowledge reaches, it is full at once of the show of a noble
@@ -74,8 +74,8 @@ theme:
     baffles you with caprices, like a charming and yet hopelessly
     wayward child, or like a bad fairy.
 
-Ergo, this view of being presents all fact, and no meaning. There are
-a number of ways to handle this:
+This view of Being presents a universe which is all fact and no
+meaning. What then, to do with such questions as meaning?
 
     The World as Fact is, then, for all of us, persistently baffling,
     unless we find somewhere else the key to it. The philosophers of
@@ -87,8 +87,7 @@ a number of ways to handle this:
     consciousness itself. Upon such a criticism, Plato founded his
     conception of the Ideal World.
 
-Meanwhile, what about the world of the Idea, to an empericist of this
-sort? The commonsense view is that Idea is simply nothing more than
+But disallowing this speculation, you are left with nothing. And as far as the world of Idea to such empericists? The Idea is simply nothing more than
 mental states, a vapor so ephemeral it might as well not exist.
 
 _Two_ The physical world may or may not exist; all we have are our own

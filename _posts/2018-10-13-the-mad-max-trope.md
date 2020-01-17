@@ -3,7 +3,6 @@ title: Counteracting the Mad Max Trope
 ---
 
 # Counteracting the _Mad Max_ Trope
-
 I a finishing up a novel right now, Octavia Butler's _Parable of the
 Sower_. Science fiction is experiencing something of a rebirth now;
 While I was in college in the eighties, it seemed like it was going
