@@ -2,7 +2,8 @@
 title: Scientism Makes Bad Philosophy
 ---
 
-# Scientism Makes Bad Philosophy I ran into this whopper of an article
+# Scientism Makes Bad Philosophy 
+I ran into this whopper of an article
 on the usually-excellent [Aeon](aeon.co) website: [Why It's Only
 Science That Can Answer All the Big
 Questions](https://aeon.co/ideas/why-its-only-science-that-can-answer-all-the-big-questions)
