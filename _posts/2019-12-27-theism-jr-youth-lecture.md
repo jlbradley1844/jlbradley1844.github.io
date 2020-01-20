@@ -1,8 +1,8 @@
 ---
-title: Theism: A Lecture for Junior Youth
+title: Theism - A Lecture for Junior Youth
 ---
 
-# Theism: A Lecture for Junior Youth (or: What's this God thing anyway)
+# Theism: A Lecture for Junior Youth (or, What's this God thing anyway)
 This is not a regular blog post. Instead, this is targeted at young
 adolescents, rather than anyone who might stumble accross this post. And any young adolescent that you might know.
 
