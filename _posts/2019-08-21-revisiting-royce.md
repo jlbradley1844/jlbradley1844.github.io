@@ -1,4 +1,4 @@
-n---
+---
 title: Revisiting Josiah Royce
 ---
 
