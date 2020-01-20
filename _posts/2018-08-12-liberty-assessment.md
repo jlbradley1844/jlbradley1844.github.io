@@ -1,5 +1,5 @@
 ---
-title: Liberty: A Baha'i Assessment
+title: Liberty - A Baha'i Assessment
 category: articles
 ---
 
