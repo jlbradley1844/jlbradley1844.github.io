@@ -2,7 +2,7 @@
 title: About That "Google Memo" Screed
 ---
 
-#About That Memo at Google That Had Everyone Talking
+# About That Memo at Google That Had Everyone Talking
 A few weeks ago everyone was talking about this. Being in technology,
 I figured I'd address it.
 
@@ -32,8 +32,8 @@ thing that can be said about it.  The actual content is a tenditious
 piece of research, the goal of which is to try to eliminate efforts to
 bring more women into the technology workforce. I do think most of the
 criticisms against were over the top and ludicrous (to use someone
-else's words: [" piling onto one problematic software engineer as a
-stand-in for a whole system of oppression is a distraction from [your]
+else's words: ["piling onto one problematic software engineer as a
+stand-in for a whole system of oppression is a distraction from your
 larger
 goals"](https://www.washingtonpost.com/opinions/the-google-memo-isnt-the-interesting-part-of-the-story/2017/08/11/de3f8876-7ecb-11e7-9d08-b79f191668ed_story.html?hpid=hp_no-name_opinion-card-d%3Ahomepage%2Fstory&utm_term=.1dd609fb5d24)).
 But that being said, his memo doesn't hold up, and the context is totally wrong
@@ -126,7 +126,7 @@ for normal, reasonable argumentation, as I've mentioned. But again,
 this is the _minimum_ a conscientious person would do to defend a
 controvertial position. Ironic, considering this low bar is propounded
 by a political philosophy whose adherents continually complain about
-the "everybody gets a trophy" attitude in society;\.
+the "everybody gets a trophy" attitude in society.
 
 An additional problem is that if you want to support a controversial
 argument like this, you would do best to insist that the argument
@@ -141,7 +141,7 @@ If openly talking politics at work is considered good policy, _that's
 news to me_. Not talking about politics, religion or money has been
 considered "Career Management 101" for as long as the modern
 corporation has been in existence. But instead, this author treats
-this as some sort of novel imposition by the technology, and bolts a
+this as some sort of novel imposition by the technology employer, and bolts a
 controversial anti-diversity argument part and parcel to it. The
 impression left is that the author seems to insist it is his viewpoint that
 deserves special consideration in the name of "tolerance."
