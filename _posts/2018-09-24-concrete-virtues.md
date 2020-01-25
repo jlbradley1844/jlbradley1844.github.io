@@ -3,7 +3,7 @@ title: Getting Real about the Virtues
 category: article
 ---
 
-#Getting Real about the Virtues
+# Getting Real about the Virtues
 Self-improvement, as a whole, is a laudable goal. It is also a popular
 one; bookstores have entire sections called self-help which consist of
 books on self-improvement. Go on YouTube and you will find plenty of

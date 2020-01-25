@@ -116,8 +116,8 @@ views whould immediately distance themselves from it should they be
 forced to read their argument out loud.
 
 Emperically, here's the problem - there is no reason to think that
-this correlation is causation. It is true that mainline denominations
-- and to be clear, those denominations are far more amenable to
+this correlation is causation. It is true that mainline denominations -
+and to be clear, those denominations are far more amenable to
 socially liberal concerns than other denominations - have been losing
 members for decades. If this were causational, then they would lose
 these people to more conservative denominations. And on top of this,
