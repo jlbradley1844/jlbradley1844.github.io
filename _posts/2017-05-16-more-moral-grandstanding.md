@@ -1,5 +1,6 @@
 ---
 title: Three Cheers for Moral Grandstanding!
+category: cutting-floor
 ---
 
 ## Three Cheers for Moral Grandstanding!

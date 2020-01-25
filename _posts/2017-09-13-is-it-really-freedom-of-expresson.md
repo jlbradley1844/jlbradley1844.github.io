@@ -1,6 +1,6 @@
 ---
 title: Is It Really Freedom of Expression that They're Fighting For?
-category: in-progress
+category: cutting-floor
 ---
 
 ## The Gig Is Up: We All Know It Isn't Really About Free Speech
@@ -23,9 +23,9 @@ So they didn't lie about history. Instead, of the 11 years I attended
 Catholic school for, I learned in each of these 11 years THE CIVIL WAR
 WAS FOUGHT OVER SLAVERY.
 
-None of the ludicrous garbage about it being over "State's rights." I
-remember in every history class there was always some east-end
-suburban child of upper middle class southern gentry sticking his hand
+None of the amoral fuzziness about it being over "State's rights." I
+remember in every history class there was always some scion
+of upper middle class southern gentry sticking his hand
 in the air to object that "It really was over state's rights..." as if
 it was just being mean to insist on a truthful accounting, and that
 we'd all be happer if we just insisted in this compromise reading,
@@ -68,14 +68,19 @@ about things isn't going to change their mind.
 So why is this important? Becuase from the above, it is obvious the
 problem is *not* to berate or "fix" other people's beliefs,
 wrongheaded as we may feel them to be.
+So polite people keep their peace. In general, there is not much to be
+done, provided others do not insist unfactual beliefs on others.
+And those of us who are Baha'is are (hopefully) well-trained enough
+not to look down on such people, no matter how ill-informed.
 
-This is good illustration of common rhetorical
-tactic used whenever someone wishes to defend a position they know to
-be somehow or other morally indefensible.
+Unfortunately, those in the wrong still realize they are wrong on
+some level, meaning they'll deploy a rather misleading rhetorical device,
+since they usually still feel miffed.
 
-That is: instead of arguing over whether something is right, you
-instead argue over whether someone has a right to limit it.
+That is: instead of arguing over whether something is right,
+instead argue over whether someone has a right to even question it.
 
+What, then, would you do if you are then challenged in this manner?
 You can be respectful of people and not think they're evil or in
 opposition to you, but at the same time realize they're using a
 rhetorical con to lie to themselves. Recognizing the con does not mean

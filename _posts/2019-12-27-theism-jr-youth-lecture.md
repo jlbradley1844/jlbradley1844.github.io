@@ -1,5 +1,6 @@
 ---
 title: Theism: A Lecture for Junior Youth
+category: article
 ---
 
 # Theism: A Lecture for Junior Youth (or: What's this God thing anyway)

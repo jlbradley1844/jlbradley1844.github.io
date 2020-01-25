@@ -1,6 +1,8 @@
 ---
 title: To That Guy Who Wrote That Screed
+category: article
 ---
+
 ## Some REAL Advice to the Guy Who Wrote That Google Screed (or: not repeating my mistakes)
 The following is a post I wrote after a spate of news which saw in the
 headlines various issues such as a high profile firing of an opponent

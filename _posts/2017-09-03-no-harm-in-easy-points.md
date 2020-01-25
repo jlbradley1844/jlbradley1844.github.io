@@ -1,5 +1,6 @@
 ---
 title: This Is Not About Scoring Easy Points
+category: cutting-floor
 ---
 
 # Sometimes You Have To Speak Out Even When It's Obvious

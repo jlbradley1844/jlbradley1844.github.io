@@ -54,8 +54,8 @@ support any such open-speech forum EVER, for fear that neo-nazis will
 pile in and force companies to either censor speech or allow it and be
 seen as siding with nazis.
 
-Meanwhile, the discussions I've seen are missing some crucial context
-- context it's defenders seem naively bereft and detractors have not
+Meanwhile, the discussions I've seen are missing some crucial
+context - context it's defenders seem naively bereft and detractors have not
 bothered to eduate anyone about; a wasted opportunity, given that
 their main enemy has been the shield of obliviousness surrounding the
 tech world on this issue. I'm not trying to defend the current
@@ -104,7 +104,8 @@ Another related point is that we don't have the whole story here. It
 was said to have gone "viral"; we don't know if this was a result of
 people spontaneously passing this stuff around, or it was part of an
 orchestrated campaign by a lot of ticked off alt-righters in Google,
-perhaps including the writer themselves. The fact that this was
+perhaps including the writer himself _[edit: fun fact, we now know
+it was the latter]_. The fact that this was
 immediately picked up by the outside press and the author has seem so
 happy to throw his lot with alt-righters makes one wonder if the whole
 thing was a setup. But whether it was spontaneous or orchestrated, HR

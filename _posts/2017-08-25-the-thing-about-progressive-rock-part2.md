@@ -1,5 +1,6 @@
 ---
 title: The Right Kind of Uncool (Part II)
+category: articles
 ---
 
 # The Right Kind of Uncool (or, About Progressive Rock)
