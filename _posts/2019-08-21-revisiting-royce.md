@@ -1,5 +1,6 @@
 ---
 title: Revisiting Josiah Royce
+category: in-progress
 ---
 
 # Revisiting Josiah Royce

@@ -1,6 +1,6 @@
 ---
 title: The Three Voids of Philosophy
-category: article
+category: articles
 ---
 
 # The Three Voids of Philosophy

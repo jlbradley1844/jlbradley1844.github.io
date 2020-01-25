@@ -1,6 +1,6 @@
 ---
 title: Why Might a Virtue Workout Work?
-category: article
+category: articles
 ---
 
 # A Recap: Why Might a Virtue Workout Work

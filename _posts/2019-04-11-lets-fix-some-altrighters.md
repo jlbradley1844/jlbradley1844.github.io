@@ -1,6 +1,6 @@
 ---
 title: To That Guy Who Wrote That Screed
-category: article
+category: articles
 ---
 
 ## Some REAL Advice to the Guy Who Wrote That Google Screed (or: not repeating my mistakes)

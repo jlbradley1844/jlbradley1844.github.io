@@ -1,6 +1,6 @@
 ---
 title: Core Habits for Virtue Development: the Baha'i Model
-category: article
+category: articles
 ---
 
 # Core Habits for Virtue Development: the Baha'i Model

@@ -1,6 +1,6 @@
 ---
 title: Keystone Habits for Virtue Improvement
-category: article
+category: articles
 ---
 
 # The Keystone Habits of Virtue

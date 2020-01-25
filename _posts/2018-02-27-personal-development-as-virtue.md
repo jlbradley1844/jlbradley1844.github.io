@@ -1,6 +1,6 @@
 ---
 title: Personal Development as Virtuous Habits
-category: article
+category: articles
 ---
 
 # Personal Development as Virtuous Habits

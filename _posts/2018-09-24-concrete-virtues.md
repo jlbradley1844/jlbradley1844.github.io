@@ -1,6 +1,6 @@
 ---
 title: Getting Real about the Virtues
-category: article
+category: articles
 ---
 
 # Getting Real about the Virtues
