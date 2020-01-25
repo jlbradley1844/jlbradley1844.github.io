@@ -1,5 +1,5 @@
 ---
-title: Theism: A Lecture for Junior Youth
+title: Theism - A Lecture for Junior Youth
 category: articles
 ---
 
