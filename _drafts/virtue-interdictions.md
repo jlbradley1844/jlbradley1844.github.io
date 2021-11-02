@@ -161,7 +161,7 @@ irresponsible not to mention them.
 
 The Baha'i Faith interdicts many activites. I'm just going to
 list the most notable and unusual for the western (American) cluture.
-These are some of the onces that have provided me, personally, the
+These are some of the ones that have provided me, personally, the
 most benefit in my own growth. As for you, who is almost certainly not
 a Baha'i - consider it part of your "advanced" workout routine. Your
 challenge, should you accept it, is to refrain from the following
@@ -179,7 +179,7 @@ function (including alcohol, but NOT including tobacco/nicotine and caffeine)
 5. Participation in partisan political activities
 
 Now the Baha'i Faith actuall interdicts many others. There are dozens
-listed in the primary repository of "Baha'i Law," a tome called the
+listed in the primary repository of Baha'i law, a tome called the
 Kitab-i-Aqdas (literally: "The Most Holy Book"). The bulk of the
 remaining interdictions are either obvious (e.g. killing, calumny) or
 less germane to the sort of "educated

@@ -209,11 +209,11 @@ is delay and foot-draging of young adults as they put off these life
 stages. I'm not too eager to draw generalizations about entire
 generations of youth; if you think the problem is lack of character
 cultivation - whose fault is that? My personal tendency is to think
-most millenials get a raw deal from scociety. I
+most millenials get a raw deal from their elders. I
 personally was quite lucky in being able to get a college education
 and being inclined toward a profession that pays well. I certainly
 wouldn't want to be in the position of a hard-working twentysomething
-male who wasn't academically inclined and who has trouble finding work
+male who isn't academically inclined and who has trouble finding work
 in a chosen trade that pays well; even if you have a job, people
 without a degree can increasingly find contracting marriage difficult
 through no fault of their own.

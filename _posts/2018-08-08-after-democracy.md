@@ -1,6 +1,6 @@
 ---
 title: What to Do After Democracy
-category: in-progress
+category: articles
 ---
 
 # What to Do After Democracy
@@ -1621,7 +1621,7 @@ deliberative abilities, and ability to listen.
 
 5. Ban on political parties and factions.
 
-6. No campaigning and electioneering; ban on block
+6. No campaigning and electioneering; ban on bloc
 voting.
 
 7. Proper control of election environment; emphasis on ease of
@@ -1635,7 +1635,7 @@ a representative body, not a body representing majority views.
 appeals. Legislature has freedom to change executive any way it
 pleases, but cannot amend core principles.
 
-10. Indirect elections of regional, national and international bodies.
+10. Indirect elections of national and international bodies.
 
 11. Limited transparency of deliberations to ensure frank exchange of
 views.
@@ -1657,24 +1657,12 @@ themselves. Outside of the context of the Baha'i Faith, it is
 interesting to speculate which ones may be of use, and which ones
 require use in tandem with others in order to prevent corruption.
 
-## For Voluntary Organizations, Nonprofits, Corporations
-
-TO BE FILLED IN
-
-## For Civic Governance
-
-TO BE FILLED IN
-
-# Concluding notes
-
-TO BE FILLED IN
-
 # Endnotes and Appendices
 
 (1) Much as alternatives to our current form of democracy are so
 unappealing that it is resigned to as a given, the capitalistic
 economy is also accepted as a given. The failed
-alternative economies of the late twentieth century all posed very
+alternatives of the late twentieth century all posed very
 similar alternatives - that of massive state control. Marxist
 governments imposed this for theoretical reasons; other regimes, be
 they fascist, military juntas or othertherwise, imposted state control
@@ -1682,8 +1670,8 @@ out of convenience, all the better to confiscate the goods necessary
 to pay off supporters and members of favored classes. Since all forms
 relied on excessive state control, all suffered the same general
 problems. Whatever one may think the root cause of collaps of
-these governments was, the fact that economic inefficiencies and an
-inability to compete on the world states was a crucial contributor.
+these governments was, their economic inefficiencies and the related 
+inability to compete on the world stage was a crucial contributor.
 
 The textbook explanation is that state-controlled economies lacked the
 pricing mechanisms that served to send signals throughout the economy
@@ -1711,7 +1699,7 @@ theorists testing alternate currencies; the open source software
 community, where product is given away and services based on that
 product are sold. Indeed, much of the wealth created today is in the
 form of intellectual property, which once created, can be used by any
-number of people. This fact in and of itself is enough to break
+number of people. This fact in and of itself should theoretically break
 standard economic models, which are based on goods that, once produced
 can only be used by a single purchaser. But as of yet, there is no
 sign of an alternative to market economies as efficient models for
@@ -1743,9 +1731,9 @@ opportunity to use points of novelty to paint our administrative
 organization as regressive.
 
 There have also been well-known controversies in the past thirty
-years as some academics, no doubt steeped in the knowledge of
+years as some Baha'i academics, no doubt steeped in the knowledge of
 democracies and liberal norms, initiated a campaign to "fix" the
-elected institutions to adhere to such forms. Indeed, well before
+Baha'i elected institutions to adhere to such forms. Indeed, well before
 these controversies, the Universal House of Justice indicated the
 difficulty some tendencies of thought were causing in the communities
 of the west:
@@ -1797,7 +1785,7 @@ time. Some believe that the Baha'i Administrative order is destined
 over time to become the overarching world government that the Baha'i
 writings point to. Others are more skeptical, pointing to other
 tablets and writings of 'Abdu'l-Baha seem to confirm that church and state
-must maintain separate domains. Finally others maintain that any such
+must maintain separate domains. Finally, others maintain that any such
 notions are so far removed from the future as to have no realistic
 bearing on how Baha'is behave in their day to day lives, even in how
 they present the Baha'i Faith to outsiders.
@@ -1870,10 +1858,10 @@ That is, because only the framework for governance is laid down, it is
 possible to make whatever changes to administrative structure that is
 required going forward.  This implies a level of dynamism in its
 structure that many believers may not be aware of. Most Americans are
-used to the near-impossibility of amending the constitution and
-believe it to be a necessary part of democracy, unaware that many
-political scientists consider that to be its most serious flaw. Again,
-Shoghi Effendi:
+resigned to the near-impossibility of amending the constitution and
+may even believe it to be a necessary part of democracy, unaware that many
+political scientists consider that to be The Consistution's most 
+serious flaw. Again, Shoghi Effendi:
 
     Not only will the present-day Spiritual Assemblies be styled
     differently in future, but they will be enabled also to add
@@ -1882,6 +1870,10 @@ Shoghi Effendi:
     merely as one of the recognized religious systems of the world,
     but as the State Religion of an independent and Sovereign Power.
     (27-Feb-1929)
+
+Note the reference to state religion. Here again, the American outlook may
+be that this presumes a caliphate. But this overlooks the fact that
+many European democracies also have their own state religions!
 
 And similarly with regard to the institutions of that time:
 
