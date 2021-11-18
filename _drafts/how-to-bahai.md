@@ -620,7 +620,7 @@ or economic change.
 Key to this, as you might guess, is consultation, using the process mentioned
 earlier.
 
-## Psychic Self-Care
+## Psychic Improvement - Prayer and Meditation
 
 OK, so earlier I promised you there would be no spiritual wooooooo, no prayers
 to some nature God/Goddes or focusing on your chakras. None of that devotional
@@ -631,7 +631,7 @@ your life, right?
 
 So I can't skip over this. In the Baha'i Faith, prayer and meditation is
 _important_. Some Baha'is would say this is indeed _the_ most important,
-and would regard everything else I'm writing about as extraneous..
+and would regard everything else I'm writing about as extraneous.
 
 I'm on the other end of the spectrum. If given a choice between silent
 contemplation and an action that would make a difference, I'd choose an action.
@@ -670,7 +670,7 @@ in stressful situations instead of repeating, say, "serenity now":
 
 Now look at both these prayers. What don't you see? Are you asking God
 for something? Talking to him like he's your buddy? Do you think God
-even cares if you're saying these or not? In fact, he does not, and
+even cares if you're saying these or not? In fact, He may not, and
 that's _entirely the point_. _You_ are saying these. These are messages
 for you. Now, most Baha'is will tell you these prayers have "spiritual
 potency" of one form or another, but even if you refuse to believe
@@ -684,7 +684,7 @@ say these prayers and mean them without thinking about if your life
 is in conformity with these lessons.
 
 Now supposing you don't believe in this G*d stuff. There are many Baha'i
-prayers but virtually all of them invoke G*d in some form. I could sit
+prayers and virtually all of them invoke G*d in some form. I could sit
 here and try to explain what Baha'is believe about God - how He himself
 is an unknowable essense which we cannot in any way directly communicate
 with, how we use the pronoun He becuase of limitations of English grammar
@@ -806,7 +806,7 @@ bigotries caused by blind imitation.
 >      (Abdu'l-Baha, The Promulgation of Universal Peace, p. 140)
 
 The solution to this is _independent investigation of reality_. Which is to say,
-not a corrosive cynicism which beliefs nothing, but a willingness to apply a
+not a corrosive cynicism which believes nothing, but a willingness to apply a
 healthy skepticism to received beliefs, and a healthy questioning and curious
 attitude toward life.
 
@@ -839,9 +839,11 @@ for its own sake:
 
 The Baha'i community in Iran has been subjugated for years. One of the most persistent
 punishments the government has place on the Baha'i community is to bar them from
-enrollment in universities. The reason they do this is twofold. First, in the years
+enrollment in universities and other institutions of higher learning. The reason 
+they do this is twofold. First, in the years
 prior to the Iranian revolution, Baha'is attended universities in far greater numbers
-than the proportions of the population. While many Iranians are uncomfortable with
+than would be expected given their proportions of the population. While many 
+Iranians are uncomfortable with
 the treatment of the Baha'i community by their government, they are also aware that
 there is a persistent shortage of slots for univerity enrollment in Iran. Second,
 they are aware that higher learning was something treasured by Baha'is, and the fact
@@ -866,20 +868,22 @@ Superstition, on the other hand, does the opposite.
 You, gentle reader, are of course immune to superstition, and you and I can both
 imagine looking down our nose at the non-numerically inclined, those that believe
 in lucky sneakers, picking lucky lotto numbers, passing on tales of magical
-pilgramage sites, and happily reading _The DaVinci Code_ sequels as if they were
+pilgramage sites, and merrily reading _The DaVinci Code_ sequels as if they were
 nonfiction.
 
 But we may have other cherished beliefs - the "dust of acquired knowldge." Things like
-our own pet theories about the way the world works. Such beliefs need not have been
-acquired from others through blind imitation; they may simply be an unhappy side-effect
-of painful events in our past. Or they may be picked up unconsciously, like the
+our own pet theories about the way the world works, borrowed from influences like
+your family, your peer group, or from watching countless movies. Or perhaps such
+beliefs are unhappy side-effects
+of painful events in our past. Or they may be picked up unconsciously
+from the culture generally, like the
 internal beliefs that interpret everything as a conflict that I pointed out early
 in the book. It does not need to be an easily-ridiculed superstion to be false.
 
 Finally, I'd like to close this with two sources of error pointed out by the Baha'i
 faith that often escape attention, even by the most intelligent and sound of thinkers.
 
-One is "Attachment":
+One is "Attachment". The quote I'll begin with is _not_ Baha'i, and very well-known.
 
 >  It is difficult for someone to see a truth when his paycheck is dependent
 >  upon not seeing it.
@@ -910,7 +914,11 @@ logic. With attachment, motivated reasoning will bend any argument in service
 to its ulterior motives.
 
 And finally, the most shocking and perhaps worst underlying belief.
-"The Belief that We are Right"
+"The Belief that We are Right". Or, specifically:
+
+
+
+
 
 ## Self-Mastery
 
@@ -922,26 +930,29 @@ ask about Baha'i beliefs they want to know:
 Most people, when asked in this manner about their religion, tend to bristle.
 They think "that's not the point," but generally don't have a rejoinder that
 will fit on a bumper sticker. My guess is that when religious people hear
-this question, they think, somewhat cynically, that this is not a good faith
-question, but just a parlor trick intended to produce an answer that can
-then be used to reject one's own religion.
+this question, they think, somewhat cynically, that this is not really a 
+good-faith question borne of curiosity, but just a ruse intended to produce 
+an answer, which will then be used by the questioner to reject the religious
+belief out-of-hand.
 
-(Also, if one is a Christian, one is aware of the writings of a certain
+Also, if one is a Christian, one is aware of the writings of a certain
 Jewish carpenter who had some quite severe words about people who strictly
 followed religious laws but did nothing else of value. So the emphasis on
 the laws seem quite misplaced when the founder of these religious laws
-themselves placed so much emphasis on many other things.)
+themselves placed so much emphasis on many other things.
 
 So I'm going to do something counterintuitive. What, you say you're not
 a Baha'i? Congratulations, the religious laws binding on you are
 
 **NONE WHATSOEVER**
 
-And as for my advice to you? Follow NONE of them!
+And as for my advice to you? Follow NONE of them! Indeed, those who are
+Baha'i are told that one may not expect anyone who is not a Baha'i to
+conform with our moral code, no matter what one's opinion.
 
 But... (and you're waiting for the catch, aren't you).
 
-Part of being a better person is about self-mastery and self discipline.
+Part of being a better person is about self-mastery and self-discipline.
 You'll have to do those, laws or no laws.
 
 When New Year's rolls around, what's the one thing everyone picks as
@@ -957,45 +968,700 @@ they're hardly religious.
 So there's another element of self-mastery which is important, and that's
 involving management or elimination of various 'temptations.' Now,
 unfortunately, 'temptations' is a word most often used in ad copy for
-deserts and various fat-free treats, but let's break down what it is - something
-that is compelling enough to make you do what you don't want to do.
+deserts and various fat-free treats, but let's break down what a
+tempttion is: Something
+compelling enough that it make you do what you don't want to do.
 What does the Baha'i Faith say about managing those? Or rather, what
 would a 'typical Baha'i' do that you might benefit from?
+
+### Addictions
+
+One of the most disastrous things that can happen to you is to fall
+victim to an addition. You can work on self-improvement for years,
+but for an addict, this often becomes the _one thing_ that dominates
+ones life. Some additions are relatively harmless; your morning caffiene
+addition is something that will cause you only you to suffer if you don't
+get your fix. And if you're someone who still smokes (sorry), you're probably just as
+sick of smelling like an ashtray as everyone else, and it long since
+ceased to be fun to stand out in the rain for smoke breaks and receive
+lectures from your doctor on what you're doing to your lungs.
+
+But many additions are much worse, in that they actually impede
+your character as a person. People have ruined their own lives and even
+the lives of others through alcohol addition, gambling too much,
+developing expensive drug habits, compulsively engaging in adulterous affairs,
+you name it. If you fall prey to one of these addictions, throw out
+this book, because the good you will do from these practices is a drop in
+the bucket compared to the effort you need at controlling your addition.
+
+The Baha'i laws are seen as a bit old-fashioned by some - indeed, many
+think religious laws themselves are outdated. However, upon examining
+Baha'i laws, there seem to be just a few animating purposes:
+
+- questions of community organizing and collective decision making;
+- various exhortations for improved behavior and spiritual growth;
+- various interdictions meant to control behaviors known to be addictive.
+
+And so: it will not surprise you that some of the laws that are the
+least popular to those who are not Baha'i are as follows:
+
+- No taking of addictive substances causing impariment in any
+form, _including alcohol_;
+- No gambling;
+- No extramarital sex.
+
+Now, I'm not going to tell you to do this. However, you should recognize
+that these laws were put there for a reason. And one thing that gives
+Baha'i communities their positive character are that Baha'is, for
+whatever their flaws, are at least free from these harmful additions.
+
+I'm not going to tell you that having a little beer once in a while
+is harmful, or that one trip to Vegas could ruin your life, or that 
+having sex with your serious girlfriend of two years is going to corrupt
+you as a person. None of those are demonstrably true. It's a little
+more iffy to use a "slippery slope" argument on you, either I don't
+find it believable of myself as a person:<
+if I get drunk I vomit. I'm so loss-averse that if I
+gamble, the amount is so insignificant as it doesn't matter to me. And I
+don't have the looks that would allow me to engage in carnal activites
+with anyone other than, say, someone actually married to me. So I could
+probably bend the rules all I like and get away with them.
+And the same may apply to you.
+
+But let's get back to the purpose of the book. The purpose is to
+impart to you lessons from the Baha'i Faith on how to improve your
+life; lessons meant to make you happier no matter what your status
+is; lessons on how to be a better person to be around.
+These particular activities, should you indulge themselves, are activites
+that require you to be extremely adult in judging your own limits
+when you are unimpaired. And unfortunately, these are all activities
+which will impair your judgement _while you are
+doing them_. Have you ever had a night out that you regretted?
+One of these activities was involved - guaranteed.
+
+#### Bonus Section: On Lust
+
+I flagged extramarital sex. If there is one rule that people (especially
+young people) find objectionable, it's this one. So, one more thought
+on this.
+
+Let's suppose you are young and fetching, or tall and attractive,
+whatever is considered attractive to the opposite sex nowadays. And
+you are essentially able, whenever you wish, to bed someone attractive.
+I'm going to go out on a limb (and this is _not_ supported in the
+Baha'i writings) and say you could probably engage in all sorts of
+casual carnal relations and have it not affect you morally. Why would it?
+You have a natural drive and you're simply fulfilling it.
+
+The blinkered response to this is that you are engaging in the
+sin of Lust. But that is not true. You are engaging in something quite
+different.
+
+Please be aware that if you are among this group, you are in very
+select company. Studies have shown that less than 20% of all people
+are engaged in over half of all "couplings." If you've ever taken a
+date out on Valentine's day, or gone to vacation in a popular honeymoon
+spot, you'll notice - you're suddenly surrounded by sexually desireable
+people. You may be among these. But whether you are or not, you're among
+the elite few that are enjoying the fruits of the sexual revolution.
+
+If you are doing this, and hopping from one relation to another without
+regard for others, the "sin," if you will, is one of Gluttony. That is,
+consuming a resource simply because you can without regard for the needs 
+of others. Because many of your partners are not similarly situated. Strings
+or not, you will wind up using other people. As far as your own happiness,
+know that your present situation is entirely contingent. If you are a
+woman and enjoy your situation for your looks and youth, know that this is
+going to change. If you are a man, this may not change as quickly, but
+if part of your appeal is your status, career or wealth, it very well could.
+Your own happiness requires that you do not mistake what is a temporary
+situation as a permanent state of affairs.
+
+As for gluttony, what is the "limited resource" being consumed? Why, simply
+the lives of others. Particularly in the case of men, who frequently find
+themselves in long term relationships simply because it's easier than finding
+a steady stream of sexual partners.
+One of the reasons of the depressed birth rate
+in the Western world is due to women coupling up in their childbearing
+years with men who surreptitionsly have no intention of fathering
+children. Instead, their interest is mainly in sex, and such men conveniently
+find another partner when their interest wanes (generally once the woman's
+fertility has started to wane). Psychologists estimate that each "stringer"
+out there results, on average, in around two women losing their fertile
+years. Such women usually wind up childless, or perhaps lucky to have
+just one child.
+
+None of the above discussion is Lust, in any way.
+
+Lust is "excessive desire." And this is the problem with everyone else
+outside of said relationships.
+
+Lust is not engaging in multiple carnal relations that seem to magically
+come your way. Lust is hounding a woman with the goal to "win" her, as
+if she is a trophy for persistence. Lust is repeatedly drunk-testing your ex, who
+you're still in love with.
+
+
+
+
+
 
 
 ### Self-Indulgence
 
-Despair, both here and hereafter, is all you will gain from self-indulgence; abomination and misery are all you will harvest from fanaticism, from believing the foolish and the mindless.
+One of the temptations of current Western society is "affluenza"; a
+blase' attitude toward life caused by excessive self-indulgence:
 
-	(Abdu'l-Baha, The Secret of Divine Civilization, p. 104)
+>  Despair, both here and hereafter, is all you will gain from 
+>  self-indulgence; abomination and misery are all you will harvest from 
+>  fanaticism, from believing the foolish and the mindless.
+>           (Abdu'l-Baha, The Secret of Divine Civilization, p. 104)
+
+The cure for this is in service:
+
+>  Senses and faculties have been bestowed upon us, to be devoted to 
+>  the service of the general good; so that we, distinguished above all 
+>  other forms of life for perceptiveness and reason, should labor at 
+>  all times and along all lines, whether the occasion be great or 
+>  small, ordinary or extraordinary, until all mankind are safely gathered 
+>  into the impregnable stronghold of knowledge. We should continually be 
+>  establishing new bases for human happiness and creating and promoting 
+>  new instrumentalities toward this end. How excellent, how honorable 
+>  is man if he arises to fulfil his responsibilities; how wretched and 
+>  contemptible, if he shuts his eyes to the welfare of society and wastes 
+>  his precious life in pursuing his own selfish interests and personal 
+>  advantages.
+>             (Abdu'l-Baha, The Secret of Divine Civilization, p. 3)
+
+>  It is enjoined upon every one of you to engage in some form of 
+>  occupation, such as crafts, trades and the like. We have graciously 
+>  exalted your engagement in such work to the rank of worship unto God, 
+>  the True One. Ponder ye in your hearts the grace and the blessings 
+>  of God and render thanks unto Him at eventide and at dawn. Waste 
+>  not your time in idleness and sloth. Occupy yourselves with that 
+>  which profiteth yourselves and others.
+>                  (Baha'u'llah, Tablets of Baha'u'llah, p. 26)
+
+>  It is enjoined upon every one of you to engage in some form of 
+>  occupation, such as crafts, trades and the like. We have graciously 
+>  exalted your engagement in such work to the rank of worship unto God, 
+>  the True One.
+>                  (Baha'u'llah, Tablets of Baha'u'llah, p. 26)
+
+The core facet of Baha'i life is one of _service_. For this reason,
+many Baha'is volunteer to serve in like-minded organizations. This
+extends to choosing one's professions or jobs.
+
+This concept of humanitarian service is so important that Baha'i temples
+themselves are supposed to be given to this. As clarified in the 
+commentary around the temple:
+
+>  The Bahá'í House of Worship is dedicated to the praise of
+>  God. The House of Worship forms the central edifice of the
+>  Mashriqu'l-Adhkar (the Dawning-place of the Praise of
+>  God), a complex which, as it unfolds in the future, will
+>  comprise in addition to the House of Worship a number of
+>  dependencies dedicated to social, humanitarian, educational,
+>  and scientific pursuits.
+>    (Authorized translator's comments, Baha'u'llah's The Kitab-i-Aqdas, p. 190)
 
 
+Service is the key to fighting self-indulgent behavior.
 
-### Addictions
+I understand that many of you readers are already ridiculously busy.
+You may find talk of self-indulgence must apply to other people, but
+not you. And it probably does!
+And some of us have taken jobs out of pure necessity, jobs that
+may not even serve others.
+
+If you're reading this book and you're young, you're fortunate. If
+you're among the lucky minority that could complete college studies,
+then one can actually chose to align one's profession to service with
+mankind. This is particularly true since most of your waking hours
+will probably be spent in paid work. Some of the most taxing, demotivating
+work is work where you can't actually understand who is being served,
+or work which accomplishes things to the wrong end.
+
+If you are among the lucky few, you already have a job fulfilling both the
+needs of others and using talents you alone bring to the world.
+Congratulations! You're probably already thinking of finding a fulfilling
+career that you believe in. And far more than when I was in college, there
+are books that will actually recommend specific actions. The excellent
+website <https://80000hours.com> is an especially good one for those
+eager to do good work while one works.
+
+And if you do have spare time, there are always activities in your community
+that need doing. The problem may simply be one of inertia. It is always
+much harder to get started than it needs to be. But service and the sense
+of gratitude that comes with it are going to raise your mood much more
+than staying at home, escaping with video games or ruminating.
+
+It is true that it may take some work finding an appropriate job, particularly
+if your talents are peculiar. But if you can think of a job, you can think
+of a job that helps someone.
+
+Note: there will always be unpleasant jobs that pay well, but actually
+contribute negatively to society. You can make more money programming
+addictive games and social networks than you can working on HR software
+so that people can get paid. You'll make more writing ad copy or working
+for a PR firm that misleads people than you will teaching English at
+a community college or doing investigative journalism.
+
+But if you picked up this book, you've probably realized that there
+are more important things than getting paid well or looking like a
+"winner." It's your life, and a significant chunk of it is going to
+consist of doing things for others. It's your job to make sure you
+see the meaning in it and believe in it. Note that it is _not_ on you
+to go into the _most_ meaningful job you could possibly do. Everyone
+has to eat, after all. But my rule of thumb: if you can't stand what
+your business is, you probably won't be able to stand the bosses who
+run that business, and you probably won't like what will be asked of you
+as a person.
+
+### Self Restraint Excercise: The Fast
+
+One way to improve your restraint is to practice it. Wouldn't you know
+it, many religions have actual exercises to practice it. The Baha'i
+Faith has one such exercise:
+
+    [For the nineteen days prior to the Vernal Equinox (the start of spring),] 
+    abstinence from food and drink, from sunrise to sunset, is obligatory.(7)
+
+	(Shoghi Effendi's "Synopis and Codification" of Baha'u'llah's Kitab-i-Aqdas, p. 148)
+
+There are plenty of exemptions - for sickness, old age, menstration,
+traveling and the like. But the expectation is that if you are a Baha'i,
+you will do this. The justification given for asking for this fast by
+Baha'u'llah? "For the love of My Beauty." In other words, for no other
+reason than that he asks us to.
+
+This isn't much of a logical reason, and Baha'is don't ask for one.
+But there is no doubt that fasting is a common discipline practiced
+by many religions, and the reason is obvious: to get you used to not
+doing things you feel compelled to do, _just because you can_.
+
+For many people serious about study of the Baha'i Faith, this becomes
+the dividing line; the signal to themselves that they are
+serious about following the teachings. But many find that the are
+also surprised at the fact they are able to follow the fast for
+all nineteen days, even though they know they could stop at any time.
+
+So if you're serious about exercising your self-restraint, it's worth
+thinking about this Baha'i teaching.
+
+### Self-Mastery of Material Means
+
+One thing Baha'is do is tithe. Or rather, they pay something called
+The Huquq'u'llah (the Right of God). This is expected, but is done 
+entirely voluntary; no one can ask you to pay, and you must offer it
+voluntarily. But that isn't terribly special.
+
+Except for the way it's calculated. It is calculated as a percentage
+of your income _after one deducts all necessary expenses_, including
+things such as household furnishings, tools for one's profession, and
+whatever else you may consider yourself necessary.
+
+The result is you must review how you are spending your money. And
+this review can be eye-opening.
+
+* You may find that you are financially overcommitted and, indeed,
+have no wealth on which Huquq'u'llah is payable.
+
+* You may find that while your necessary expenses are sizable, the
+are manageable, and it is relatively easy to pay Huquq'u'llah on
+the rest.
+
+* But for everyone else - you're going to find that you have a
+lot of unnecessary expenses; so much so, that if you found you had
+to pay a levy on them, it might be a little painful.
+
+The purpose of this section is not to talk about how great contributing
+is. If you have no religion, you incur no obligation to give, period.
+And this is not the point.
+
+The point is, _the mere act of examining your expenses_ is a significant
+one, and very helpful to both your self-mastry and your own ability
+to provide for yourself and whoever else you may wish to support.
 
 
 ### Your Life and Life-Stages
 
+This gets to another important but subtle point.
 
+Why do you need self-control? So you can control your life. So that
+you can live for something.
 
+If your goal is to lead a life in the emulation of great humanitarians
+that dedicate your life to noble causes, forgoing family and home in
+service to a noble cause, great! Go have fun.
+
+I'm not going to make the mistake of asking you to do that though.
+
+One problem with the sort of inspirational and hagoigraphic literature
+that litter both religous and idealistic causes is the concept of the
+single-minded servant of the cause, dedicating every waking moment
+to serving others and making a difference on the grandest canvas.
+Without, of course, ever doing this in a vainglorious, ego-driven
+manner of course.
+
+If you have this sort of mission, you will certainly need an iron
+self-control. But it's unrealistic to expect everyone will. And
+realistically, society would be horrible if that was the mass of
+people.
+
+Why? If everyone was like this, who would do the urgent work of
+society? Would such people have time to marry? Certainly, the most
+single-minded and idealistic sometimes have trouble dedicating the
+committment and energy needed to both their cause and their partner.
+And who will have children? And raise them? If you're lucky, perhaps
+you'll find a dutiful spouse that will raise your children and run
+your household while you're off saving the world.
+
+For most of us, you will instead have three life stages.
+
+1. Independence (Trade or Profession)
+
+2. Marriage
+
+3. Childrearing
+
+In the Baha'i Faith, all of these are normative, and one of them,
+engagement in a trade or profession, is required.
+
+If you aspire to any level of self-mastery, it's probably a given that
+you have the first one under your belt, or at least are working toward
+that. This book will help you. And in fact, a lot of other books will help
+you. Books that will help you conquer your weaknesses, act as a professional
+and an independent person, become a citizen of the world, everything.
+
+Once you've finished, you're somehow supposed to take your then overfull
+life and force in marriage and kids in your spare time, as if it's just one
+other item in your checklist. Having trouble with those? Go buy another
+self-help book.
+
+If you truly want to give yourself over to a cause, and don't mind forgoing
+marriage or children, then you can live life that way. In which case, the
+cause you are following must truly be a life-defining passion.
+
+For most of you, though, you'll need to fit in all of these things. That
+means balance. If you want to give yourself over to service but also have
+a domestic life and the time to raise children, then your work and career
+will have to be in accord with this. You won't have "spare time" to do this.
+There's a reason so many people have dreams of following their passion, or
+giving themselves over to volunteer work - once you get married and start
+having children, you will have little time and energy for such things. Even
+if you're a "stay at home Mom" (or Dad), you will have to balance these
+elements.
+
+What is the point here? The point is that you need to confront this reality
+head on. You cannot "have it all," if having it all means time to excel in
+your career, 
 
 
 ## Globalism
 
+If there's one thing Baha'i beliefs are known for, it's globalism.
 
+Part of this is simply accidental; many small religious movements are
+global simply as an expedience - local communities are simply too
+small to generate a critical mass of contacts. Should you go to a
+Jehovah's convention, Seventh-Day Adventist or Scientology conclave,
+you'll hear about communities from around the world. 
+
+But for the Baha'i faith, globalism is wired into the very character of
+the religion itself:
+
+>  Let your vision be world-embracing, rather than confined to your own self.
+>         (Baha'u'llah, Gleanings from the Writings of Baha'u'llah, p. 94)
+
+To be a Baha'i is to consider oneself as a citizen of the world, first and
+foremost.
+
+>  Glory not in love for your country, but in love for all mankind.
+>       (Baha'u'llah, Tablets of Baha'u'llah, p. 138)
+
+>  Of old it hath been revealed: 'Love of one's country is an element of the 
+>  Faith of God.' The Tongue of Grandeur hath, however, in the day of His 
+>  manifestation proclaimed: 'It is not his to boast who loveth his country, 
+>  but it is his  88  who loveth the world.'
+>       (Baha'u'llah, Tablets of Baha'u'llah, p. 87)
+
+Nationalism is noted as the main cause of war, which the Baha'i Faith is
+opposed to in all its forms:
+
+>  ... selfish souls, for the promotion of their own interests, have assigned 
+>  boundaries and outlets and have, day by day, attached more importance to 
+>  these, until this led to intense enmity, bloodshed and rapacity in subsequent 
+>  centuries. In the same way this will continue indefinitely, and if this 
+>  conception of patriotism remains limited within a certain circle, it will be 
+>  the primary cause of the world's destruction. No wise and just person will 
+>  acknowledge these imaginary distinctions.
+>       (Abdu'l-Baha, Selections from the Writings of Abdu'l-Baha, p. 300)
+
+>  Consider the prejudice of patriotism. This is one globe, one land, one 
+>  country. God did not divide it into national boundaries. He created all the 
+>  continents without national divisions. Why should we make such division ourselves? 
+>  These are but imaginary lines and boundaries.
+>       (Abdu'l-Baha, The Promulgation of Universal Peace, p. 299)
+
+
+The Baha'i leader Shoghi Effendi
+easily foresaw the problems nationalism posed at the eve of the second world war:
+
+>  The chief idols in the desecrated temple of mankind are none other than the 
+>  triple gods of Nationalism, Racialism and Communism, at whose altars governments 
+>  and peoples, whether democratic or totalitarian, at peace or at war, of the East 
+>  or of the West, Christian or Islamic, are, in various forms and in different 
+>  degrees, now worshiping. Their high priests are the politicians and the 
+>  worldly-wise, the so-called sages of the age; their sacrifice, the flesh and 
+>  blood of the slaughtered multitudes; their incantations outworn shibboleths and 
+>  insidious and irreverent formulas; their incense, the smoke of anguish that 
+>  ascends from the lacerated hearts of the bereaved, the maimed, and the homeless.
+>
+>  The theories and policies, so unsound, so pernicious, which deify the state 
+>  and exalt the nation above mankind, which seek to subordinate the sister races 
+>  of the world to one single race, which discriminate between the black and the 
+>  white, and which tolerate the dominance of one privileged class over all 
+>  others -- these are the dark, the false, and crooked doctrines for which any 
+>  man or people who believes in them, or acts upon them, must, sooner or later, 
+>  incur the wrath and chastisement of God.
+>
+>                (Shoghi Effendi, The Promised Day is Come, p. 113)
+
+Recent Baha'i writings are unsparing in their assessment of nationalistic movements:
+
+So much for what it teaches. The question is - how does it help you? What do are
+_you_ going to do about it?
+
+This is where the globalist attitude inculcated by the Baha'i Faith is evident.
+
+The purpose of globalism is not to nullify patriotism. It is to separate and
+distinguish patriotism from nationalism. They are often viewed as two sides of
+the same coin. They are not.
+
+>  [The Baha'i teachings] should not, indeed it cannot, be construed as a 
+>  repudiation, or regarded in the light of a censure, pronounced against a sane 
+>  and intelligent patriotism, nor does it seek to undermine the allegiance and 
+>  loyalty of any individual to his country, nor does it conflict with the 
+>  legitimate aspirations, rights, and duties of any individual state or nation. 
+>  All it does imply and proclaim is the insufficiency of patriotism, in view of 
+>  the fundamental changes effected in the economic life of society and the 
+>  interdependence of the nations, and as the consequence of the contraction of 
+>  the world, through the revolution in the means of transportation and 
+>  communication  -- conditions that did not and could not exist either in the 
+>  days of Jesus Christ or of Muhammad. It calls for a wider loyalty, which 
+>  should not, and indeed does not, conflict with lesser loyalties.
+>       (Shoghi Effendi, The Promised Day is Come, p. 122)
+
+One of the more distinctive forms of Baha'i universalism is its insistence upon
+everyone learning a universal auxiliary language:
+
+>  It is incumbent upon all nations to appoint some men of understanding and 
+>  erudition to convene a gathering and  166  through joint consultation choose 
+>  one language from among the varied existing languages, or create a new one, 
+>  to be taught to the children in all the schools of the world.
+>
+>  The day is approaching when all the peoples of the world will have adopted 
+>  one universal language and one common script. When this is achieved, to 
+>  whatsoever city a man may journey, it shall be as if he were entering his own 
+>  home. These things are obligatory and absolutely essential.
+>                 (Baha'u'llah, Tablets of Baha'u'llah, p. 165)
+
+
+Baha'u'llah did not insist on a choice of auxiliary language, instead recommending
+that the leaders of the world gather together to select a common language and
+script. Something that has worked out about as well as he no doubt imagined it
+would. This was not for lack of effort; in the twentieth century, many Baha'is
+were avid Esperantists, and Lydia Zamenhof, a daughter of the inventor of
+Esperanto, was a prominent early Baha'i.
+
+But oddly, it seems that there is one language, with little in common with
+Esperanto, that has stepped in
+to fill the gap. This language is learned by virtually all of the economic elites
+throughout the world. I will not say what it is, because it will horrify all
+of the globalists out there. I'll just say that it's probably the dominant
+"pop culture" language, and it isn't French, and it isn't Mandarin
+Chinese, and it isn't Korean, and it isn't Esperanto, and.... well, you get the
+picture. If you're a middle American who thought it wasn't worth your while to
+learn another language, well... guess what?
+
+(And yes, the primary language used by the Baha'i authorities in nearly all of
+their communications outside of the Baha'i homeplaces is English.)
+
+But if you're an idealist who still wants to contribute to globalism, there are
+plenty of jobs for native English speakers teaching other people colloquial
+English. Meanwhile if you're looking to learn a language to help communicate
+with people around the world - it may be a more effective use of your time to
+simply learn how to communicate a few grade levels down, for all the people
+who speak "just a little English." (I'm personally horrible at this.)
+
+The underlying impetus for this universalism leads Baha'is to _actually look
+forward_ to a day where some form of federal superstate is able to regulate
+the abuses of unfettered nationalism.
+
+>  What else could these weighty words signify if they did not point to the 
+>  inevitable curtailment of unfettered national sovereignty as an indispensable 
+>  preliminary to the formation of the future Commonwealth of all the nations 
+>  of the world? Some form of a world super-state must needs be evolved, in 
+>  whose favor all the nations of the world will have willingly ceded every claim 
+>  to make war, certain rights to impose taxation and all rights to maintain 
+>  armaments, except for purposes of maintaining internal order within their 
+>  respective dominions. Such a state will have to include within its orbit 
+>  an international executive adequate to enforce supreme and unchallengeable 
+>  authority on every recalcitrant member of the commonwealth; a world 
+>  parliament whose members shall be elected by the people in their respective 
+>  countries and whose election shall be confirmed by their respective governments; 
+>  and a supreme tribunal whose judgment will have a binding effect even in 
+>  such cases where the parties concerned did not voluntarily agree to submit 
+>  their case to its consideration. A world community in which all economic barriers 
+>  will have been permanently demolished and the interdependence of Capital and 
+>  Labor definitely recognized; in which the clamor of religious fanaticism and 
+>  strife will have been forever stilled; in which the flame of racial animosity 
+>  will have been finally extinguished; in which a single code of international 
+>  law -- the product of the considered judgment of the world's federated 
+>  representatives -- shall have as its sanction the instant and coercive 
+>  intervention of the combined forces of the federated units; and finally a 
+>  world community in which the fury of a capricious and militant nationalism 
+>  will have been transmuted into an abiding consciousness of world citizenship -- 
+>  such indeed, appears, in its broadest outline, the Order anticipated by 
+>  Bahá'u'lláh, an Order that shall come to be regarded as the fairest fruit 
+>  of a slowly maturing age.
+>        (Shoghi Effendi, The World Order of Baha'u'llah, p. 40)
+
+Oh, and there's plenty more like that.
+
+>  A mechanism of world inter-communication will be devised, embracing the whole 
+>  planet, freed from national hinderances and restrictions, and functioning with 
+>  marvellous swiftness and perfect regularity. A world metropolis will act as 
+>  the nerve centre of a world civilization, the focus towards which the unifying 
+>  forces of life will converge and from which its energizing influences will 
+>  radiate. A world language will either be invented or chosen from among the 
+>  existing languages and will be taught in the schools of all the federated 
+>  nations as an auxiliary to their mother tongue. A world script, a world 
+>  literature, a uniform and universal system of currency, of weights and 
+>  measures, will simplify and facilitate intercourse and understanding among the 
+>  nations and races of mankind. In such a world society, science and religion, 
+>  the two most potent forces in human life, will be reconciled, will co-operate, 
+>  and will harmoniously develop. The press will, under such a system, while 
+>  giving full scope to the expression of the diversified views and convictions 
+>  of mankind, cease to be mischievously manipulated by vested interests, whether 
+>  private or public, and will be liberated from the influence of contending 
+>  governments and peoples.
+>         (Baha'u'llah, The Proclamation of Baha'u'llah, p. xi)
+
+Yes, Baha'is actually beliee that. Baha'is have backed the aims of the United Nations
+during its first initial idealistic years, and continue to work with it even
+as the problems inherent in its structure and the corruption of its mandate
+by member states have become all too clear. To Baha'is, global thinking is a
+moral imperative, and fears borne of conspiracy theorizing are simply too
+far removed to prevent positive action involving international cooperation.
+
+Underlying all of this is a unifying moral imperative - to treat all the
+members of the world as members of the same family deserving respect.
 
 ## Special USA Mandate: Antiracism
 
-## Afterward: On the Limits of Individual Effort
+There is one peculiar mandate that is particularly peculiar to the American
+Baha'i community. For this, you have to credit the aftereffects of our
+own "peculiar institution" - slavery.
 
-## Conclusion
+Yes, you can pull all sorts of studies out and say "this is natural, people
+refer to the own kind blah blah." But. Only in America did we have a
+form of chattel slavery that allowed the selling of children as if they
+were cattle to perpetuate the institution. Only in America did we have
+the infamous Dredd Scott decision, in which it was declared that black
+people were incapable of being true citizens. Only in America did we
+inclulcate racist theories to children to ensure continued support for
+an institution that plainly ran counter to obvious notions of fairness.
+And only here did we allow our religious institutions to become so
+bastardized in support of this cause in order to support it.
+
+Baha'is generally don't talk about rectification or recourse for justice;
+our concern is the after-effects of the racist beliefs that have been perpetuated
+throughout the culture.
+
+When Abdu'l-Baha visited America for 239 days in 1912, just years before 
+World War I, the elimination of racism and prejudice was a particular concern
+to him. This was a fairly unusual position at the time, and the historical
+record is pretty clear about this; his visit was notable enough to have
+stories written about him in all the papers of reord.
+
+Our purpose here isn't to thump our chest; a sizeable minority of Christians at the
+time felt the same way (though they were generally shouted down by
+their less enlightened fellow believers). In fact, one reason Abdu'l-Baha
+was so strenouous in this insistence was to ensure the very young
+Baha'i community did not adopt the racist outlook that was endemic
+throughout America at the time.
+
+Many Baha'i communities eagerly took up the cause, but there were
+holdouts. In Washington D.C., the community continued to have segregated
+meetings, using the weak-tea excuse "our fellow American's just aren't ready."
+
+
+
+
+## On the Limits of Individual Effort
+
+## Conclusion (A Half-Hearted Heritage)
+
+I've spent some time going over many things that will help you in
+your life. Hopefully some will make you rethink many of the things
+you do in your life. They may even bring you happiness, though
+contentment is probably better.
+
+However, if this is where you feel you can stop and end your
+studies completely, I have failed in my duty as a writer. This is
+not the end; this is only a beginning. And any self-help book that
+promises to revolutionize your life simply through reading it is
+not really helping you.
+
+The book is aimed at those of you who really don't want the "religion"
+stuff and the "G*d" stuff so I have. Like many Buddhist popularizers,
+I'm trying to show you the essense of "what Baha'i does" without
+teaching you the religious core off the Baha'i Faith.
+
+But a practitioner of meditation, if they are serious, eventually
+delves into the spiritual teachings that are the underpinning of this
+thought. And I'm hoping you, after reading this book, become curious
+about the spiritual underpinnings of these practices.
+
+
+
+
+
+
+>  There are some who imagine that an innate sense of human dignity 
+>  will prevent man from committing evil actions and insure his spiritual 
+>  and material perfection. That is, that an individual who is characterized 
+>  with natural intelligence, high resolve, and a driving zeal, will, 
+>  without any consideration for the severe punishments consequent on evil 
+>  acts, or for the great rewards of righteousness, instinctively refrain 
+>  from inflicting harm on his fellow men and will hunger and thirst to 
+>  do good. And yet, if we ponder the lessons of history it will become 
+>  evident that this very sense of honor and dignity is itself one of 
+>  the bounties deriving from the instructions of the Prophets of God. 
+>  We also observe in infants the signs of aggression and lawlessness, 
+>  and that if a child is deprived of a teacher's instructions his 
+>  undesirable qualities increase from one moment to the next. It is 
+>  therefore clear that the emergence of this natural sense of human 
+>  dignity and honor is the result of education. Secondly, even if we 
+>  grant for the sake of the argument that instinctive intelligence 
+>  and an innate moral quality would prevent wrongdoing, it is obvious 
+>  that individuals so characterized are as rare as the philosopher's 
+>  stone. An assumption of this sort cannot be validated by mere words, 
+>  it must be supported by the facts. Let us see what power in creation 
+>  impels the masses toward righteous aims and deeds!
+>        (Abdu'l-Baha, The Secret of Divine Civilization, p. 96)
+
+
 
 # NOTES AND APPENDICES
 
 ## NOTES
 
-(1) It is not correct to think of Baha'is as pacifist, or even strictly
-nonviolent.
+(1) Because the Baha'i Faith is known in some circles strictly for its
+nonviolence, it is important to note something. It is not correct to 
+think of Baha'is as pacifist, or even strictly nonviolent.
 
 > It is true that Bahá'ís are not pacifists since we uphold the use of 
 > force in the service of justice and upholding law. But we do not 
@@ -1003,7 +1669,7 @@ nonviolent.
 > essential purposes and brightest promises of Bahá'u'lláh's revelation.
 >       (From a letter written on behalf of the Universal House of Justice, 1984)
 
-In our own lives, however, it presumes the foreswearing of violence
+Still, being a practicing Baha'i presumes the foreswearing of violence
 in our own lives. But there are caveats. Actual teachings are more balanced,
 as pointed out in a 1969 letter from the Universal House of Justice to the
 Canadian community:
@@ -1034,14 +1700,16 @@ physical injury or further injustice.
 (2) Note that I said "almost." You will engage in struggles where there
 actuall is conflict, where it really does matter. The key is to recognize
 that these are very few in number. When people say "pick your battles,"
-it's someone telling you not to pick unwinnable fights. Instead, perhaps
+it's someone telling you not to pick unwinnable fights. Instead of doing
+that, perhaps it is better to
 realize that there are actually very few battles to be recognized as such. 
+That will leave your energy for those that must be fought, winnable or not.
 
 (3) Baha'is may point out that consultation takes place among large bodies
 in the Baha'i Faith all the time, particularly in feasts at large localities
 and regional conferences.
 While this is true, it is _technically_ not consultation in the sense I
-am describing as a mechanism for decision making. The purpose of
+am describing as a mechanism for decision making. Usually the purpose of
 discussions in these large congregations is _not_ to make final decisions, 
 but instead to forward 
 recommendations to other smaller deliberative bodies for their
@@ -1066,7 +1734,7 @@ the Kitab-i-Aqdas:
 
 (4) The phrase is Alla'u'Abha, an Arabic phrase which means "God is most
 Glorious." Compare that with the Arab greeting Alla'u'Akbar - God is great.
-Sometimes Baha'is even greet each other with Alla'u'Abha in meetings
+Frequently, Baha'is greet each other with "Alla'u'Abha" in meetings
 where only Baha'is are present.
 
 (5) These issues can pose problems even for dedicated Baha'is. In some cases,
@@ -1098,6 +1766,24 @@ was addressed by the Baha'i supreme governing body thusly:
 
 (6) Yoda, of course.
 
+(7) The actual language fixing the calendar days of the fast is:
+
+> The period of fasting commences with the
+> termination of the Intercalary Days, and ends
+> with the Naw-Ruz Festival.
+
+Explaining the above would require an explanation of those two feasts, and
+Google will serve for the curious. If you know some Iranians, then
+yes, this is tne same Naw-Ruz that Iranians celebrate as their New Year; it's
+usually spelled something like Nowruz in English, and it always falls on
+the first day of spring. Baha'u'llah was born in Iran and he appropriated
+the Iranian holiday, which is the big commercial holiday, much like Christmas
+is here in America.
+
 ## Appendix A: The Baha'i Laws and Baha'i Faith
+
+
+
+
 
 ## Appendix B: The Four Valleys

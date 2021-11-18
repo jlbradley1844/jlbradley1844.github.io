@@ -59,14 +59,16 @@ remain silent. But there are a few substantial omissions in
 discourse.
 
 One rather reasonable point of view is that it is simply _too
-difficult_ to have children - or at least, a large family that one
+costly_ to have children - or at least, a large family that one
 might desire. To this end, they argue for social programs to assist
-with this need. Whatever one may think of this approach, the main
+help defray expensive such as childcare. Whatever one may think of 
+this approach, the main
 problem I think everyone can agree on is _cost_. Subsidizing child
 care is needed by many becuase it _is expensive_. Shifting this
 burden to local or national goverments will not make it any less
 expensive. While I personally think it's worth the expense, many
-will disagree. A more important point is that this generally does
+will disagree. A more important point is that this has already been
+tried in other contries - with success! - but it still does
 not raise birth rates by more than a few tenths of a point. France's
 generous benefits have allowed it to be practically the only country
 in Europe with a birth rate above the replacement rate, but at
@@ -155,18 +157,27 @@ meeting even these modest requirements, so either consider themselves
 unready for marriage or are considered unmarriageable by potential partners.
 
 The Baha'i Faith believes that the widening gap between poor and wealthy 
-people is a serious problem.
+people is a serious problem. But also the problem is the attitude that
+marriage is reserved for "society's winners": those with not just a job,
+but a well-paying job, and a high-status one, not the jobs held by the
+sort of "necessary workers" that kept us afloat during the pandemic by doing
+jobs nobody else wants; the job that lets everyone know "you're successful
+and will remain so." As Shoghi Effendi's secretary once wrote on his
+behalf:
 
-
+>  [Young Baha'is]... should be advised, nay even encouraged, to contract 
+>  marriage while still young and in full possession of their physical vigour.
+>  Economic factors, no doubt, are often a serious hindrance to early 
+>  marriage, but in most cases are only an excuse, and as such should not 
+>  be overstressed.
 
 Want more families? Allow people to form families. It's as simple as that.
-
 
 Now let's look at two of the reasons given by women as to why
 they can't have the families they want:
 
-* Getting married later than was desired
 * Difficulty finding a suitable marriage partner.
+* Getting married later than was desired
 
 These seem like cultural constraints, and given that, it is bewildering
 that cultural critics on various stripes have argued over blaming everything
@@ -177,7 +188,11 @@ omission may be an unfortunate side-effect of the fact that getting to the botto
 of these problems will require changing deep-seated attitudes that all sides
 hold dear for their own reasons.
 
-Let's think of some popular attitudes towards marriage. We'll contrast them
-with certain writings of the Baha'i Faith.
+Let's take the first difficulty first, since it partly explains the second.
+Yes, it is difficult for women to find a suitable marriage partner. It has
+always been this way, and it is wrong to force women into bad marriages, a
+practice that was accepted and excused for eons before. It is also explicitly
+against the Baha'i laws to do so. So the problem is as stated: there are few
+suitable marriage partners.
 
 

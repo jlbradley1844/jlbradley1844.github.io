@@ -64,7 +64,7 @@ The weak defense of this by many believers is that the Christian church is someh
   beliefs that hold the modern medical professions in ill regard, or claim a
   natural history that defies all established knowledge of geography and biology.
 
-* An prevelance of small, underfunded, financially stressed churches, where
+* A prevelance of small, underfunded, financially stressed churches, where
   it is a challenge to keep the lights on, depriving them of the ability to
   carry out works of service that is Jesus' truest witness.
 
@@ -77,8 +77,9 @@ Same as It Ever Was.
 
 However, either due to the current loss in receptivity, or outright frustration,
 there has been a shift in many quarters
-away from evangelism toward outright seizure of political institutions
-by force, even by violence. This process may be new _here_, but it is easily recognizeable
+away from evangelism and instead toward seizure of secular powers in political
+institutions, even by force or violence if required.
+While this may seem novel and disturbing in America, it is easily recognizeable
 to students of history, who will recognize in this the roots of religious violence
 everywhere.
 
@@ -87,7 +88,9 @@ danger this particular strain poses to the American Christian community. Not bei
 Christian, anything I have to offer on the subject is going to be inferior to
 what other faithful Christians already have to say on the subject. This particular
 strain of fanaticism will either be solved by Christian leadership, or wont; if it won't,
-then the Christian church will flounder and perish as it loses those believers more drawn to the message
+then the dominant strain of American christianity will flounder and perish,
+as it slowly loses its most capable and sincere believers, who have alwasy been
+more drawn to the message
 of Jesus than the particular cultural beliefs associated with American White 
 Christianity. Either way, the problem will be solved.
 
@@ -137,8 +140,8 @@ development, and only certain opponents were described as
 fanatical. In this case, the opponents of the Baha'i Faith who held
 power in the clergy *were* fanatical by any fair description;
 obscurantist, anti-science, superstitious and anti-Western (that is,
-in opposition to European enlightenment philosophies, which the noble
-class in Persia were well aware of). To be a clergy was no
+in opposition to European enlightenment philosophies, of which the noble
+class in Persia was actually both aware and fearful). To be a clergy was no
 disqualification from following the Baha'i Faith; indeed, many of the
 first followers of the Babi and Baha'i Faiths were themselves
 clergymen or serious students of Islam.
@@ -239,8 +242,7 @@ The answer is, it depends upon what one does with one's fanatical
 world view. The fanatical behaviors described in the Baha'i are those
 that insist on controlling one's environment, those close to them,
 even to the society as a whole. This is no longer just an excessively
-fearful reaction;
-true fanatics suffer from an excess of pride.
+fearful reaction; what fanatics really suffer from is excessive pride.
 
     The fact that we imagine ourselves to be right and everybody else
     wrong is the greatest of all obstacles in the path towards unity,

@@ -33,7 +33,7 @@ modern ideas. For instance, one particular writer speculated that
 Baha'u'llah, our central figure as someone who came to a decision to
 declare a revelation from God as an expedience to allow him to lead
 the Babi movement to a greater good, rather than due to a sudden
-series of revelations from God. However, the wanted to do this while
+series of revelations from God. However, this person wanted to do this while
 staying identifieed as Baha'is in good standing. For other academics,
 they found the institutions of the Baha'i Faith not to be in
 conformance with the democratic norms of governance they were used to,
@@ -92,11 +92,12 @@ community in the long term. For the most part, Baha'is didn't seem
 that troubled; they knew the Baha'is involved in the administrative
 side, or at least knew people who knew them. After all, the Baha'i
 administrators were usually people well-known within the community who
-had been put there partly due to the fact they were already pillars
+had been put in those positions of authority precisely because 
+they were already well-known pillars
 within the community; they were not some invisible curarae plotting
 behind the scenes to control the Baha'i Faith. My impression is the
 field of Baha'i studies has basically recovered to the state it was
-once in.
+once in, in spite of having entered a dark patch for over a decade.
 
 So an unimportant tale, right? I'll get to it below.
 
@@ -113,15 +114,16 @@ less polished looking ones, mostly Christian in nature, attacking the
 Baha'i faith. And recently, certain "insider" web pages making many of
 these same attacks, without the Chrisitian appeals to doctrine and The
 Bible. In the telling of these websites, "the mask is now off," and
-the academic brew-ha-ha in the nineties was the precipitating event of
+the academic brouhaha in the nineties was the precipitating event of
 a collapse of the entire movement.
 
 Is there a crisis? Hardly. But it is worth noting that the current
-membership situation is test to some of the weaker Baha'is. Since the
+membership situation is a test to some of the weaker Baha'is. Since the
 mid-nineties, the Baha'i Faith has settled into a sort of static
 steady-state with regard to membership in the US and Europe. The
 result has been a set of plans that has greatly expanded both growth
-and maturity in the civilized world, while barely moving the needle in
+and maturity of the membership in the developing world, 
+while barely moving the needle in
 places like the US. Baha'is tend to come up with all sorts of fanciful
 explanations for these things, but the actual explanation is as simple
 as it is boring: the Baby Boomers, when they came of age, simply
@@ -131,12 +133,13 @@ Chinmoy followers, Nichiren Buddhists, EST adherents, and a variety of
 other lesser-known spiritualists causes and quasi-cults. For all of
 the new religious movements, the result was a bonanza of new
 believers. The Baha'i Faith, in maintaining reasonably static
-membership since these glory days, has actually managed quite a feat
-compared to both the other new religious movements and mainline
-Protestant churches. The stall in growth has, however, posed a
+membership since these glory days, has actually managed to pull
+of quite a feat of staying static, as
+compared to both the other new religious movements and some mainline
+churches. The stall in growth has, however, posed a
 challenge for two decades to many Baha'is used to ever-bigger events
 and yearly growth in the double-digits or high single digits. It has
-post particular problems in areas rural America and the Northeast
+post particular problems in rural America and the Northeast
 where there has been a decline, as a little-c conservatisim in
 religious matters and creeping secularism means even less interest in
 spiritual development than elsewhere in the US.
@@ -260,7 +263,7 @@ lot, particularly if you aren't yet a Christian. Thanks to the low
 cost of living, there are pleny of people whose less-demanding job
 leaves them plenty of time for hobbies, and if you are a religious
 believer who isn't yet Christian, you are an interesting, compelling
-project that is in need of fixing.
+project that is a worthy recipient of their energy and spare time.
 
 As far as their attitude toward the Baha'i Faith, Buddhism, or any
 un-American werdness: in every Christian bookstore is a "comparative
@@ -376,7 +379,7 @@ being discussed in other communities, or that other Baha'i communities
 have not already found effective solutions for. The slackening of
 growth in the community is no more mystefying than the same slackening
 of growth in civic organizations across the country (I'll stick
-obligatory reference to _Bowling Alone_ here). The lack of growth
+an obligatory reference to _Bowling Alone_ here). The lack of growth
 certainly isn't due to underground web pages claiming to tell "the
 real story" about The Faith. My main concern, of course, is that
 others who are less informed about The Baha'i Faith will be misled;

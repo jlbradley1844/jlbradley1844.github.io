@@ -28,7 +28,7 @@ have to confess - I edit away a fair amount of text because when I
 review my writings, some of it comes out sounding Just Frickin'
 Rude. The text may be hilarious (at least, I imagine it as such), but
 I just can't put them out as public postings. It's one thing to be a
-restaurant blogger and write up an 800-page columns ripping up an
+restaurant blogger and write an 800-word column ripping up an
 overpriced restaurant at Times' Square that will make money no matter
 what; it's another to make fun of what someone believes, no matter
 how contrary to established fact.
@@ -37,7 +37,7 @@ Racism is just such a subject. As a white guy, I feel I have some
 responsibility to fix racism in this country, and the most tempting
 way to do this is to heap ridicule on the offendors. Like a lotta
 white guys, when I first saw the videos of the "Unite the Right" rally
-two years ago in Charlotte, where guys in golf club shuts changed
+years ago in Charlotte, where guys in golf club shuts changed
 "Jews will not replace us," I fantasized a robot army of actual
 replacements marching in and violently destroying them. Unfortunately
 while it would be fun to fill up a column full of such observations,
@@ -104,7 +104,7 @@ fact obvious racism is seen as disqualifying. But they will seek to
 justify the same thing.
 
 * First, we must realize that white supremacists constitute a
-  significant chunk of American society. Euphemisms like *racial
+  sizeable minority of American society. Euphemisms like *racial
   resentment* won't cut it; there are white supremacists, there are
   lot of them in the US, and fixing this is going to be a
   problem. Please note, however, that very, very few white
@@ -159,10 +159,10 @@ justify the same thing.
   people_ act. If _those people_ choose to act differently, they can
   be treated the same. Of course, the way _those people_ act is never
   a point of serious discussion; if it were, you can guarantee _those
-  people_ would look entirely like _us people_ (one very specific
-  example: the fact that depressed rural white manufacturing
-  communities show the exact same social pathologies that depressed
-  inner city communities show). No, their understanding of how _those
+  people_ acts seem to be exactly _us people_. To give a very specific
+  example: depressed rural white manufacturing
+  communities now show the exact same social pathologies that depressed
+  inner city communities show. No, their understanding of how _those
   people_ are is taken from their own racist press releases and
   twitter feeds, scare stories from the evening news, fictional mass
   murderers from urban myths and tales of "American carnage" from
@@ -177,9 +177,8 @@ justify the same thing.
   black people in real life can never "cash in" on this ostentible
   equality. If instead of growing up with my white two-parent family
   in Louisville, suppose I instead grew up in Kansas with my single
-  mother, and had also spent several years as a child in
-  Indonesia. Oh, and I had an abseente father who was once a
-  muslim. Would those things make me "culturally black" and so alien
+  white mother, and had an black abseentee father.
+  Would those things make me "culturally black" and so alien
   that I was incapable of fitting in in America?  No, duh, I'd be
   white. But if that's the case, how did certain people come to decide
   [this guy](http://en.wikipedia.com/wiki/Barak_Obama) is not only
