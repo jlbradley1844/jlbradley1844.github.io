@@ -15,10 +15,10 @@ Who are you? Well, given that you're reading long-form blog posts...
 
 There is a particular type of
 personality which is, I would say... well, not un-spiritual, but
-not spiritual in the sense of "in tune with the universe" and
+certainly not spiritual in the sense of "in tune with the universe" and
 "seeking the eternal one" and "following God in all its forms"
 and _Woooooooooo_. They certainly don't enjoy sitting around with
-their thoughts and deeply meditate and roam the astral plains.
+their thoughts and deeply meditating and roaming the astral plains.
 Instead, they view religion and spirituality on entirely pragmatic
 terms. Where religion and spirituality work, it's very selectively.
 And generally it's personal - for them only.
@@ -26,13 +26,17 @@ And generally it's personal - for them only.
 If this clicks for you, then you're who I want to talk to. You don't
 necessarily think of yourself as atheistic, but too much of
 religion is alienating, and spirituality is often too new-agey and
-wooooooo to speak to you. But you might be interested in things
+smelling of humbug to speak to you. But you might be interested in things
 done by religious people - meditation, yoga, retreats, etc.
+And you're definitely interested in becoming a better person,
+improving every year in your outlook, balance, and ability to
+serve others in humanity.
 
 If you then have any use for religion it's self-development. Or more
-to the point:
+to the point, if you have to listen to a spiritual leader, your
+attitude is:
 
-Shut up and tell me what to do
+    Shut up and tell me what to do
 
 You probably aren't waiting for people to give you orders - and
 wouldn't like it if they did! - but you'd appreciate a path that
@@ -47,8 +51,9 @@ Are you like that? I know I am.
 One of the ironies is that for all the talk of each generation being
 less religious than the one before it, there is more than enough
 interest in the
-"deeper" self-help philosophies, if you will, of Bhuddist
-and Stoic thought. Such philosophies don't require you to buy into
+"deeper" self-help philosophies, if you will. Think about the interest
+in Bhuddist thought and the followings in some areas of the
+Stoic philosophy. Such philosophies don't require you to buy into
 a notion of spirit realms you can't see. What they do, instead, is
 to tell you what to do in order to be a "better person." That's
 in quotes because the definition of that is usually up for grabs.
@@ -109,20 +114,23 @@ kill, and that organized religious attack against Bahá'ís should never turn
 into any kind of warfare." (From a 1968 letter.) Physical altercation is
 generally forbidden, and
 there is also a general culture of nonviolence. Hunting among Baha'is is infrequent
-(though not forbidden); it is not usual to find Baha'i families that won't buy
+(though not forbidden). It is not usual to find Baha'i families that won't buy
 toy guns for their kids, shield them from violent media and sanction them for
 getting into unnecessary fights.
 
-There are also a few distinctive religious laws:
+There are also a few distinctive religious laws that put them at the
+fringe of certain parts of American culture:
 
 * Lethal arms may not be kept in the house, except in conditions of social
-  unrest.
+  unrest (America hasn't been in this state since Civil War, regardless of
+  what your cousin in the militia tells you.)
 
 * Baha'i youth are advised to register as conscienscious objectors for
   draft registration, to allow them to be placed in non-combat positions
   should their draft be necessary.
 
-If that were it, though, that would not be terribly distinctive. Plenty of believers
+If that were it, though, that would make our outlook unusual, but far
+from unique. Plenty of believers
 of all Faiths believe in physical nonviolence at its core. Indeed, Baha'i views
 are moderate compared to some creeds. Self-defense is permitted, as is the use
 of physical force to prevent injustice.
@@ -146,10 +154,12 @@ misdeeds to discredit someone, protect oneself or protect another. Outside of
 that, many societies consider
 various sorts of "fibbing" as to be fair game. Even the Baha'i writings give
 indications of times where direct truth is not the wisest course of action.
+But calumny is uniformly condemned as wrong.
 
 However, one lesson of the Baha'i writings is to become much more careful
 with your speech. In effect, refrain from verbal violence as you would physical
-violence.
+violence. There are things that can be just as damaging as calumny in
+certain respects.
 
 Probably the most serious misuses of language in society is backbiting - the
 habit of speaking ill of others who are not present. 
@@ -171,12 +181,13 @@ And it's easy to fall into. Like the air we breathe, it's so pervasive
 that it escapes notice. People think of backbiting as being nasty to a friend
 behind their back, but that's simply one example. Think of half of the
 commentary on social media; ridicule and scorn are commonly heaped on
-all sorts of actors in society. Other ethnicities, religions, political movements,
+all sorts of people in society. Other ethnicities, religions, political movements,
 people residing in other locations, entire populations are regularly
 abused without regard to one's firsthand knowledge of the situation.
 Your entire Facebook feed may consist mostly of backbiting - "viral posts"
 shared among like-minded people trashing others who will never see that
-slander because it won't show up in the feed.
+slander because it won't show up in the feed. Indeed, the ads in your
+feed may very well fit in with the same sorts of slanders.
 
 There are situations where there really is a need to report on the
 ill behavior of others. Backbiting isn't that. Most people can instinctively
@@ -184,10 +195,11 @@ tell the difference. The old advice is the best: if you can't say anything nice,
 don't say anything at all.
 
 "It isn't backbiting if it's the truth" is the common riposte when one
-wants to justify this. Perhaps _you_ think it's the truth. But
+wants to justify backbiting. Perhaps _you_ think it's the truth. But
 are you backbiting because it needs to be said? Or are you just attacking
 a person or a group of people you don't like? Or worse yet, are you trying
-to bond with someone else over shared resentments?
+to bond with someone else over shared resentments, regardless of who else's
+reputation you are trying to trash?
 
 If you're serious about self-improvement, then the
 person you focus on improving should be... yourself. Concerning ourselves
@@ -213,7 +225,8 @@ Other less abusive forms of verbal violence are also to be avoided:
 >   wisdom should primarily speak with words as mild as milk...
 
 
-Less problematic but still an issue is the coarse nature of much communication.
+Less problematic, but still an issue, is the coarse nature of much 
+casual communication nowadays.
 One may avoid ridicule and derision, yet still communicate in a harsh manner.
 Think of why you're speaking. It shouldn't be for simply venting. The Baha'i
 path urges moderation in all things, including tone of speech.
@@ -230,9 +243,10 @@ hear the criticism, but instead react to its emotional content. "This person
 is angry with me." This can provoke a number of reactions, none of which
 address what you'd like to do - address a fault.
 
-If you need to modify this person's behavior, and it is unsafe or unwise to
-confront this directly, and the person you are talking to is in a position
-to do something about it, act like you're giving a police report. State
+If you need to modify someone's behavior, and it is unsafe or unwise to
+confront him or directly, and the person you are talking to is in a position
+to do something about it, the best thing to do is act like you're 
+giving a police report. State
 the actions and what you saw - nothing but the facts. You can give the
 unvarnished truth without using loaded language. Tell only the objective
 truth. Not only does this avoid edging into backbiting, it makes you more
@@ -1428,16 +1442,43 @@ easily foresaw the problems nationalism posed at the eve of the second world war
 >
 >                (Shoghi Effendi, The Promised Day is Come, p. 113)
 
-Recent Baha'i writings are unsparing in their assessment of nationalistic movements:
+Recent Baha'i writings are unsparing in their assessment of nationalistic movements,
+movements which echo altogether too closely certain movements of the early twentieth
+century:
 
-So much for what it teaches. The question is - how does it help you? What do are
+>  Long before it and its leader had been swept into oblivion during the concluding months of the 
+>  second world war, Fascism had become an object of ridicule among the majority of even those who 
+>  had originally supported it. Its significance lies, rather, in the host of 
+>  imitators it spawned and which 
+>  were to proliferate throughout the world like some malignant series of mutations, in the decades 
+>  since then. Fuelled by a manic nationalism, this aberration of the human spirit deified the state, 
+>  discovered everywhere imaginary threats to the national survival of whatever unhappy people it 
+>  had fastened upon, and preached to all who would listen the notion that war has an “ennobling” 
+>  influence on the human soul. The comic opera parade of uniforms, jackboots, banners and trumpets 
+>  usually associated with it should not conceal from a contemporary observer the virulent legacy it 
+>  has left in our own age...
+
+and continuing likewise,
+
+>  Like Fascism, Naziism has left a detritus in 
+>  our own time. In its case, this takes the form of a language and symbols through which fringe 
+>  elements in present-day society, demoralized by the economic and social decay around them and 
+>  made desperate by the absence of solutions, vent their impotent rage on minorities whom they 
+>  blame for their disappointments.
+>                 (_Centry of Light_, on behalf of Universal House of Justice)
+
+So much for what the Baha'i faith teaches and what it condemns. The question is -
+how does it help you? What do are
 _you_ going to do about it?
 
-This is where the globalist attitude inculcated by the Baha'i Faith is evident.
+This is where the globalist attitude inculcated by the Baha'i Faith is helpful.
 
-The purpose of globalism is not to nullify patriotism. It is to separate and
-distinguish patriotism from nationalism. They are often viewed as two sides of
-the same coin. They are not.
+The purpose of globalism is not to nullify patriotism, nor to defeat violent
+nationalistic groups. Its purpose is to separate and
+distinguish a legitimate and salutory patriotism from nationalism. They two
+tendencies are often viewed as two sides of
+the same coin. They are not. Love for one's country is not the same as
+zeal for its unconditioned triumph over others.
 
 >  [The Baha'i teachings] should not, indeed it cannot, be construed as a 
 >  repudiation, or regarded in the light of a censure, pronounced against a sane 
@@ -1475,13 +1516,13 @@ would. This was not for lack of effort; in the twentieth century, many Baha'is
 were avid Esperantists, and Lydia Zamenhof, a daughter of the inventor of
 Esperanto, was a prominent early Baha'i.
 
-But oddly, it seems that there is one language, with little in common with
-Esperanto, that has stepped in
-to fill the gap. This language is learned by virtually all of the economic elites
+Ironically, one language, with little in common with
+Esperanto, currently fills that gap for many
+This language is learned by virtually all of the economic elites
 throughout the world. I will not say what it is, because it will horrify all
 of the globalists out there. I'll just say that it's probably the dominant
 "pop culture" language, and it isn't French, and it isn't Mandarin
-Chinese, and it isn't Korean, and it isn't Esperanto, and.... well, you get the
+Chinese, and it isn't Korean, and.... well, you get the
 picture. If you're a middle American who thought it wasn't worth your while to
 learn another language, well... guess what?
 
@@ -1547,17 +1588,58 @@ Oh, and there's plenty more like that.
 >  of mankind, cease to be mischievously manipulated by vested interests, whether 
 >  private or public, and will be liberated from the influence of contending 
 >  governments and peoples.
->         (Baha'u'llah, The Proclamation of Baha'u'llah, p. xi)
+>         (Shoghi Effendi, The Proclamation of Baha'u'llah, p. xi)
 
-Yes, Baha'is actually beliee that. Baha'is have backed the aims of the United Nations
+Yes, Baha'is actually believe that. Baha'is have backed the aims of the United Nations
 during its first initial idealistic years, and continue to work with it even
 as the problems inherent in its structure and the corruption of its mandate
 by member states have become all too clear. To Baha'is, global thinking is a
 moral imperative, and fears borne of conspiracy theorizing are simply too
-far removed to prevent positive action involving international cooperation.
+far removed to prevent positive action involving international cooperation. To
+this end, Baha'is are told to work for the day where a sort of "World Federation"
+of all nations enforce universal human rights, work together for matters
+common to all (such as pollution control) and prevent the unjust wars of
+corrupt governments against their neighbors and "internal enemies."
 
 Underlying all of this is a unifying moral imperative - to treat all the
-members of the world as members of the same family deserving respect.
+members of the world as members of the same family deserving respect.(8)
+
+And if you want to feel special about America, you can continue to do so; Baha'i
+writings single out America in particular as having a spiritual heritage to defend.
+In 1938 Shoghi Effendi wrote these words, to an America which still proclaimed
+isolationalism:
+
+>  Outmmediate future must, as a result of this steady, this gradual, 
+>  and inevitable absorption in the manifold perplexities and problems 
+>  afflicting humanity, be dark and oppressive for that nation. The 
+>  world-shaking ordeal which Bahá'u'lláh, as quoted in the foregoing 
+>  pages, has so graphically prophesied, may find it swept, to an 
+>  unprecedented degree, into its vortex. Out of it it [America] will 
+>  probably emerge, unlike its reactions to the last world conflict, 
+>  consciously determined to seize its opportunity, to bring the full 
+>  weight of its influence to bear upon the gigantic problems that such 
+>  an ordeal must leave in its wake, and to exorcise forever, in 
+>  conjunction with its sister nations of both the East and the West, 
+>  the greatest curse which, from time immemorial, has afflicted and degraded the human race.
+>
+>  Then, and only then, will the American nation, molded and purified in 
+>  the crucible of a common war, inured to its rigors, and disciplined by 
+>  its lessons, be in a position to raise its voice in the councils of the 
+>  nations, itself lay the cornerstone of a universal and enduring peace, 
+>  proclaim the solidarity, the unity, and maturity of mankind, and assist 
+>  in the establishment of the promised reign of righteousness on earth. 
+>  Then, and only then, will the American nation, while the community of 
+>  the American believers within its heart is consummating its divinely 
+>  appointed mission, be able to fulfill the unspeakably glorious destiny 
+>  ordained for it by the Almighty, and immortally enshrined in the writings 
+>  of 'Abdu'l-Bahá.
+>
+>              (Shoghi Effendi, The Advent of Divine Justice, p. 90)
+
+Universalism is embedded into the fabric of the Baha'i Faith. If you
+want to understand the culture around us, this is the most apparent way
+to start.
+
 
 ## Special USA Mandate: Antiracism
 
@@ -1586,21 +1668,241 @@ to him. This was a fairly unusual position at the time, and the historical
 record is pretty clear about this; his visit was notable enough to have
 stories written about him in all the papers of reord.
 
+The public record on this is clear - Abdu'l-Baha made an obvious point to
+integrate his gatherings wherever possible. In many cases where it was
+considered as breaking decorum to simply have black people in attendance, he was
+careful to have blacks there and point out that they had no less right to attend
+than the white people in attendance, believers or not. 
+
+
+
+
 Our purpose here isn't to thump our chest; a sizeable minority of Christians at the
 time felt the same way (though they were generally shouted down by
 their less enlightened fellow believers). In fact, one reason Abdu'l-Baha
 was so strenouous in this insistence was to ensure the very young
 Baha'i community did not adopt the racist outlook that was endemic
 throughout America at the time.
-
 Many Baha'i communities eagerly took up the cause, but there were
-holdouts. In Washington D.C., the community continued to have segregated
-meetings, using the weak-tea excuse "our fellow American's just aren't ready."
+holdouts. One promenent mid-Atlantic community continued to have segregated
+meetings, using the weak-tea excuse along the lines of
+"our fellow American's just aren't ready."
+Fortunately, by the late twenties this had become an uncommon exception; most Baha'i communities
+proudly held interracial meetings, sometimes to the consternation of some of
+the other citizens in their communities.
 
+In a book-length 1938 letter to the American community, the Baha'i
+supreme authority Shoghi Effendi outlined the steps that both whites and
+blacks must take to effect racial unity in America. His concern was primarily
+an American Baha'i community, parts of which were yet to rall to this message:
+ 
+>   As to racial prejudice, the corrosion of which, for well-nigh a century, 
+>   has bitten into the fiber, and attacked the whole social structure of 
+>   American society, it should be regarded as constituting the most vital 
+>   and challenging issue confronting the Bahá'í community at the present 
+>   stage of its evolution. The ceaseless exertions which this issue of 
+>   paramount importance calls for, the sacrifices it must impose, the 
+>   care and vigilance it demands, the moral courage and fortitude it 
+>   requires, the tact and sympathy it necessitates, invest this problem, 
+>   which the American believers are still far from having satisfactorily 
+>   resolved, with an urgency and importance that cannot be overestimated.
+>            (Shoghi Effendi, The Advent of Divine Justice, p. 33)
 
+Nor was he particularly concerned about reverse discrimination becoming a
+problem:
 
+>  If any discrimination is at all to be tolerated, it should be a 
+>  discrimination not against, but rather in favor of the minority, 
+>  be it racial or otherwise. Unlike the nations and peoples of the 
+>  earth, be they of the East or of the West, democratic or authoritarian, 
+>  communist or capitalist, whether belonging to the Old World or the 
+>  New, who either ignore, trample upon, or extirpate, the racial, 
+>  religious, or political minorities within the sphere of their 
+>  jurisdiction, every organized community enlisted under the banner of 
+>  Bahá'u'lláh should feel it to be its first and inescapable obligation 
+>  to nurture, encourage, and safeguard every minority belonging to any 
+>  faith, race, class, or nation within it. So great and vital is 
+>  this principle that in such circumstances, as when an equal number 
+>  of ballots have been cast in an election, or where the qualifications 
+>  for any office are balanced as between the various races, faiths 
+>  or nationalities within the community, priority should unhesitatingly 
+>  be accorded the party representing the minority, and this for no 
+>  other reason except to stimulate and encourage it, and afford it an 
+>  opportunity to further the interests of the community.
+>              (Shoghi Effendi, The Advent of Divine Justice, p. 35)
+
+So much for color-blindness as being the solution to racial prejudice!!
+
+As for overcoming prejudice, note that the directions
+given to the two races differ:
+
+>  Let the white make a supreme effort in their resolve to contribute 
+>  their share to the solution of this problem, to abandon once for 
+>  all their usually inherent and at times subconscious sense of 
+>  superiority, to correct their tendency towards revealing a 
+>  patronizing attitude towards the members of the other race, to 
+>  persuade them through their intimate, spontaneous and informal 
+>  association with them of the genuineness of their friendship 
+>  and the sincerity of their intentions, and to master their impatience 
+>  of any lack of responsiveness on the part of a people who have 
+>  received, for so long a period, such grievous and slow-healing 
+>  wounds. 
+
+>  Let the Negroes, through a corresponding effort on their part, 
+>  show by every means in their power the warmth of their response, 
+>  their readiness to forget the past, and their ability to wipe 
+>  out every trace of suspicion that may still linger in their hearts 
+>  and minds. 
+
+>  Let neither think that the solution of so vast a problem is a 
+>  matter that exclusively concerns the other. Let neither think that 
+>  such a problem can either easily or immediately be resolved. Let 
+>  neither think that they can wait confidently for the solution of 
+>  this problem until the initiative has been taken, and the favorable 
+>  circumstances created, by agencies that stand outside the orbit of 
+>  their Faith. Let neither think that anything short of genuine love, 
+>  extreme patience, true humility, consummate tact, sound initiative, 
+>  mature wisdom, and deliberate, persistent, and prayerful effort, 
+>  can succeed in blotting out the stain which this patent evil has 
+>  left on the fair name of their common country. Let them rather 
+>  believe, and be firmly convinced, that on their mutual understanding, 
+>  their amity, and sustained cooperation, must depend, more than on 
+>  any other force or organization operating outside the circle of 
+>  their Faith, the deflection of that dangerous course so greatly 
+>  feared by 'Abdu'l-Bahá, and the materialization of the hopes He 
+>  cherished for their joint contribution to the fulfillment of that 
+>  country's glorious destiny.
+>             (Shoghi Effendi, The Advent of Divine Justice, p. 40)
+
+Sorry for the lengthy quote. But the entire attitude of the American
+Baha'i community traces its antiracism efforts back to this letter,
+and even further back, to the example his grandfather Abdu'l-Baha set
+upon landing on these shores in America.
+
+The most active Baha'is can quote part of the above quotes from memory,
+particularly those applying to them. And as America has become more
+diverse, the formulation has become more complex. What if you're
+hispanic or asian? What if you're a multiracial that passes for white?
+At the very least, even if you're an immigrant from a country some
+Americans don't like, with a complection some Americans don't like,
+you need to be able to navigate this and assist in this effort, even
+if you aren't identified as black and are being addressed as if
+you should adopt unhelthy attitudes towards the black community in
+order to fit in. For example, think of the Asian immigrants who take
+pride in their stereotype as a 'model minority', not knowing the whole
+concept was brought into being simply as a way of making black
+communities look bad in comparison.
+
+Lest you are a white person and believe the above advice does not
+apply to you, think again. You believe you are not racist; you don't
+think you have a paternalistic attitude; you don't have a subconscious
+sense of superiority. And you're friendly to all black people, just as
+for all white people. But do you and your friends engage in discussions
+about "inner city blacks," as if it's a problem for you and your favorite
+politicians to fix? Do you listen to talking heads on YouTube and Facebook
+who talk about
+problems of "inner city black culture"? About the problems of "black on
+black" violence? On how blacks should "pull themselves up by their
+bootstraps"? If you do, then you're practically wallowing in media aimed at
+making you more paternalistic and superior. One of the first things
+you can do around white people to fix racism is to detect this
+rampant concern trolling for exactly what it is.
+
+Baha'is view everyone as having an important part in the reduction
+of racism in America - particularly the advantaged. The goal isn't
+to seem as "woke" - though honestly, do you know a single person
+who actually says something so he looks "woke"? Like, a real person you
+know, not a vapid stock character in a sitcom or reality show or an unlikeable
+foil in a movie? The goal is simply to be decent, and fix a longstanding
+problem in American society.
 
 ## On the Limits of Individual Effort
+
+I've outlined a number of beliefs and practices I believe are
+distinctly "Baha'i", when taken together as a whole. If you're
+reading this book, and you've been inspired to learn more and practice
+these in your daily life, you'll not only be happier, but you'll
+understand how doing so helps make the world a better place.
+
+If you're reading this book, there is one thing you must keep in mind.
+You can live a flawless, blameless life, the sort that everyone looks
+up to and influences scores. But even doing so requires a certain amount
+of detachment from results.
+
+The Baha'i writings are clear: you are responsible for your own moral
+development, and "fixing" the rest of humanity, is not your job. It
+is your duty to "teach" the Faith - that is to say, to present your
+ideals to others in as dignified and appealing a manner as possible.
+These are things that bring joy and happiness to you; why not share them
+with others?
+
+But it is not your duty to force others into compliance:
+
+>  For the faith of no man can be conditioned by any one except himself.
+>         (Baha'u'llah, Gleanings from the Writings of Baha'u'llah, p. 143)
+
+The Baha'i writings are clear about this. You may not pressure anyone
+into changing their views; freedom of conscience is paramount As Baha'is
+we _must_ present these ideals to the world in the hopes of influence
+and wider adoption; we _must not_ seek to press on the unwilling.
+
+The Baha'i writings and Baha'i practices primarily influence ourselves, and
+only secondarily others we come in contact with and society.
+
+This means that values we adopt as a result of studying the Baha'i writings
+are primarily a benifit for ourselves. We also believe that by doing so,
+you become a better person and make the world better. As scores of people
+do so, it compounds little by little. Moreover, many like-minded individuals
+can work together. Using the methods of consultation and small-scale community
+development, you can make positive developments at a small scale. Slowly
+over time, the community transforms into a better place. Better yet, such
+changes are more organic, with "roots" that are not easily swept away.
+
+However, that may present a problem to you. If you are an idealistic
+person, you may want to "change the world." And this does not seem like
+a framework for "change the world."
+
+
+One of the particular ironies of this present day is the globalism
+and universalism called for by by the Baha'i writings, as practiced by
+_individuals_, has not been as beneficial in practice
+when this same quality is applied to societies. Critics of globalism
+should be careful to make this important distinction. It is possible to
+be globalist and universalist in outlook, and yet also regard the critics
+of "globalism" as it is currently embodied as having a point. On the
+opening of the twenty-first century, the Universal House of Justice
+wrote as follows:
+
+>  In the perspective of Bahá’u’lláh’s teachings, the greatest danger of both the moral crisis and the 
+>  inequities associated with globalization in its current form is an entrenched philosophical attitude 
+>  that seeks to justify and excuse these failures. The overthrow of the twentieth century’s totalitarian 
+>  systems has not meant the end of ideology. On the contrary. There has not been a society in the 
+>  history of the world, no matter how pragmatic, experimentalist and multi-form it may have been, 
+>  that did not derive its thrust from some foundational interpretation of reality. Such a system of 
+>  thought reigns today virtually unchallenged across the planet, under the nominal designation 
+>  “Western civilization”. Philosophically and politically, it presents itself as a kind of liberal relativism; 
+>  economically and socially, as capitalism—two value systems that have now so adjusted to each other 
+>  and become so mutually reinforcing as to constitute virtually a single, comprehensive world-view.
+>  Appreciation of the benefits—in terms of the personal freedom, social prosperity and scientific 
+>  progress enjoyed by a significant minority of the Earth’s people—cannot withhold a thinking person 
+>  from recognizing that the system is morally and intellectually bankrupt. It has contributed its best to 
+>  the advancement of civilization, as did all its predecessors, and, like them, is impotent to deal with 
+>  the needs of a world never imagined by the eighteenth century prophets who conceived most of its 
+>  component elements. Shoghi Effendi did not limit his attention to divine right monarchies, 
+>  established churches or totalitarian ideologies when he posed the searching question: “Why should 
+>  these, in a world subject to the immutable law of change and decay, be exempt from the 
+>  deterioration that must needs overtake every human institution?”
+
+Unfortunately, a common trope among critics of globalsm is to essentially
+blame everyone with a passport or working knowledge of a second language
+as being part of an unelected "elite" which has thrust this on the
+hard-working people of America. Let's be clear about this; holding the
+belief that all the members the earth are brothers in the eyes of God in
+no way makes you complicit in the problems of globalization. And those who
+would despise such people as insufficiently patriotic are badly misled,
+perhaps willingly.
+
+
 
 ## Conclusion (A Half-Hearted Heritage)
 
@@ -1693,14 +1995,14 @@ Canadian community:
 
 This writer recalls other historical incidents reported of Abdu'l-Baha 
 where he spoke of the need
-to intervene on behalf of others being assaulted. This was not for
-punishment or vengeance, but to prevent
+to intervene on behalf of others being assaulted. These interventions
+are NOT for punishment or vengeance, but to prevent
 physical injury or further injustice.
 
 (2) Note that I said "almost." You will engage in struggles where there
-actuall is conflict, where it really does matter. The key is to recognize
+actually is conflict, where the stakes really do matter. The key is to recognize
 that these are very few in number. When people say "pick your battles,"
-it's someone telling you not to pick unwinnable fights. Instead of doing
+it may be someone is telling you not to pick unwinnable fights. Instead of doing
 that, perhaps it is better to
 realize that there are actually very few battles to be recognized as such. 
 That will leave your energy for those that must be fought, winnable or not.
@@ -1779,6 +2081,56 @@ usually spelled something like Nowruz in English, and it always falls on
 the first day of spring. Baha'u'llah was born in Iran and he appropriated
 the Iranian holiday, which is the big commercial holiday, much like Christmas
 is here in America.
+
+(8) Critics of the Baha'i Faith, both secular and religious, may scream
+about an intentional ommision by myself. Shoghi Effendi wrote of a time long in
+the future where, "in the fullness of time", the Baha'i Faith becomes
+the world religion of a superstate. Secular critics in particular have
+pointed out this looks a lot like the notion of an Islamic caliphate.
+
+However, this cannot be emphasized enough: Shoghi Effendi never asked
+Baha'is to work for such a situation, existing Baha'i authorities have not
+asked the Baha'is to do so, and the current authority (the Universal
+House of Justice) has made it quite clear that even should there be
+an overwhelming majority of Baha'is in a nation, that would not grant
+the citizenship the right to declare the Baha'i Faith the 
+official state religion. Leaving
+aside the fact that having an official state religion run by the head
+of state does not itself
+mean a theocracy (if you don't believe me, just ask the British), Shoghi
+Effendi's writings instead paint a picture of an evolution of both
+the World Federation and our own Baha'i Faith that is to evolve over the
+passage of an unspecified number of years.
+
+My own opinion on the situation, and this is _my opinion only_, is that
+this means a gradual inevitable evolution towards that situation over
+centuries, even millenia. (If
+you're interested in understanding why I believe this, read the existing
+writings discussing such concepts as God's "lesser plan" and "greater plan.")
+I've heard many Baha'is conflate the two - sometimes to my frustration
+when they do it in a public forum with people like you, the reader,
+in attendance. Based on my reading of Shoghi Effendi's writings, that is inaccurate.
+What we _are_ asked to do as Baha'is - and what I'm hoping readers will
+do - is to work toward the day when the existing governments of the
+world willingly work toward guarantees of freedoms, disarmament, the health
+of the planet, and support any moves toward world federation.
+
+I love the freedoms we enjoy in secular societies. And it really cannot
+be stressed enough that the Baha'i Faith has been able to thrive mainly
+due to the guarantees of freedom such societies provide to religious
+minorities like the Baha'is. Why do I accept this notion, then? I could say
+it's because I'm taking this on faith - but that would be lying. I'm
+doing it because of a very pragmatic calculation:
+I'm convinced that secular societies have no way of
+inclulcating the virtues needed to sustain the discipline necessary
+for the maintenance of such a world order. Look at what the Pax Americana
+has done to rehabilitate the discredited notions of nationalism and race
+superiority! If secular societies can't
+maintain the necessary discipline for its citizenship to avoid such
+pernicious temptations, perhaps the threat of a religion
+that will come in and do it for them should they fail to grow the
+necessary spine will sufficiently motivate the defenders of the current
+secular order.
 
 ## Appendix A: The Baha'i Laws and Baha'i Faith
 
