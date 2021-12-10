@@ -1841,11 +1841,10 @@ But it is not your duty to force others into compliance:
 >  For the faith of no man can be conditioned by any one except himself.
 >         (Baha'u'llah, Gleanings from the Writings of Baha'u'llah, p. 143)
 
-The Baha'i writings are clear about this. You may not pressure anyone
+You may not pressure anyone
 into changing their views; freedom of conscience is paramount As Baha'is
 we _must_ present these ideals to the world in the hopes of influence
 and wider adoption; we _must not_ seek to press on the unwilling.
-
 The Baha'i writings and Baha'i practices primarily influence ourselves, and
 only secondarily others we come in contact with and society.
 
@@ -1860,7 +1859,12 @@ changes are more organic, with "roots" that are not easily swept away.
 
 However, that may present a problem to you. If you are an idealistic
 person, you may want to "change the world." And this does not seem like
-a framework for "change the world."
+a framework for "change the world." Dedicated Baha'is will insist this is
+the only way.
+
+
+
+
 
 
 One of the particular ironies of this present day is the globalism
