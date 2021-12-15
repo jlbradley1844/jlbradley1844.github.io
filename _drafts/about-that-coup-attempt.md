@@ -89,7 +89,7 @@ Christian, anything I have to offer on the subject is going to be inferior to
 what other faithful Christians already have to say on the subject. This particular
 strain of fanaticism will either be solved by Christian leadership, or wont; if it won't,
 then the dominant strain of American christianity will flounder and perish,
-as it slowly loses its most capable and sincere believers, who have alwasy been
+as it slowly loses its most capable and sincere believers, who have always been
 more drawn to the message
 of Jesus than the particular cultural beliefs associated with American White 
 Christianity. Either way, the problem will be solved.
@@ -141,7 +141,8 @@ fanatical. In this case, the opponents of the Baha'i Faith who held
 power in the clergy *were* fanatical by any fair description;
 obscurantist, anti-science, superstitious and anti-Western (that is,
 in opposition to European enlightenment philosophies, of which the noble
-class in Persia was actually both aware and fearful). To be a clergy was no
+class in Persia was actually both acutely aware of and fearful). 
+To be a clergy was no
 disqualification from following the Baha'i Faith; indeed, many of the
 first followers of the Babi and Baha'i Faiths were themselves
 clergymen or serious students of Islam.

@@ -53,7 +53,7 @@ beliefs like:
 and then returned on the Sunday. That explains what he did on Saturday.
 
 * His mother not only conceived a virgin, she never had sex period. This was because
-she was so pure, and she ascended to heaven rather than being taken over.
+she was so pure, and she ascended to heaven rather than dying and being buried.
 
 * Jesus Christ died to take away our "original sin." He washed all that stuff away when he
 died, and that is why he died. Oh, you got "original sin" from Adam. We are all a sinner and
@@ -95,9 +95,9 @@ Jesus as a redemption figure, recast as Christ the King. His teachings, influent
 were, are frequently not so much about Jesus' teachings themselves, as they are about
 Jesus themselves. So I put those aside.
 
-(As a side note, regarding the letters from Paul, biblical historians are only in agreement that
-seven books really were written by
-him. These books are the only ones that consistely show his style (he was not a native Greek speaker
+As a side note, regarding the letters from Paul, biblical historians are in agreement that
+probably on seven books were really written by
+him. These books are the only ones that consistely show his style (Paul was not a native Greek speaker
 and his writing is self-admittedly crude). These seven are still worthwhile. Meanwhile,
 some of the others, such as the letters to Timothy, are widely regarded as written
 decades later by others in the church and may be considerably less authoritative. 
@@ -136,10 +136,11 @@ to experience Jesus' teachings as the actually are, rather than through thirdhan
 that tell you all about "the magic of Jesus" without telling you a thing about how Jesus
 thought you should be living your life. Baha'is in particular will find very strong
 parallels with his teachings to themes Abdu'l-Baha repeatedly covered in
-his talks. Indeed, all of the central figures were just as conversant in the Bible than
-they were in the Koran (even The Bab, who had no problem teaching straight out of the
-Bible around mullahs, whose common practice was to handle the Bible with tongs to keep
-their distance!).
+his talks. There's a reason for this: all of the central Baha'i figures were just 
+as conversant in the Bible than
+they were in the Koran; even The Bab, who had no problem teaching straight out of the
+Bible around mullahs, in an age when the Bible was commonly handled with tongs so believers
+could keep their distance,
 
 I thought of putting in such a compendium - but why? That would be no favor to you. Just go
 ahead and download the King James' bible onto your phone, and start your study. If you want

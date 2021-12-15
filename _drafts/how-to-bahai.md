@@ -19,6 +19,8 @@ certainly not spiritual in the sense of "in tune with the universe" and
 "seeking the eternal one" and "following God in all its forms"
 and _Woooooooooo_. They certainly don't enjoy sitting around with
 their thoughts and deeply meditating and roaming the astral plains.
+They don't pray to something they regard as a Babylonian Sky God and
+bristle at the notion at the mention of worship of any entity.
 Instead, they view religion and spirituality on entirely pragmatic
 terms. Where religion and spirituality work, it's very selectively.
 And generally it's personal - for them only.
@@ -49,7 +51,8 @@ simpler than that, and shouldn't require a guru.
 Are you like that? I know I am.
 
 One of the ironies is that for all the talk of each generation being
-less religious than the one before it, there is more than enough
+less religious than the one before it, is that there is still
+plenty of
 interest in the
 "deeper" self-help philosophies, if you will. Think about the interest
 in Bhuddist thought and the followings in some areas of the
@@ -88,12 +91,13 @@ you will:
 >   In this station the self is not rejected but beloved; it 
 >   is regarded with favour and is not to be shunned. 
 
-This is a bit obscure, but most Baha'i scholars have interpreted this as
+This passage is going to be very obscure to almost all of you. Baha'u'llah 
+wrote this for a very particular sort of religiously-minded readers
+(in this case, the Sufi mystics of the nineteenth century)
+but most Baha'i scholars have interpreted this as
 referring to those who find God through their own dedication to self-mastery
-and virtuous conduct, and dedication to His laws. Again, "just tell me
-what to do." Baha'u'llah wrote this for very religiously-minded readers
-(in this case, a Sufi mystic)
-
+and virtuous conduct and adherance to a code of conduct. Again, "just tell me
+what to do." 
 So for those of you who care not a whit about spirituality, I'll tell
 you what I know. How to "Do Baha'i" without actually being Baha'i. Happy
 Baha'ing!
@@ -106,15 +110,15 @@ to known uniquely for, I'll start here.
 ### Physical Nonviolence
 
 Baha'is are not pacifist (1), but are known as peace-loving. Indeed, one
-of the first laws Baha'u'llah declared after his mission was the forbidding
+of the first laws religious Baha'u'llah declared after his mission was the forbidding
 of any religious warfare. As said by the Universal House of Justice, the supreme
 deliberative bond of the Baha'is: "Bahá'u'lláh has stated that is 
 preferable to be killed in the path of God's good-pleasure than to 
 kill, and that organized religious attack against Bahá'ís should never turn 
-into any kind of warfare." (From a 1968 letter.) Physical altercation is
-generally forbidden, and
+into any kind of warfare." (From a 1968 letter.) Physical altercation by Baha'is is
+forbidden, and
 there is also a general culture of nonviolence. Hunting among Baha'is is infrequent
-(though not forbidden). It is not usual to find Baha'i families that won't buy
+(though not forbidden), and it is not usual to find Baha'i families that won't buy
 toy guns for their kids, shield them from violent media and sanction them for
 getting into unnecessary fights.
 
@@ -129,8 +133,8 @@ fringe of certain parts of American culture:
   draft registration, to allow them to be placed in non-combat positions
   should their draft be necessary.
 
-If that were it, though, that would make our outlook unusual, but far
-from unique. Plenty of believers
+If that were it, though, that would make our outlook unusual, it wouldn't
+be unique. Plenty of believers
 of all Faiths believe in physical nonviolence at its core. Indeed, Baha'i views
 are moderate compared to some creeds. Self-defense is permitted, as is the use
 of physical force to prevent injustice.
@@ -1640,6 +1644,49 @@ Universalism is embedded into the fabric of the Baha'i Faith. If you
 want to understand the culture around us, this is the most apparent way
 to start.
 
+A small warning about "globalism":
+One of the particular ironies of this present day is the globalism
+and universalism called for by by the Baha'i writings, as practiced by
+_individuals_, has not been as beneficial in practice
+when this same quality is applied to societies. Critics of globalism
+should be careful to make this important distinction. It is possible to
+be globalist and universalist in outlook, and yet also regard the critics
+of "globalism" as it is currently embodied as very much having legitimate grievances. On the
+opening of the twenty-first century, the Universal House of Justice
+wrote as follows:
+
+>  In the perspective of Bahá’u’lláh’s teachings, the greatest danger of both the moral crisis and the 
+>  inequities associated with globalization in its current form is an entrenched philosophical attitude 
+>  that seeks to justify and excuse these failures. The overthrow of the twentieth century’s totalitarian 
+>  systems has not meant the end of ideology. On the contrary. There has not been a society in the 
+>  history of the world, no matter how pragmatic, experimentalist and multi-form it may have been, 
+>  that did not derive its thrust from some foundational interpretation of reality. Such a system of 
+>  thought reigns today virtually unchallenged across the planet, under the nominal designation 
+>  “Western civilization”. Philosophically and politically, it presents itself as a kind of liberal relativism; 
+>  economically and socially, as capitalism—two value systems that have now so adjusted to each other 
+>  and become so mutually reinforcing as to constitute virtually a single, comprehensive world-view.
+>  Appreciation of the benefits—in terms of the personal freedom, social prosperity and scientific 
+>  progress enjoyed by a significant minority of the Earth’s people—cannot withhold a thinking person 
+>  from recognizing that the system is morally and intellectually bankrupt. It has contributed its best to 
+>  the advancement of civilization, as did all its predecessors, and, like them, is impotent to deal with 
+>  the needs of a world never imagined by the eighteenth century prophets who conceived most of its 
+>  component elements. Shoghi Effendi did not limit his attention to divine right monarchies, 
+>  established churches or totalitarian ideologies when he posed the searching question: “Why should 
+>  these, in a world subject to the immutable law of change and decay, be exempt from the 
+>  deterioration that must needs overtake every human institution?”
+
+Unfortunately, a common trope among critics of globalsm is to essentially
+blame everyone with a passport or working knowledge of a second language
+as being part of an unelected "elite" which has thrust this on the
+hard-working people of America. Let's be clear about this; holding the
+belief that all the members the earth are brothers in the eyes of God in
+no way makes you complicit in the problems of globalization. And those who
+would despise such people as insufficiently patriotic are badly misled,
+perhaps willingly. Someone who is upset due to the loss of jobs to lower
+paying countries has a point, even if you disagree with it. But if someone 
+is upset with you because you fail to be
+incensed by street signs in spanish, this says far more about their moral
+character than yours.
 
 ## Special USA Mandate: Antiracism
 
@@ -1656,7 +1703,8 @@ people were incapable of being true citizens. Only in America did we
 inclulcate racist theories to children to ensure continued support for
 an institution that plainly ran counter to obvious notions of fairness.
 And only here did we allow our religious institutions to become so
-bastardized in support of this cause in order to support it.
+bastardized in support of this cause that they became willing allies
+in support of this horrible institution.
 
 Baha'is generally don't talk about rectification or recourse for justice;
 our concern is the after-effects of the racist beliefs that have been perpetuated
@@ -1664,11 +1712,11 @@ throughout the culture.
 
 When Abdu'l-Baha visited America for 239 days in 1912, just years before 
 World War I, the elimination of racism and prejudice was a particular concern
-to him. This was a fairly unusual position at the time, and the historical
-record is pretty clear about this; his visit was notable enough to have
-stories written about him in all the papers of reord.
-
-The public record on this is clear - Abdu'l-Baha made an obvious point to
+to him. While that didn't make him unique, it was an fairly unusual 
+position at the time, and the historical
+record about his visit wrote about his multiracial crowds in either amazement
+or bemusement.
+And this was purposeful - Abdu'l-Baha made an obvious point to
 integrate his gatherings wherever possible. In many cases where it was
 considered as breaking decorum to simply have black people in attendance, he was
 careful to have blacks there and point out that they had no less right to attend
@@ -1683,18 +1731,14 @@ their less enlightened fellow believers). In fact, one reason Abdu'l-Baha
 was so strenouous in this insistence was to ensure the very young
 Baha'i community did not adopt the racist outlook that was endemic
 throughout America at the time.
-Many Baha'i communities eagerly took up the cause, but there were
-holdouts. One promenent mid-Atlantic community continued to have segregated
-meetings, using the weak-tea excuse along the lines of
-"our fellow American's just aren't ready."
-Fortunately, by the late twenties this had become an uncommon exception; most Baha'i communities
-proudly held interracial meetings, sometimes to the consternation of some of
-the other citizens in their communities.
 
+Indeed, there were some isolated holdouts, and it took perhaps a decade or two
+to stamp
+out segregated meetings, and there were still residual problems in communities.
 In a book-length 1938 letter to the American community, the Baha'i
 supreme authority Shoghi Effendi outlined the steps that both whites and
 blacks must take to effect racial unity in America. His concern was primarily
-an American Baha'i community, parts of which were yet to rall to this message:
+an American Baha'i community, and rallied his followers as follows:
  
 >   As to racial prejudice, the corrosion of which, for well-nigh a century, 
 >   has bitten into the fiber, and attacked the whole social structure of 
@@ -1801,7 +1845,7 @@ for all white people. But do you and your friends engage in discussions
 about "inner city blacks," as if it's a problem for you and your favorite
 politicians to fix? Do you listen to talking heads on YouTube and Facebook
 who talk about
-problems of "inner city black culture"? About the problems of "black on
+problems of "black culture"? About the problems of "black on
 black" violence? On how blacks should "pull themselves up by their
 bootstraps"? If you do, then you're practically wallowing in media aimed at
 making you more paternalistic and superior. One of the first things
@@ -1810,10 +1854,10 @@ rampant concern trolling for exactly what it is.
 
 Baha'is view everyone as having an important part in the reduction
 of racism in America - particularly the advantaged. The goal isn't
-to seem as "woke" - though honestly, do you know a single person
-who actually says something so he looks "woke"? Like, a real person you
+to seem as "woke" (though honestly, do you actually know a single person
+who actually says something just so he looks "woke"? Like, a real person you
 know, not a vapid stock character in a sitcom or reality show or an unlikeable
-foil in a movie? The goal is simply to be decent, and fix a longstanding
+foil in a movie?) The goal is simply to be decent, and fix a longstanding
 problem in American society.
 
 ## On the Limits of Individual Effort
@@ -1859,53 +1903,50 @@ changes are more organic, with "roots" that are not easily swept away.
 
 However, that may present a problem to you. If you are an idealistic
 person, you may want to "change the world." And this does not seem like
-a framework for "change the world." Dedicated Baha'is will insist this is
-the only way.
+a framework for "change the world." To address this, I'll have to go
+outside of the writings and then circle back.
 
+Think what you will of America's Founding Fathers, but they knew their
+history, and they knew what they were trying to accomplish. 
+They wanted a democracy that would not descend into mob rule, one that
+would protect the rights of minorities, and would guarantee not only
+the franchise, but the right to participate in their own self-rule.
+(If you are
+thinking "keep their slaves", then please be fairminded; there were a lot
+of Founding Fathers who didn't appreciate their Southern slaveholding
+societies bretheren, but it was a shotgun wedding they felt forced
+into. Their British overseers certainly didn't mind it.)
 
+Unfortunately, while we have a better democracy - in that the franchise
+is available to all (and hopefully stays that way). But we seem to have
+lost the participative part.
 
+But there is no reason for this! Just go to a town meeting or a school
+board meeting. You'll find an empty gallery; few citizens commenting on
+matters. Even at the national level, most are involved in simply
+voting and writing checks. Rarely does it involve precinct-level organizing.
 
+Unfortunately, that low-level grassroots organizing *is* what makes
+the difference. Not people sitting at home being engaged by watching
+a lot of news and discussing with like-minded people.
 
+The most recent significant mass movement to effect social change in
+America was the civil rights movement. This movement consisted almost
+_entirely_ of small-scale organizations, frequently based in churches,
+working both in isolation and in concert with one another. It wasn't
+accomplished by consciousness-raising, or buying ads on the television,
+or getting elected representatives to support it. Perhaps as significant
+as this are the efforts of religious conservatives, working across
+churches, to get their own preferred school board candidates elected.
 
-One of the particular ironies of this present day is the globalism
-and universalism called for by by the Baha'i writings, as practiced by
-_individuals_, has not been as beneficial in practice
-when this same quality is applied to societies. Critics of globalism
-should be careful to make this important distinction. It is possible to
-be globalist and universalist in outlook, and yet also regard the critics
-of "globalism" as it is currently embodied as having a point. On the
-opening of the twenty-first century, the Universal House of Justice
-wrote as follows:
-
->  In the perspective of Bahá’u’lláh’s teachings, the greatest danger of both the moral crisis and the 
->  inequities associated with globalization in its current form is an entrenched philosophical attitude 
->  that seeks to justify and excuse these failures. The overthrow of the twentieth century’s totalitarian 
->  systems has not meant the end of ideology. On the contrary. There has not been a society in the 
->  history of the world, no matter how pragmatic, experimentalist and multi-form it may have been, 
->  that did not derive its thrust from some foundational interpretation of reality. Such a system of 
->  thought reigns today virtually unchallenged across the planet, under the nominal designation 
->  “Western civilization”. Philosophically and politically, it presents itself as a kind of liberal relativism; 
->  economically and socially, as capitalism—two value systems that have now so adjusted to each other 
->  and become so mutually reinforcing as to constitute virtually a single, comprehensive world-view.
->  Appreciation of the benefits—in terms of the personal freedom, social prosperity and scientific 
->  progress enjoyed by a significant minority of the Earth’s people—cannot withhold a thinking person 
->  from recognizing that the system is morally and intellectually bankrupt. It has contributed its best to 
->  the advancement of civilization, as did all its predecessors, and, like them, is impotent to deal with 
->  the needs of a world never imagined by the eighteenth century prophets who conceived most of its 
->  component elements. Shoghi Effendi did not limit his attention to divine right monarchies, 
->  established churches or totalitarian ideologies when he posed the searching question: “Why should 
->  these, in a world subject to the immutable law of change and decay, be exempt from the 
->  deterioration that must needs overtake every human institution?”
-
-Unfortunately, a common trope among critics of globalsm is to essentially
-blame everyone with a passport or working knowledge of a second language
-as being part of an unelected "elite" which has thrust this on the
-hard-working people of America. Let's be clear about this; holding the
-belief that all the members the earth are brothers in the eyes of God in
-no way makes you complicit in the problems of globalization. And those who
-would despise such people as insufficiently patriotic are badly misled,
-perhaps willingly.
-
+Which circles back to the Baha'i approach. Baha'is believe in small
+scale grassroots organizing and community change. This is mainly because
+we believe that it is individuals who must become engaged in improving
+their own situation; it cannot be done for oneself by waiting for
+charasmatic "leaders" to do it for them. But stepping back pragmatically,
+this is the _only_ way to effect just social change. Barring this,
+the other other thing to effect large-scale social change many
+hunger for is armed revolution and civil war.
 
 
 ## Conclusion (A Half-Hearted Heritage)
@@ -2044,7 +2085,8 @@ Frequently, Baha'is greet each other with "Alla'u'Abha" in meetings
 where only Baha'is are present.
 
 (5) These issues can pose problems even for dedicated Baha'is. In some cases,
-some have left the Baha'i Faith due to what they find as illogical interpretations.
+some have left the Baha'i Faith due to what they find as illogical 
+interpretations of the writings accepted by their fellow believers.
 Unfortunately, what one finds illogical may be so simply because it conflicts
 with an unstated assumption that is presumed a given based on - you guessed it -
 blind interpretation. An issue amoung Baha'i academics in the late nineties
@@ -2090,7 +2132,7 @@ is here in America.
 about an intentional ommision by myself. Shoghi Effendi wrote of a time long in
 the future where, "in the fullness of time", the Baha'i Faith becomes
 the world religion of a superstate. Secular critics in particular have
-pointed out this looks a lot like the notion of an Islamic caliphate.
+pointed out this seems a lot like the notion of an Islamic caliphate.
 
 However, this cannot be emphasized enough: Shoghi Effendi never asked
 Baha'is to work for such a situation, existing Baha'i authorities have not
@@ -2110,7 +2152,7 @@ My own opinion on the situation, and this is _my opinion only_, is that
 this means a gradual inevitable evolution towards that situation over
 centuries, even millenia. (If
 you're interested in understanding why I believe this, read the existing
-writings discussing such concepts as God's "lesser plan" and "greater plan.")
+Baha'i writings discussing such concepts as God's "lesser plan" and "greater plan.")
 I've heard many Baha'is conflate the two - sometimes to my frustration
 when they do it in a public forum with people like you, the reader,
 in attendance. Based on my reading of Shoghi Effendi's writings, that is inaccurate.
@@ -2127,7 +2169,8 @@ it's because I'm taking this on faith - but that would be lying. I'm
 doing it because of a very pragmatic calculation:
 I'm convinced that secular societies have no way of
 inclulcating the virtues needed to sustain the discipline necessary
-for the maintenance of such a world order. Look at what the Pax Americana
+for the maintenance of such a world order. Look at what the post-Cold War
+Pax Americana
 has done to rehabilitate the discredited notions of nationalism and race
 superiority! If secular societies can't
 maintain the necessary discipline for its citizenship to avoid such
