@@ -1,5 +1,5 @@
 ---
-title: How to Baha'i (the Secular Edition)
+title: Nonviolent Practices - the easy version
 category: article
 ---
 
