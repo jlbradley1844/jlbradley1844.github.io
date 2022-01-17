@@ -2086,7 +2086,7 @@ where only Baha'is are present.
 
 (5) These issues can pose problems even for dedicated Baha'is. In some cases,
 some have left the Baha'i Faith due to what they find as illogical 
-interpretations of the writings accepted by their fellow believers.
+interpretations of the writings propagated by their fellow believers.
 Unfortunately, what one finds illogical may be so simply because it conflicts
 with an unstated assumption that is presumed a given based on - you guessed it -
 blind interpretation. An issue amoung Baha'i academics in the late nineties
