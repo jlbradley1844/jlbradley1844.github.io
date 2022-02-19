@@ -24,12 +24,10 @@ troublesome form of speech: calumny. Everyone is taught not to lie, but in
 reality calumny is what is really sanctioned in society - lying about someone's
 misdeeds to discredit someone, or protect oneself or protect another at the
 expense of a victim you care less about. But outside of 
-that, many societies consider
-various sorts of "fibbing" as to be fair game. Even the Baha'i writings give
-indications of times where direct truth is not the wisest course of action.
-But calumny is uniformly condemned as wrong.
+that, many societies don't consider any verbal mischief of particular consequence.
 
-But if you reflect, you can do a lot of harm with speech besides that. One
+But if you reflect, you can do a lot of harm with speech even without committing
+false witness. One
 of the most important lessons of
 of the Baha'i writings is to become much more careful
 with your speech. In effect, refrain from verbal violence as you would physical
@@ -61,7 +59,8 @@ to thruthfully report on someone else's ill behavior.
 Backbiting - discussing the faults of others not present - is a nasty habit.
 And it's easy to fall into. Like the air we breathe, it's so pervasive
 that it escapes notice. People think of backbiting as being nasty to a friend
-behind their back, but that's simply one example. Think of half of the
+behind their back, or going right up to the line of misleading accusations,
+but those are simply the easiest examples. Think of half of the
 commentary on social media - ridicule and scorn are commonly heaped on
 all sorts of people in society. Other ethnicities, religions, political movements,
 people residing in other locations, entire populations are regularly
@@ -90,9 +89,12 @@ I'm old enough to remember some of the self-help
 fads from the seventies and eighties. It was at one time thought that
 venting would lessen aggression. You'd have therapists set up sessions where
 you'd punch things (not the therapist) or do "primal screaming" and wreck
-your voice. This is in addition to spending a hundred
+your voice. (This would be in addition to spending a hundred
 bucks so you could yell to your therapist about your upbringing for
-fifty minutes. Worse yet was the "radical candor" (LOL) movement, which taught
+fifty minutes). Now none of this is really backbiting, since the therapist
+is under confidentiality, but it isn't terribly helpful either.
+The worst example of this I can thin of was the farcical
+"radical candor" movement, which taught
 people to speak whatever was on their mind, however cruel and abusive.
 The results of all of these venting "therapies" were as bad as they were
 predictable. *Venting increases aggression and anger; it doesn't lessen it.* 
@@ -102,17 +104,21 @@ reality, venting itself proved to be
 a bad habit that built on itself, as people spent more and more time tapping
 into the things that made them angry and violent.
 
-Of course, the motive matters all the same.
+Of course, sometimes backbiting isn't really backbiting.
 There are situations where there really is a need to report on the
-ill behavior of others. Backbiting isn't that. Most people can instinctively
-tell the difference. The old advice is the best: if you can't say anything nice, 
+ill behavior of others. The motive matters most of all. In many cases, it's obvious
+when something is backbiting or communication in search of a solution, and most 
+people can instinctively
+tell the difference. In any event, speaking directly to the person you have
+an issue with solves most problems. Otherwise, the old advice is the best: if you can't say anything nice, 
 don't say anything at all.
 
 The obvious exception to all of this is when you need to modify someone's
 behavior and you cannot talk speak to them personally about it.
 For instance, it may be unsafe or unwise to
 confront him or directly. In this case, one must talk to someone who
-can do something about it. In such cases, the best thing to do is act like you're 
+can do something about it, venting to unrelated third parties won't help. 
+In such cases, the best thing to do is act like you're 
 giving a police report: state
 the actions and what you saw - nothing but the facts. You can give the
 unvarnished truth without using loaded language. Tell only the objective
@@ -140,7 +146,8 @@ casual communication nowadays.
 
 
 One may avoid ridicule and derision, yet still communicate in a harsh manner.
-Think of why you're speaking; it shouldn't be for simply venting. The Baha'i
+Think of why you're speaking. Your message will be better received if it
+isn't delivered in a cloud of angry invective. The Baha'i
 path urges moderation in all things, including tone of speech.
 
 There is still a place for criticism, and one may
@@ -185,10 +192,10 @@ its listeners regardless of its newsworthiness. For many people, their feed
 eventually becomes a stream of self-regarding mistruths, gossip about disliked
 people and cultures, outright backbiting and selectively edited stories calculated
 to outrage. 
+
 We're at best passive participants, so nothing we do is going to "fix" this problem. The
 best we can do is recognize when we are being targeted and refuse
 to listen.
-
 The goal is to prevent us from falling into habits of verbal violence. It's easier
 if you eliminate the negative, disparaging, trash-talking content
 of what poses as much of modern discourse. Don't bring that negativity into
@@ -206,3 +213,4 @@ very least, you won't hurt yourself by doing this. You will instead be
 much happier.
 
 
+_Recommended listening_: Count Basie, _The Atomic Count Basie_
