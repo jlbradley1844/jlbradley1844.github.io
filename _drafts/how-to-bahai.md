@@ -27,12 +27,13 @@ And generally it's personal - for them only.
 
 If this clicks for you, then you're who I want to talk to. You don't
 necessarily think of yourself as atheistic, but too much of
-religion is alienating, and spirituality is often too new-agey and
+religion is alienating, and anything labeled "spiritual" is
+often too new-agey and
 smelling of humbug to speak to you. But you might be interested in things
 done by religious people - meditation, yoga, retreats, etc.
 And you're definitely interested in becoming a better person,
 improving every year in your outlook, balance, and ability to
-serve others in humanity.
+serve others with humility.
 
 If you then have any use for religion it's self-development. Or more
 to the point, if you have to listen to a spiritual leader, your
@@ -52,8 +53,7 @@ Are you like that? I know I am.
 
 One of the ironies is that for all the talk of each generation being
 less religious than the one before it, is that there is still
-plenty of
-interest in the
+plenty of interest in the
 "deeper" self-help philosophies, if you will. Think about the interest
 in Bhuddist thought and the followings in some areas of the
 Stoic philosophy. Such philosophies don't require you to buy into
@@ -98,6 +98,7 @@ but most Baha'i scholars have interpreted this as
 referring to those who find God through their own dedication to self-mastery
 and virtuous conduct and adherance to a code of conduct. Again, "just tell me
 what to do." 
+
 So for those of you who care not a whit about spirituality, I'll tell
 you what I know. How to "Do Baha'i" without actually being Baha'i. Happy
 Baha'ing!
@@ -126,10 +127,11 @@ There are also a few distinctive religious laws that put them at the
 fringe of certain parts of American culture:
 
 * Lethal arms may not be kept in the house, except in conditions of social
-  unrest (America hasn't been in this state since Civil War, regardless of
-  what your cousin in the militia tells you.)
+  unrest. To be clear, America hasn't been in this state since frontier days,
+  regardless of what your cousin in the militia tells you.
 
-* Baha'i youth are advised to register as conscienscious objectors for
+* Baha'is cannot serve in combat roles in militaries. Baha'i youth are 
+  advised to register as conscienscious objectors for
   draft registration, to allow them to be placed in non-combat positions
   should their draft be necessary.
 
@@ -140,7 +142,7 @@ are moderate compared to some creeds. Self-defense is permitted, as is the use
 of physical force to prevent injustice.
 
 If you're looking for a life-changing code, "staying out of fights" would
-certainly change the lives of some people. But I'm going to guess that
+certainly change the lives of a lot of people. But I'm going to guess that
 you've probably figured that out on your own. Unless you're unwisely putting
 yourself in situations where violence is expected, it isn't too hard to
 refrain from violence.
@@ -151,12 +153,18 @@ requires one to abstain from a number of verbally violent behaviors.
 
 ### Verbal Nonviolence
 
+Baha'i writings are unique in the amount of guidance given to the believers
+on the concept of verbal nonviolence. This doesn't occur to most Baha'is,
+since it isn't framed that way.
+
 People generally are brought up to only watch out for one particularly
 troublesome form of speech: calumny. Everyone is taught not to lie, but in
 reality calumny is what is really sanctioned in society - lying about someone's
 misdeeds to discredit someone, protect oneself or protect another. Outside of 
-that, many societies consider
-various sorts of "fibbing" as to be fair game. Even the Baha'i writings give
+that, most people can think of cases where a "white lie" is actually better
+than the truth, and many societies consider
+limited sorts of "fibbing" to be fair game; for example, the broad leeway
+given to advertisers in America. Even the Baha'i writings give
 indications of times where direct truth is not the wisest course of action.
 But calumny is uniformly condemned as wrong.
 
@@ -182,12 +190,14 @@ habit of speaking ill of others who are not present.
 
 Backbiting - discussing the faults of others not present - is a nasty habit.
 And it's easy to fall into. Like the air we breathe, it's so pervasive
-that it escapes notice. People think of backbiting as being nasty to a friend
+that it escapes notice. 
+
+People think of backbiting as being nasty to a friend
 behind their back, but that's simply one example. Think of half of the
 commentary on social media; ridicule and scorn are commonly heaped on
 all sorts of people in society. Other ethnicities, religions, political movements,
 people residing in other locations, entire populations are regularly
-abused without regard to one's firsthand knowledge of the situation.
+badmouthed without regard to one's firsthand knowledge of the situation.
 Your entire Facebook feed may consist mostly of backbiting - "viral posts"
 shared among like-minded people trashing others who will never see that
 slander because it won't show up in the feed. Indeed, the ads in your
@@ -242,8 +252,10 @@ in authority. Do your words convey patience and forbearance, or impatience
 and anger? Your words and attitude must convey that you're presenting 
 yourself as someone who
 sees a fault in someone and is hopeful that the recepient is a good person
-wo will change its ways. In the case of the latter, the recipient will not
-hear the criticism, but instead react to its emotional content. "This person
+wo will change its ways. If criticism is not delivered tactfully, 
+the recipient will not
+hear the criticism, but instead react to its emotional content. The message
+becomes "This person
 is angry with me." This can provoke a number of reactions, none of which
 address what you'd like to do - address a fault.
 
@@ -298,7 +310,6 @@ actions are under your control.
 
 That being the case, you may wonder: what's the point of cleaning up my
 behvior? How will my acting properly make others acting properly?
-
 The answer: you have to control things under your control. And at the
 very least, you won't hurt yourself by doing this. You will instead be
 much happier.
@@ -310,8 +321,8 @@ much happier.
 >         (Baha'u'llah, Gleanings from the Writings of Baha'u'llah, p. 333)
 
 Competition has its place in society. But there is a strong case to be
-made that in many Western societies, excessive competitiveness and
-combativeness has become a problem. This applies both to individuals
+made that in many Western societies, excessive competitiveness has become
+harmful combativeness. This applies both to individuals
 and society as a whole.
 
 >  In the eyes of those possessed of insight, all this conflict, contention and 
@@ -322,12 +333,14 @@ and society as a whole.
 >  is bound to become the seat of the throne, the very metropolis, of Satan.
 >        (Baha'u'llah, Tablets of Baha'u'llah, p. 176)
 
-People also know that cooperation is the foundation of a civil society.
+People know that cooperation is the foundation of a civil society.
 But they get this message less and less. Instead, we live in a commercial and
 media environment steeped in combativeness. At work, we see environments
 where raises and promotions are limited not by merit, but are scarce by
 design and limited to top performers. Who is a top performer? Why, those
-who out-compete the others. If you ignore these messages at work, then
+who out-compete the others. 
+
+If you ignore these messages at work, then
 you get it from the media, which seems purposely designed to create
 paranoia. From story arcs that always have a villian, to partisan news
 sources that create villians out of one's neighbors, to product advertisements
@@ -348,10 +361,12 @@ for _you_ to keep up the fight.
 Now, let's look at how the ill effects of combativeness are combated in society.
 A lot of the interest around mindfulness and yoga and self-acceptance
 and all that whatnot is about reducing the ego threats you feel in
-society. By guiding you into stepping back.
-If you're unhappy and stressed out all the time, the implication is 
-that the problem is something internal to you; we can somehow tame our reactions
-to a neverending stream of threats.
+society, due to its excessive combativeness, by allowing you to step back.
+The fact that such solutions are happily pushed by employers and society
+has an inadvertant message:
+if you're unhappy and stressed out all the time, the problem is 
+that the problem is something internal to you. You can and should be able
+to tame your reactions to a neverending stream of threats.
 
 But that is a bit like telling us to all wear filter masks so that others
 may pollute freely.
@@ -426,6 +441,9 @@ right ways, and others, less right:
 >  but comedy.
 >                (Abdu'l-Baha, The Promulgation of Universal Peace, p. 72)
 
+For background, the incident relayed took place in 1912, but you could
+change the date and location and you'd get the same story everywhere (provided you
+kept the word 'senate').
 
 The Baha'i teachings around peacefulness would be very remiss if it did not
 say what to do _instead_ of conflict. Fortunately, it does. Which leads to a
@@ -440,7 +458,8 @@ growth of the faith, under the guidance of the central figures of the faith.
 >                (Baha'u'llah, Tablets of Baha'u'llah, p. 168)
 
 There is no canonical how-to on consultation; there is no "Robert's Rules of Order"
-to attend to. Instead, consultation works on the following principals:
+to attend to. I've outlined some of the principals based on a number of writings
+and well-established practices in the Baha'i community
 
 1. This being a group decision-making process that involves all participants,
 the group must be small enough to allow participation by all. In my opinion, 
@@ -451,7 +470,7 @@ as well, with the concept of a "two pizza team," the idea being that if you can'
 feed the team with two pizzas, it's too big to keep everyone on the same page.
 
 2. All participants must respect one another and committ themselves to the
-common goal of finding a truthful outcome Partisanship has no place in 
+common goal of finding a truthful outcome. Partisanship has no place in 
 consultations, and those consulting must set
 aside all personal feelings of loyalty to tribe and group membership or association.
 Baha'is are told that participants must feel absolute love and fellowship for
@@ -483,7 +502,7 @@ to refer to something as belonging to a particular person. If ratified, it is th
 group as a whole that promotes the idea.
 
 6. Minutes may be necessary for transparency - particular if the group is making
-decisions for a larger group. However, specifics of the details recorded are for the group
+on behalf of a larger group. However, specifics of the details recorded are for the group
 as a whole to decide. When it comes to individual votes, anonymity must be preserved
 in the case of a majority vote.
 Points may be taken down without reference to speakers or supporters of various
@@ -496,7 +515,6 @@ these separately so as to keep such notes in confidence.
 >  candor, their honesty of purpose, their singleness of mind, and the thoroughness 
 >  of their discussions, achieve unanimity in all things.
 >             (Shoghi Effendi, Baha'i Administration, p. 80)
-
 
 7. A strong effort is made to come to a consensus, All members must agree on the
 proposal for it to move forward. Unfortunately, a deadlock may occur. If there
@@ -513,7 +531,9 @@ whole once a matter is decided.
 
 The goal of this is to ensure that the group is in unity around a particular
 plan of action. The goal is NOT to reach a final decision, now and for the end
-of time. By taking a unified action and watching results, it will the be much
+of time! Rather, it is to ensure unity while actions are being taken until
+such point that a determination of progress can be made. By taking a unified 
+action and watching results, it will the be much
 easier to determine whether or not the right action was decided upon. In this
 matter, even large mistakes by the group may be quickly corrected.
 
@@ -545,15 +565,17 @@ This may seem somewhat extreme. Most people registered to a political party
 do so only for the convenience of voting in a primary. In states like New York,
 party affiliation is _required_ to vote in a primary. Nevertheless, for Baha'is the only
 way to avoid partisanship is to avoid aligning oneself with a party. Entirely.
+This is applied by Baha'is so strenuously that even refrain from registering
+in political parties associated with single-party governments!
 
 This is particularly the case in today's environment. Perhaps sometime
 in the mythic bipartisan past, there was broad agreement across the parties
 on All Things American, the parties respected the members of one another,
-and all worked toward a common solution. I doubt it. And in any case, this
-"bipartisanship" mostly worked by entirely avoid the issue of civil rights
-(more on that later).
+and all worked toward a common solution. I doubt it. (And in any case, this
+"bipartisanship" mostly worked by entirely avoid the issue of civil rights;
+more on that later).
 
-But now, the major factor of partisan affiliation is "negative partisanship";
+But today, the major factor of partisan affiliation is "negative partisanship";
 that is, one affiliates with a party as a show of hatred for members of the
 other party. In such a case, it is even more important to avoid such partisanship.
 
@@ -637,6 +659,61 @@ or economic change.
 
 Key to this, as you might guess, is consultation, using the process mentioned
 earlier.
+
+At this point, you may be a little distressed if you are worried about "the
+big issues," on a national level. How does working small help that?
+
+I don't have an answer that will make you happy. My own personal opinion is
+that the actual answer is there is nothing you can do. Small-scale social change
+is what you can do, and is what is under your control.
+
+Anything else is "political hobbyism." You can write letters to your congressman,
+post on social media, and _care deeply_ in front of anyone who will listen. But
+the solution is to work on areas that are under your control. Your neighborhood?
+That might be somewhat under your control. If you gather a group of concerned
+citizens? Then maybe your neighborhood is under control. Work with a network of
+like-minded organizations? (Like, say, those the Baha'i communities are involved
+in, hint hint?) Definitely more under your control. But working directly through
+democratic institutions? You have exactly one voice, no more than anyone else.
+And that's the extent of it.
+
+One think Baha'is generally not do are activities thought of as "direct action."
+That is, the sort of rowdy protests meant to make people uncomfortable. Such
+activities are seen as confrontational and disunifying. Defenders of direct
+action usually report "But _something_ must be done!" Unfortunately, doing
+just any _something_ is not effective. History has shown that this sort of "direct
+action" is seen by the sort of people you want to reach as obnoxious, thoughtless
+and inconveniencing.
+
+The way Baha'is think about the world prevents them from engaging in empty
+actions like political hobbyism and direct action.
+
+According to the Baha'i Faith, world events are unfolding is unfolding according
+to two plans. The Lesser Plan is the plan Baha'is are acting on - the small actions
+that Baha'is take that make the world better, growing over time as the community
+grows. The Greater Plan is the plan of the rest of the world. According to our writings,
+what we are witnessing is the loud, ugly collapse of The Old World Order. This is
+an order built on the obsolete "struggle for existence." In the Old Order, pillars
+of traditional authority have collapsed due to the loss of faith caused by misuse
+of authority. One where where abuses by those in
+governmental and religious authorities are excused by their supporters, who wish
+to privilege themselves above other groups. Where ideologies based on racism,
+nationalism, jingoism, sexism and unfettered, unregulated commerce prey on anyone
+hapless enough to fall into their spell.
+
+In Baha'i thought, the Baha'is are responsible for The Lesser Plan only. They are
+not responsible for bringing down the Old World Order. Our belief is that God will
+cleanse the earth of such ideologies in due time. Our only mandate is to provide
+an alternate order, and teach and assist others in our control to avoid falling
+victim to these pernicious ideologies.
+
+For those of you who look at the issues and desperately, fervently believe that
+"something must be done," I
+would submit that God, or if you'd rather, the inescapable wheels of history, will
+ensure that all those that follow the empty ideologies of The Old World Order are
+doomed to perdition. We must save who we can and warn people of the dangers. But
+meantime, our job is to build community and work on improving the world through
+small-scale change. 
 
 ## Psychic Improvement - Prayer and Meditation
 

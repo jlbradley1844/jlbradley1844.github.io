@@ -1,0 +1,116 @@
+---
+title: The Un-Christian Secret Behind the New Anti-Liberalism
+---
+
+## The Un-Christian Secret Behind the New Anti-Liberalism
+
+This is in response to some of the intellectual ferment on the conservative
+side. Normally, I would greet any sign of this as an unalloyed good.
+
+There are a lot of "little c" conservatives throughout the United States.
+By that, I mean, the sorts of people who fancy themselves as Burkean
+conservatives. Far from the confines of talk radio with its thinly veiled
+racism, jingoism and chauvinism, these are the sorts of conservatives that
+middle-of-the-road establishment journalists imagine middle America to be
+populated with.
+Such people are skeptical of governmental solutions - particularly
+of the top-down nature. They are skeptical of change, particularly when it
+appears to be change "for change's sake." And they are particularly concerned
+about the enervating effects of secularism and media-driven antipathy
+toward religion.
+
+There is a lot to recommend to such an attitude, and were such people 
+dominant within one of our political parties, the political situation in the
+country would look a good deal different and probably a good deal better.
+
+Many such people have figured out that conservatism has been ill-served by
+its marriage of convenience with commercial interests. This was never a terribly
+effective fit to begin with, anyway. The so-called "biblical family" doesn't
+work out terribly well if two-family professionals manage to outbid all
+the affordable property within reasonable commuting distance of the
+sorts of "breadwinner" jobs that would support a family. Blue- and pink-collar
+workers can't form families if all jobs available to the non-degreed pay
+too poorly to support an individual, let alone a family. You don't have time to
+form a family and participate in church life if you're tethered to an
+erratic, on-demand schedule by your employer. Finally, the chamber-of-commerce
+push of materialism and the consumer society has always been seen as
+enervating to religious life.
+
+My suspicion is that this
+marriage of convenience was mainly due to the nature of Christianity in
+America, particularly in the South where this marriage is strongest. 
+The "low" protestant denominations overrepresented among conservatives
+are run not by the pastors, but by the church board members themselves,
+who generally came from the modern-day "petty 
+bougois" of small-business owners, and they are ever sensitive to the needs
+of their wealthiest members, whose donations are needed
+to keep church budgets balanced. Eventually, though, the needs of
+"big business" to appeal to increasingly secular and liberally-oriented
+college graduates meant an actual rift with conservatism. And so here we
+are with many conservatives not really wanting to represent "big business."
+To this end, a number of conservative scholars have begun mapping out
+a more consistent anti-liberal response - not just social liberalism, but
+economic liberalismi as well, particular the "race to the bottom" compitition
+for wages and business regulations.
+
+On paper, such developments, especially if reflected in their political counterparts,
+would be great! This would appear to deliver an ideal respite to moderate voters
+tired of seeing their economic concerns thwarted. This would deliver a corrective
+to years of what has been one-sided victories for the business class.
+
+Unfortunately, there are problems with this. The first, of course, is that
+these are a bunch of intellectuals writing about conservatism, not politicians.
+There is no guarantee that the politicians will follow.
+However, from the position of this article, the problem is just what these
+anti-liberal conservatives want to replace liberalism with. Their problem is
+not just economic and social liberalism. It is the whole enlightenment project.
+
+However, there is a deeper problem with conservatism as it styles itself. It
+has to do with certain ideals it poses as defending, but is in fact opposed to.
+
+One thing that conservatives are uniform in is the defense of The Church. When
+you ask them what is meant by that, they will not specify a particular denomintation.
+Many of these intellectuals are Catholic, but they are clear that they do not
+mean the Catholic Church - particularly not now, with Pope Francis at the helm. No,
+what they mean is some mythic traditional Church of The People - whatever that may
+be. They do not specify what this is, but they seem pretty insistent that whatever
+it is, it's supposed to be "biblical" (whatever that means) and above all, Christian.
+
+There are two very large problems with this.
+
+The most obvious problem is the fact that by failing to specify a denomination, they have
+not made things any simpler for anyone. There are some conservatives that are supporting
+of reigion _as a concept_ in much the same way Baha'is are; e.g. defending religious denominations
+on all stripes. However, this is plainly not is what is going on. Most conservatives,
+by their own admission, seek not just to disadvantage atheists and those of a secular
+mindset, but many other faiths seen as "non-Western";
+Paganism, Buddhism, Hinduism, and above all Islam must take a back-seat to the Christian
+religion, which is seen as far more authentically "Western". But here, too, you have an
+even more significant problem - what do you do about Jews? Who, however much you may
+pretend otherwise, have no interest in becoming more Christian, or complying with blue
+laws, beliefs on abortion and a host of other conservative issues? Indulge the Jews and
+you appease many Jewish conservatives and, hopefully, purge charges of anti-semitism from
+opponents of conservatism, But doing so creates an obvious intellectual loophole in your
+entire edifice - one that seems especially odd for conservatives living in middle American
+states with extremely low Jewish populations.
+
+However, the biggest problem is the religion they've chosen to defend: Christianity.
+
+The problem is this "Jesus guy" and everything he said in the Gospels. One can found a
+conservatives society on "Christianity"; even a revanchist society. Falangist Spain and
+nineteenth century Ireland were deeply conservative, and many aspects of society were
+practically run by the Catholic Church. However, if you don't specify a denomination,
+you are left with just Jesus and the Gospels as the unifying force.
+
+I hate to break this to you: Jesus' message isn't particularly conservative.
+
+There's a reason the "red-letter" Christians tend to be of the more liberal ilk; because
+so much of what Jesus himself is deeply un-conservative.
+
+Which probably explains why, when you look at them deeply, many of these conservatives
+aren't actually... terribly Christian. A number of them are atheistic - in fact, the wealthy
+people bankrolling this are frequently not just unreligious, but espouse philosophies
+known to be explicitly atheistic. But others seem quite evidently "religious and not
+spiritual." So with one hand, they boost the standing of religion in society; and on
+the other, they rail against antipoverty charities and advocates to refugee resettlement,
+in spite of the fact so many of them are explicitly Christian.
