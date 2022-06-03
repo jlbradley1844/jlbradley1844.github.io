@@ -62,7 +62,11 @@ important.
 -----------------------------------
 
 For the first part of this column, let's cover point #1 - actual
-defenders of racist thought. Unfortunately, we've reached the limits on the
+defenders of racist thought. The following is a bit of a diatribe,
+but it's worth saying out load if only to respond point-by-point to
+the latest intellectual inventions flogged to defend white privelege.
+
+This is not an attempt to "bridge the gap"; we've reached the limits on the
 effectiveness of simply speaking out and arguing logically. The notion
 that there is an organized "politically correct" movement in the fevered
 imaginations of many shows that at this point, those with racist
@@ -86,7 +90,7 @@ prejudiced against a group, recognize that, and simply keep their
 mouth shut and go about trying to otherwise be a good person. It is
 yet another thing to attempt to endlessly intellectualize and justify
 one's own prejudices. It isn't simply prejudice that animates racist
-behavior; you need to also believe your inclinations are sufficient
+behavior; you need to also believe your inclinations are sufficiently
 justified to elevate yourself and your kind above others. And if you
 are personally unprejudiced, but you're the kind of person who seeks
 to elevate themselves above others by any means necessary, you
@@ -103,87 +107,96 @@ arguments. Their arguments must now be more convoluted, due to the
 fact obvious racism is seen as disqualifying. But they will seek to
 justify the same thing.
 
-* First, we must realize that white supremacists constitute a
-  sizeable minority of American society. Euphemisms like *racial
-  resentment* won't cut it; there are white supremacists, there are
-  lot of them in the US, and fixing this is going to be a
-  problem. Please note, however, that very, very few white
-  supremacists will claim to be such. They use weasel words to
-  distance themselves in discussions very consistently - "I'm just
-  raising an issue for discussion," "I don't believe it, but some do,"
-  or the favorite, "Some people say..."  Unfortunately, we can see
-  their actions, politically or institutionally, and that gives them
-  away.
+First, we must realize that white supremacists constitute a
+sizeable minority of American society. Euphemisms like *racial
+resentment* won't cut it; there are white supremacists, there are
+lot of them in the US, and fixing this is going to be a
+problem. Please note, however, that very, very few white
+supremacists will claim to be such.  White supremacists, or 
+their "I'm just asking a question"-wannabes,
+will never overtly say "I am of the master race," and will never
+directly say "I believe those people are inferior."
+In their arguments, they use weasel words to
+distance themselves from taking a position - "I'm just
+raising an issue for discussion," "I don't believe it, but some do,"
+or the favorite, "Some people say..."  Unfortunately, we can see
+their actions, politically or institutionally, and that gives them
+away.
 
-* White supremacists, or their "I'm just asking a question"-wannabes,
-  will never overtly say "I am of the master race," and will never
-  directly say "I believe those people are inferior." Yet, inevitably,
-  such people turn around and state the natural state between the
-  races as a to-the-death competition, and they seem inordinately
-  concerned with pure-white birthrates seen as falling behind. I
-  suspect some of this may be due to fears that [brown people are
-  taking all the white women](lets-fix-some-altrighters). In any
-  event, their claim is that mankind's heritage of enlightenment
-  philosophy and indistrialism is an exclusive birthright of the white
-  race, and it is all threatened by encroaching brownness. In this
-  context, when they claim not to be white supremacists, who are they
-  kidding?  They believe in "separate but equal" for all races - but
-  more equal for themselves.
+Inevitably, such people turn around and state the natural state between the
+races as a to-the-death competition, and they seem inordinately
+concerned with pure-white birthrates seen as falling behind. I
+suspect some of this may be due to fears that [brown people are
+taking all the white women](lets-fix-some-altrighters). In any
+event, their claim is that mankind's heritage of enlightenment
+philosophy and indistrialism is an exclusive birthright of the white
+race, and it is all threatened by encroaching brownness. In this
+context, when they claim not to be white supremacists, who are they
+kidding?  They believe in "separate but equal" for all races - but
+more equal for themselves.
 
-* Likewise, racists may convey more nuanced scientific knowledge about
-  races, but this does not make them any less racist. One does not
-  need to buy into the outmoded racial thinking of turn-of-the-century
-  phrenologists to justify racist beliefs. Some "racial realists"
-  instead base their arguments not on superiority of individual races,
-  but on bizarre concepts such as racial or ethnic purity - for
-  instance, an insistence on proving the intellectual superiority of
-  groups that show unusual genetic uniformity, such as Ashkinazi Jews
-  or Han Chinese. Their argument is now that the beutiful, superiour
-  flower of whiteness, asiannes, blackness, whatever, is endangered by
-  mixing, and woe forbid we mongerlize them. This argument, however,
-  is entirely instrumental. There are plenty of other examples of
-  populations with similar uniformity that they do not hold up as
-  examples. And wouldn't you be shocked to know that blacks and
-  hispanics in America are much more genetically diverse populations
-  than whites hahahahaha who are we kidding?  Racists pick out their
-  targets first, then they picked out their argument, not the other
-  way around.
+Racists, or "racialists" as some call themselves, may convey more 
+nuanced scientific knowledge about
+races. This does not make them any less racist. One does not
+need to buy into the outmoded racial thinking of turn-of-the-century
+phrenologists to justify racist beliefs. Some "racial realists"
+instead base their arguments not on superiority of individual races,
+but on bizarre concepts such as racial or ethnic purity - for
+instance, an insistence on proving the intellectual superiority of
+groups that show unusual genetic uniformity, such as Ashkinazi Jews
+or Han Chinese. Their argument is now that the beutiful, superiour
+flower of whiteness, asiannes, blackness, whatever, is endangered by
+mixing, and woe forbid we mongerlize them. This argument, however,
+is entirely instrumental. There are plenty of other examples of
+populations with similar uniformity that they do not hold up as
+examples. And wouldn't you be shocked to know that blacks and
+hispanics in America are much more genetically diverse populations
+than whites hahahahaha who are we kidding?  Racists pick out their
+targets first, then they picked out their argument, not the other
+way around.
 
-* White suprematists are eager to couch their concerns as a defense of
-  the "distinctiveness of their culture" and its preservation,
-  whatever that is. This "white culture" is generally conflated with a
-  bunch of things that White People Say They Like, e.g., things like
-  democracy (which lateley the racists seem not to like so much). This
-  is an attempt to show that they aren't racists, and the problem
-  isn't the color of people; it's just a problem with the way _those
-  people_ act. If _those people_ choose to act differently, they can
-  be treated the same. Of course, the way _those people_ act is never
-  a point of serious discussion; if it were, you can guarantee _those
-  people_ acts seem to be exactly _us people_. To give a very specific
-  example: depressed rural white manufacturing
-  communities now show the exact same social pathologies that depressed
-  inner city communities show. No, their understanding of how _those
-  people_ are is taken from their own racist press releases and
-  twitter feeds, scare stories from the evening news, fictional mass
-  murderers from urban myths and tales of "American carnage" from
-  cities they've never visited.
+More press-sensitive white surprematists no longer claim biological
+superiority and will now happily claim that,
+all things being equal, a black child "raised
+white" will be culturally "white" and not an inferior. They will use
+as their proof the occasional odd black person they know whose
+political beliefs they approve of, or characters they like from
+funny sitcoms who happen to be black. So they're not racist, right?
+Problem solved! Unfortunately, actual
+black people in real life can never "cash in" on this ostentible
+equality. If instead of growing up with my white two-parent family
+in Louisville, suppose I instead grew up in Kansas with my single
+white mother, and had an black abseentee father.
+Would those things make me "culturally black" and so alien
+that I was incapable of fitting in in America?  No, duh, I'd be
+white. Just kidding, of course it's not true, because apparently 
+[this guy](http://en.wikipedia.com/wiki/Barak_Obama) is not only
+culturally black, but so alien that he is incapable of understanding
+democracy in the same way white people are! (Yes, this was said by
+many of the more "intellectual" racists.)
 
-* Some racists have even dropped the biological arguments and will now
-  happily claim that, all things being equal, a black child "raised
-  white" will be culturally "white" and not an inferior. They will use
-  as their proof the occasional odd black person they know whose
-  political beliefs they approve of, or characters they like from
-  funny sitcoms who happen to be black...ish. Unfortunately, actual
-  black people in real life can never "cash in" on this ostentible
-  equality. If instead of growing up with my white two-parent family
-  in Louisville, suppose I instead grew up in Kansas with my single
-  white mother, and had an black abseentee father.
-  Would those things make me "culturally black" and so alien
-  that I was incapable of fitting in in America?  No, duh, I'd be
-  white. But if that's the case, how did certain people come to decide
-  [this guy](http://en.wikipedia.com/wiki/Barak_Obama) is not only
-  culturally black, but so alien that he is incapable of understanding
-  democracy in the same way white people are?
+Finally, white suprematists are eager to couch their concerns as a defense of
+the "distinctiveness of their culture" and its preservation,
+whatever that is. This "white culture" is generally conflated with a
+bunch of things that White People Say They Like, e.g., things like
+democracy (which lateley the racists seem not to like so much). This
+is an attempt to show that they aren't racists, and the problem
+isn't the color of people; it's just a problem with the way _those
+people_ act. If _those people_ choose to act differently, they can
+be treated the same. Of course, the way _those people_ act is never
+a point of serious discussion; if it were, you can guarantee _those
+people_ seem to be exactly _us people_. To give a very specific
+example: depressed rural white manufacturing
+communities now show the exact same social pathologies that depressed
+inner city communities show. High unemployment, high crime, high
+teenage pregnancy. When this fact is pointed out, chatroom "racial
+realists" usually respond by saying these pathologies were "imported"
+from the inner cities. Of course, they have no idea what is in inner
+cities; their understanding of how _those
+people_ act is taken from their own racist press releases and
+twitter feeds, scare stories from the evening news, fictional mass
+murderers from urban myths and tales of "American carnage" from
+cities they've never visited.
 
 This is the crux of the problem - a set of arguments which no longer
 pretend to be intellectually based, but are instead emotional appeals
@@ -196,8 +209,8 @@ have graduate degrees and in all likelihood, our children will too. Am
 I to believe that when they talk about the mongrelization and
 bastardization of the races, these people are thinking of me? My guess
 is that these manifesto-writers would eagerly overlook all their
-careful tenditious research and eagerly declare my spouse and children
-"honorary white," at least in the purpose of their common
+"research" and eagerly declare my spouse and children
+_honorary white_, at least in the purpose of their common
 cause. Indeed, many would use their existing association with friends
 like me as proof their aren't racist. But if that's the case, how can
 the mixing of races be problemetic and at the same time my children be
@@ -216,10 +229,13 @@ dirty carrying out the actual evil. Why get involved when a politician
 can do that for you? So much of the energy expended by racists is on
 using just these mechanisms for getting their way, be it crooked
 politicians, underfunded schools or underpaid law enforcement
-officials.
+officials. Or...
+
+... using popular and press-hungry talking heads and politicians to
+plant racist conspiracy theories into people's head.
 
 Having dealt with that, we are now free to analyze the animus behind
-the so-called "great replacement" theory, the idea of shadowy elitists
+the so-called "great replacement" theory, the idea that shadowy elitists
 are behind a secret effort to outbreed white folk. If columnists are
 to be believed, this is a dangerous idea with the potential to turn
 mere racists into closet radicals and terrorists.
@@ -234,10 +250,10 @@ white suprematists sued genetics testing companies for providing test
 results showing they had black or native American blood. Furthermore,
 the concern of such people is downright phony when you consider how
 many of the men involved in racist movements have serious asian fetishes
-and have no problem marrying across bloodlines that way. It is
+and have no problem marrying across bloodlines themsleves. It is
 commonly said that computing farms is what makes the internet go, but
-the events of the past few years indicate this is false. Stupidity is
-what makes the internet go.
+the events of the past few years indicate this is false. Stupidity and
+asian porn is what makes the internet go.
 
 Replacement theory is a ruse. It is well know that the best way to
 take your attention off of an obvious flaw within you is to accuse
@@ -268,13 +284,16 @@ But once you dispose of actual racists, you get to the more serious
 problem, as I brought up in point #2. Racism as practiced by the
 non-racists.
 
-You don't need to be prejudiced to exhibit racist behavior.
+You don't need to be prejudiced or have racial resentment to 
+exhibit racist behavior.
 
 Racism is how one treats _aggregate_ groups of people, as they exist
 _in the aggregate_. Many people misconceive of this, and erroneously
-believe you need prejudiced, personal invective against specific
+believe you need to have prejudiced, personal invective against specific
 individuals to be racist or be in a position of power to be
-racist. Unfortunately, this lets too many people off the hook. After
+racist. Unfortunately, this lets too many people off the hook, which
+explains why black people suffers from racism even when surrounded
+with white people of good will. After
 all, most people, perhaps including you, dear reader, fulfill social
 roles where we have little power over anyone else. The only power most
 have is in the voting booth and through who you associate with, what
@@ -295,11 +314,10 @@ of racism in the Baha'i writings! So I'll propose one myself:
 I came up with definition because I needed one that recognized racism
 need not be applied in some sort of intellectually consistent
 manner. Hence, the "honorary whiteness" afforded my
-affluent mixed-race family, by virtue of our being upstanding members
-who pay more than most Americans in taxes, and by my children being
-unatheletic enough that that their own eldest son, who they always
-wanted to be the football captain, will have nothing to fear competing
-against mine. (Let's be honest, the main way I encountered racism as a
+affluent nonwhites, by virtue of them being upstanding society members
+who pay more than most Americans in taxes, and by having children too
+academic and unathletic to take up valuable slots on the high school
+sports team. (Let's be honest, the main way I encountered racism as a
 child in Kentucky was people complaining that the black kids were
 taking up all the slots on the football team. Well, that, and [this
 other story](who-killed-community)).
@@ -324,10 +342,9 @@ having at one point or another. So why do people do this?
 The answer is simple - because people are jerks.
 
 Oh, I don't mean all the time. We all try to be good people. But in
-many cases we fall short. But bad behavior isn't a
+many cases we fall short. And bad behavior isn't a
 mystery. Psychologically, we know exactly when we are going to fall
 short. It's due to a sort of lack of willpower.
-
 When do we stop being good? When we're tired. When we're dealing with
 someone we don't think we're going to see again. When we're dealing
 with someone unimportant. When our blood sugar is low(!). If we're
@@ -364,7 +381,8 @@ To the extent that one fixes racism, part of it is awareness and
 fixing predjudices. But there is another part where you simply have to
 bring up morals across the board to eliminate racism. There will
 always be disadvantaged groups - indeed, if you are poor and white and
-growing up in the middle of nowhere, you're in one too. And venal
+growing up in the middle of nowhere, you're surely disadvantaged
+in the same way. And venal
 people will misuse you just because they can - just as surely as they
 will misuse people of other races.
 
@@ -374,10 +392,12 @@ creatures of sunshine, light and intellect who receives guidance
 directly from Inner Light (or Science), and can dispense with the need
 of that *pshaww* religious stuff, but consider that perhaps *the rest
 of us*, like this poor writer, benefits from such guidance. That would
-seem to imply that antiracism is would be an important point of
+seem to imply that antiracism should be an important point of
 emphasis for religions - not only because of its evident evil, but
 because racist behavior comes from an inheritently negative and venal
-place. Unfortunately, religious authorities have done an especially
+place. 
+
+Unfortunately, religious authorities have done an especially
 bad job on this in the past. Baha'i authority Shoghi Effendi noted the
 damage done to Christian belief by efforts in the early 20th century
 to conform church teachings with their parishoner's own odious racial
@@ -396,8 +416,8 @@ This whole moral argument seems far removed from the
 pseudointellectual claptrap of white supremacist arguments and the
 predjudices of you've seen a bigoted relative exhibit. Yet the
 difference between an avowed white supremacist and someone with slight
-moral failings is less than you might think. Let's examine following
-people, who are angels except for one fatal flaw:
+moral failings is less than you might think. Let's examine some situations
+involving following normal people, who might be angels normally, except...
 
 * An extremely competent police chief of a major city has a problem
   with a handful of his officers. They've been cited a number of times for
@@ -406,7 +426,7 @@ people, who are angels except for one fatal flaw:
   things slide; being an officer is a stressful job, and anything more
   severe will involve fighting with the unions.
 
-* A parishoner doesn't like politics and never has. She normally
+* A committed churchgoer doesn't like politics and never has. She normally
   doesn't even vote, but this year she's going to vote for someone her
   pastor and fellow parishoners really like. She heard she's done
   racist things - even heard news reports - but she votes for him
@@ -420,8 +440,9 @@ people, who are angels except for one fatal flaw:
   population with a lot of disadvantaged kids. After the partition,
   the southern school will have a fair bit of trouble due to the loss
   of tax base, and many children from that area will lose access to
-  accelerated coursework only available in the school up north. But he
-  says this is our children we're talking about - it isn't charity.
+  accelerated coursework only available in the school up north. But your
+  neighbor points out this is he our children we're talking 
+  about - it isn't charity.
 
 Each of these individual people involved are on balance decent human
 beings, and none of these acts seem overtly harmful. At worst, they're
@@ -515,18 +536,21 @@ friendship if you are to reach others of a different race. This is
 particularly so if someone is restricted to a limited social
 circle. (Yes, I realize this can be overdone.)
 
-Beyond this, however, systemic racism can result not from prejudice,
-but from ordinary moral failures and venality.
+But in the end, this is an ethical and spiritual phenomenon. It takes
+good acts and spiritual willpower to fix racism. It is important
+that the Baha'i community has taken explicit stances against racism,
+but is even more important that its primary focus is on the spiritual
+development and improvement of character in its own members. And in
+that, the Baha'i Faith is not alone in the religious community. The
+seeds for resolution are in all religious communities.
 
------------------------------------------------------
-
-Let's examine this. There are particularly insignificant-seeming moral
-failures which contribute to this "structural racism." Let's break
-this down to some specifics:
-
-** BACKBITING **
-
-
-
-
-
+The Baha'is are called upon to create "a new race of people," free
+from prejudice. From this point of view, literally _all_ religions
+are called to support "the great replacement," in the sense that they
+seek to replace venal and materialistic cultures with cultures of
+ethical behavior and spiritual uplift. One hopes the religions of
+the world will not be silent in this area. As for those that are -
+perhaps it's because they're not really religions.
+But in the end, God's Will is inevitable, and the populations of
+the earth that long for racial purity and the superiority of
+their kind will be replaced.
