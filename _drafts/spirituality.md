@@ -1,6 +1,20 @@
 ---
 title: The Baha'i View of The Spiritual
 ---
+### Abstract
+
+The concept of spirituality is an important one to Baha'is. Indeed,
+Abdu'l-Baha says that our knowledge of the spiritual must catch up with
+our knowledge of the material. Yet there is no single definition of
+what "spiritual" means, and in common conversation it has become a term
+so vague as to be meaningless for serious discussions. This paper aims
+to distinguish between several different meaning of "spiritual," first
+covering popular conceptions in both "Western" religions and philosophy,
+and then covering what is meant by "Spiritual" in the Baha'i writings.
+The goal is to bring precision and meaning to conversations about
+spirituality.
+
+## Spirituality: An Introduction
 
 Spiritual: An empty but uplifting term often found in personals ads.
 
@@ -36,15 +50,110 @@ make its use more concrete in discussions, prevent its misuse, and prevent its
 mismeasure by materialists who wish to recast spiritual things as a matter entirely
 of physical mechanics.
 
+Part of the difficulty of spirituality is the fact so many view exist, and when
+someone refers to something being "spiritual," or a spiritual reality, it is usually
+embedded in the world view of the speaker.
+
+## Spirituality - A Categorization
+
 So in popular parlance, "spirituality" is thought of as entirely religious in
 nature, referring entirely to non-emperical phenomenon, to be upheld entirely
 by personal belief and faith only.
-Material concerns are thought of as the domain entirely of science. True materialists
+Material concerns are thought of as the domain entirely of science. 
+
+### Materialist Views
+
+####True materialists
+
 handle talk of the "spiritual" by dismissing it entirely. Those who wish to keep
 the scientific pursuit while acknowledging the spiritual hedge this by thinking
 of the spiritual and material as two different "magesteria"; e.g. the study of
 material or measurable things is the purview of science only, and anything spiritual
 is the purview of the religious.
+
+The underlying worldview of the materialist is that "spiritual" refers to a make-believe
+magical world, and spirituality is thought of as being little distinguished from
+magical thinking. The "just-so story" told by such materialists is that religion was
+an invention by primitive people which was use to explain natural phenomenon. As
+the scientific revolution explained more of this phenomenon, spiritual explanations
+lost salience, and spirituality is now no longer a valid concept.
+
+This is possibly the most widespread view of spirituality - that of "an invisible world"
+which avoids scientific inquiry and therefore may be meaningless. The fact it is so
+popular does not make it a religious point of view; it is, in fact a deeply materialistic
+point of view. Sophisticated, humanistic conceptualizations of spirituality having nothing to do
+with natural phenomonon appeared long before the scientific revoltion most materialists
+look towards.
+
+#### Religious Materialists
+
+There are also religious beliefs that take the opposite view - believing that there
+is no invisible world, and that in fact religion takes place entirely in the physical
+world.
+
+If one reads ancient myths of the Greeks, the books of Genesis and various myths of
+other cultures, there is little appeal to abstraction or invisible worlds. The Gods
+were real physical beings, who did things in the physical world. [TODO; when did the
+conceptualization of spirituality come into being??] One will look for vain in these
+myths for anything resembling a heavenly place free from the material world; everything
+being conveyed is stringly materialistic and concrete.
+
+Strict materialists have extrapolated this world view to the religions of today, but
+this has also been the case of many sects inside Christianity, Islam and other religions.
+In both Christianity and Islam, such concepts as heaven, hell, "resurrection of the dead," 
+and "the Day of Judgement" are said to all exist in the physical world. This "religious
+materialism" is frequently a sign of fundamentalism; see, for
+example, Vahid Ranjabar's talk on "materialistic spirituality";<https://youtu.be/R98AnJ3hDFg>. 
+In this case, the religions themselves chose to interpret entities
+intended to be spiritual and non-material as having material realities, in
+many cases due to a misguided fanatical mindset.
+In the worst case, such beliefs have been used to justify opression by religious groups
+of other religious groups in the here and now.
+
+An interesting viewpoint is that "scientific religious materialists"; that is, those
+who believe actual religious events and phenomenon such as immortality can be explained
+with scientific process. Probably the only notable example of this is Frank J. Tipler's
+Omega Point Theory, which posits a physical process explaining resurrection and immortality.
+
+### Spirituality as an Unseen World
+
+Somewhat related to this is the more conventionaly idea: spirituality as an unseen
+world. To many, this is where many of the things felt as "relgious" exist: God, Angels,
+the souls of the Dead, and other sort of beings.
+Followers of the all major world religions, with the arguable exception of Buddhism,
+claim some sort of belief in this spirit world.
+
+This formulation is so commonplace that it is felt to be identical to relgious belief.
+Indeed, when
+someone claims they are "Spiritual but not religious," the accepted interpretation
+by others is that this is a person who does have religious beliefs, but
+has either not formalized a creed or does not accept those of any of
+the religions they know about. Such people range from agnostics skeptical of
+any spiritual world to people who have invented their own religion with heavily
+populated other worlds. Surveys that cite falling religious belief typically
+make no distinction between the two.
+
+The views of The Bab and Baha'u'llah come from the matrix of the Islamic world,
+and for that reason, it is important to consider the nature of spiriuality in
+Islam.
+One view of spirituality in Islam is that of an "unseen world" - a world outside of
+our own that is immaterial yet somehow interacts with us. And "the unseen" (al-ghayb,
+or al-ghiab) is directly referenced in the Koran. The unseen world is described as
+something directly known only by God Himself.
+This unseen world is populated by beings, just as the seen world is. In the
+unseen world, there are three entities: angels, which are immortal and purely
+good, devils, which are immortal and strictly evil, and djinn, which are similar
+to humans in that they are mortal and may be good or evil.
+
+The Islamic concept of "the unseen" is not limited to such worlds, but includes
+other things such as prophecied future events like The Final Judgement and The
+Resurrection. As such, it's careful to note that when a Muslim talks about "the
+unseen," it does not mean this person beliefs this is something that will not
+manifest itself physically. As for Baha'i beliefs, it is clear that any of these
+are interpreted as being spiritual; much of this is elaborated in Baha'u'llah's
+_Book of Certitude_.
+
+#### Spirituality as Magic
 
 Another word thought to be related to spirituality is supernatural. This is used
 in the writings as a synonym for spiritual. The word literally means "not of the
@@ -62,80 +171,49 @@ similar skepticism about "The Good," "The Beautiful," virtuous conduct, and a
 host of other human concerns we find real but that they find to be undefineable
 and untestable, and hence, meaningless.
 
+### Spirituality as Faith
+
 Note that it is not necessary that religion and spirituality necessarily go together.
 Some religions are outright skeptical of non-material explanations. Some schools
-of Buddhism eschew any discussion of invisible realities. And many "fundamentalist"
-Christians see concepts thought of as spiritual - concepts like the resurrection,
-the afterlife, the apocalypse - entirely in material terms. And there have
-been efforts to actually study spiritual "things"; e.g. the work by the Templeton
-studies. Finally, in many cases, the religions themselves chose to interpret entities
-intended to be spiritual and non-material as having material realities, in
-many cases due to a misguided fundamentalism or fanatical mindset; see, for
-example, Vahid Ranjabar's talk on "materialistic spirituality"; 
-<https://youtu.be/R98AnJ3hDFg>.
+of Buddhism eschew any discussion of invisible realities. 
 
-But in general, the formulation _spiritual = religious_ still holds. Indeed, when
-someone claims they are "Spiritual but not religious," the accepted interpretation
-by others is that this is a person who does have religious beliefs, but
-has either not formalized a creed or does not accept those of any of
-the religions they know about.
+One alternate view of spirituality is as a sort of Faith - e.g. a belief in
+a claim without proof.
 
-## Historical Background
+Christianity and many strands of Islam lean heavily on this. Indeed, fideism, the
+belief that relying on faith alone rather than on reason is the essence of religion,
+is very strong in many Christian sects, and is see as the essence of spirituality.
+This is possibly seen most strongly in their belief in prophecy and unshaking faith
+in the end times.
+This is not just the provenance of peculiar sects in Christianity; where spirituality
+is referred to in the New Testament, often it is with respect to the spirit of
+Faith seen as important in every Christian believer.
 
-The concept of sprituality is generally grounded in a worldview. The Baha'i
-worldview is acknowledged to be the view of its prophets The Bab and Baha'u'llah,
-but this view did not come _ex nihilo_. Rather, the teachings of The Bab and 
-Baha'u'llah elaborated a vew of spirituality that built on and exteded certain 
-used within both Islam and Christianity, as well as certain philosophies known
-to that world. Additionally, there are some philosophies contemporary with this
-revelation.
-
-This section will discuss these views, as they will help frame discussions
-of the spiritual found in the Baha'i writings. In the area of religion,
-Islam is the most prominent, though the Christian tradition is worth examining.
-In the area of philosophy, both neoplatonism and scholasticism discussed
-spirituality and influenced thinking in both religions.
-
-### Islam: "Tbe Unseen" and Mysticism
-
-The views of The Bab and Baha'u'llah come from the matrix of the Islamic world,
-and for that reason, it is important to consider the nature of spiriuality in
-Islam.
-
-The Koran itself is of little help in elaborating "spirituality"; the term itself
-does not seem to be found there. The similar term "spirit" is used not for spirituality
-but for Jesus, who is referred to as "The Spirit" extensively throughout the Koran.
-
-One view of spirituality is that of an "unseen world" - a world outside of
-our own that is immaterial yet somehow interacts with us. And "the unseen" (al-ghayb,
-or al-ghiab) is directly referenced in the Koran. The unseen world is described as
-something directly known only by God Himself.
-This unseen world is populated by beings, just as the seen world is. In the
-unseen world, there are three entities: angels, which are immortal and purely
-good, devils, which are immortal and strictly evil, and djinn, which are similar
-to humans in that they are mortal and may be good or evil.
-
-However, "the unseen" may not exactly map onto our own concept of spirituality.
-"The Unseen" is not limited to events taking place in an
-invisible world; for instance, The Day of Judgement is said to be to be unseen
+This has an analog in Islam. For some, elements of "the Unseen" such as the
+Resurrection of the Dead and The Day of Judgement is said to be to be unseen
 because it is knowledge of a future event. Louay Fatoohi in
 <https://www.quranicstudies.com/quran/the-concept-of-ghayb-unseen-in-the-quran>
 notes that in many cases, "ghayb" is more correctly translated as "matter of
 faith. Still, these are considered matters of faith because they are unseen,
 and the unseen extends to articles of faith such as belief in the prophets,
 belief in divine books, and belief in predestination ("Al-Ghaib", Wikipedia 5/25/2022).
-Still, for many believers, religious faith is what counts as spiritual behaviors.
+Such religious faith is seen as spiritual due to the belief it cultivates
+in believers.
 
-Spirituality in traditional Islam can be interpreted in many ways. This may involve
-important articles of faith. For instance, the "resurrection of the dead" has been
-interpreted by many as being an essentially spiritual concept, one which if it does
-exist, takes place in an immaterial spiritual realm. Others view this as another
-element of "the unseen" which describes actual events to take place in the future.
-This was the view of Al-Ghazali, who wrote nine hundred years ago and thought of
-as the philosophical founder of Sufism. He also thought of every physical reaction
-that happened as being occasioned by God himself, making virtually everything that
-happens in the physical world an act of Faith (as for physical laws, he claimed the
-only reason these hold is God is rational).
+For fideistic believers, this belief can sometimes overlap with beliefs
+of religious materialism, producing an impression of a spiritual world that
+is something close to magical. In such cases, there is no clear demarcation between
+a spiritual world and a physical world. The spirit world _is_ the physical world,
+and those with enough faith can see the signs in the physical world.
+The skeptical have simply not been able to benefit from the spirit world
+powers due to their lack of faith.
+
+### Spirituality as Mystical Experience
+
+One of the most powerful religious traditions is that which thinks of
+spirituality in a personal nature. Spirituality is felt by individuals
+wishing to bring themselves into God's presence - an altered state of
+being where one may "meet God".
 
 Islamic mysticism, which developed during the "golden age" of Islam in the tenth
 through twelfth century, more fully developed the sense of "The Spiritual" in Islam.
@@ -144,23 +222,24 @@ including such works as "The Seven Valleys," "The Four Valleys" and "The Tablet 
 All Food." This mysticism, as practiced by many Sufi orders, was aimed at developing
 spiritual behaviors in an attempt to achieve "union with God."
 
-### The Christianity Spirit and Mysticism
+There is also a powerful element of the mystical in Christianity.
+As in Islam, Christianity also has an extensive history of mysticism, and the hagiography
+of its saints is filled with the names of mystics who sought the paths to their union with God.
+Just as Sufi orders detached from the world in their quest, many Christian mystics found
+their path in ascetism and withdrawl from the world. In both orders, "spiritualty" is not
+only something that is felt, in one's heart during prayer; it is a life one leads. Interestingly,
+when perusing works on such saints, the impression one gets is their main activity is
+"being spiritual." 
+(Ursula King, _Christian Mystics_. 2001 Hidden Spring (Paulist Press), Mahwah NJ.
+The lives of the numerous mystics in both the Islamic and Christian traditions attest
+to the fact that spirituality can be an experience as much as it is a thing.
 
-The Gospels, like the Quran, say little regarding a "spirit world." This is particularly
-true of the early synoptic Gospels (Mark, Matthew and Luke), which generally cover
-the miracles, teachings and parables of Jesus, as well as major events, without ever
-glossing into details of spirituality. When "spiritual" things happen, it's generally
-miracles and exercisms, which are explained by Jesus Himself as simply signs of God.
-Likewise, even includes the Gospel
-of John, one of the last books written and the one in which matters of faith are discussed
-the most extensively, doesn't use the world spiritual.
-However, unlike the
-Quran, The Bible contains many books written after the Gospels took place, explaining 
-the belief of certain early Christian
-fathers, and these speak of spirituality. 
-The spirituality discussed is very much similar to the "sense of faith" described
-by some Islamic writers regarding the unseen, and in many cases, when the world "spiritual"
-is used, one could interchange with the word "religious" or "christian" without losing
+### Spirituality as a Religious State
+
+Overlapping with spirituality as a mystical state is the conception of
+spirituality that sees someone as "spiritual" who has turned one's
+belief wholly to a cause. In many cases, when the world "spiritual"
+is used, one could interchange with the word "religious" or "Christian" without losing
 sense of the meaning of the sentence. For instance, the message of Jesus is described
 as a "spiritual gift" (Romans 1:11); the goal of the teachings is to bring "wisdom and
 spiritual understanding" (Collosians 1:10). But there are inklings of the use of "spiritual"
@@ -185,22 +264,7 @@ discussed:
 > that are earthy: and as is the heavenly, such are they also that are heavenly.
 >                                        (1 Corinthians 15:39-48)
 
-The Koran has no accompanying commentary for its believers to adopt. Here, we see that the
-use of "the spiritual" as illuminating dualist view of human nature, one repeated in the
-Baha'i writings. 
-
-As in Islam, Christianity also has an extensive history of mysticism, and the hagiography
-of its saints is filled with the names of mystics who sought the paths to their union with God.
-Just as Sufi orders detached from the world in their quest, many Christian mystics found
-their path in ascetism and withdrawl from the world. In both orders, "spiritualty" is not
-only something that is felt, in one's heart during prayer; it is a life one leads. Interestingly,
-when perusing works on such saints, the impression one gets is their main activity is
-"being spiritual." 
-(Ursula King, _Christian Mystics_. 2001 Hidden Spring (Paulist Press), Mahwah NJ.
-The lives of the numerous mystics in both the Islamic and Christian traditions attest
-to the fact that spirituality can be an experience as much as it is a thing.
-
-### Neoplatonism and The Invisible World
+### The Unseen World of Philosophy
 
 The question one asks in response to both mystical experiences and doctrines that
 point "a spiritual world" is exactly what sort of world this is. In the case of both
@@ -208,7 +272,7 @@ Christianity and Islam, a philosophy called neoplatonism seemed to explain the
 existence of what seemed to be a real spiritual world that was not detectable with
 the senses.
 
-Neoplatonism is, of course, an outgrowth of Plato's philosophy. In particular, Plato
+Neoplatonism is an outgrowth of Plato's philosophy. In particular, Plato
 felt that all abstract entities existed in a perfect form in some other universe,
 and entities in this physical world were projection of this form. To explain our inability
 to see these forms, the famous "Cave" analogy was given - like someone who cannot see
@@ -218,7 +282,7 @@ make the mistake of confusing the shadows for reality itself. Neoplatonism is ph
 typically credited to the Egyptian philosopher Poltinus; in practice, "neoplatonism"
 was actually a term for the thoughs of a number of Western philophers circa CE 200-500
 which elevated the Platonic universe of forms to something like a spiritual world. For
-instance, one interpretation attributed to church father Philo 
+instance, one interpretation attributed to the Jewish philosopher Philo 
 conceiving of The One as the creator of this universe and The Logos as the intermediary
 between God and humans.
 
@@ -230,49 +294,74 @@ concepts. While not as central in Islamic thought, which had its own strong phil
 tradition, neoplatonic concepts still carried through Islamic thought for centuries,
 right through the Baha'i revelation.
 
-### Scholasticism and Spirituality
-
+Where this dominance fell away was due to late medieval philosophers, particularly
+St. Thomas Acquinas.
 If neoplatonism is commonly understood as the philosophical child of Plato,
-scholasticism is commonly understood as the philosophical child of Aristotle.
-In truth, the latter view of scholasticism is just as erroneous as the former
-view of neoplatonism, but at a very high level it has some truth, in that
+his philosophy is commonly understood as the philosophical child of Aristotle.
 it is an explicit outgrowth of Aristotle's own ontology. To give an example of
-the centrality of Aristotle, the most well-known and arguably greatest
-scholastic philosopher, St. Thomas Aquinas, referred to Aristotle as "The Philosopher." 
 Thomism is the scholastic philosophical school associated with his writings;
 frequently, "scholasticism" is used as a terminology for both Thomism and teachings
 of similar philosophers; e.g. Avicenna in the Islamic world.
 
+This provided a different philosophical framework with its own spiritual flavor.
 The Aristotalian influence in such philosophies resulted in a somewhat more "hard-nosed" philosophy
 than neoplatonism, due primarily to Aristotle's naturalistic, empirical inclinations.
 Such a worldview had little need for abstract unseen worlds. Thomas Aquinas worked 
 around this limitation by adapting as needed to bring into line with Chritian
 teachings. So, for instance, human beings themselves were seen as being characterized
 as "hylomorphic"; that is, in compliance with Aristotle's teaching that all things
-were composed of _matter_ in a particular _form_. Aquinas departed from Aristotle
+were composed of _matter_ in a particular _form_. The spiritual part of man, the "soul,"
+was part of this essence, along with the visible matter.
+Aquinas departed from Aristotle
 in that he did not consider all existing entities hylomorphic.
-Angels were not hylomorphic as they had no physical presence. Similar logic applied
-to our rational soul. A spiritual
+Angels were not hylomorphic as they had no physical presence. Therefore, a spiritual
 world, while not extant in Aristotle's teachings, was therefore necessitated by
-Aquinas' philosophy to allow for such things as angels to exist. 
+Aquinas' philosophy to allow for such things as angels to exist. Where it existed,
+it was proven either logically or by appeal to religious authority.
+
+Primary reference: Fredrick Coupleston SJ, _A History of Philosophy Volumne II:
+Augustine to Scotus_, Image Books combined edition, New York 1985.
 
 Reference (very partial, not related):
 St. Thomas Aquinas, _Selected Writings of St. Thomas Aquinas_ (Trans. Robert P. Goodwin),
 Macmillan, NY 1965.
 
-Because of the necessity to acknowledge a spiritual world, the philosophies of
-neoplatonism and Thomism differed mainly in their emphasis, with the  
+Later western philosophers made way for a spiritual through the philosophy
+of idealism. Idealism did not pose the existence of universals in an unseen realm;
+rather, they inverted the materialist view by posing material as an extension
+of an "idea" - essentially making the material world contingent on a visible
+world. Though first proposed by Bishop George Berkely in the early 18th century,
+it reached its apothesis in the writings of German philosopher Hegel's early 19th
+century writings, who posed that Spirit was the highest form of Idea coming
+into being. Though idealism itself did not pose an invisible world - that would
+misstate idealism as a form of dualism - it did influence many nineteenth and twentieth
+century theologians and philosophers. Exponents like F. H. Bradley in Great Britian
+and Josaih Royce in the US not only elaborated this philosophy but used it to
+better understand their own Christian faith, and both of them frequently wrote
+for religious audiences.
 
-
-### Idealism
+Unfortunately, many of these strains of thought went dormant in the academy
+in the mid-twentieth century. This was primarily due to the efforts of a number
+of analytic philosophers, though there were political reasons this also
+happened (see <https://muse.jhu.edu/article/213854>, 
+<https://ndpr.nd.edu/news/british-idealism-a-history-2/>); analytic philosophy,
+as a materialist philosophical competitor to marxism, was embraced
+by the industrial class of the West, as its number included not only defenders of the
+Western open society, but also defenders of economic libertinism. However, arguments
+in philosophy are never final, and there is interest in idealistic thought again,
+along with the broader interest in the study of metaphysics after years of its
+death due to academic fashion. And in some, a resurgence in ideas of spirituality,
+even if philosophers still don't dare to identify themselves as theists.
 
 ## Baha'i Views on Spirituality
 
+With this background complete, we are now able to examine what spirituality
+may mean within the Baha'i Faith.
+ 
 In Baha'i writings, "spiritual" is used exclusively as an adjective, and in connection
 with particular things. By studying the things it is associated with, we can
 understand exactly what sort of things are spiritual, and perhaps by its omission,
 what sort of things are generally not spiritual.
-
 
 The Baha'i Faith give no definition of what is meant by "the spiritual" or
 similar analysis. There is no "periodic table" of spiritual elements that

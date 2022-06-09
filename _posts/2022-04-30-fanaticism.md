@@ -1,7 +1,9 @@
 ---
 title: Not Tribalism, Not Populism. Fanaticism.
+category:article
 ---
-## It's Not Tribalism, It's Not Populism. It's Fanaticism. 
+
+## Not Tribalism, Not Populism. Fanaticism.
 
 >   The source of all these catastrophes is racial fanaticism,
 >   patriotic fanaticism, religious fanaticism and political
