@@ -54,6 +54,28 @@ Part of the difficulty of spirituality is the fact so many view exist, and when
 someone refers to something being "spiritual," or a spiritual reality, it is usually
 embedded in the world view of the speaker.
 
+In fact, this has actually been called out in religious literature as a prominent
+void of study. There could be a few reasons for this. One is for the reason that
+every sect tends to have their own definition of spirituality. Indeed, it's been
+argued by some that spirituality is a "Western" concept forced on other religions -
+in spite of the fact the followers of those other religions themselves have no
+problem whatsoever describing their spirituality! Baha'i readers will not be surprised
+about this universality, but those wishing for a consistent picture of spirituality
+will have to contend with the same personal, vague definitions. Meanwhile, those
+that sit outside of religious traditions are generally no help clarifying this,
+consisting as they are of atheists that are happy to portray spirituality as
+either irrationalist ravings or a function of a limbic system placed there by
+evolution, or divinity-school academics that only regard spirituality as a sort
+of emic categorization of personal religious feeling by their laypersons.
+
+-------------
+
+put in a summary of existing (and old!) literature here. Start with
+Willam James' work, criticism of this I find uncomfortable.
+
+-------------
+
+
 ## Spirituality - A Categorization
 
 So in popular parlance, "spirituality" is thought of as entirely religious in
@@ -84,6 +106,26 @@ popular does not make it a religious point of view; it is, in fact a deeply mate
 point of view. Sophisticated, humanistic conceptualizations of spirituality having nothing to do
 with natural phenomonon appeared long before the scientific revoltion most materialists
 look towards.
+
+#### Commercial Interests
+
+Where one finds a materialist worldview, one will find commercial interests willing
+to make a buck selling people things. And indeed, commercial interests have propounded
+their own definition of "spiritual." So there is a fair amount of money
+to be made selling items and experiences that simply seems "spiritual." It's easy 
+to ridicule businesses that
+make money selling spiritual-sounding new age items, but in the general economy, this is
+pocket change, and besides, the gentle reader might actually need a prayer mat. Rather,
+the great amount of money is made on selling experiences - retreats, workshops, foreign
+vacations, a host of experiences marketed as "spiritual" and marketed as somehow good for you,
+disguising the fact that these are more or less entertainments. In this worldview,
+"spiritual" is any low-stress indulgence that does not involve the consumption of calories.
+Perhaps it is the feeling one gets gets when doing something that allows 
+one to forget one has a job where they do hateful
+things for a living. While few believers give "sprituality" this sort of meaning,
+when discussing spirituality, it is worth keeping in mind that due to such commercial
+enterprise, the word spirituality now conveys to some people indolence and self-involement,
+something that certainly wasn't intended in the original usage of the word.
 
 #### Religious Materialists
 
@@ -356,12 +398,15 @@ even if philosophers still don't dare to identify themselves as theists.
 ## Baha'i Views on Spirituality
 
 With this background complete, we are now able to examine what spirituality
-may mean within the Baha'i Faith.
+may mean within the Baha'i Faith. This analysis has two approaches:
+
+1. Analysis of those writings which explicitly discuss spirituality and
+other spiritual worlds.
+
+2. Analysis of the use of the term "spiritual" by central figures of
+the Faith, primarily Abdu'l-Baha.
  
-In Baha'i writings, "spiritual" is used exclusively as an adjective, and in connection
-with particular things. By studying the things it is associated with, we can
-understand exactly what sort of things are spiritual, and perhaps by its omission,
-what sort of things are generally not spiritual.
+### Baha'i Cosmology and Spirituality
 
 The Baha'i Faith give no definition of what is meant by "the spiritual" or
 similar analysis. There is no "periodic table" of spiritual elements that
@@ -408,7 +453,6 @@ is strictly physical. Much in the same way, regrettably, your dog Spot is entire
 physical, and will cease to exist upon his death :-(
 
 Are there non-human spiritual entities? 
-
 In the realm of Malakut, it has been posed that the physical world is metaphoric,
 but it doesn't actually mean that there is a "spiritual projection" of every piece
 of matter. To prove this, let's think of a dog.
@@ -422,6 +466,15 @@ mankind. Abdu'l-Baha is clear the the vegetable spirit, and even the animal spir
 are side-effects of _processes in the physical world_. This is why animals are
 not said to have a soul, even though they certainly have a spirit.
 
+So spirituality is, in essence, a particularly human concern. Philosophically,
+the description of Malakut could fit in a number of philosophical frameworks.
+We could be be existing in the hidden spiritual plane of the neoplatonists,
+with our physical essence only as a projection. We could be a hylomorphic composition
+of detectable matter and sprit. We could even be an complete Idea coming into
+complete being. However one looks at it, the essential point of the writings is
+that human beings reside on a spiritual plan of sorts that other sentient
+beings do not.
+
 My conclusion is that when we talk about spiritual entities, we are talking
 exclusively about entities of a _strictly human concern_. Human beings are
 spiritual; many attributes that are distinctly human are spiritual. Health
@@ -430,9 +483,65 @@ that follows from this is that physical objects and physical processes, while
 existing at a very real level to ourselves, who are spiritual, are not "spiritually
 real."
 
-The sorts of people who read
-Baha'i scholarly works will not at all be surprised to find out that such "magic" as
-defined has never been confirmed in the Baha'i writings.
+As for the question of the interaction between the physical and spiritual world,
+it seems that the two primary interfaces between the physical and spirit world is
+1) His Manifestations and 2) people. Christianity, Islam, and other religions posit
+spiritual agents such as angels and demons who carry out actions in the physical
+world. Such entities seem restricted. Abdu'l-Baha even defines what angels actually
+are:
+
+> The meaning of 'angels' is the confirmations of God and His celestial powers. 
+> Likewise angels are blessed beings who have severed all ties with this nether 
+> world, have been released from the chains of self and the desires of the flesh, 
+> and anchored their hearts to the heavenly realms of the Lord. These are of the 
+> Kingdom, heavenly; these are of God, spiritual; these are revealers of God's 
+> abounding grace; these are dawning-points of His spiritual bestowals.
+>           (Abdu'l-Baha, Selections from the Writings of Abdu'l-Baha, p. 81)
+
+So when Baha'u'llah refers to angels in his writings, such as this:
+
+> Verily, We behold you from Our realm of glory, and shall aid whosoever will 
+> arise for the triumph of Our Cause with the hosts of the Concourse on 
+> high and a company of Our favored angels.
+>      (Baha'u'llah, Gleanings from the Writings of Baha'u'llah, p. 139)
+
+it is very likely he is talking in the terms stated by Abdu'l-Baha - either
+a power of God or saintly humans carrying out his work.
+
+Finally, those who believe in spiritual powers frequently invoke spiritual
+causes for happenings in the material world, such as miracles. Such thinking
+is similar to the "religious materialism" discussed elsewhere. Baha'i writings,
+while not outright denying the possiblity of such occurrences, lay no emphasis
+on reports of miracles. This is addressed at length in _Some Answered Questions_.
+Indeed, when asked about miracles, Abdu'l-Baha gives the following example
+of an actual miracle:
+
+> But in the day of the Manifestation the people with insight see that all 
+> the conditions of the Manifestation are miracles, for They are superior to 
+> all others, and this alone is an absolute miracle. Recollect that Christ, 
+> solitary and alone, without a helper or protector, without armies and 
+> legions, and under the greatest oppression, uplifted the standard of God 
+> before all the people of the world, and withstood them, and finally conquered 
+> all, although outwardly He was crucified. Now this is a veritable miracle 
+> which can never be denied. There is no need of any other proof of the truth of Christ.
+> The outward miracles have no importance for the people of Reality.
+>                   (Abdu'l-Baha, Some Answered Questions, p. 101)
+
+As Baha'is we are told that we should not denigrate others' religious beliefs
+or tell them that any ideas they hold are nonsense. Still, this authors
+investigation shows little evidence around suppositions of material events
+with supernatural explanation. Supernatural mechanics seem to be a property
+strictly confined to the Manifestations and our immortal souls, and the miraculous
+occurencies carried out are through material displays of spritual attributes.
+One may believe in magic, but the Baha'i writings do not seem to confirm it.
+
+### Usage of "Spiritual" in the Baha'i WRitings
+
+In Baha'i writings, "spiritual" is used exclusively as an adjective, and in connection
+with particular things. By studying the things it is associated with, we can
+understand exactly what sort of things are spiritual, and perhaps by its omission,
+what sort of things are, if not un-spiritual, then less likely to be involved in
+discussions of spirituality.
 
 A study of spirituality, as defined in the Baha'i Faith, makes very clear that
 far from being the purview of personal beliefs and "wooooo" (as materialists
