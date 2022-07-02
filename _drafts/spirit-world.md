@@ -312,7 +312,8 @@ The question one asks in response to both mystical experiences and doctrines tha
 point "a spiritual world" is exactly what sort of world this is. In the case of both
 Christianity and Islam, a philosophy called neoplatonism seemed to explain the
 existence of what seemed to be a real spiritual world that was not detectable with
-the senses.
+the senses, and was in fact the dominant philosophy for both faiths early in their
+history.
 
 Neoplatonism is an outgrowth of Plato's philosophy. In particular, Plato
 felt that all abstract entities existed in a perfect form in some other universe,
@@ -336,18 +337,20 @@ concepts. While not as central in Islamic thought, which had its own strong phil
 tradition, neoplatonic concepts still carried through Islamic thought for centuries,
 right through the Baha'i revelation.
 
-Where this dominance fell away was due to late medieval philosophers, particularly
+This dominance fell away due to late medieval philosophers, particularly
 St. Thomas Acquinas.
 If neoplatonism is commonly understood as the philosophical child of Plato,
 his philosophy is commonly understood as the philosophical child of Aristotle.
-it is an explicit outgrowth of Aristotle's own ontology. To give an example of
-Thomism is the scholastic philosophical school associated with his writings;
-frequently, "scholasticism" is used as a terminology for both Thomism and teachings
-of similar philosophers; e.g. Avicenna in the Islamic world.
+it is an explicit outgrowth of Aristotle's own ontology.
+He was deeply influenced by Islamic philosophers, in particular Avicenna,
+who were lucky enough to have rediscovered the Greek classics before their
+European counterparts.
 
-This provided a different philosophical framework with its own spiritual flavor.
-The Aristotalian influence in such philosophies resulted in a somewhat more "hard-nosed" philosophy
-than neoplatonism, due primarily to Aristotle's naturalistic, empirical inclinations.
+The rediscovery of Aristotle provided a different philosophical framework with 
+its own spiritual flavor.
+Aristotle's rejection of neoplatonic forms and emphasis on emperical particulars
+resulted in a somewhat more "hard-nosed" philosophy
+than neoplatonism.
 Such a worldview had little need for abstract unseen worlds. Thomas Aquinas worked 
 around this limitation by adapting as needed to bring into line with Chritian
 teachings. So, for instance, human beings themselves were seen as being characterized
@@ -355,7 +358,8 @@ as "hylomorphic"; that is, in compliance with Aristotle's teaching that all thin
 were composed of _matter_ in a particular _form_. The spiritual part of man, the "soul,"
 was part of this essence, along with the visible matter.
 Aquinas departed from Aristotle
-in that he did not consider all existing entities hylomorphic.
+in that he incorporated spirit into the unseen essense postulated by Aristotle.
+He also did not consider all existing entities hylomorphic.
 Angels were not hylomorphic as they had no physical presence. Therefore, a spiritual
 world, while not extant in Aristotle's teachings, was therefore necessitated by
 Aquinas' philosophy to allow for such things as angels to exist. Where it existed,
@@ -373,16 +377,18 @@ of idealism. Idealism did not pose the existence of universals in an unseen real
 rather, they inverted the materialist view by posing material as an extension
 of an "idea" - essentially making the material world contingent on a visible
 world. Though first proposed by Bishop George Berkely in the early 18th century,
-it reached its apothesis in the writings of German philosopher Hegel's early 19th
+it reached its apothesis in German philosopher Hegel's early 19th
 century writings, who posed that Spirit was the highest form of Idea coming
-into being. Though idealism itself did not pose an invisible world - that would
+into being. Though idealism itself did not pose an separate invisible world 
+as such - such a thing would
 misstate idealism as a form of dualism - it did influence many nineteenth and twentieth
-century theologians and philosophers. Exponents like F. H. Bradley in Great Britian
+century theologians and philosophers, particularly the so-called "right Hegelians"
+in Germany. Later non-German exponents like F. H. Bradley in Great Britian
 and Josaih Royce in the US not only elaborated this philosophy but used it to
 better understand their own Christian faith, and both of them frequently wrote
 for religious audiences.
 
-Unfortunately, many of these strains of thought went dormant in the academy
+Unfortunately, many philosophical strains of thought went dormant in the academy
 in the mid-twentieth century. This was primarily due to the efforts of a number
 of analytic philosophers, though there were political reasons this also
 happened (see <https://muse.jhu.edu/article/213854>, 
@@ -390,10 +396,13 @@ happened (see <https://muse.jhu.edu/article/213854>,
 as a materialist philosophical competitor to marxism, was embraced
 by the industrial class of the West, as its number included not only defenders of the
 Western open society, but also defenders of economic libertinism. However, arguments
-in philosophy are never final, and there is interest in idealistic thought again,
+in philosophy are never settled finally, and there is interest in idealistic thought again,
 along with the broader interest in the study of metaphysics after years of its
 death due to academic fashion. And in some, a resurgence in ideas of spirituality,
 even if philosophers still don't dare to identify themselves as theists.
+Which is all to say, even if it is unfashionable to study the "spiritual worlds"
+in today's Western philosophy, there is a deep tradition which was not abandoned
+for its unworkability, but instead left fallow for those who choose to tend it.
 
 ## Baha'i Views on Spirituality
 
@@ -550,29 +559,8 @@ have a "shared reality" (that is, are not entirely person) and can
 and should be studied. To understand that fact though, it is necessary to
 understand what spirituality refers to in the Baha'i writings themselves.
 
-spiritual degrees
-spiritual state
-spiritual things
-spiritual civilization
-spiritual tone
-spiritual education
-spiritual darkness
-spiritual power
-spiritual truth
-spiritual life
-spiritual war
-spiritual bounties
-spiritual qualities
-spiritual benefit
-spiritual body
-spiritual vision
-spiritual nature
-spiritual world
-spiritual condition
-spiritual progress
-spiritual perfections
 
-These are the "things" that are said to be spiritual. Unfortunately, those "things" are
+These are many "things" that are said to be spiritual. Unfortunately, those "things" are
 just as abstract as the term spirituality! To truly understand, we must continue to
 drill down - until we find the particular from the abstract.
 What do those things refer to, then?
@@ -684,23 +672,109 @@ The Bahá'í Faith not only provides teachings in accordance with which the beha
 
 spiritual truth
 
+World order can be founded only on an unshakeable consciousness of the oneness of mankind, a spiritual truth which all the human sciences confirm.
+
+	(The Universal House of Justice, 1985 Oct, The Promise of World Peace, p. 4)
+
 spiritual life
 
-spiritual war
+this verse in Corinthians, "As in Adam all die, even so in Christ shall all be made alive," means, according to this terminology, that Adam [1] is the father of man -- that is to say, He is the cause of the physical life of mankind; His was the physical fatherhood. He is a living soul, but He is not the giver of spiritual life, whereas Christ is the cause of the spiritual life of man, and with regard to the spirit, His was the spiritual fatherhood. Adam is a living soul; Christ is a quickening spirit.
+
+	(Abdu'l-Baha, Some Answered Questions, p. 118)
+
+In like manner, the Holy Manifestations of God are the centers of the light of reality, of the source of mysteries, and of the bounties of love. They are resplendent in the world of hearts and thoughts, and shower eternal graces upon the world of spirits; They give spiritual life and are shining with the light of realities and meanings.
+
+	(Abdu'l-Baha, Some Answered Questions, p. 162)
+
+When we were in the mineral kingdom, although we were endowed with certain gifts and powers, they were not to be compared with the blessings of the human kingdom. In the matrix of the mother we were the recipients of endowments and blessings of God, yet these were as nothing compared to the powers and graces bestowed upon us after birth into this human world. Likewise, if we are born from the matrix of this physical and phenomenal environment into the freedom and loftiness of the spiritual life and vision, we shall consider this mortal existence and its blessings as worthless by comparison.
+
+In the spiritual world the divine bestowals are infinite, for in that realm there is neither separation nor disintegration, which characterize the world of material existence. Spiritual existence is absolute immortality, completeness and unchangeable being. Therefore, we must thank God that He has created for us both material blessings and spiritual bestowals. He has given us material gifts and spiritual graces, outer sight to view the lights of the sun and inner vision by which we may perceive the glory of God. He has designed the outer ear to enjoy the melodies of sound and the inner hearing wherewith we may hear the voice of our Creator. We must strive with energies of heart, soul and mind to develop and manifest  91  the perfections and virtues latent within the realities of the phenomenal world, for the human reality may be compared to a seed. If we sow the seed, a mighty tree appears from it. The virtues of the seed are revealed in the tree; it puts forth branches, leaves, blossoms, and produces fruits. All these virtues were hidden and potential in the seed. Through the blessing and bounty of cultivation these virtues became apparent. Similarly, the merciful God, our Creator, has deposited within human realities certain latent and potential virtues. Through education and culture these virtues deposited by the loving God will become apparent in the human reality, even as the unfoldment of the tree from within the germinating seed. I will pray for you.
+
+	(Abdu'l-Baha, The Promulgation of Universal Peace, p. 90)
+
+Above all, the duty of deepening the spiritual life of your newly- enrolled co-workers is paramount, for the fate of the entire community depends upon the individual believers. Without the whole- hearted support of each and every one of the friends, ever measure adopted., no matter how well thought out, is fore-doomed to failure.
+
+	(Compilations, Lights of Guidance, p. 71)
+
+
+spiritual world
+
+In the spiritual world, the divine bestowals are infinite, for in that realm there is neither separation nor disintegration which characterize the world of material existence. Spiritual existence is absolute immortality, completeness and unchangeable being.
+
+	(Abdu'l-Baha, Baha'i World Faith - Abdu'l-Baha Section, p. 266)
+
+Know thou that the expressions of the creative hand of God throughout His limitless worlds are themselves limitless. Limitations are a characteristic of the finite, and restriction is a quality of existent things, not of the reality of existence. This being the case, how can one, without proof or testimony, conceive of creation being bound by limits? Gaze with penetrating vision into this new cycle. Hast thou seen any matter in which God is bounded by limits which He cannot overstep? Nay, by the excellence of His glory! On the contrary, His tokens have encompassed all things and are sanctified and exalted beyond computation in the world of creation.
+
+These are spiritual truths relating to the spiritual world. In like manner, from these spiritual realities infer truths about the material world. For physical things are signs and imprints of spiritual things; every lower thing is an image counterpart of a higher thing. Nay, earthly and heavenly, material and spiritual, accidental and essential, particular and universal, structure and foundation, appearance and reality and the essence of all things, both inward and outward -- all of these are connected one with another and are interrelated in such a manner that you will find that drops are patterned after seas, and that atoms are structured after suns in proportion to their capacities and potentialities. For particulars in relation to what is below them are universals, and what are great universals in the sight of those whose eyes are veiled are in fact particulars in relation to the realities and beings which are superior to them. Universal and particular are in reality incidental and relative considerations. The mercy of thy Lord, verily, encompasseth all things!
+
+Know then that the all-embracing framework that governs existence includes within its compass every existent being -- particular or universal  -- whether outwardly or inwardly, secretly or openly. Just as particulars are infinite in number, so also the vast universals and the great realities of the universe are without number and beyond computation.
+
+	(Provisional Translations, 'Abdu'l-Baha - Tablet of the Universe (provisional translation, p. 2)
+        (The original Tablet can be found in Makatib-i 'Abdu'l-Bahá, vol. 1, pp 13-32.)`
+
+ABHA KINGDOM  -- - {The Most Glorious Kingdom:} the spiritual world beyond this world.
+
+	(Shoghi Effendi, This Decisive Hour, p. 148)
+
+We must also remember that sex is a characteristic of this world, not of the spiritual world.
+
+	(The Universal House of Justice, 1992 Feb 23, Ancient Goddess Religions)
 
 spiritual bounties
 
+The favors of God are all-surrounding, but should the conscious eye of the soul of man remain veiled and darkened, he will be led to deny these universal signs and remain deprived of these manifestations of divine bounty. Therefore, we must endeavor with heart and soul in order that the veil covering the eye of inner vision may be removed, that we may behold the manifestations of the signs of God, discern His mysterious graces and realize that material blessings as compared with spiritual bounties are as nothing. The spiritual blessings of God are greatest.
+
+	(Abdu'l-Baha, The Promulgation of Universal Peace, p. 90)
+
+Sixth, the world of humanity is in need of the confirmations of the Holy Spirit. True distinction among mankind is through divine bestowals and receiving the intuitions of the Holy Spirit. If man does not become the recipient of the heavenly bestowals and spiritual bounties, he remains in the plane and kingdom of the animal.  317  For the distinction between the animal and man is that man is endowed with the potentiality of divinity in his nature, whereas the animal is entirely bereft of that gift and attainment.
+
+	(Abdu'l-Baha, The Promulgation of Universal Peace, p. 317)
+
 spiritual qualities
 
-spiritual benefit
+But on the other hand, when man does not open his mind and heart to the blessing of the spirit, but turns his soul towards the material side, towards the bodily part of his nature, then is he fallen from his high place and he becomes inferior to the inhabitants of the lower animal kingdom. In this case the man is in a sorry plight! For if the spiritual qualities of the soul, open to the breath of the Divine Spirit, are never used, they become atrophied, enfeebled, and at last incapable; whilst the soul's material qualities alone being exercised, they become terribly powerful -- and the unhappy, misguided man, becomes more savage, more unjust, more vile, more cruel, more malevolent than the lower animals themselves.
+
+	(Abdu'l-Baha, Paris Talks, p. 97)
+
+In explaining these intellectual realities, one is obliged to express them by sensible figures because in exterior existence there is nothing that is not material. Therefore, to explain the reality of the spirit -- its condition, its station -- one is obliged to give explanations under the forms of sensible things because in the external world all that exists is sensible. For example, grief and happiness are intellectual things; when you wish to express those spiritual qualities you say: "My heart is oppressed; my heart is dilated," though the heart of man is neither oppressed nor dilated. This is an intellectual or spiritual state, to explain which you are obliged to have recourse to sensible figures. Another example: you say, "such an individual made great progress," though he is remaining in the same place; or again, "such a one's position was exalted," although, like everyone else, he walks upon the earth. This exaltation and this progress are spiritual states and intellectual realities, but to explain them you are obliged to have recourse to sensible figures because in the exterior world there is nothing that is not sensible.
+
+	(Abdu'l-Baha, Some Answered Questions, p. 83)
+
+If we ponder a while over the Qur'ánic verses and proofs, and the traditional accounts which have come down to us from those stars of the heaven of Divine Unity, the Holy Imams, we shall be convinced of the fact that if a soul is endowed with the attributes of true faith and characterized with spiritual qualities he will become to all mankind an emblem of the outstretched mercies of God. For the attributes of the people of faith are justice and fair-mindedness; forbearance and compassion and generosity; consideration for others; candor, trustworthiness, and loyalty; love and loving-kindness; devotion and determination and humanity.
+
+	(Abdu'l-Baha, The Secret of Divine Civilization, p. 55)
+
+The absence of spiritual qualities, like darkness, has no existence in itself. As the light of spirituality penetrates deep into the hearts, this darkness gradually dissipates and is replaced by virtue.
+
+	(The Universal House of Justice, 1985 Dec 02, Child Abuse, Psychology and Knowledge of Self)
+
 
 spiritual body
 
+The disciples had taken many meals from the hand of Christ; why was the last supper distinguished from the others? It is evident that the heavenly bread did not signify this material bread, but rather the divine nourishment of the spiritual body of Christ, the divine graces and heavenly perfections of which His disciples partook, and with which they became filled.
+
+	(Abdu'l-Baha, Some Answered Questions, p. 99)
+
+
 spiritual vision
 
+He is praying for the success of this trip, and cherishes the hope that it may serve to bring into the Cause people of capacity and of true spiritual vision.
+
+	(Shoghi Effendi, Dawn of a New Day, p. 55)
+
+
 spiritual nature
+He is praying for the success of this trip, and cherishes the hope that it may serve to bring into the Cause people of capacity and of true spiritual vision.
+
+	(Shoghi Effendi, Dawn of a New Day, p. 55)
+
+Material advancement has been evident in the world, but there is need of spiritual advancement in like proportion. We must strive unceasingly and without rest to accomplish the development of the spiritual nature in man, and endeavor with tireless energy to advance humanity toward the nobility of its true and intended station. For the body of man is accidental; it is of no importance. The time of its disintegration will inevitably come. But the spirit of man is essential and, therefore, eternal. It is a divine bounty. It is the effulgence of the Sun of Reality and, therefore, of greater importance than the physical body.
+
+	(Abdu'l-Baha, The Promulgation of Universal Peace, p. 59)
 
 
+spiritual progress
+spiritual perfections
 
 ## Concluding Thoughts
 
