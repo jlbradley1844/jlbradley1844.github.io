@@ -234,8 +234,8 @@ powers due to their lack of faith.
 ### Spirituality as a Religious Stat#e
 
 Overlapping with spirituality as a mystical state is the conception of
-spirituality that "spirituality" as the state of who has turned one's
-belief wholly to a cause. For example, this is frequently seen in early Christian
+spirituality as being the state of who has turned one's
+belief wholly to a religious cause. For example, this is frequently seen in early Christian
 writings. In many cases, when the world "spiritual"
 is used, one could interchange with the word "religious" or "Christian" without losing
 sense of the meaning of the sentence. For instance, the message of Jesus is described
@@ -340,7 +340,7 @@ other religious groups and nonbelievers in the here and now.
 One last viewpoint, which is interesting primarily due to its rarity, is that
 of the "scientific religious materialist"; someone
 who believes actual religious events and phenomenon such as immortality are real but 
-can be explained with scientific process. Probably the only notable example of this 
+can be explained with scienific process. Probably the only notable example of this 
 is Frank J. Tipler's Omega Point Theory, which posits a physical process explaining 
 resurrection and immortality.
 
@@ -351,7 +351,7 @@ to make a buck selling people things. As one would expect, commercial interests 
 their own definition of "spiritual," one that is used to validate the consumption of
 goods sold to aide a "spiritual lifestyle." It's easy to ridicule businesses that
 make money selling "healing crystals" and other spiritual-sounding new age nick-nacks, 
-but relative to an individual's expendictures, this amounts
+but relative to an individual's expenditures, this amounts
 pocket change (besides, the gentle reader might actually need a prayer mat). Rather,
 the greater amount of money is made on selling experiences marketed as distinctly 
 "spiritual" - retreats, workshops, foreign
@@ -403,9 +403,9 @@ Ths spiritual plane is the lowest spiritual plane in God's creation, and the
 only one we may reside in. As for our experience in the physical realm, it
 is "metaphoric." It is a physical world in which we develop ourselves spiritually.
 Regrettably, your dog Spot is entirely
-physical, and will cease to exist upon his death :-(
+physical, and will cease to exist upon his death (*sad noises*).
 
-Baha'i writings around the any parallel spiritual universe are otherwise
+Baha'i writings describing such a parallel spiritual universe are otherwise
 circumscribed. However, the writings are very clear to distinguish entities
 that reside on the spiritual plane, and distinguish them from materialistic
 concerns. For example, take the concept of "Angels," a spiritual entity present
@@ -437,7 +437,7 @@ identical to an actual human acting on the spiritual plane.
 
 In the Baha'i writings, the spiritual plane is invisible and lies parallel
 to the material plane - but the primary interface between the two are through
-His Messengers and believers doing spiritual acts. In practice, this means that
+His Messengers and believers carrying out spiritual acts. In practice, this means that
 Baha'i writings eschew talk of the miraculous in the material world.
 Baha'i writings,
 while not outright denying the possiblity of such occurrences, lay no emphasis
@@ -466,8 +466,8 @@ the actions of humans, not mystical forces we cannot understand.
 
 The "Tablet of All Food" is unique in that it is one of the few places in which
 Baha'u'llah gives an description of the spiritual world, rather than simply alluding
-to it in metaphors. This distinction is probably why there are so many provisional
-translations of this tablet. Otherwise, Baha'u'llah tended to refer to spiritual
+to it in metaphors. (This distinction is probably why it is easy to find provisional
+translations of this tablet.) Otherwise, Baha'u'llah tended to refer to spiritual
 concepts through phrases using particular things, for instance, by using
 "The Pen of Glory" and "The Maid of Heaven" as referring to His revelation, using
 "The Concourse on High" to refer to the departed believers, and so on. On the other
@@ -662,6 +662,7 @@ depending on the context, it may mean different things. For instance:
       are signs and imprints of spiritual things; every lower thing is an image 
       and counterpart of a higher thing." -- Abdu'l-Baha
       (Provisional Translations, Tablet of the Universe)
+
 On the other hand:
   * it may refer to items which are matters of conscience or religious behavior.
 Plainly the latter may easily be seen and studied in the material world, even by
@@ -682,6 +683,27 @@ into this practical definition.
        study in colleges, trusting implicitly to the evidence of the senses and 
        relying solely upon intuitive virtues."
       (Abdu'l-Baha, The Promulgation of Universal Peace, p. 261)
+
+* "spiritual force" - This term force is a physical concept. And it's possible to think
+  of spiritual force is being something analogous in the spiritual world. Indeed one may
+  hope for spiritual forces so powerful they bring changes in the material world. But what
+  does this refer to in reality? The answer may lie in its use in the Baha'i writings.
+
+    While it is true that its people have attained a marvelous material civilization, 
+    I hope that spiritual forces may animate this great body and a corresponding spiritual 
+    civilization be established.
+        (Abdu'l-Baha, The Promulgation of Universal Peace, p. 20)
+
+    May the love of God spread from here onward and outward; may the knowledge of God be 
+    sent broadcast from this place; may spiritual forces become effective here; may the 
+    lights of the Kingdom shine; may intelligent souls be found here so that with all 
+    power they may be occupied in the service of God, furthering the oneness of the 
+    human world and the cause of the Most Great Peace.
+	(Abdu'l-Baha, The Promulgation of Universal Peace, p. 196)
+
+  What spiritual forces seem to refer to then, are forces created by spiritual acts,
+  which in the cases here seem to be those acts that will establish a solid religious
+  life and a spiritual civilization. And what is spiritual civilization?
 
 * "spiritual civilization" - This is used to disambiguate civilization in a positive
   sense from a more perjorative, materialistic sense. In this connection, this may
@@ -1025,15 +1047,14 @@ not during his escape.
 
 ## Concluding Thoughts
 
-At this point, study of spirituality is thought of as a strictly religious concern.
+Presently, study of spirituality is thought of as a strictly religious concern.
 Material concerns are thought of as the domain entirely of science. True materialists
 handle talk of the "spiritual" by dismissing it entirely. Those who wish to keep
 the scientific pursuit while acknowledging the spiritual hedge this by thinking
 of the spiritual and material as two different "magesteria"; e.g. the study of
 material or measurable things is the purview of science only, and anything spiritual
-is the purview of the religious.
-
-This results in the following claims about spirituality:
+is the purview of the religious. The prevelance of this view means that most people
+assume these two things are true about spirituality:
 
 * Spiritual things cannot be _emperically studied_. Spiritual claims are, by
 definition, not testable. If it were testable, it would be subject to scientific
@@ -1044,28 +1065,28 @@ the claims of nontestability. A materialist may uphold spirituality, but only
 by believing that it is a force that is essentially personal, as it differs
 from person to person.
 
-Spirituality, then, becomes a nebulous concept, beyond rigorous study.
-If we believe these claims by the materialists are true, then indeed, "spirituality"
+If we believe these claims, then indeed, "spirituality"
 is too fuzy and amorphous to be worth any sort of serious study, an emic folk
 concept used to cover up inarticulated personal feelings.
-The question is - are these claims true?
+The question is - are they actually true?
 
 When one considers the different forms of spirituality outlined in the Baha'i writings,
 the answer is clear, but it depends upon which "spirituality" is meant. If by
-"spirituality," one is referring to the "cosmological" definition regarding
+"spirituality," one only referring to the "cosmological" description regarding
 the spiritual as immaterial forms outside of nature, the
 forms of neoplatonist, idealist or other metaphysical thought, then plainly
-the first assertion is correct. Such metaphysical claims are not emperically testable. 
-Indeed, this
+the first claim is correct; such metaphysical claims are not emperically testable. 
+This author suspects this
 is the why theologians studying the spiritual used logic of increasing
 rigor and formality over history - because
-reason is the only way to intellectual flesh out such realities. The second
-assertion is incorrect, in that the same logic must hold for everyone; insofar
-as there is a "spiritual" nature, it must hold to the same logical imperatives
+reason is the only way to intellectually flesh out such realities. The second
+claim is incorrect; if there is a well-defined conception of spirituality, then
+this must hold for everyone. That is, if there is a "spiritual" nature, it 
+must hold to the same logical imperatives
 for everyone.
 
-On the other hand, neither assertion is true about the Baha'i "practical" 
-defintion of spirituality referring to a host of attibutes and behaviors
+Additionally, both claims are untrue of the Baha'i "practical" 
+defintion of spirituality, which refers to a host of attibutes and behaviors
 as spiritual. Even accross cultures, concepts such as goodness, virtue
 and religious dedication and are understood by all. Far from being
 nebulous, such things can be defined and studied. A cursory
@@ -1089,7 +1110,23 @@ point of view, at its basis, the difference between the "cosmological" and
 different but similar things. Instead, it should be regarded as a distinction 
 in viewpoint. The things that are described
 as "spiritual" are not simply _like_ things in the spiritual world - they _are_
-of things in the spiritual world. Exploration of this concept is out of the
+of things in the spiritual world. For instance, the use of "spiritual force" seems
+to refer to things impelling things such as virtuous conduct and religious devotion,
+as opposed to mystic forces acting in the material world. For instance, there is
+this statement:
+
+    Although outwardly cataclysms are hard to understand and to endure, yet there 
+    lies a great wisdom behind them which appears later. All the visible material 
+    events are inter-related with invisible spiritual forces. The infinite phenomena 
+    of creation are as interdependent as the links of a chain.
+	(Abdu'l-Baha, Divine Philosophy, p. 116)
+
+This is from an old reference, using probably a faulty translation, but the 
+underlying meaning is probably still accurate.
+In Baha'i thought, spiritual forces are present in the world; the main distinction
+between the Baha'i Faith and the other religious is Baha'u'llah's revelation, and
+He has spelled out this interface between the spiritual and the material
+in such writings as "The Tablet of All Food." Exploration of this concept is out of the
 scope of this writing, but Baha'is, like many religions before it, believe
 such things as moral reals, virtues and other key phenomenological entities
 in the human experience are actually spiritual things, in the sense of being
