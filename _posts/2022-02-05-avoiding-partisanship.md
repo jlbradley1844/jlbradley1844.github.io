@@ -1,6 +1,5 @@
 ---
 title: Stepping Away from Politics
-category: article
 ---
 
 ## Non-Partisanship and Political Non-Alignment

@@ -1,6 +1,5 @@
 ---
 title: Doing Politics the Right Way
-category: article
 ---
 
 ## The Baha'i Faith and Small-Scale Community Change

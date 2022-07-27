@@ -1,6 +1,5 @@
 ---
 title: Verbal Nonviolence
-category: article
 ---
 
 ## More on Peacefulness: Verbal Nonviolence

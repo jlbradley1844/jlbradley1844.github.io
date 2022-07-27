@@ -1,6 +1,5 @@
 ---
 title: You Don't Have Big Data, You Just Have Data
-category: articles
 ---
 
 ## You Don't Have Big Data, You Just Have Data. Or: Why Your ML Project Doesn't Work

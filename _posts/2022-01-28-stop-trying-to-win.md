@@ -1,6 +1,5 @@
 ---
 title: How to Baha'i (the Secular Edition)
-category: article
 ---
 
 ## Unity

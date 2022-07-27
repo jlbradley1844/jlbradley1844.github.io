@@ -1,6 +1,5 @@
 ---
 title: Not Tribalism, Not Populism. Fanaticism.
-category:article
 ---
 
 ## Not Tribalism, Not Populism. Fanaticism.

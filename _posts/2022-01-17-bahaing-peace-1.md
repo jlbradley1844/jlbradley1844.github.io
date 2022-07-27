@@ -1,6 +1,5 @@
 ---
 title: Nonviolent Practices - the easy version
-category: article
 ---
 
 ## Nonviolent Practices

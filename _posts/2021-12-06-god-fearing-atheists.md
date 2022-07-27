@@ -1,6 +1,5 @@
 ---
 title: The Curious Case of the God-Fearing Atheists
-category:article
 ---
 
 ## The Curious Case of the God-Fearing Atheists

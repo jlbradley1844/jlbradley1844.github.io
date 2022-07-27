@@ -1,6 +1,5 @@
 ---
 title: Disagreements without Combat
-category: article
 ---
 
 ## Disagreements without Combat
