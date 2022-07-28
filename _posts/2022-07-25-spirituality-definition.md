@@ -621,7 +621,6 @@ mean in the context of the writings.
 >   whether outwardly or inwardly, secretly or openly. Just as particulars 
 >   are infinite in number, so also the vast universals and the great realities 
 >   of the universe are without number and beyond computation.
-
 >     (Provisional Translations, 'Abdu'l-Baha - Tablet of the Universe (provisional translation, p. 2)
 >     (The original Tablet can be found in Makatib-i 'Abdu'l-Bahá, vol. 1, pp 13-32.)`
 
@@ -687,7 +686,7 @@ into this practical definition.
 >     for they have obtained what they know without schooling and years of laborious 
 >     study in colleges, trusting implicitly to the evidence of the senses and 
 >     relying solely upon intuitive virtues.
->     (Abdu'l-Baha, The Promulgation of Universal Peace, p. 261)
+>             (Abdu'l-Baha, The Promulgation of Universal Peace, p. 261)
 
 * "spiritual force" - This term force is a physical concept. And it's possible to think
   of spiritual force is being something analogous in the spiritual world. Indeed one may
@@ -724,6 +723,7 @@ into this practical definition.
 >   these evidences of development, the invention and production of means and 
 >   weapons for human destruction have correspondingly increased.
 >        (Abdu'l-Baha, The Promulgation of Universal Peace, p. 108)
+
     It seems evident which material signs of civilization are also spiritual
     signs, and which are not.
 
@@ -807,7 +807,7 @@ into this practical definition.
 >   What every believer, new or old, should realize is that the Cause has the 
 >   spiritual power to re-create us if we make the effort to let that power 
 >   influence us, and the greatest help in this respect is prayer.
-         (Compilations, Lights of Guidance, p. 115)
+>        (Compilations, Lights of Guidance, p. 115)
 
   In some cases, the concrete meaning of "spiritual power" is abstracted away, but 
   it refers to the same same as above, the particular powers carried forth by religious cause:
@@ -1023,7 +1023,7 @@ Baha'u'llah and Abdu'l-Baha' never contradicted this
 outlook explicitly, the plain interpretation of their writings was to interpret
 such things as due to the actions of the spiritually enlightened in this world.
 Rumors of Baha'u'llah's miracles were purposely left
-undocumented, and when documented, were not translated by The Guardian. 
+undocumented, and when documented in _The Dawnbreakers_, were not translated by The Guardian. 
 Abdu'l-Baha even poses a definition of "angels" that reframes this as meaning
 the actions of holy people rather than disembodied entities.
 
@@ -1032,7 +1032,7 @@ little support in the writings for the "salvation through faith" found in
 more fideistic creeds. Indeed, the term "faith" itself has a very different
 definition under the Baha'i Faith, as per a long-translated admonishion from
 Abdu'l-Baha: "By faith is meant, first, conscious knowledge, 
-and second, the practice of good deeds." (Compilations, Baha'i World Faith, p. 383)
+and second, the practice of good deeds." (Compilations, Baha'i World Faith, p. 383).
 When faith is spiritual, it never consists of simply believing in something
 without proof.
 
@@ -1042,7 +1042,7 @@ of "spirituality" as a packaged, low-stress indulgence is incompatible with
 Baha'i belief. As a Baha'i, one may happily travel to exotic climes and meditate
 in the most inspiring places; indeed, Shoghi Effendi was know for escaping to
 Switzerland for vacations from his famously overworked schedule. But Baha'is know
-that he was carrying out his most import work during his periods of overwork,
+that he was carrying out his most important work during his periods of overwork,
 not during his escape.
 
 ## Concluding Thoughts
