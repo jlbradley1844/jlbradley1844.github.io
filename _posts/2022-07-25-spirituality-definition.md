@@ -2,8 +2,9 @@
 title: The Baha'i View of The Spiritual
 category: articles
 ---
-### Abstract
+# The Baha'i View of The Spiritual
 
+*Abstract*:
 The concept of spirituality is an important one to Baha'is. Indeed,
 Abdu'l-Baha says that our knowledge of the spiritual must catch up with
 our knowledge of the material. Yet there is no single definition of
