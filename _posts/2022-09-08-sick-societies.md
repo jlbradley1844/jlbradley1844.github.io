@@ -304,7 +304,11 @@ peripatetic minority. By the turn of the millenia,
 most statisticians estimated there were perhaps five million Baha'is, with the majority of the
 believers in the developing world; that is, NOT in Iran, North America or Europe. How did this happen?
 Mainly through a surge of both missionary work and interest among the sorts of less developed
-communities - the same sorts of communities that Edgerton's book details. The Baha'i Faith 
+communities - the same sorts of communities that Edgerton's book details. While not all of
+these communities were still in the living-in-huts tribal stage, for most the culutural lessons were still in
+their collective memory.
+
+Why the receptivity? Here's my suspicion: the Baha'i Faith 
 had a number of teachings that
 were fairly novel for an evangelistic religion. Foremost was a belief system that confirmed
 and accepted the validity of their own indigenous belief system. But there were other
@@ -316,15 +320,21 @@ teachings that resonated in these communities:
 * The importance of science and proper agricultural practices and elimination of superstition;
 * The avoidance of violence and the emphasis on peaceful resolutions to disagreements.
 
-When one views this in the context of the maladaptive behaviors shown by many native
-cultures, it seems evident why many who were eager to retain their culture were also
-eager to embrace the Baha'i Faith. It also seems evident why in a few notable cases,
+When one views this in the context of the maladaptive behaviors handed down by their
+tribal ancestors, it seems evident why many who were eager to retain their culture were also
+eager to embrace the Baha'i Faith. I've heard of some notable cases,
 reform-minded chieftans were able to bring the whole tribe along.
 For every one of these common maladaptive behaviors
 identified by Edgerton, there seemed to be a Baha'i teaching aimed directly at modifying
 or eliminating the behavior.
 
-The spiritual "center of gravity" of the Baha'i Faith is now firmly in the
+-------------------------------------------
+
+Presently in "the West," the Baha'i Faith has entered a long period of slow-/no-growth.
+Some have suspected this is due to creeping secularization; others have pointed out
+that religious movements (including the Baha'is) tend toward growth stagnation during
+periods of affluence and lack of social stressors. For this reason,
+the spiritual "center of gravity" of the Baha'i Faith now seems firmly in the
 developing world, something which would surprise the mid-twentieth century observers
 of the Baha'i Faith in America, who would've noted the fact that the Baha'i Faith drew
 from the more educated classes - and therefore was probably a better fit for "the elites"
@@ -334,27 +344,24 @@ areas than the developing world cities, whose elites had always somehow been tak
 It also shows that receptivity of the Baha'i Faith (indeed, for any religious movement)
 depends on a degree of self-reflection by the society; preening self-satisfaction with
 one's lot is hardly conducive to critical reflection on flaws and how they may be addressed.
+
 At the present, with the migration to the
 cities throughout the developing world, such solutions presented by the Baha'i Faith
 may seem less salient over the years. 
 Still, if Edgerton books shows us anything, it's that maladaptive behaviors will
 continue to be a feature of societies, as long as there's a significant enough minority
-of people who benefit from these behaviors. If the Baha'i Faith is to continue to grow
+of people who benefit from these behaviors. 
+Modern society seems no more adept at ridding
+themselves of maladaptive beliefs than primitive societies were.
+If the Baha'i Faith is to continue to grow
 and flourish, it must continue to show its salience by showing how its teachings can
 continue to address the maladaptive norms of society, no matter what form.
 
--------------------------------------------
-
-Presently in "the West," the Baha'i Faith has entered a long period of slow-/no-growth.
-Some have suspected this is due to creeping secularization; others have pointed out
-that religious movements (including the Baha'is) tend toward growth stagnation during
-periods of affluence and lack of social stressors. My opinion is it may be a bit of the former; but
-as to the latter, there seem to be no lack of stressors, in spite of the fact
-so few go without food. Nor is there any lack of
-maladaptive cultural beliefs. However, identifying the maladaptive beliefs is anything but
-straightforward. The temptation is to place maladaptive practices as being the fault of
-ethnic or cultural "others," rather than properly seeing them as a property of the whole of society.
-
+What maladaptive stressors might these be in the west?
+Identifying the maladaptive beliefs is anything but
+straightforward, since the temptation is to place maladaptive practices as being solely
+the fault of ethnic or cultural "others," rather than properly seeing them as a 
+property of the whole of society. 
 The more secular and scientifically-minded will identify their own problems threatening
 the survival of modern "western" society:
 
@@ -366,19 +373,20 @@ vulnerable to propaganda and misuse at the hands of others;
 * The persistence of racial prejudice and tribal preferentialism;
 * The unreflective adulation and emulation of the weathy, as the "deserving winners" of a meritocracy;
 
-As for the more religiously-minded, since I'm making the list, I'm going to disregard
-those believers who feel cultural reform can best be found in outworn, discarded
+As for the more religiously-minded, since I'm making the list, I'll 
+use my editorial discretion to disregard
+the objections of religious believers who feel cultural reform can best be found in outworn, discarded
 creeds of nationalism, racialism or leadership by a religious order. That still leaves
 many valid concerns of the large number of
 thoughtful religious believers, who believes society suffers 
 from a different set of problems threatening its survival:
 
+* The exclusion of spiritual concerns from discussions of public life, and emptiness of
+public enterntainment and discourse;
 * A crass libertarian materialism that seeks to label any moneymaking venture as
 inherently worthy, no matter what undesireable side-effects may result.
 * The elevation of paid work to the central concern of life, and a "hustle culture" that
 gorifies a committment to paid work at the expense of domestic life and public life;
-* The exclusion of spiritual concerns from discussions of public life, and emptiness of
-public enterntainment and discourse;
 * An excessively individualism that cultivate a culture of shameless self-aggrandizement;
 * The "perpetual adolescence" cultivated in young adults and the postponement of mature
 relationships until their final childbearing years (note: men have biological clocks too);
@@ -387,7 +395,9 @@ relationships until their final childbearing years (note: men have biological cl
 My opinion on this is not that one side is right, and another wrong, but that _they're
 both right_.
 
-From the point of view of an adaptive society, a society which is constantly losing people
+In an affluent society, it is hard to see evidence of actual maladaptive, harmful
+behavior when people are relatively thriving. What might indicate signs of maladaptivity?
+Perhaps a society which is constantly losing people
 is maladapted. And indeed, one item of concern to many conservatives has been the 
 collapse of birth rates in the developed world. While some have noted that this is only
 a problem if there is some _other_, more appealing society which people are flocking to,
@@ -395,12 +405,13 @@ this diagnosis does have an intuitive appeal. If society is flourishing, why wou
 many men and women be unable to contract marriages? Why would young married couples have to postpone
 childbearing for fiscal reasons until conception becomes difficult?
 
-Unfortunately, it only seems to be political conservatives
-that have labeled this as a problem. And I'm afraid ther proposed "solutions" are nonserious;
-no action besides jawboning married women of preferred ethnicities to have more babies.
+Unfortunately, most of those who have identified this as a problem
+have troposed nonserious "solutions": basically, just
+jawboning married women of preferred ethnicities to have more babies.
 Notably, such commentors are rarely concerned about other
 existential threats, as if a slightly below-replacement population growth is the _only_
-challenge facing the economically advanced world. If your view is that having
+challenge facing the economically advanced world. I suspect it's a side-effect of
+a world view which is maladaptive for different reasons: if your view is that having
 families is not a part of life, but instead a privelege reserved for "the winners," and you feel
 the only people who deserve to be winners are "your people," then complaining about "the right people"
 not having enough children is really the only option you have for fixing this problem.
@@ -415,15 +426,18 @@ concern-trolling about the birthrate says the actual problem better than I could
 >  Why are you opting out?
 >         (user Brain-Fu ( 1274756 ) on https://slashdot.org, August 18, 2022)
 
-My own viewpoint is that low birth rates are a lagging indicate of an unhealthy society - one
-in which there are too few jobs that can raise a family; too few men (and women) who, thanks to
-delayed adolescense, are not mature enough to make the necessary tradeoffs to make a marriage and
+My own viewpoint is that low birth rates is an important sign of the maladaptivity of
+our culture. But it isn't the sole problem. Instead, it is 
+a lagging indicate of an unhealthy society - one
+in which there are too few necessary jobs are valued enough to allow 
+their holders to support a family; too few men (and women) who, thanks to
+delayed adolescense, are not mature enough to make a marriage and
 family work in their prime childbearing years; too little emphasis on the spiritual qualities that
 make one a decent marriage partner; and too few politicians willing to spell out that
 solving pratical roadblocks for family formation like affordable housing and childcare will require
 sacrifice from those who would prefer to have lower taxes, an earlier retirement, 
 and a house-as-an-investment which is guaranteed to fund said early retirement. Let's 
-not forget that it's difficult to have children
+not forget that it's difficult to commit to children
 when one is deeply pessimistic in the future. The present inability of scientifically advanced
 cultures to collectively even acknowledge, let alone deal with 
 obvious existential yet avoidable problems such as
@@ -432,12 +446,13 @@ considering whether or not to "choose life"
 and bring offspring into the world. Neither
 is it conducive to family formation among the working classes when the best that a 
 married pair of high school graduate can hope
-for in many cases is a series of unending low wage jobs with unstable hours that cannot 
+for is a series of unending low wage jobs with unstable hours that cannot 
 purchase access to stable housing
 in an environment safe for childrearing. I don't think religious conservatives are being foolish when
 they want to encourage marriage among the working classes. But they are if they think somehow
 marriage alone will magically fix these other problems.
 
+My frustration stems from the fact that we know what actually causes this.
 About a year ago, the _New York Times_ published an article in which they researched low childbirth
 rates for American women. It turns out that in general, women generally have fewer children than they want, 
 sometimes far fewer, and
@@ -452,7 +467,7 @@ They named the actual practical reasons, the largest of which included:
 Anyone with more than a minute's reflection could have pinpointed these as being the core problems.
 These are problems stemming from our present culture, problems that cannot be laid at the feet of 
 women who are "too career-centered," "too picky," "too selfish" or the like. These
-problems do nothing but reflect the pathologies of our present society. Women from favored cultures
+problems reflect the pathologies of our present society. Women from favored cultures
 blessed with good looks and affluent, professional husbands are generally not the people going around childless, 
 and religious believers who think the solution for the fertility gap lies in asking such women
 to make more babies are fishing in the wrong pond.
