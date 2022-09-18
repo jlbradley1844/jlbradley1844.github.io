@@ -1637,7 +1637,8 @@ are the most potent elixir, the greatest and mightiest talisman. (TB TSM)
 
 ALTHOUGH the Realm of Glory hath none of the vanities of the world, yet
 within the treasury of trust and resignation We have bequeathed to Our
-heirs an excellent and priceless heritage. Earthly treasures We have not (TB KA)
+heirs an excellent and priceless heritage. Earthly treasures We have not 
+bequeathed, nor such cares as they entail. (TB KA)
 
 Fleeting are the riches of the world; all that perisheth and
 changeth is not, and hath never been, worthy of attention, except to a
@@ -1824,7 +1825,7 @@ It is indeed in Our power to take up a handful of dust and to adorn it
 with the vesture of Our Names. This, however, would be but a sign of our
 favour, and not an indication of any merit it may have inherently
 possessed. Thus hath it been revealed in truth by Him Who is the Sovereign
-Revealer, the All-Knowing. Consider the Black Stone,(11) which God hath
+Revealer, the All-Knowing. Consider the Black Stone, which God hath
 made a point whereunto all men turn in adoration. Hath this bounty been
 conferred upon it by virtue of its innate excellence? Nay, by Mine own
 Self! (SLH SH 90)
@@ -1882,12 +1883,6 @@ former times. What were their deeds and what fruit did they gather? Every
 thing they uttered was but imposture and whatever they wrought hath proved
 worthless, except for those whom God hath graciously protected through His
 power. (TB TA)
-
-Give ear unto that which the people of
-tyranny ascribe unto Me in My days. Some of them say: ‘He hath laid claim
-to divinity’; others say: ‘He hath devised a lie against God’; still
-others say: ‘He is come to foment sedition’. Base and wretched are they.
-Lo! They are, in truth, enslaved to idle imaginings. (TB TA)
 
 Gracious God! It was intended that at the time of the manifestation of the
 One true God the faculty of recognizing Him would have been developed and
@@ -1960,15 +1955,15 @@ decreed by God, the All-Possessing, the Most High. Thy glory and the glory
 of such as are like thee have been taken away, and this verily is what
 hath been ordained... (TB TP)
 
-Where is he
-to be found who contended with God, and whither is gone he that gainsaid
-His signs, and turned aside from His sovereignty? Where are they who have
-slain His chosen ones and spilt the blood of His holy ones? Reflect, that
-haply thou mayest perceive the breaths of thine acts, O foolish doubter! (TB TP)
+Where is he to be found who contended with God, and whither is gone he that
+gainsaid His signs, and turned aside from His sovereignty? Where are they who
+have slain His chosen ones and spilt the blood of His holy ones? Reflect, that
+haply thou mayest perceive the breaths of thine acts, O foolish doubter! (TB
+TP)
 
-He did not want war, but those like you
-desired it. When its fires were enkindled and its flames rose high, the
-government and the people were thereby weakened. (TB TP)
+He did not want war, but those like you desired it. When its fires were
+enkindled and its flames rose high, the government and the people were thereby
+weakened. (TB TP)
 
 How numerous the oppressors before thee who have arisen to quench the
 light of God, and how many the impious who murdered and pillaged until
@@ -1985,21 +1980,20 @@ the earth find themselves in a state of stupor. They are, therefore,
 debarred from the wondrous signs of God, are prevented from attaining the
 ultimate goal and are deprived of the liberal effusions of divine grace. (TB O)
 
-... some people seem to
-have been seized with epilepsy, others are torn up even as hollow
-tree-stumps. They abandon God, the Most Exalted—He before Whose revelation
-of a single verse, all the Scriptures of the past and of more recent times
-pale into lowliness and insignificance—and set their hearts on lying tales
-and follow empty words. (TB O)
+... some people seem to have been seized with epilepsy, others are torn up even
+as hollow tree-stumps. They abandon God, the Most Exalted—He before Whose
+revelation of a single verse, all the Scriptures of the past and of more recent
+times pale into lowliness and insignificance—and set their hearts on lying
+tales and follow empty words. (TB O)
 
 The immature wish to put out the light of God with their mouths
 and to extinguish by their acts the flame in the Burning Bush. Say,
 wretched indeed is your plight, O ye embodiments of delusion. (TB O)
 
-... alas for the wayward who are like
-unto dried-up leaves fallen upon the dust. Ere long mortal blasts shall
-carry them away to the place ordained for them. Ignorant did they arrive,
-ignorant did they linger and ignorant did they retire to their abodes. (TB O)
+... alas for the wayward who are like unto dried-up leaves fallen upon the
+dust. Ere long mortal blasts shall carry them away to the place ordained for
+them. Ignorant did they arrive, ignorant did they linger and ignorant did they
+retire to their abodes. (TB O)
 
 How strange that while the Beloved is visible as the sun,
 yet the heedless still hunt after tinsel and base metal. (TSV)
@@ -2087,12 +2081,12 @@ to be found nowhere except in complete servitude unto God, the Eternal
 Truth. Whoso hath tasted of its sweetness will refuse to barter it for all
 the dominion of earth and heaven. (KA)
 
-... how
-many those who subsist on the coarsest bread, who take for their only seat
-the grass of the field, and who undergo every manner of hardship, merely
+... how many those who subsist on the coarsest bread, who take for their only
+seat the grass of the field, and who undergo every manner of hardship, merely
 to maintain their superiority in the eyes of men! Thus do We expose their
-deeds, that this may serve as a warning unto others. These are the ones
-who subject themselves to all manner of austerities before the gaze of
-others in the hope of perpetuating their names, whilst in reality no
-mention shall remain of them save in the curses and imprecations of the
-dwellers of earth and heaven. (SLH SH 86)
+deeds, that this may serve as a warning unto others. These are the ones who
+subject themselves to all manner of austerities before the gaze of others in
+the hope of perpetuating their names, whilst in reality no mention shall remain
+of them save in the curses and imprecations of the dwellers of earth and
+heaven. (SLH SH 86)
+
