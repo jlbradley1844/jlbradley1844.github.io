@@ -3,7 +3,6 @@ title: Materialism, Revisited
 ---
 
 ## Materialism, Revisited
-
 As a Baha'i, generally, one is concerned about love, justice and unity. And we believe
 that indeed, this is what animates all religions. Others may disagree, but this is our
 belief. Depending on the culture, the incompatibilities are going to vary.
