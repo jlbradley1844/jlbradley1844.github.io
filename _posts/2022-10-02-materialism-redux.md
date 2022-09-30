@@ -323,6 +323,9 @@ most common personal philosophy based on it is what I'd refer to as Eric Cartman
 
 >  Oh, and everyone I don't like can just eat it and die.
 
+I'm not expert at philosophy, but I know there is more to materialism than this. But for those who
+like the topline takeaway, it's very easy to ignore the footnotes and take from it only what you want.
+
 --------------------------------
 
 Philosophies exist and will be popularized. The popularizers of materialism have nary been concerned
