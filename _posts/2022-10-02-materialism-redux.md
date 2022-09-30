@@ -8,7 +8,8 @@ that indeed, this is what animates all religions. Others may disagree, but this 
 belief. Depending on the culture, the incompatibilities are going to vary.
 
 If you review the more recent Baha'i writings - particularly the more recent letters
-from our Universal House of Justice, they have already what the particular problem with
+from our Universal House of Justice, they have identified the main impediments to the
+growth of this world view in
 "the West" is, specifically the version refined in the United States. These center around:
 * Materialism,
 * Individualism, and
