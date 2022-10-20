@@ -5,49 +5,53 @@ title: Materialism, Revisited
 ## Materialism, Revisited
 As a Baha'i, generally, one is concerned about love, justice and unity. And we believe
 that indeed, this is what animates all religions. Others may disagree, but this is our
-belief. Depending on the culture, the incompatibilities are going to vary.
+belief. Depending on the culture, the incompatibilities between our _religion-in-theory_
+and the _religion-at-it-is-practices_ are going to vary. But this is topic for another
+post; this post is about an impediment to love, justice and unity.
 
 If you review the more recent Baha'i writings - particularly the more recent letters
-from our Universal House of Justice, they have identified the main impediments to the
-growth of this world view in
-"the West" is, specifically the version refined in the United States. These center around:
+from our Universal House of Justice, they have identified the main impediments to these
+values in "the West," specifically in the United States, center around these social flaws:
 * Materialism,
 * Individualism, and
 * Racism.
 
 Of these, racism is already acknowledged as a social wrong, so let's skip over that. As
-far as individualism, it is clear from the writings that what is meant is a certain sort
+far as individualism, it is clear from the writings that the "inidivualism" referred
+to is a certain sort
 of libertarian attitude that says "I am not my brother's keeper," one where people are felt
 to have no responsibilities at all to humanity as a whole. As individualistic as most
-Americans are, my guess this is still not an attitude that many hold. So broadly, both
+Americans are, my guess this is still not an attitude that most hold. Broadly, both
 racism and excessive individualism would be recognized by Americans as generally bad things, whether
 one regards them as collective evils or simply as personal failings.
 
-Materialism, on the other hand, is more deeply embedded. And one may rightly ask just what
+Materialism, on the other hand, is more deeply embedded in western culture. 
+And one may rightly ask just what
 sort of "materialism" is condemned by the Baha'i writings. This is because there
 are two meanings to materialism:
 * Philosophical: the belief that everything that exists is material and can be studied
 by scientific properties.
-* Perjorative: one who is overly-concerned about owning things, particularly signifiers
-of status, such as large estates and expensive clothing, and is prone to overconsumption.
+* Perjorative: a description applied to someone who is overly-concerned about 
+owning things, particularly signifiers
+of status - expensive cars, large estates, jewelry, etc. - and is prone to overconsumption.
 
 If one is talking about the latter, then here again, most Americans would also agree with
 Baha'is that this represents a personal failing worth fixing. Unfortunately, its elimination
 is a bit of an uphill battle because consumerism - the glorification of material consumption -
-is unavoidabley embedded in American society due to the many channels of media that
-glorify it, thanks to their dependence on commercial sponsorship. Sometimes it's
-hard to tell the difference between the content and the commercials. You can probably
-think of people who are hooked on TV shows and YouTube channels dedicated
+is unavoidabley embedded in American society. That's thanks the many channels of media that
+glorify it; most media is dependent on commercial sponsorship. Indeed, sometimes it's
+hard to tell the difference between the content and the commercials. You probably
+know people who are hooked on TV shows and YouTube channels dedicated
 to celebrating the lifestyles of hedonistic celebrities, celebrities whose only marketable skill is
-conspicuous consumption taken over a series of
+conspicuous consumption publicly displayed over a series of
 extremely expensive vacations. Some of the viewers keep viewing even
 knowing the fact that most of those expensive things and vacations are placed in the
 show by undisclosed commercial sponsers wanting to push the hunger for these items on the viewers...
 
 Still, just as most Americans seem baffled by the values of a relative they'd regard
-as a hardened racist, they're also slightly bewildered by the values of people
-who are eager viewers of those glorifying the lifestyles of excessive
-consumption. So I think most Americans would agree with the
+as a hardened racist, most also probably slightly look down on these lifestyles
+of access, thinking "If I won the lottery, I certainly wouldn't waste my money in
+that fashion." Here again, I think most Americans would agree with the
 Baha'is on this.
 
 So when Baha'i authorities are condemning materialism, they're talking about materialism
@@ -95,7 +99,9 @@ also seem uniformly unwelcoming of materialistic _philosophy_.
 >  tangible evidences.
 >      (Abdu'l-Baha, The Promulgation of Universal Peace, p. 261)
 
-And get downright picky about it nowadays when talking about the academic realm:
+And they get downright picky about it when talking about the academic realm.
+The following describes some correspondence written regarding discussions on
+academically-oriented internet fora in the nineties:
 
 >  Some of the protagonists in the discussions on the Internet have implied
 >  that the only way to attain a true understanding of historical events and of
@@ -135,7 +141,7 @@ almost entirely atheistic, and atheists are quite used to defending the fact the
 morals. Their counterattacks generally involve another variant of the "God is nonsense"
 variety, and having run through their crowd-pleasing repatory, they might eventually
 admit they believe ethics and moral reals are just sentimental nonsense, but the fact
-they are sentimental nonsense does not prevent their compliance, because of <reasons>. This does not
+they are sentimental nonsense does not prevent their compliance, because <reasons>. This does not
 bother me in the least; I'm quite happy for <reasons>, because the world would be a
 horrible place if materialists act like the animals they claim they are.
 But let's leave that aside for now, and grant the materialist that there is nothing
@@ -160,7 +166,7 @@ criterion of philosophical thought.
 The question a Baha'i might ask, therefore, is, do materialistic (or physicalist, if you're
 being more contemporary) philosophies serve the present concerns of this day and age? 
 
-I believe they do not. This would be true even if I were a believer in ostensibly
+I believe they do not. I would also hold this true even if I were a believer in ostensibly
 materialistic-compatible religions such as Bhuddism (the American variant).
 
 --------------------------------------------------

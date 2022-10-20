@@ -9,7 +9,8 @@ country. Or at least, this is how it is viewed by some people. In
 reality, it has never been that good. Admittedly, it is good for _some
 people_, such as myself - while I realize things are bad for many
 blacks, those I know in my circle are those who have managed to do
-well enough that they aren't obvious targets. As for actual friends,
+well enough that they aren't obvious targets. As for  the question
+"how many black friends _do_ you have, then?"
 my lack of black friends is matched by my lack of white friends.
 
 But unfortunately, the question must turn to _what to do._ Lack of
@@ -19,13 +20,13 @@ there seems nothing obvious that can easily be done by those of good
 will. "The problem of racism," such as it is, is most obviously
 embodied by white racists, particularly those in positions of
 authority. Not surprisingly, these people are frequently completely
-outside of the social circles of the whites who are concerned by
-racism. This is for a very good reason: most whites who do have racist
-relations have found such people to be impervious to reason to an
+outside of the social circles of the whites most concerned by
+racism. This is for a very good reason: most whites who know such
+people have found them to be impervious to reason on the issue to an
 almost perverse degree, to they extent that they consider lack of
-contact with such people to be a precious benefit. Efforts to
-"educate" these people, more often than not, backfires badly as they
-continue to stubbornly dig into their obsolete attitudes. Meanwhile, there
+contact with such racists to be a precious benefit. Efforts to
+"educate" these people, more often than not, backfires badly, as they
+continue to stubbornly dig into their entrenched attitudes. Meanwhile, there
 are few African-Americans who are willing to risk their neck to
 "educate" these people; indeed, they may rightly feel that the fact
 such people are allowed at all as authority figures in politics and
@@ -62,24 +63,24 @@ on this subject over the course of his thirty-odd year tenure as
 leader of the Baha'i Faith, his most significant writing on this topic
 came in a book-length letter to the Baha'i community in America titled
 _The Advent of Divine Justice_. Written in the late 1930s, it covered
-a broad range of issues, but spent several pages writing about how the
+a broad range of issues, but spent several pages detailing about how the
 Baha'i Faith must address the issue of race, both within its ranks and
-in society at large. It is referred to by American Baha'is even to
+in society at large. This letter is referred to by American Baha'is even to
 this day.
 
 The guidance is notable, in that it does not give the same guidance to
-whites and African-Americans! It does not make the mistake of giving
+whites and blacks! It does not make the mistake of giving
 in to half-hearted urges of "tolerance" and "seeing beyound race"; nor
 does it believe that a "color-blind" attitude is sufficient.  Instead,
-it gives specific instructions, that differ based on the race of the
+it gives specific instructions that differ based on the race of the
 believer.
 
-To the whites he says:
+To the whites, he says:
 
 > Let the white make a supreme effort in their resolve to contribute
 > their share to the solution of this problem, to abandon once for all
 > their usually inherent and at times subconscious sense of superiority,
-> to correct their tendency towar
+> to correct their tendency 
 > towards the members of the other race, to persuade them through their
 > intimate, spontaneous and informal association with them of the
 > genuineness of their friendship and the sincerity of their intentions,
@@ -148,5 +149,5 @@ ill will that you will meet; this is not under your control. Instead,
 befriend who you can and do what you can to help. You don't get to
 pick your poison, but you can act on your duties, knowing it will make
 a difference. Only in this manner can you and your organization lead
-the way forward, and only by leading can allow the rest of the
+the way forward, and only by leading will the rest of the
 community to follow.

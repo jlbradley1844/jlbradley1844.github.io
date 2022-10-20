@@ -406,7 +406,7 @@ many men and women be unable to contract marriages? Why would young married coup
 childbearing for fiscal reasons until conception becomes difficult?
 
 Unfortunately, most of those who have identified this as a problem
-have troposed nonserious "solutions": basically, just
+have proposed nonserious "solutions": basically, just
 jawboning married women of preferred ethnicities to have more babies.
 Notably, such commentors are rarely concerned about other
 existential threats, as if a slightly below-replacement population growth is the _only_
