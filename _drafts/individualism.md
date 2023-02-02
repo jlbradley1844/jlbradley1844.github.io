@@ -312,10 +312,97 @@ writings are clear about the damage this can cause:
 >  is denounced. We Bahá'ís should not be blinded by such prevalent notions.
 >       (The Universal House of Justice, 1988 Dec 29, Individual Rights and Freedoms, p. 5)
 
+Part of the problem is the leaders themselves are individualistically inclined.
+This flaw has a tendency to undermine their ability to lead - commanding rather
+than prodding, denigrating rather than uplifting. No wonder so many are disinclined
+to follow authority. As stated in a letter to some Baha'i leaders in the United States:
+
+> In your openness and candor you will, no doubt, avoid ineptitudes that pass
+> as norms in the freedom of speech practiced in your nation. In a society
+> where "telling it like it is" employs a style of expression which robs
+> language of its decorum, and in a time when stridency is commonly presumed to
+> be a quality of leadership, candor is crass, and authority speaks in a loud
+> and vulgar voice. People are frequently obliged to receive direction from
+> their leaders in such disrespectful modes; this is a reason for resentment
+> and suspicion towards those in authority.
+>      (The Universal House of Justice, 1994 May 19, response to US NSA)
+
 
 ## Enough With the Struggle For Existence
 
+One of the persistent signs of individualism is its competitive nature. The individualist
+philosophy is, of course, clais to be enterpreneurial in nature. However, individualism
+typically celebrates unrestrained competition. In practice, this means in the economic
+sphere an all-against-all competition for resources. While one doesn't have to be a
+social darwinist to be an individualist, it sure seems to help.
+The analogy such people like to use is the struggle for existence in nature; the claim
+is that by allowing the animal instinct to act untrammeled, capitalism channels this
+instinct as a force for good.
 
+The problem is that by now, most have figured out that starvation is unnecessary.
+The per capital gross domestic product is something like $200K per person in America,
+and total governmental expenditures are something like $40K per person. Many people
+in America actually live on less than that. So clearly there is plenty of money sloshing
+around. Every society will always have the idle, and perhaps for them, it is necessary
+to hold the threat of starvation over their head - though if you've actually met such
+people, you probably know they've had no problem sponging their way through life.
+
+It's one thing to recongize a struggle for existence; yet another to impose this
+condition artificially on people.
+
+>  And among the teachings of Bahá'u'lláh is man's freedom, that through the
+>  ideal Power he should be free and emancipated from the captivity of the
+>  world of nature; for as long as man is captive to nature he is a ferocious
+>  animal, as the struggle for existence is one of the exigencies of the world
+>  of nature. This matter of the struggle for existence is the fountain-head of
+>  all calamities and is the supreme affliction.
+>        (Abdu'l-Baha, Selections from the Writings of Abdu'l-Baha, p. 302)
+
+Probably one of the worst things about work is the fact that many workthrough
+cultures are unnecessarily competitive. You don't need to be a salesman in
+a boilerroom operation listen to Alec Baldwin scream epithets at you to know
+how unnecessarily bad things can get. The business pages are full of stories of
+"get-tough" CEOs which do all they can to to inculcate a "killer instinct" in
+their workers. Frequently, they succeed, remaking the company into a toxic mess
+no one wants to work at.
+
+The fact that there are no separate guidelines for "business conduct" apart from
+"personal conduct" in the Baha'i Writings does not mean that business conduct is
+anything-goes; very much the opposite. Baha'is must operate under the same moral
+strictures whether at home or at work.
+
+> The obstacle to human happiness is racial or religious prejudice, the
+> competitive struggle for existence and inhumanity toward each other.
+>       (Abdu'l-Baha, The Promulgation of Universal Peace, p. 468)
+
+> In the world of nature we behold the living organisms in a ceaseless struggle
+> for existence. Everywhere we are confronted by evidences of the physical
+> survival of the fittest. This is the very source of error and misapprehension
+> in the opinions and theories of men who fail to realize that the world of
+> nature is inherently defective in cause and outcome and that the defects
+> therein must be removed by education.
+>       (Abdu'l-Baha, The Promulgation of Universal Peace, p. 400)
+
+> God has endowed him [mankind] with a power whereby he can even overcome the
+> laws and phenomena of nature, wrest the sword from nature's hand and use it
+> against nature itself. Shall he, then, remain its captive, even failing to
+> qualify under the natural law which commands the survival of the fittest?
+> That is to say, shall he continue to live upon the level of the animal
+> kingdom without distinction between them and himself in natural impulses and
+> ferocious instincts? There is no lower degree nor greater debasement for man
+> than this natural condition of animalism. The battlefield is the acme of
+> human degradation, the cause of the wrath of God, the destruction of the
+> divine foundation of man.
+>       (Abdu'l-Baha, The Promulgation of Universal Peace, p. 352)
+
+The Baha'i Faith does not exclude competition, but both the means and end
+are proscribed. As in sports, it is fairly clear when a compitition is meant
+to bring out the best in individuals, as opposed to an excercise in gamesmanship
+where the goal is to win by any means necessary, frequently be causing actual direct
+or indirect harm to others. A fellow competitor is never an opponent.
+A compilation of Baha'i writings titled "Vying in Service" (June 3, 1987) is
+directed at this subject. The mere title is enough to indicate the proper
+attitude one must take for competition.
 
 ## Conclusion: The Baha'i Call for Unity
 
