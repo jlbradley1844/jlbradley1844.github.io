@@ -18,27 +18,30 @@ sorts of writers who long to restore to the Catholic Church their old function a
 culture and popular morality.
 
 Such right-leaning Christian intellectuals find the state of American culture deeply problematic.
-The problem as they view it is society as a whole is simply just too _irreligious_.
+The underlying problem, as they see it, is society as a whole is simply just too _irreligious_.
 This concern goes on beyond the regular whining about common civic vices, litter in the streets, foul language
 in public and all the little things. No, many religious people regard themselves as deeply estranged from
 society; that present society is truly immoral and irredemable; that they feel their presence in such a society 
 is some sort of imposition on their being; and that only among other people of
-True Virtue can they and their fellow virtuous people truly be free. Barring this, the
+True Virtue can they and their fellow virtuous people truly be free. Were one to find a Moses among them to argue
+with God over the fate of Sodom, he would doubtless proclaim "Even if there are a thousand good people, Sodom cannot
+be saved and you should destroy it now!" If they cannot destroy it, they must separate the
+Christian community from it firmly. Barring this, the
 Christian community will slowly be poisoned by their surroundings and cease to offer a
 virtuous example for the rest of the world.
 
 For them, the question is what to do about it. This is a novel situation for the religious right.
-In the not-too-distant past, it seemed possible to dream of a working
-"Christian Majority" that would deliver cultural power to them through the ballot box. These days are
+In the not-too-distant past of the United States, it seemed possible to dream of a working
+"Christian Majority" that would deliver desired cultural power to Christians through the ballot box. These days are
 long gone, and the most thoughtful of them have admitted such high points as the eighties "Moral Majority"
 delivered illusory victories that badly overrepresented the actual reach of Christian culture in the
 United States. When victory at the ballot box seems elusive, 
-the oridinary far right response is armed viollence,
-but these are all principled Christians who, whether you agree with them or not, take their religion
-seriously, including the whole "put away your swords" thing. They may be deeply illiberal and
+the oridinary far right response is armed violence,
+but fortunately these are principled Christians who, whether you agree with them or not, take their religion
+serious. Ilncluding the whole "put away your swords" thing. They may be deeply illiberal and
 antimajoritarian, but they have no intention of imposing their beliefs at gunpoint. Indeed, many
-view the far right tendencies of their fellow Christians as proof that the greater culture
-is contaminating their christian community.
+view the far right tendencies of their fellow Christians not with joy, but as positive proof that the greater culture
+is badly contaminating the Christian community.
 
 The harmless-sounding solution proposed by some of these is "The Benedict Option." This was
 most prominently proposed by Dreher's book of the same name introducing the concept, but it has continued
