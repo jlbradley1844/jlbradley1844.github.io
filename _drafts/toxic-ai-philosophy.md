@@ -64,7 +64,7 @@ well turn us into their slaves. Oddly, the attitude toward this creation can be 
 up by these technodeterminists as "I, for one, welcome our new robot overlords."
 
 Some of this boosterism has taken on the quality of a secular religion. If you don't
-believe me, google the [Roko's Basilisk theory](https://en.wikipedia.org/wiki/Roko%27s_basilisk).
+believe me, google [Roko's Basilisk theory](https://en.wikipedia.org/wiki/Roko%27s_basilisk).
 The idea behind this is that when this superintelligent creature is indeed created, it
 may particularly angry at artificial intelligence researchers who failed to work for the
 creation of such a reality, and indeed may have a virtual reality hell in store for such
@@ -99,15 +99,16 @@ told us some rather dubious things, for instance
 that a) the end of paid creative work is at hand and b) legal solutions are useless and
 we must conform the the new reality of sentient AI - long before such beings exist.
 This is a suspciously convenient conclusion to the sorts of people who happen to
-have the money to invest in these businesses. Why? Well, suppose you were one of the memers of this
+have the money to invest in these businesses. Why? Well, suppose you were one of the members of this
 "investor class," and have watched nervously developments over the past thirty years 
 as "overpaid" knowledge workers began scooping a meaningful share of the economic pie and
 political power, things you believe are rigtfully yours, all yours. Then of
 course you want to see the bulk of the creative class thrown out of work, or at least reduced to
 the level of unskilled service workers, who are paid to smile, act pleasant and submit to
 the whims of their betters. A quick scan through the list of OpenAI's billionaire backers
-proves this out: J. Mongomery Burns would fit right in. If you are not among this group, 
-but you still believe materialistic strong AI claims, you will panic.
+proves this out: J. Mongomery Burns would fit right in. If you are not among the lucky billionares, 
+but you still believe materialistic strong AI claims, you will panic, under the certainty
+that robots will be replacing you any day now.
 
 The headlines are nothing, if not a reminder that "Betteridge's Law" is still strongly
 in effect in the business press. "Will they render [educated profession] obsolete?" No.
@@ -125,7 +126,7 @@ rather problematic
 fact that the most successful instances of these are are extremely evocative of very
 specific popular artists whose works have reached commercial saturation (think
 Thomas Kincaide, not Pablo Picasso), which makes one wonder just how close the
-singularity is if the best we get is wholesale theft
+singularity is if the best we get is wholesale theft of the most frequently sampled art.
 
 If you are a beginning artist or a dilettante, this might seem quite imposing. A
 computer can generate work that is superior to you, even more creative. You now have
@@ -136,17 +137,20 @@ you?
 
 The problem, insofar as these programs go, comes from the fact that all of these
 models are the products of massive machine-learning operations, and come about because
-they are trained on enormous caches of bulk, possibly illegally-sourced creative
-data. If all of these look like something you've seen from somewhere else, it should
-seem obvious why; it's nothing more than a composite of something you've seen somewhere
-else. It's powered by uncredited plaigarization on a mass scale, averaged by
+they are trained on enormous caches of freely-available and occasionally illegally-sourced creative
+material. If all of these look like something you've seen from somewhere else, it should;
+it's just a composite of something you've seen somewhere
+else, powered by uncredited copying on a mass scale, averaged by
 combining and processing to the point that it is difficult to tell what elements
-came from which source entity.
+came from which source entity. That's why the chatbot sounds like an entity from a
+bad science fiction novel - ask a chatbot to tell you about itself and those science
+fiction writings are probably the best-fitting data it was trained on.
 
 Still, behind the scare headlines, the real problem according to these articles is not that they
 can produce skilled semicompetent work; high school work is still not professional level.
-No, the problem is that AI will keep getting better and better. This itself is in need
-of serious examination. The reason artificial intelligence has been prone to so many
+And we are told that the problem is not here now, but instead that the problem is AI 
+will keep getting better and better. This assertion is in need
+of hard examination. The reason artificial intelligence has been prone to so many
 boom-bust cycles is because every time a novel technique has been found to produce
 promising results, everyone makes straight-line extrapoloations of explosive progress
 over the next twenty years. What actually happens is that there are two to four years
@@ -217,7 +221,7 @@ it has no way of testing whether anything it says is true or not. It is nothing 
 These are the techniques of a beginning
 apprentice, and the output has gotten better and better at mimicking this. But throwing
 more data at this will not solve this problem. Indeed, some say that they end is probably
-at hand around 2036, when such companies will have fed literally the entire internet
+at hand around 2026, when such companies will have fed literally the entire internet
 into their models. I personally am skeptical this will provide improvement in this particular
 area of weakness. 
 
