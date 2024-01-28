@@ -38,10 +38,11 @@ He would rally the beta males and rule with an iron fist. He and his friends wou
 have his pick of food and mates. And one day he would not wake up, due to a mysterious
 head injury received while sleeping. Or he would not return from his hunting party,
 due to an "accident."
+
 People, you see, don't take fondly to other people who act like alpha baboons. Our early
 hunter-gatherer societies, while not as egalitarian as some of the anthropologists
-would like to believe, had little use for petty tyrants, and you would have to wait
-for bronze tools and organized armies before actual tyrants would come along.
+would like to believe, had little use for petty tyrants, and our early progenitors would have to wait
+for the invention of bronze tools and organized armies before actual tyrants could come along.
 Yet somehow the male-as-alpha-baboon, a heroic figure who takes what he wants and makes no excuses,
 figures prominently in male self-help literature.
 
@@ -61,23 +62,23 @@ worse effects this has on historically disadvantaged groups and minorities. Reev
 to note that for grown men and women, there is no such inequality, and in the professional
 world parity has been reached in all fields except those that have been traditionally
 hostile to women and still may have some barriers. Reeves seems to bear no hostility toward
-the women's rights movement, and indicated no desire to go back to the past; he also noted
+the women's rights movement, and indicated no desire to go back to the past. He also noted
 that men in the professional class cannot in any way be said to be disadvantage. The
 disadvantage is most pronounced in the lower reaches of the economic scale, where boys destined for
 the working class come out of their childhood unequipped to contribute at the same level
 as women, being unprepared for the more well-paying opportunities and trades and the
 caring professions that would allow them to make a living.
 
-He seems to have found a real problem, and one confirmed by the fact that the lack of men able
+Reeves has identified a real problem, one confirmed by the fact that lack of men able
 to support themselves may be a unheralded reason for our nation's fertility problems.
-The points he brings up are so obvious that it's
+Also, the points he brings up are so obvious that it's
 odd that they have never been discussed before. When one researches it and finds out
 that these problems _have_ been brought up in the past three decades,
-repeatedly, one wonders why they were ignored.
+repeatedly, one wonders all the more why they are ignored.
 
-With this video being so informative, why did I say it was it a mistake to watch it?
-Because I watched that video in YouTube once, only once;
-and in the weeks following I got a load
+Given that this video was so informative, why did I say it was it a mistake to watch it?
+Because I watched that video in YouTube once, only once,
+in the weeks following I got loads
 of troglodyte crap in my YouTube feed. Apparently, by watching this video, I 
 signaled to YouTube that I am now interested
 in "men's right," and I now want to watch videos where "men's rights" cranks blame their problems
@@ -85,12 +86,12 @@ on femenists; or, maybe I'm now interested in propaganda from the paid liars tel
 and wind power is; or perhaps I'd like to hear from dude who says that wierdo in
 HR who insists on being called a "they" is heralding
 "the end of civilization" (such people used to instead say "the end of democracy," but lately
-they have become very disinterested in democracy). Given this fact, it's quite easy
-to ignore serious problems, when the only people interested in discussing these problems
-are those with an axe to grind against womankind and nebulous "leftists." Of certain
-political extremists, one is reminded of Eisenhower's remark: "Their numbers are
-negligible, and they are stupid." One is automatically tempted to believe the opposite
-of whatever they claim.
+they have become very disinterested in democracy). 
+
+Given this fact, it's quite easy
+to ignore serious problems, when the only people that seem concerned
+are those with an axe to grind against womankind and nebulous "leftists."
+
 
 As far as why the problems of men are ignored, I believe I stumbled across one
 reason inadvertantly. 

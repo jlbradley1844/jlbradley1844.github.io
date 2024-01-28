@@ -4,7 +4,8 @@ title: The Winner's Curse and Christianity
 
 # The Winner's Curse and Christianity
 
-I was doing some thinking, as I always do, about the general lack of
+The following post is from some thoughts I've been tossing about for years.
+As a Baha'i, I'm concerned about the general lack of
 interest in religion. By that, I don't necessarily mean lack of
 interest in theology. I am more referring to the fact that people
 generally don't find religious practices themselves - attendance at
@@ -15,10 +16,11 @@ younger generations are moving away from religion, I suspect this will
 be of broader concern over time.
 
 The question, really, is what people think religion does for
-them. Most people profess little interest in theology or
-philosophy. They practice a form of belief I've heard called
+them, an why it seems irrelevant to so many. Perhaps it's the fact that
+most people profess little interest in theology or
+philosophy. Many practice a form of belief I've heard called
 aganotology - one who doesn't care if there is a God or not. While
-some of this can be chalked up to "secularism," I think this is much
+some of this disinterest can be chalked up to "secularism," I think this is much
 as it always is. I doubt very much that when church membership was
 stronger, that there was much emphasis on actual hard issues of belief
 or theology. Had there been, the pulpits would have thundered with
@@ -30,8 +32,8 @@ churches on college campuses catering to weirdos like me, who were in
 bed by midnight on a Saturday night and had nothing else to do on a
 Sunday morning.
 
-Instead, there have generally been a few other things people
-participated in church or religious activities for.  The most
+I think the answer lies in other reasons people had for participating
+in church or religious activities.  The most
 trivial-sounding but important reason is simply simply convention and
 a sense of belonging; you did it because your parents did it, and you
 wanted your kids to do it to. From that point of view, this may not
@@ -39,10 +41,11 @@ necessarily be all that bad; the church became a form of social
 capital. It helped to make groups of people in the same neighborhood
 in a community, people who might not ordinarily come together.
 
-Another one is ethical. For most part, religion is not theology, but
-really practical ethics. The theology is just what serves to justify
+Another reason is ethical and self-help. For most part, religion practice
+rarely concerns theology, but
+practical ethics. The theology is just what serves to justify
 the ethics. Think about it: when someone is "sermonizing,"
-i.e. talking like a preacher, they aren't talking about God, are they?
+that is, talking like a preacher, they aren't talking about God, are they?
 They are talking about ethics (usually _your_ ethics), and usually
 trying you to do something different than your habitual behaviors.
 Likewise, other church-oriented activites are usually dedicated toward
@@ -63,13 +66,15 @@ would be highly recommended as a part of good citizenship.
 Yet church membership has declined. And if you think the problem is
 lack of religious belief, there are many organizations that do this
 sort of thing without requiring religious belief of any sort, such as
-strictly Humanist concerns like the Ethical Cultural Society. These
-have not fared any better. The problem is that these concerns,
+strictly humanist concerns like the Ethical Cultural Society. These
+organizations have not fared any better. The problem is that these concerns,
 pressing as they are, are not _the_ central concern of people in
 society now. Churches will stagnate insofar as they do not meet a
 central concern.
 
-For example, let's look at my secular peer group. Few of them go to
+One reason it is no longer central is there are so many options for
+meeting these same concerns. Take, for example, my secular peer
+group. Few of them go to
 church. But it isn't as if they are bad people. Perhaps they feel
 themselves to be "religious enough" and don't go to church on Sunday
 even though they're technically Catholic. Or they're too busy for
@@ -79,23 +84,19 @@ overscheduled. They can read a book on self-improvement or controlling
 their temper, and that may be far more salient than whatever random
 sermon the preacher or priest was going to to throw their way.
 Such people will generally agree that churches are good and
-necessary. But they are not good _for them_, and may even be seen as
+necessary - but they are not good _for them_, and may even be seen as
 irrelevant and time-consuming. The reason, to be blunt, is the
 concerns the church addresses are no longer central to their life.
 
-What I'd like to address is a problem I have regarding this central
-concern; it is much more individualistic and insidous than concerns of
-the past. There are certain religious organizations that have
-attempted to use that for their own ends, purposely or not. I fear the
-ends are entirely irreligious.
-
-But before that, a digression on how we got here.
+There is one chorch organization that figure out how to appeal to
+a central concern the middle of the last century. It has had very
+concerning effects.
 
 -----------------------------------------
 
-At one time (several hundreds of years ago), religious life of some
-sort was truly universal for all, and it did center around the central
-concerns of life. Those concerns were quite different than they are at
+Before discussing this, let's think of how religious activity became
+central, and what it centered around. Because churches really did thrive
+when meeting central concerns, and those concerns were quite different than they are at
 this time.
 
 Let's look at the Christianity of the European middle ages. Everyone,
@@ -103,8 +104,7 @@ without a distinction, was the same form of christian. Everyone
 attended. Why did they attend? Well, in many cases, it was
 compulsary. You didn't have a choice. But whether you did or not, the
 central concern was the same: _to maintain order and stability_.
-
-I'm not talking about some abstract ideal about "natural order"; I'm
+And I'm not talking about some abstract ideal about "natural order"; I'm
 talking about actual physical safety, as in, dying a natural death
 instead of at the hands of a robber or maurauder. Unlike the popular
 conceptions, life nowadays is far safer than it has ever been. This
@@ -171,11 +171,19 @@ think of "conservative religious behavior," that description applies
 to many old religions around the world, be they Christian, Buddhist,
 Islam, Hindu... you name it.
 
+
+In the modern world, this concern has changed - and churches did to.
 To some extent, if you look at the mainline Christian churches in this
 country, some still have a message on of stability and order, but this
 is much less emphasised. The emphasis now is more on the tradition,
-community and sense of belonging I alluded to earlier. Part of this is
-because whatever one things of "the natural order" is now a point of
+community and sense of belonging I alluded to earlier. This is exactly
+what you would've expected in an era when most people move from rural
+farm communities to the new cities that drove manufacturing and the 
+industrial economies - restoring the sense of place and community that
+these new cities often missed.
+
+As far as the old concerns of order,
+whatever one things of "the natural order" is now a point of
 contention, and your religion will greatly reflect whatever you think
 that order should be. If you are a believer of "the old order," you
 may join a wizened arch-conservative congregation, no doubt one that
