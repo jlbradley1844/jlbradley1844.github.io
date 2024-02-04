@@ -13,8 +13,8 @@ resentment" beliefs, beliefs that are easily disproven statistically
 and seem more focused on cherry-picked anecdotes? What it is that
 causes this weakness?
 
-We all know them. People with high levels of racial resentment. While
-not overtly racist, they sure do complain a lot about "those people."
+We all know people with high levels of racial resentment; the people who,
+though not overtly racist, sure have a lot of complaints about "those people."
 Some of them are people we feel are very decent, at least around us,
 "once you get to know them." Others have so many objectionable
 characteristics that you hardly notice their racism due to all the other
@@ -22,19 +22,19 @@ problems they seem to have.  However much this has been speculated
 about, there is little discussion of root causes of this prediliction.
 
 Let's start with religious beliefs. While most religous beliefs have
-nothing about racism as such, this has to take into account that
-racism as a feature in society is actually fairly novel. In fact, to
-my knowledge there is only one revealed religion whose origins lie
+nothing about racism as such, one has to remember that
+racism as a distinct idea actually fairly novel. To
+my knowledge, there is only one revealed religion whose origins lie
 after the development of theories of race in the 1700s (more on that
 later). While those who have neither respect nor knowledge of
-religions are happy to pin religion as being at fault, the teachings
-themselves hardly lend support for any support of tribalism. If
+religions are happy to pin religion as being at fault, religious teachings
+themselves hardly lend support for any support of nationalism or tribalism. If
 anything, the three great evangelizing religions of Christianity,
 Buddhism and Islam all did their best to deemphasize the importance of
 origin and place, if only to facilitate the spread of their
 religion. Even though racists have attempted to use scripture of one
 sort or other to back up their views, it is unsurprising that their
-more tolerant opponents have much easier time finding scripture that
+more tolerant opponents have much easier time finding scriptures that 
 overtly backs up their arguments. Racists, on the other hand, have
 generally used tortured, tenditious readings of the scripture that
 generally would have no purchase in society, were it not for the
@@ -47,15 +47,14 @@ about racism is my own, the Baha'i Faith. Their writings forbid
 Baha'u'llah spoke little about racism as such, but in broader strokes,
 as reflecting the spiritual equality and essential unity of
 mankind. Racism was not identified as a sin, so much as a particuar
-type flaw produced by lack of a virtue. It is regarded as sign of
+type of flaw produced by lack of a virtue. It is regarded as sign of
 spiritual immaturity or lack of development. Only later did Baha'i
 leaders point out racism as a specific moral danger, particular with
 regard to the American community.
 
 If this is the case, then it would stand to reason that racism is
-itself due to a particular lack of moral development. And that the
-exponents of racist beliefs are probably underdeveloped morally in other
-areas as well. This would imply that the underlying cause, rather than
+itself due to a particular lack of moral development.
+This would imply that the underlying cause, rather than
 being due to lack of broadmindedness or education, is primarily due to
 a defect in moral reasoning or behavior. And that the solution lies in
 efforts to upraise moral behavior, or "spiritual" behavior as regarded
@@ -198,7 +197,9 @@ from a racist policy,
 they will milk it for all it's worth. Meanwhile, if racism is
 condemned, they will be quiet. They may indeed hold racist views for
 other reasons, but will not say anything. In public, they will
-certainly not admit anything that will betray racis.
+certainly not admit anything that will betray racism. Privately, they
+may still hold racist views, and eagerly commiserate with others over
+imagined violations of their rights by the "woke" left.
 
 Meanwhile, let's look at a white person arrested in "stage two"
 morality. For them, the situation is far more clear. In all
@@ -305,8 +306,13 @@ institutional racism.
 ------------------------------------------------
 
 Unfortunately, I'm not aware of any sort of hard numbers itself posits
-some general qualitative breakdowns. We know that a small minority of
-people spend their whole lives in "stage two."  We also know that most
+some general qualitative breakdowns. Kohlberg's workis the only one to attempt
+such a breakdown, and I'm not aware of any more detailed follow-on
+work. From his work, we know a small minority of
+people (in the single percentages) spend their whole lives 
+in "stage two"; such people tend to line
+up with "dark triad" pathologies, a more recently identified concept that 
+has seen a lot more study. We also know that most
 people reach "stage four" normative behavior by some time after high
 school, but a significant number do not move past "stage three."
 Meanwhile, only a small minority minority reach the postconventional
@@ -330,9 +336,9 @@ One is to improve moral education of people; essentially, move the
 possible. Another is to strengthen antiracist norms univerally, to
 ensure that even those stuck in "stage three" behave if only to fit in
 to their own peer group. However, equally important and overlooked is
-the need to protect minorites from racism. It seems that of these
+the need to protect minorities from racism. It seems that of these
 three things, only the second one, social pressure, is in use. This
-may be why there are so many complaints about "PC" behavior. Of these
+may be why there are so many complaints about "PC police". Of these
 three pressure points, peer pressure is perhaps the least effective at
 regulating behavior, but without any overt acknowledgement of the need
 for continued moral development throughout one's life or overt
