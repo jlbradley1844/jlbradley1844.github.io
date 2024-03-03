@@ -3,7 +3,6 @@ title: The Toxic Philosophies Behind AI
 ---
 
 ## The Toxic Philosophies Behind AI
-
 And now I feel forced to opine on a development in artifical intelligence with which
 I had nothing to do. Amid continuing reports of technology layoffs,
 attention-hungry business journalists are flogging claims that end-times are at hand 

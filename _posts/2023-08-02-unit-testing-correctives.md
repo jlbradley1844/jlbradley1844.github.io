@@ -3,7 +3,6 @@ titles: Correctives for Your Unit Tests
 ---
 
 ## Correcting Your Unit Tests - Common Issues
-
 I have been _attempting_ unit tests ever since they were pushed at me in the mid-naughties,
 long before they became _de rigeur_ with the agile crowd.
 But in spite of the fact that even students coming out of the college know how to do themi nowadays,

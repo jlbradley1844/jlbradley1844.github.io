@@ -4,7 +4,6 @@ category: article
 ---
 
 ## Generative AI (and ChatGPT) Wil Be a Net Productivity Drain
-
 While everyone is pushing out their hot takes and grabbing eyebals, I'm going to jump into the fray
 with an unusual hot take: Generative AI solutions, such as ChatGPT, will be a net productivity drain.
 They will not disrupt the workforce measurably and will not contribute to GDP measurably either.

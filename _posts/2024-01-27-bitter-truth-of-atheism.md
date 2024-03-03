@@ -3,7 +3,6 @@ title: The Bitter Truth about Atheism
 ---
 
 ## The Bitter Truth about Atheism
-
 As the United States and Europe become more secular, the hope of the atheists was that this would
 presage the coming of a better world order - one in which ethnic hatreds and tribalism would cease
 and pseudoscientific nonsense disappears. It hasn't happened that way. It may turn out that healthy

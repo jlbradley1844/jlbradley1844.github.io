@@ -4,7 +4,6 @@ category: article
 ---
 
 ## Polyamory - How Is It a Thing, Now?
-
 Once in a while there is a buzzy concept that enters the public eye that is so ridiculous I wonder
 what people are thinking. Almost always, it is someone selling a discredited idea that they wish to
 sell as novel, while attacking institutionts cherished my many, usually with

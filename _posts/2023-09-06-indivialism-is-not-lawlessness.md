@@ -4,7 +4,6 @@ category: article
 ---
 
 ## Individualism Is Not Lawlessness
-
 As a long-time Baha'i and a longer-time follower of such civic movements as "communitiarianism," as well
 as good-government movements, there is a distinction that is often elided. It allows people to excuse
 behavior seen as "typically American," and the sorts of articles that seem to repeatedly justify "why we can't have

@@ -3,7 +3,6 @@ title: Four Valid Explanations of Religious Faith
 ---
 
 ## Four Valid Explanations of Religious Faith
-
 Why are people religious?
 
 It's a valid question. In spite of increasing secularism, people continue to devote significant time
