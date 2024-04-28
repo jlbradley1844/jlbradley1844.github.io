@@ -3,7 +3,6 @@ title: When The Future Stops Being Fun
 ---
 
 ## When The Future Stops Being Fun
-
 One of the puzzles of the commentariat is why our body politic seems to be in such a grumpy mood, universally.
 Some of it, I suspect, is that much of our public dialog is now dominated by Gen X'ers and aging baby boomers.
 My fellow gen X'ers seemed to have been born crotchety, a cast of South Park charaters that gleefully embraced 
