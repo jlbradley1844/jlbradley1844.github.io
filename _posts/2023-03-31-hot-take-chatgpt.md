@@ -1,6 +1,5 @@
 ---
 title: Generative AI Wil Be a Net Productivity Drain
-category: articles
 ---
 
 ## Generative AI (and ChatGPT) Wil Be a Net Productivity Drain

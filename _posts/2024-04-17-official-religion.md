@@ -1,6 +1,5 @@
 ---
 title: On the Perils of an Official Religion
-category: articles
 ---
 
 ## On the Perils of an Official Religion

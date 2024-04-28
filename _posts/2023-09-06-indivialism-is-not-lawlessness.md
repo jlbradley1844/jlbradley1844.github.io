@@ -1,6 +1,5 @@
 ---
 title: Individualism Is Not Lawlessness
-category: articles
 ---
 
 ## Individualism Is Not Lawlessness

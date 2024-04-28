@@ -1,6 +1,5 @@
 ---
 title: Polyamory - How Is It a Thing, Now?
-category: articles
 ---
 
 ## Polyamory - How Is It a Thing, Now?
