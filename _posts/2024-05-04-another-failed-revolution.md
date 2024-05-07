@@ -3,37 +3,29 @@ title: So Much For Another Failed Revolution
 ---
 
 ## Why The Sexual Revolution Failed
-
-Sorry for the long pause. I have been working on a project I've wanted to do for a long time - a
-"semantic search" engine for the Baha'i Writings. The idea behind such searches is you type in information
-on the subject you want and it looks up the closest thing. No more trying to find the exact word to
-search for. Once I put this into a public alpha, I'll write up a post describing what I did, how
-I did it, and my roadmap for extension.
-
-Meanwhile, on with the show.
-
---------------------------------------------------
-
 My post this time is prompted by some recent reading I've done. Not Baha'i reading, but reading from
 semi-qualified randos on the internet and in the glossy "serious reader" publications. It is 
 regarding the Baha'i laws around chastity and my thesis is this:
 _"The sexual revolution," as the term is commonly understood, has generally been a negative thing, and more
 conservative sexual mores would better serve society and family formation. It would even make single people
-who wish to remain "in the market" happier_. 
-I believe
+who wish to remain "in the market" happier_. I believe
 social mores associated with "sex positivity" has made relationship-formation difficult for most
 singles. As a result, the more this revolution advances, the _fewer_ opportunities people have for the sort
-of mature relationships the "sex positive" folk claim to be defending. It seems the more sexual mores 
-loosen, the less people seem to take advantage of it! My reasons are not those of the "conservative"
-crowd either, but based on what I (and others) saw and are seeing socially. 
+of mature relationships the "sex positive" folk claim to be defending. 
+And I believe reflection on this fact will bring a bit of grudging respect to the religious creeds who
+continue to value chastity as worth practicing, provided they refuse to countanence a double-standard
+that forgives the misbehavior of men far too easily.
 
+It seems the more sexual mores 
+loosen, the less people seem to take advantage of it. My reasons are not those of the "conservative"
+crowd either, but based on what I (and others) saw and are seeing socially. 
 The idea that fewer people are having sex than ever isn't an empty one. Many
 psychologists and pop culture columnists have noted that young people nowadays have less sex than
 prior generations since the baby boom, in spite of having more 
 ways than ever to meet people and less strictures. Actual surveys bear this out as a fact.
-Some of the down-trend is because high
-schoolers are having less sex, something generally seen as positive, even by defenders of
-looser sexual mores. But it has been trending down across all age groups, even prior to the pandemic.
+Admittedly, some of the down-trend is because high
+schoolers are having less sex, something generally seen as positive.
+But it has been trending down across all age groups, even prior to the pandemic.
 
 Various theories are floated about, but very few have fingered a very non-intuitive cause: the sexual
 revolution itself.
@@ -60,7 +52,7 @@ have all on-balance suffered, with fewer opportunities to form meaningful relati
 overall lower levels of intimacy over time. 
 
 Occasionally I find myself agreeing with people I generally don't often agree with, and when I became a
-Baha'i, the teachings around chastity did not initial sit well with me.
+Baha'i, the teachings around chastity did not initially sit well with me.
 Like most people, I had no issue with premarital sex - the idea seemed great, even if its availability
 (to me) seemed nonexistent. I generally
 found myself disagreeing with the typical sort of person railing against premaritial sex; such people
@@ -80,14 +72,14 @@ All that being said, I think there has been enough bad behavior excused in the n
 liberation" to regard the sexual revolution as negative. Likewise, I suspect that
 even in the near future, Baha'i law around chastity will cease being a cause for disbelief 
 and modest embarrasment, and instead will
-elicit a grudging admiration, in much the same way that as our laws prohibiting the 
+elicit admiration, or at least tolerance, in much the same way that as our laws prohibiting the 
 consumption of alcohol, once seen as puratin teetotalling, have come to be regarded as generally
 respected.
 
 ## Pinning The Problem Down
 
 All revolutions fail
-in the same way - by overturning a defective order and replacing it with something no better, or even inferior.
+in the same way - by overturning a defective order and replacing it with something no better.
 The sexual revolution has been no different. Its virtues seem evident, in that its goal
 was supposed to be freedom from unnecessary restraints and improvements
 in relationships. Men and women,
@@ -100,11 +92,11 @@ were defined. Louise Perry's book certainly makes the case that the sexual revol
 was defined particularly on men's terms, not women's. The invention of the pill and widespread availability
 of abortion is posed by many as
 benefitting women, but it may have brought even more benefit to sexually-agressive men, 
-who no longer had to swat the objections
-of potential pregnancy by women. Indeed, it allowed many men to place the responsibility and blame
-for any unintended pregnancies on the women. While some women may have no doubt enjoyed their
-sexual liberation as much as the men, for many it meant their years of dating were now filled
-with men pressuring them for sex before they felt an desire for it. Perry's overarching point is well
+who no longer had to swat away the objections
+of women due to fears of potential pregnancy. Such men could place the responsibility and blame
+for any unintended pregnancies squarely on the women. While some women may have no doubt enjoyed their
+sexual liberation as much as the men, for many women it meant their years of dating were now filled
+with men pressuring them for sex before they felt a desire for it. Perry's overarching point is well
 taken: the terms of the revolution overwhelmingly benefitted
 high status men with access to lots of potential partners.
 For everyone else on the aggregate, the social environment that resulted from the sexual 
@@ -112,7 +104,7 @@ revolution has left most people in an unhappier situation.
 
 The key problem is a number of truths have been lost in the sexual revolution, and societies
 are now discovering these things the hard way. The problem is one of mathematics and family formation,
-and no amount of freedom is going to fix that. Let's lay some of these out in detail.
+and free sexual license cannot fix that. Let's detail some of these problems.
 
 ### Mating opportunities are unlimited only if you ignore math
 
@@ -132,18 +124,18 @@ leisure magazines that cover live music, bars, and other entertainments.
 That is: sexual fulfillment is available for everyone, provided you get your head on straight, whether
 or not a long-term relationship was what you wanted.
 
-This view was abetted throughout much of the psychology world, which generally bought into the underlying
-premise; sex was viwed as just another *need*, like eating and sleep. So it was thought the legitimization
-of sex should have improved
-the lives of all. It probably didn't seem impractical, either; as there are roughly the same
+This view has been abetted through a host of popular psychologists, who generally bought into the underlying
+premise. Sex is viwed as just another *need*, like eating and sleep, so its legitimization
+of sex is commonsense and should improves
+the lives of all. Mathematically, it doesn't seem impractical; there are roughly the same
 number of men and women, and since therapists have plenty of patients both male and female complaining about
-loneliness and an inability to get in relationships, it seemed obvious that solving this issue was as easy
+loneliness and an inability to get in relationships, it seems obvious that solving this issue is as easy
 as everyone getting enough therapy to eliminate their baggage and pair the hell up already.
 
 Unfortunately, "enough for everyone" turns out to be mathematically impossible, and the 
 fact that so few people saw this betrays the individualistic
 nature of American society. As advice given to single individuals it seems reasonable; in the heterosexual 
-dating world as a system for everyone as a whole, it does not work. 
+dating system for everyone as a whole, it does not work. 
 
 To illustrate why this is, I'll use
 Tinder, a widely used dating as a proxy for the world
@@ -154,7 +146,7 @@ What do we see from studying its user base?
 
 On Tinder, there is a severe imbalance in the marketplace. 
 Men outnumber women almost three to one. In practice,
-the ratio is _even worse_, since many women's profiles are idle, and many other women are not technically
+the ratio is _even worse_, since many women's profiles are idle, and many more women's profiles are not technically
 idle but are still inaccessible, as they use Tinder not for finding matches, but as an
 amusement or a self-esteem boost
 (one woman in an interview even referred to Tinder as her "'Make me feel pretty' app"). The severe imbalance
@@ -193,31 +185,32 @@ of functioning outside of the bedroom. Not coincidentally, the men they favor fr
 relationship status and are generally the primary source of complaints women have about relationship-averse 
 men. Meanwhile the "spare men" continue to pester and hassle young women tired of
 full inboxes and random advances from strangers.
-Put simply, if the only currency is sex itself, then the marketplace is lopsidedly against men 
-and does not serve women, and there is no way of fixing this. 
 
 The result? Tons of men who can't seem to get a date. Lots of women who wind up in "one and done" dating
 situations with attractive but empty men who disappear after one encounter. The "winners" are
 the attractive people - the people who never really had trouble "getting any" anyway.
+Indeed, many of the most attractive people have found a new structure - polyamory - by which they
+can draw even more lovers into their orbit.
 
 This has been noticed by many, and the solution often voiced by many
 is that that those unable to attract a partner just need to lower their standards. Even if
 this were an acceptable solution, it implies
-the number of men who are DTF are going to be the same as the number of women in a similar
+the number of women who are DTF are going to be the same as the number of men in a similar
 situation, which is not borne out by facts.
-The main problem is math, and little can be done about that. 
+The main problem is math and mismatched desire, and little can be done about that. 
 
 It goes without saying that this peculiar problem does not exist in same-sex communities - because
 the problem of ratios does not exist! - hence my original point. They have their other problems of
 course, which I profess no knowledge of. But I'm just mentioning this as a clarification, since this
-is a condition peculiar to heterosexual relationships.
+is a condition peculiar to heterosexual relationships. If this post is "hetrosexist," it's because
+the problem it poses is hetrosexual in nature.
 
 There is in fact a solution to these problems, something done frequently in the past, to solve
 the problem of unhappiness and instability in pairing up - the so-called "long term 
 relationship." In fact, psychologists
 have shown that people in long-term relationships have far more sex than people that are on the open market.
-But here again, the sexual revolution has caused other problems with those who wish to do form
-these, which brings us to the next few points.
+But here again, the sexual revolution has caused other problems with those who wish to form
+long term relationships.
 
 ### Dating Hell: Why Outnumbered Childbearing Women Still Can't Get What They Want
 
@@ -234,12 +227,13 @@ Dating began in earnest before the sexual revolution - while it was at first see
 young, it was also known as a less stuffy form of courtship, and a
 necessary part of vetting a partner for marriage.
 Nowadays, dating does not necessarily have that goal in mind, but for many this is a motivation, even
-if subconscious. So frequently two dating people
+if subconscious. However, there is no guaranteeing if a dating partner has that goal or not,
+so frequently two dating people
 now work at cross-purposes. There are two results of this, one that make both women and men in the dating
 market more unhappy than those in the past.
 
 The first is a side-effect of cruel biology: women have only a certain number of years in which to
-have children. There is a biological clock. No matter how much people may pooh-pooh this, a woman's fertility
+have children. No matter how much people may pooh-pooh this, a woman's fertility
 drops significantly during her thirties. Women who wish to have children must therefore nail down marriage
 commitment within a certain time frame, limiting the time women wish to spend
 "just dating." Unfortunately, a lot of attractive men, the sort such women long to
@@ -247,37 +241,40 @@ marry, sometime _lie_ about their desire to exit dating. Sometimes over a very l
 for such men - "stringers". Men who string women along, betraying their significant other by 
 promising an eventual committment that never
 comes through. Many women who want children and the associated legal protection of marriage 
-waste years of their lives in relationships with men who pose as potential marriage partners, only to
-find themselves single in their mid thirties,
+waste years of their lives in relationships with men who pose as potential, _eventual_
+marriage partners, only to have committment evaporate, leaving the woman suddenly single in her mid-thirties,
 when it becomes difficult to both find suitors and have children. 
 
 This is a common story, told so often in advice columns that some may be skeptical that 
 it actually happens outside of memorable anecdotes. Unfortunately,
-that is not the case; is an actual problem. The psychologists who have studied this issue
+that is not the case. The psychologists who have studied this issue
 have found that such men are not rare, and
 guess that every such man in the dating pool is on average responsible for depriving two 
 women of their chance to have children. How common are such men? They are singlehandedly responsible for
-a measurable fraction of the depressed birth rate in the US - perhaps as much as
-0.2-0.3 points of the birth rate. Not only do women who fall into this trap lose their childbearing 
-years, but it also means a suitable
-male somewhere else loses the opportunity to pair up with such a woman - depriving him of the
+a measurable fraction of the depressed birth rate in the US - surpressing our nations birth rate by as much as
+0.2-0.4 points. Not only do women who fall into this trap lose their childbearing 
+years, but it also means any suitable
+male the woman might have instead been dating loses the opportunity to pair up with such a
+woman - depriving him of the
 chance to be a father.
 
 The second problem created by dating at cross-purposes is that even when a woman does begin to "get serious"
 about finding a suitable long-term partner, the sexually promiscuous millieu begins to work against her.
-The growth of dating-as-long-term-amusement, particularly among the most marriable men,
+The growth of casual-dating-as-long-term-amusement, particularly among the most desireable men,
 is the primary problem. Women of childbearing age are not exclusively
-appealing to those who wish to have children; they are also extremely
-sexually attrative to promiscuous straight men, leading to the unhappy fact that men interested in a serious
+appealing to those who wish to have children; their young age renders them
+attractive to promiscuous straight men, leading to the unhappy fact that men interested in a serious
 relationship, men interested in a casual fling, and men interested in a 
-long-term-relationship-with-you-as-long-as-you-stay-hot are all looking almost exclusiviely for young women,
+long-term-relationship-with-you-as-long-as-you-stay-hot are all looking almost exclusiviely
+for the same young women,
 but for entirely different reasons. Women in their early
 twenties cannot be expected to sort this out, and probably aren't inclined to anyway:
 all other things being equal, you might as well pick the hottest suitor. The less 
 attractive "nice guys" in their twenties may feel unjustly
-ignored, but you can hardly blame women for making the same choices men make in similar situations.
-The assumption women might make is that as they get older and ready to settle down, their male counterpars 
-will will get older and ready to settle down. Unfortunately, many of their male counterparts will 
+ignored, but you can hardly blame women for making the same choices men make in similar situations!
+The problem is for the slightly older women ready for more permanent commitments.
+The assumption women might make is that as they get older and ready to settle down, their male counterparts 
+will do the same. Unfortunately, many of their still-single male counterparts will instead
 continue to have fun as long as they find young women to date them.
 
 The purveyors of the sexual revolution never intended to drive down birth rates beneath the rate that
@@ -286,41 +283,42 @@ long as possible may have had that exact effect. Many of our less talented comme
 ambitious women for our lower birth rate, but facts do not bear this out.
 A New York Times survey that aimed to answer the riddle of falling birth rates found that
 most women reached the end of their childbearing years having had _fewer_ children than they wanted. While
-money was blamed for some of this, there were two other factors that were just as critical:
+money was blamed for some of this, there were two other factors that were even more critical:
 * Inability to find a ready spouse in their childbearing years
 * Getting married too late to have the number of children they wanted
 Given that dating is now no longer focused on marriage and family formation as an end result, it 
 is no surprise that marriage and family formation has gotten more difficult.
 
-Women have an impossible situation, given that so many men have been conditioned to regard
-long-term committment as optional once a relationship is engaged. Most men have a different sort of problem.
-The less-attractive or less successful
-men in their twenties instead must guard against the unrealistic
-expectations of romantic success, of both themselves an others. Given that men of all ages wish to date 
-the only women they are reasonably suited to date, it is likely many men will fail at dating.
-Men who want actually want to form families with children are in an extremely competitive dating
-environment, since their prospects are limited to the most desired mates: women young enough to bear children. 
-Men who fail to meet the popular
+Just as current sexual mores pose problems for women seeking committed relationships, most men have
+a problem, of a different sort. The less-attractive or less successful
+men in their twenties instead must guard against unrealistic
+expectations of romantic success by both themselves an others. Given that men of all ages wish to date 
+the only women they are compatible to date, it is likely many men will fail at dating.
+Those men who sincerely want to form families with children are in an extremely competitive dating
+environment, since their prospects are limited to women young enough to bear children: the most
+desired women. Men who fail to meet the popular
 "sorting criteria" - minimum height, minimum income and natural hair, things all readily searchable on
 dating sites - can easily find
 themselves locked out of the dating market until their mid-thirties, when they finally get a second
-look from older women discarded by their playboy boyfriends. Should such a man be fortunate enough to finally 
+look from older women. Should such a man be fortunate enough to finally 
 engage in marriage, they are looking at a small or no family.
 Adding insult to injury, this fact is completely unrecognized in the popular press, and seems to 
 bewilder many attractive people,
 who presume that the fact single women still exist unpaired is proof enough that the unhappy
-dateless men merely have an attitude problem and just need to get their act together.
+dateless men not in relationships are all contemptible incels with attitude problems who
+just need to get their act together.
 
 The advice given
 to unhappy singles by defenders of the sexual revolution, the psychologists, advice columnists and dating
 consultants (yuck), does not factor in these dynamics, which mirrors the problems of the gender mismatch for
-those seeking casual sex. The resulting recommendations are tone-deaf and unworkable.
+those seeking casual sex. The resulting recommendations are tone-deaf and ineffective.
 Men are widely told that their problem is they need to "increase their confidence"
 and approach a lot more women, even be pushy - in spite of the fact so many women are tired of being approached
 in that fashion and frequently find it necessary to be as rude as possible to ward off the most persistent
 suitors. Women frustrated with their single life are told to "take a break from dating" - which is something they can
-easily do so long as they are culling through bland "nice guys" from the internet, but may have difficulty with if
-someone particularly attractive and persistent comes along. Leading to repeating the romantic relationship with
+easily do so long as they are culling through bland "nice guys" from the internet, but is advice they
+may have trouble sticking to if
+someone particularly attractive and persistent comes along. Leading to repeating the romantic cycle with
 an attractive man who is not suitable relationship material.
 Both men and women are generally told to "stop being picky," i.e. have physical relationships 
 with people you have no desire for, a piece
@@ -348,27 +346,29 @@ we'll get married hand have children."
 For those who are not attractive enough to "have everything" in the romantic marketplace, this leads
 to a terrible tradeoff, which leads to procrastination.
 Long term compatibility and character are not terribly correlated
-to sexual attractiveness, and "getting practical" may mean dating attractive people than one would
-prefer to date, since attractive relationship-minded people tend to stay in relationships. 
-If the circumstances in one's dating circle are favorable, the sexual marketplace
-makes the choice even more difficult, as fulfilling sexual relations are available provided one is
-quick to "fall in love" and consummate things. For the commitment-minded, this frequently leads to
-accidentally entering into the **the relationship** - something a bit like
-marriage but without the cohabitation and legal strictures. At which points, things go great
-until you or your partner find a flaw that will
-keep you from committing to the other person. This will happen frequently - because
-"the relationship" was entered based on physical chemistry rather than compatiblity.
+to sexual attractiveness, and "getting practical" may mean dating less attractive people than one would
+prefer to date, since attractive relationship-minded people tend to stay in relationships
+and are therefore not in the dating pool.
 
-Perhaps you're so attractive that this poses no problem to you: an unending series of monogamous 
-relationships based on fantastic sexual chemistry sounds appealing. If you're lucky enough to
+Those attractive enoughot "have everything" face a different difficulty - for them,
+fulfilling sexual relations are available provided one is
+quick to "fall in love" and consummate things. For the commitment-minded, this frequently leads to
+accidentally falling into **the relationship** - something a bit like
+marriage but without legal strictures. At which points, things go great
+until someone in the relationship finds a flaw that will
+keep them from committing to the other person. This will happen frequently - because
+"the relationship" was entered based on physical chemistry rather than compatiblity.
+Now, an unending series of monogamous 
+relationships based on fantastic sexual chemistry sounds appealing, and I wish I were
+fortunate enough to have had that "problem." If you're lucky enough to
 be able to cycle through many romatic partners, you may eventually find one compatible enough
 that you stay together long term, even marry and have children.
 Unfortunately, this is not a world of eternal youth, and even those who find themselves in this stuation
 may find none of these relationships work out. 
 One may exit your mid-thirties and be no closer to finding a marriage partner
-than when they left college. And this is the best case only.
+than when they left college.
 
-In fact, someone who is less attractive may have an easier time getting married -
+Oddly, someone who is less attractive might have an easier time getting married -
 provided they are actually able to find someone who will date them more than once!
 Such people rarely experience blind infatuation or love at first
 sight that is actually reciprocated. That means that if they can date, they are probably
@@ -377,14 +377,13 @@ modest initial physical attraction, but if they meet someone compatible, they ma
 themselves entranced for reasons having to do with personality and
 character. In other words, falling in love for the sort of reasons one is supposed to
 have when one decides
-to "get practical." Those spoiled by repeated romantic fulfillment may have it harder,
-since no matter how much experience they may have in relationships,
-many cannot stand the idea of "getting practal," particularly if their entire
+to "get practical." Those spoiled by repeated romantic fulfillment may have it harder
+adjusting to such relationships, particularly if their entire
 relationship history was sustained entirely by a sexual-romantic cocktail that gets
 difficult to find once you and your dating partners are older.
 
 This topic is a bit fraught because of the fact many women have doubtless heard this
-before, and men hear it _hardly at all_ and should here it much more. Books like 
+before, and men hear it _hardly at all_ and should hear it much more! Books like 
 _Fertility on Ice_ document the struggles of many women who want to get 
 married but are entagled in serious relationships with incompatible, commitment-averse partners. 
 The authors of these books sometimes
@@ -405,16 +404,17 @@ given, it seems to be
 after their attractiveness in
 the dating marketplace has peaked and suitors in the dating pool start to thin out. 
 Many blue-collar men say they are ready to marry at twenty-five; not
-surprising, given how many women beyond their mid-twenties require only educated suitors. After high school,
-dating is all downhill from there. On the other hand, the most sought-after men - the
-tall, very educated professionals - often indicate they are ready for marriage in their mid-thirties or even later.
-When they do marry, it may be to a much younger woman.
+surprising, given how many women beyond their mid-twenties consider only educated suitors. After high school,
+dating is all downhill for them. On the other hand, the most sought-after men - the
+tall, handsome educated professionals - often indicate they are ready for marriage in their mid-thirties or even later.
+When they do marry, it is often to a much younger woman.
 
 The fact that both men and women push off marriage until dating is difficult is almost certainly
 one reason for the increasing number of the unhappily single.
 Meanwhile, being "in a relationship" as a young person
-can be a pleasant interlued to hide the fact one is subconsciously
+can be a pleasant interluede, but may hide the fact one is subconsciously
 pushing off marriage - by being with someone one knows is unsuited for marriage.
+
 The ideal solution is not fun but must be spelled out: it is
 * to look at dating for marriage as something one does _instead of_ dating for sexual chemistry, 
 * and start doing it while dating is "still fun." 
@@ -430,7 +430,7 @@ life. It is far more interesting to write about the travails of those who
 have plenty of prospects than for those at the bottom of the dating pool.
 It is assumed by the winners of the sexual revolution that the riches are available to everyone;
 all, except perhaps a handful of unattractive people, who merely need to adjust their sights downward
-and start making others of the less attractive persuasion hapy. 
+and start making others of the less attractive persuasion happy. 
 
 This is not the way that numbers break
 out, and this may speak to the fact why there was so much family involvement in "the bad old days" 
@@ -452,7 +452,7 @@ is unimaginable today. There was an easily-explained reason for that:
 in the mostly-rural environment in which people grew up, opportunities to find mates were
 rare and infrequent. Usually, one's extended family and community was the only mechanism by which you might
 meet other people looking to wed. For the few in the cities, the well-to-do had their own circumscribed
-rites, well familiar to anyone who has come within a few yards of a Jane Austen book. Leaving
+rites, familiar to anyone who has come within a few yards of a Jane Austen book. Leaving
 things to chance was not only unusual, it was a surefire way to reduce your chance of sex
 (let alone marriage) to close to nil, and leave any parents lucky to make it to old age without means of support by
 healthy grandchildren. 
@@ -474,11 +474,18 @@ involvement of social networks and extended families not only because unnecessar
 presents a bother. Many young people had no desire of pairing up with the "nice people"
 their relatives found, people who were mainly made available through relatives because their
 appearance and personality made them difficult to pair up in their own social networks.
-What replaced them, then, was far more anonymous and oriented towards physical appearances;
+What replaced familial involvement was far more anonymous, and oriented towards physical appearances;
 first with singles bars in the sixties, then with internet dating in the
 naughties. These impersonal marketplaces existed to let people couple up on their own.
 The result is similar to the result in the commercial marketplace; a winner-take-all system
 where the bulk of opportunity goes to those best able to compete in the marketplace.
+
+Certain self-regarding social critics often hold up the fact that people in small towns
+get married more readily than people in big cities as yet another way that Small Town Folk are
+morally superior to those Nasty People In The Big City. I strongly suspect it has nothing to do with
+any alleged moral superiority, and everything to do with the
+fact that the thinning pools date out so quickly in the small towns - dating in a small town
+stops being fun fast.
 
 The book _Dataclysm_ by former OkCupid CEO Christian Rudder is a fun book which gives a 
 uniquely unfettered look at the mathematics and
@@ -504,25 +511,24 @@ This is the same as it ever was. People of modest attractiveness don't just want
 "nice person" who will make a good-enough spouse; they still want partners attractive
 enough to "fall in love with," and there are never enough such people in the dating market. The social
 pressures to "settle," looks-wise, no longer exist; nor do the necessary signals exist in the dating
-marketplace telling other people their only realistic hope is to be more realistic. Indeed, the
+marketplace telling other people they would be happier being more realistic. Indeed,
 we have entire industries dedicated to telling people that is not the case.
 
 This is not an unsolved puzzle, and most psychologist have no problem pinning down the secret
-to "love among the average." Familiarity and friendship are the two key elements that make it easier
-become attracted to each other, and if one has personality and character, people will often find
-themselves as attracted to them as someone more beautiful but lacking other qualities. 
+to "love among the average-looking." Familiarity and friendship are the two key elements that make it easier
+to become attracted to each other, and if one has personality and character, people will often find
+themselves as attracted to such peopl as as someone more beautiful but lacking other qualities. 
 Half of all relationships may be amoung the most attractive people,
 but given that most will still wed sometime in their life, it is obviously the case that people who
-are not in that elect can still become happily married, and it is doubtful all of them woke up one
-day and decide
+are not in that elect can still become happily married.
 
 The problem is that modern life seems to discourage the sorts of casual friendships that might
-lead to something. Many people live in cities where they are unlikely to run into the same people
+lead to romantic attachments. Many people live in cities where they are unlikely to run into the same people
 repeatedly, other than a few close friends. Others live in communities that are "dating deserts";
 areas where you are unlikely to be in contact with anyone single of the opposite sex. 
 This is compounded by some of the bizarre beliefs of the under-forty set that rule out dating
 co-workers, regard friends as off-limits for dating, and otherwise discourage dating anyone that isn't
-a complete stranger under the guise of "respect for the relationship. The result
+a complete stranger under the guise of "respect for the friendship." The result
 is that those of modest attractiveness, who rarely meet the large number of people they would need
 to meet to find someone attracted to them, stay single as they are denied the sorts of repeated interations that
 would allow someone to _develop_ an attraction to them. The older mechanisms
@@ -538,9 +544,9 @@ looking for the next hot thing.
 
 It isn't possible to make everyone happy in casual sexual relationships. It is possible to
 help most people enter into long term relationships which lead towards marriage. This will only
-be possible with the help of our social culture and norms, perhaps meaning giving some of the
-old ways of meeting people a chance. The new, more anonymous mechanisms developed in the period of the sexual
-revolution has failed too many of its participants.
+be possible with the help of our social culture and norms. That may mean giving some of the
+old ways of meeting people another chance. The new, more anonymous mechanisms developed recently
+has failed too many of its participants.
 
 ### Sex is the most important thing only when you're young and have none
 
@@ -550,13 +556,13 @@ That is the term by which something that used to make you very happy now longer 
 It's the reason the first bite of the cheesecake is so much better than the last, the reason
 a raise makes you happy the day you get it but not when months later after it allowed you to
 pay your bills, the reason one can easily develop a bad habit even when you've stopped enjoying
-it. You simply stop being happy over something.
+what it is it. You simply stop being happy over something.
 
 Those who have studied hedonic adaptation have found one thing is particular is vulnerable
 to hedonic adaptation: _romantic and sexual fulfillment_.
 
 It's the reason certain suitable people who claim to desire marriage instead wind up in
-a series of whirlwind romances that peter out within the year. If you luck into someone who is
+a series of whirlwind romances that peter out year after year. If you luck into someone who is
 totally sexually fulfilling, that feeling will last six to twelve months. After that, you'd better
 hope you still actually like the person you're banging.
 
@@ -566,13 +572,14 @@ sexual activity, then sexual attraction is really _the only_ thing that matters.
 personal safety; you don't want to hook up with anyone insane or someone who will rob you. But those
 are primarily disqualifiers. There is no reason to look past anything but sex.
 
-If your goals are something other than sex though, then one has determine how important it is
+If your goals are something other than sex though, then one has determine how important 
+sexual attraction is
 relative to the other reasons you are dating. Yes, some readers may find things like character
 and kindness important parts of sexual attractiveness, but there are limits to this. Such things
 are typically borne of first impressions, and if you are viewing someone you're already physically
-attracted to, your judgement of their actions may be influenced by "the halo effect". The halo
-effect is the well known cognitive bias where actions performed by attractive people are judged
-more positively than those same actions when performed by someone unattractive; indeed, if someone
+attracted to, your judgement of their character may be influenced by "the halo effect":
+the well known cognitive bias where actions performed by attractive people are judged
+more positively than those same actions when performed by someone unattractive. Indeed, if someone
 is ugly or viewed as "different," that same bias causes people to read negative intent in neutral
 actions.
 
@@ -581,7 +588,8 @@ Unfortunately the fog of lust can be so thick that one cannot see neutrally unti
 a relationship has actually been consummated and hedonic adaptation sets in several months later.
 
 The key is to realize that no matter who one dates, no matter how attractive or lovely this
-person may seem, several months in your happiness will depend not upon your romantic fulfillment,
+person may seem, several months into the relationship,
+your happiness will depend not upon your romantic fulfillment,
 but upon much simpler standards of their character, things you will not grow inured to within
 the lifespan of a bottle of shampoo.
 
@@ -618,53 +626,65 @@ they are "ready for marriage."
 
 ## What To Do As an Single Unhappy with All That
 
+To unhappy singles out there: I wish I could give you advice that will work for you.
+Unfortunately, this is a cultural problem, and you alone cannot do anything about the culture.
+The best you can do is to not let it ruin your happiness.
 
+But from the above, there are certain things that one can certainly do. This isn't general
+advice (I already did it [for unhappy guys right here][2019-04-11-lets-fix-some-altrighters.md]),
+but more about how to cope with a society that pushes you towards casual sex when the
+casual sex scene treats you lousy:
 
+* When dating someone, put off sex for a reasonable time (I'm not going to say how
+long that is), and if you have
+a dating profile, be explict that you are doing that. The goal is to push off posers who want casual sex
+but profess an interest in committment to get it.
 
- - no matter when you go back into history, sexual attractiveness
-was always very desired in mates. Today, it seems natural that you pursue others based on sexual
-attractivenes; in the past, when choice was circumscribed by society, 
-societies that 
+* Approach dating as a bit more of a job. If dating is something that just "happens to
+you," you're probably dating based on availability and initial physical attraction. Likewise
+if dating is something that "doesn't happen to you," you may have to spend some serious effort
+jump-starting a social life if the dating websites aren't doing it.
 
+* Get "serious" earlier rather than later. Women are well aware of the fact that they get
+the most attention when they are younger, but even for men, very few will find things
+to continue to get easier into their forties. Start dating seriously while dating is still
+fun, not when mother nature narrows your options for you.
 
+* Take your environment seriously. A lot of ambitious men in their early twenties move
+to "dating deserts," only to have a horribble time forming romantic relationships. As a man,
+particularly an average-looking man, dating straight out of college can be stressful and
+unrewarding; if your environment means your only chance to meet anyone is a website, you
+need to change your environment, or even where you live.
+Men dating in their early twenties
+are competing for the same women _everyone_ wants to date, so they one has to set expectations
+accordingly.
 
-This does not mean things are impossible, however. 
-If more attractive people are single for longer, it is illogical that this would pose problems
-for anyone else! Indeed, the initial reaction to suggesting it does would be bizarre
-bewilderment for most readers here. Unfortunately, it does, and the problem is simply one of human nature.
-When evaluating whether to enter into a relationship with anyone, the temptation is to 
-judge their partner based on _perceived_ other available singles, rather than on their own. 
-It is much harder to commit when one things of themselves as settling, particularly if one
-thinks something hotter is right around the corner.
+* Both men and have to think hard about marriage and kids earlier than
+they wish. For women, it means giving up spending years in the hope of finally "roping in"
+a Mr. Big, someone who has never shown signs of being serious
+about committment, into long term committment and parenthood. And for men, if they are serious about family,
+that means dating women who are actually ready for such a thing and making themselves availabe and attractive to them,
+rather than continuing to take a swing at the extremely attractive, extremly young out-of-college crowd, who are far
+more likely to be looking for thrills than settling down. Oh, and leave off the
+self pity about "women not wanting a nice guy"; in the unlikely case that really and truly is your only problem,
+you need to start hanging with a different crowd - and 
+start looking for partners with the traits that you claim others should
+value in you.
 
-There is nothing novel about very desireable people being picky because they can; what is different
-now is there is no longer pressure for such people to commit to marriage until their biological
-clock forces them to think differently. In the past, social pressures prevailed upon people to get
-married well before one's "biological clock" was even a factor, and no one is calling for the bad
-old days of teenage brides. This creates a challenge for those who want committment.
+* And finally - the mere fact that things are not working for you means that casual sex
+is not working for you. Be skeptical of anyone who tells you you're "blocking" or "too hung up"
+or "too picky" and you just need to "get out there." If you were attractive enough for
+"hook-up culture," you'd be hooking up already. Time to opt out.
 
-In "the bad old days" there were two countervailing factors. First, the most eligible men and
-women were pressured into marriage; indeed, given the religious mores of the time, many eagerly
-married early simply so they could have sex. This created a dynamic where the most attrative
-partners left the dating pool at a reasonably early age. The other force was that those who were
-in danger of marrying late were generally encouraged, in one way or another, to be "more realistic"
-at an early age, when they still had the attractiveness of their youth. The result was that for
-the most part, "the biological clock" was rarely an issue.
-The problem with hurrying up marriage is, of course, the unsuitable marriages that often resulted
-from such social pressures. 
+Hope that helps. For myself, I do follow the Baha'i laws, but you don't need to follow it
+to benefit from easing out of the current sexual standards.
 
-However, there is no forced binary choice between early, unhappy marriages and "too-late-for-children"
-marriages. It is quite possible to date intentionally when you wish to get married, somehow cull
-through the noise and find someone that is suited for you. The key is, unfortunately, to block
-the noise created by the sexual revolution. If you wanted to get married, at least the culture was
-on your side. It is now not the case.
-
-#### Dating Websites: A Special Problem
+#### Appendix: Dating Websites: A Special Problem
 
 There is another pernicious influence that really can't be blamed
 on the sexual revolution. It is the way internet dating websites are run.
 
-ong-term relationships. Their purpose is to create what appears to be a working "marketplace"
+Their purpose is to create what appears to be a working "marketplace"
 for dating, and they get money by selling premium memberships. The way they sell those is
 by promising people they will get better responses from more attrative people from such premium
 memberships. The key is to keep everyone engaged in the marketplace, even if only the most
@@ -699,7 +719,6 @@ is expected; most websites are now owned by the same publishing quasi-monopoly A
 the profit motive remains front and center, and given the thin margins the business has had
 historically, it will probably remain that way.
 
-
 If the sexual revolution is at all to blame on this, it is due to the fact that internet dating
 is much more suited to pairing up attractive people so they can have sex with each other than it
 is for pairing up those with average levels of acctractiveness for more significant relationships. That was
@@ -708,94 +727,3 @@ with creating an elaborate profile, that all most people were interested in were
 were more interested in dreaming about endless choices of possible partners than they were the
 interested in the reality of making one of them work long term. As a way for alpha men to find alpha
 women, it excelled. For the rest of us, not so much.
-
-
-
-
-
-
-The logical advice one would
-have for such unhappy men would be to apply a healthy dose of patience and self-work in preparation for their
-later years, since by the late twenties any women
-who wants kids should be tired of the "playas" and will be desperate to date an actual grown up with maturity.
-If only that were the advice such men were given! Instead, the advice they are given just makes things worse for
-both themselves and women: _be the sort of person women complain about_. I can speak of this from personal experience;
-I entered my twenties as a shorter-than-average, introverted, depressed,
-inexperienced young male - not the sort of man that women find appealing. And I got the same flawed advice from
-therapists that many single men received from psychologists,
-glossy magazines and self-help books: that the key romantic problem men 
-have is entirely one of lacking confidence and attitude;
-that the only thing holding men back from success was a reluctance to push their acquantaince onto women, no matter how
-reluctant they seemed to be; that any difficulties a man has is due entirely to approach and
-attitude; and finally, that any man who still cannot change is look is just "too picky" and should 
-date women they have no attraction to in order to
-"get more experience" - with the implied promise they can just dump them later when something hotter
-comes along. As for the last point, psychologists
-may claim valid reasons to do this; oftentimes, the main problem a guy might have dating is a complete lack
-of relationship experience outside of "one-and-done" casual dates that never went anywhere, and the only way to 
-treat inexperience is to push a guy hard into experience, even if an ill-fitting one.
-But such experience is just as likely to be unhelpful, and makes
-things worse for the unhappy women who have unwittingly been elected to housebreak such men.
-
-The result of all of this is that the dating environment is made worse by the sexual revolution. If dating
-consisted entirely of what relationship counselors recommend - a way of sizing up other people and potentially entering
-into relationships based on their personality and suitability - it would still be very difficult. Unfortunately,
-it is made far worse by those who are simply out to gain sexual congress by whatever means necessary. 
-I'll restate something said earlier: the main problem is the rules of the game are rigged against you, and the only
-way to win is to play a different game. This means rethinking some of the assumptions about proper behavior
-when dating.
-
-
-Both men and have to think hard about marriage and kids earlier than
-they wish. For women, it means giving up spending years in the hope of finally "roping in"
-a Mr. Big, someone who has never shown signs of being serious
-about committment, into long term committment and parenthood. And for men, if they are serious about family,
-that means dating women who are actually ready for such a thing and making themselves availabe and attractive to them,
-rather than continuing to take a swing at the extremely attractive, extremly young out-of-college crowd, who are far
-more likely to be looking for thrills than settling down. Oh, and leave off the
-self pity about "women not wanting a nice guy"; in the unlikely case that really and truly is your only problem,
-you need to start hanging with a different crowd - and 
-maybe start looking for partners with the traits that you claim others should
-value in you.
-
-
-Let's set the stage for the present state of affairs.
-Back in the old days, it was presumed that one would find their marriage partner in high school (!)
-or college. No matter how someone might long for those days, it has little to recommend it. People who
-get married very early in life are responsible for the bulk of the divorices that occur.
-Ideally, the collapse
-of this world view should lead to happier marriages somewhat later in life, complete with children. People would
-be exposed to more partners, grow psychologically, know more about who they are compatible with, and after years
-of dating and "finding themselves," would marry someone uniquely suited to them. Certainly nobod expected
-a fallof in family formation and a collapse in child birth. Yet that is precisely what happened. 
-The cause is unfortunately a side effect of the way most people think about relationships after the sexual revolution.
-
-
-This lays a trap for both men and women. For the less attractive men, their twenties
-are marked both by immaturity and extremly long dry spells in dating, as so many of their
-women peers are in committed relationships. By the time such men reach their thirties and
-older women are willing to give them a second look, they still have so little relationship
-experience that their female peers find them undateable. Meanwhile
-many young women in their twenties
-feel it is far to early to search for a suitable life partner, but this is unfortunately the time of their
-life where they are the most attractive to men and likely to be inundated with attention, wanted and
-otherwise, and particularly to men looking for strictly physical relationships without any possibility
-of marriage. The time when they are forced to "get serious" is unfortunately the time when they 
-may no longer be getting
-attention from the sort of men they like, and instead are stuck with the "spare men" I just mentioned. 
-While I know this advice will not be eagerly received by 
-many, the solution is evident: stop dating-for-fun while it is still fun.
-
-\* There are two risk factors that are responsible for the vast majority of divorices:
-1) getting married too early in life;
-2) getting married too quickly.
-In the northeast where I live, this is far less common than other parts in the country. The
-divorce rate is actually far less - perhaps 35%, and even lower for first marriages. This is
-in spite of its reputation among some parts of America as being an immoral hellhole.
-
-\*\* Certain self-regarding social critics often hold up the fact that people in small towns
-get married more readily than people in big cities as yet another way that Small Town Folk are
-morally superior to those Nasty People In The Big City. I strongly suspect it has nothing to do with
-any alleged moral superiority, and everything to do with the
-fact that the thinning pools date out so quickly in the small towns - dating in a small town
-stops being fun fast.
