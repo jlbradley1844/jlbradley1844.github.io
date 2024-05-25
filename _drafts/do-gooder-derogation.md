@@ -47,9 +47,9 @@ He seems to be saying that righteous people are disliked. If you don't like the
 "biblical" language here, think "virtuous." Unfortunately, we can all
 think of times people are disliked due to virtuous behavior. Why is that?
 
-It well be human nature. It's no surprise that psychologists are
+It may well be human nature. It's no surprise that psychologists are
 uncovering terms like [do-gooder derogation]() and [antisocial
-punishment(). Basically, if you are viewed as "too good," you will be
+punishment](). Basically, if you are viewed as "too good," you will be
 punished socially by people. Not everyone - but a large enough
 minority that you'll notice. My guess is that people who read this quote from
 Jesus and thought "Oh, if they hate me, it's because I'm a

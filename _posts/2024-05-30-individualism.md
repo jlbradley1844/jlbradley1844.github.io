@@ -4,17 +4,17 @@ title: What's So Bad About Individualism?
 
 ## What's So Bad About Individualism?
 
-Earlier I talked about the fact that one of the greatest spiritual problems identified
-in western/American culture was materialism. A pervasive materialism was becoming a threat
+Earlier I wrote about the fact that one of the greatest spiritual problems identified
+in American culture was materialism. A pervasive materialism was becoming a threat
 to the unity of society.
-Another threat identified by the Baha'i writings is excessive "individualism." But this is 
-even murkier than materialism.
+Another threat identified by the Baha'i writings is excessive "individualism." So let's look
+at this.
 
 Plainly, not all individualism is bad. The Baha'i Faith
 in the US would be much smaller were American culture not so individualistic. The fact that I am a 
-Baha'i is a point in favor of
-individualism. I was born Catholic. In a less individualistic culture, a whole host of 
-pressures would have been
+Baha'i is indirectly due to individualism.
+I was born Catholic and freely left and became Baha'i. 
+In a less individualistic culture, a whole host of pressures would have been
 arrayed against me to prevent me from changing religion. I would face opposition of family,
 nosy neighbors, possibly even community authority figures. And indeed, I've heard tales
 of first-generation Baha'is who had to deal with exactly that, from Latin America,
@@ -56,9 +56,13 @@ and follows the dictates of their conscience. Likewise, that seems to be good:
 
 Here, if individualism means freedom of independent investigation, that too seems
 paramont. So when "individualism" is condemned, what exactly is being referred to?
+Plainly not the sort of thing necessary to exercise a free conscience!
+
+So why is individualism pointed out as being a problem? Perhaps it's because it
+can imply so many things.
 
 _Defining Individualism_: When looking at one definition in a philosophy dictionary, 
-the description is uselessly broad:
+the description is needlessly broad:
 
 > individualism, moral and political: In ethical theory and political philosophy
 > individualism is a view that gives primary moral value to individual human beings.
@@ -66,8 +70,8 @@ the description is uselessly broad:
 > human beings that justifies their being given primary value...
 >       (_The Oxford Companion to Philosophy_, ed. Ted Honderich, 2005)
 
-Fortunately, self-described "individualist" philosophers help us define what this mean.
-Upon scanning the philosophies of many such people on the English-speaking
+Fortunately, self-described "individualist" philosophers help us define this term.
+Upon scanning the philosophies of many self-described individualists on the English-speaking
 internet, there seem to be certain themes that are unarguably "individualist":
 
 - Celebration of individual genius;
@@ -75,21 +79,21 @@ internet, there seem to be certain themes that are unarguably "individualist":
 - A dislike for authority, particular from the apparatus of the state;
 - The celebration of unrestrained competition in the economic sphere, leaning towards social darwinism.
 
-This is much better, and it is now evident why Baha'i writings may condemn excessive individualism.
-A society given to too much individualism is a harsh society with weak
-community life, weak governments and impaired democratic institutions. Per the
+This more concrete picture may indicate why Baha'i writings condemn excessive individualism.
+A society given to too much individualism of this sort is a harsh society with weak
+community life, weak social ethics and impaired civic institutions. Per the
 _Encyclopedia Brittanica_, the famous early political philosopher Alexis de Tocqueville
 "described individualism in terms of a kind of moderate selfishness that disposed 
 humans to be concerned only with their own small circle of family and friends."
-We can all agree with the above list and understand that inside each of these items has a grain
-of truth, present society has taken these beliefs too far. Let's examine
+We can all agree with the above list and understand that while each of these inclinations
+may be exercised positively, present society has taken these beliefs too far. Let's examine
 these in light of the Baha'i Faith.
 
 ## Please, No More Men of Destiny
 
 In the individualistic canon, Great Men of Destiny loom large. Or per Thomas Carlyle,
 "The history of the world is but the biography of great men."
-Individuals all praise Great Men (somehow it's always men), whose great bit brass
+Individualists all praise Great Men (somehow it's always men), whose great bit brass
 cajones have driven the course of history. Interestingly, history is 
 also a rather grim enterprise, one recording
 endless wars and fruitless disasters borne of folly. Somehow it is never pointed out that
@@ -132,7 +136,7 @@ How about a few more?
 >        (Baha'u'llah, The Summons of the Lord of Hosts, p. 46)
 
 Pride is known conventionally as The Deadliest Mortal Sin, but if that's the case,
-the newspapers of today reek of the sin, being as the headlines are constantly
+the newspapers of today reek of sin, being as the headlines are constantly
 flogging the doings of self-important entertainers, business tycoons, and
 entertainer-business-tycoons. Notably, if one wanted to read _actual news_, you'd
 do well to ignore those headlines and read the remaining five percent of the
@@ -145,6 +149,7 @@ actually use it to spot something worthwhile that someone is doing. If your
 goal of following the news is to learn the goings on of the world, what better
 means than finding out from those that actually do?
 
+Think about this in the religious sphere.
 You can tell an effective church - it's the ones where the church is known for doing
 great things, and you never hear about the pastor. The Baha'i Faith is the same way.
 Notably, the Universal House of Justice, the Supreme ruling body of the Baha'i
@@ -158,9 +163,11 @@ of their meeting chamber, they have no special status as believers. Once they ce
 serving, they have no authority. While there is plenty of hagiography in Baha'i
 histories, especially for those long gone, the Baha'i Faith is loath to give important
 to particular indiviuals; the respect is reserved for _the office_, not the individual. 
-Or as a wall street trader who wants demanded an exhorbitant bonus for bringing in hundreds
-of millions of dollars was once told: "The value is not created by you, but the chair
-you sit in on the trading floor."
+
+The proper respect for the office is probably best illustrated by what someone once told 
+a greedy wall street trader. He demanded an exhorbitant bonus for bringing in hundreds
+of millions of dollars. In reply, he was told: "That value wasn't created by you. It was
+created by the chair on the trading floor that we paid you to sit in."
 
 This attitude towards individual importance extends to the individuals of humanity in general.
 The work _Century of Light_ is an interesting history; it was written on behalf of the 
@@ -170,9 +177,9 @@ theory of history. The book is the history of the twentieth century, of both the
 whole and the Baha'i Faith. Notably, the only actual persons referred to at length are central 
 figures of the faith; other twentieth century figures are mentioned in passing, generally 
 to frame certain movements for great evil and great good. Per this book, history was "written"
-by the masses of people; not so much
-by Martin Luther King as by the coalition of black and white people across all faiths who
-worked in unity to make their vision of racial harmony a reality; and Hitler could not have 
+by the masses of people. So as important that Martin Luther King was, it was
+the coalition of black and white people across all faiths who
+worked in unity to make their vision of racial harmony a reality. Likewise, Hitler could not have 
 caused such destruction without
 the hordes of eager brownshirts ready to do evil given only the flimsiest excuses.
 The history of the world is indeed written by nameless men and their choices. As
@@ -189,7 +196,7 @@ the Baha'i Faith represents an refreshing attitude that will have none of it.
 ## Knocking Liberty Down a Peg
 
 Liberty is generally desired in American society. Indeed, it is so glorified, it has
-a political party ostensibly dedicated to epanding it. It is a central conceit to our
+a political party ostensibly dedicated to expanding it. It is the central conceit of our
 unique American individualism. Here is what Baha'u'llah, our
 Prophet and Founder of The Baha'i Faith, says about liberty:
 
@@ -207,10 +214,10 @@ Prophet and Founder of The Baha'i Faith, says about liberty:
 > of liberty in certain circumstances, and refuse to sanction it in others.
 >      (Baha'u'llah, Kitab-i-Aqdas, p. 63)
 
-This is usually a fun quote to horrify the deeply patriotic, who have had Liberty
+This is a fun quote to horrify the deeply patriotic, who have had Liberty
 drummed into their head as so inalianably American that they cannot think otherwise
 but deify it. But it doesn't take too much though to realize that the members of
-a wolf pack, or a tribe of chimpanzees have full freedom, yet we hardly envy their
+a wolf pack or a tribe of chimpanzees have fuller freedom, yet we hardly envy their
 situation.
 
 The following statement 
@@ -232,7 +239,8 @@ So freedom is good, right? But Abdu'l-Baha continues,
 > same and is reprehensible in both cases.
 >     (The Universal House of Justice, 1992 Dec 10, Issues Related to Study Compilation)
 
-The problem with unrestrained liberty is _our actions impact others_. And in the 
+The problem with unrestrained liberty is _our actions impact others_. Even if
+they harm only ourselves, this harm in turn harms others affected by us. And in the 
 Baha'i writings, this is
 something we are never allowed to forget.
 
@@ -253,14 +261,14 @@ Were that the case, it would be an unavoidable condition, which could be relieve
 only by the most onerous sorts of repression. That solves nothing and just creates the
 conditions for additional disunity; as Baha'u'llah puts it, "not a union that would lead 
 to disunity or a concord which would create discord"`(Baha'u'llah, Tablets of Baha'u'llah, p. 167).
-Disunity, instead, refers to the sorts
-of unnecessary conflicts borne of venality:
+Disunity, instead, refers to the sorts of unnecessary conflicts borne of venality; attempts
+to put ones' needs first and foremost, whatever the costs to anyone we vuew as "the other."
 
-
+Disunity is a common occurrence, even amoung those with the most peaceful leanings.
 If you've of a particularly idealistic bent, you've probably been involved with the
 following: an organization that is supposedly dedicated towards working
-for social good, but instead spends it time fighting with one another, and the
-membership is riven with political intrigues. That is disunity. Regarding his own
+for social good, but instead spends it time fighting with one another, its
+membership riven with political intrigues. That too is disunity. Regarding his own
 cause, Baha'u'llah writes:
 
 > Nothing whatsoever can, in this Day, inflict a greater harm upon this Cause
@@ -277,7 +285,7 @@ own passions. It was stated in that opening quote: "That which beseemeth man is
 submission unto such restraints as will protect him from his own ignorance, and 
 guard him against the harm of the mischief-maker."
 
-So that is why the Baha'i viewpoint on liberty. In matters of conscience and reason,
+So that is why the Baha'i viewpoint on liberty is so nuanced. In matters of conscience and reason,
 it is an absolute necessity. In other matters, it is usually the wrong solution to
 the wrong problem.
 
@@ -287,11 +295,13 @@ A dislike for authority is commonly thought of as a necessary trait - indeed,
 it is seen as all-American. This is upheld in certain fictions we talk about in
 American history and in practically every Hollywood movie aimed at teenagers (apparently
 all of them, in other words). It doesn't take much reflection to know that this is
-not borne of intellectual objection; it's a knee-jerk reaction. It's also a sign of
+not a viewpoint borne of deep intellectual reflection; it's a knee-jerk reaction. (I've
+noticed is also a sign of
 privilege. People who admit no authority from government or
 the learned are often the first people to blame incidents of police brutality on the
 failure of the victim to properly yield to force. Those who recognize no authority
-for themselves are frequently the first to call for authority and obedience from others.
+for themselves are frequently the first to call for the use of authority
+to extract obedience from others.)
 
 The reality, of course, is that respect for authority is a necessary function of
 society. One may debate whether one authority or another is corrupt, in need
@@ -327,13 +337,18 @@ to follow authority. As stated in a letter to some Baha'i leaders in the United 
 > and suspicion towards those in authority.
 >      (The Universal House of Justice, 1994 May 19, response to US NSA)
 
+Restoring respect for authority requires the participation of all in society;
+not only those who occasionally must yied, but particularly those who must
+weild it. The minute one assumes authority, one must realize that an individualistic
+attitude regarding oneself is no longer the appropriate attitude to take.
 
 ## Enough With the Struggle For Existence
 
-One of the persistent signs of individualism is its competitive nature. The individualist
-philosophy is, of course, clais to be enterpreneurial in nature. However, individualism
-typically celebrates unrestrained competition. In practice, this means in the economic
-sphere an all-against-all competition for resources. While one doesn't have to be a
+One of the persistent signs of an individualistic society is its competitive nature. The individualist
+sorts typically claim to be enterpreneurial in nature. However, individualism
+typically celebrates unrestrained competition. In practice
+this means an all-against-all competition for resources in the economic sphere.
+While one doesn't have to be a
 social darwinist to be an individualist, it sure seems to help.
 The analogy such people like to use is the struggle for existence in nature; the claim
 is that by allowing the animal instinct to act untrammeled, capitalism channels this
@@ -358,9 +373,9 @@ condition artificially on people.
 >  all calamities and is the supreme affliction.
 >        (Abdu'l-Baha, Selections from the Writings of Abdu'l-Baha, p. 302)
 
-Probably one of the worst things about work is the fact that many workthrough
-cultures are unnecessarily competitive. You don't need to be a salesman in
-a boilerroom operation listen to Alec Baldwin scream epithets at you to know
+One of the worst things about many work environments is an unnecessarily
+cutthroat compatitive culture You don't need to be a salesman in
+a boilerroom operation listening to Alec Baldwin scream epithets at you to know
 how unnecessarily bad things can get. The business pages are full of stories of
 "get-tough" CEOs which do all they can to to inculcate a "killer instinct" in
 their workers. Frequently, they succeed, remaking the company into a toxic mess
@@ -397,15 +412,27 @@ strictures whether at home or at work.
 
 The Baha'i Faith does not exclude competition, but both the means and end
 are proscribed. As in sports, it is fairly clear when a compitition is meant
-to bring out the best in individuals, as opposed to an excercise in gamesmanship
-where the goal is to win by any means necessary, frequently be causing actual direct
+to bring out the best in individuals, and when it is simply an excercise in gamesmanship
+where the goal is to win by any means necessary, frequently be bringing direct
 or indirect harm to others. A fellow competitor is never an opponent.
 A compilation of Baha'i writings titled "Vying in Service" (June 3, 1987) is
-directed at this subject. The mere title is enough to indicate the proper
+directed at this subject. The title alone is enough to indicate the proper
 attitude one must take for competition.
 
 ## Conclusion: The Baha'i Call for Unity
 
+By now the conclusion is plain. The problem with individualism is not the
+freedom it grants people to speak their minds, choose their own professions,
+leave their home countries, or even wear funny haircuts. It is instead the
+license it gives to self-adulation, to contention and conflict, and the glorification
+of ruinous competition over resources. A study of the writings clearly shows
+the very particular sort of individualism that is deplored.
+
+The watchword for this is unity. One cannot have unity when individuals are
+repressed and their development stunted by conformity, but one also cannot
+have unity when liberties of all sorts allow society to be consumed by a
+low-grade war of all against all. Rather than belabor the point, I'll simply
+point to two writings about unity to conclude.
 
 >  The unity which is productive of unlimited results is first a unity of
 >  mankind which recognizes that all are sheltered beneath the overshadowing
@@ -418,7 +445,11 @@ attitude one must take for competition.
 >  self-interests; therefore, no great results have been forthcoming.
 >       (Abdu'l-Baha, The Promulgation of Universal Peace, p. 191)
 
-If the learned and worldly-wise men of this age were to allow mankind to inhale the fragrance of fellowship and love, every understanding heart would apprehend the meaning of true liberty, and discover the secret of undisturbed peace and absolute composure. Were the earth to attain this station and be illumined with its light it could then be truly said of it: 'Thou shall see in it no hollows or rising hills.'[1]
-[1 Qur'án 20:106.]
-
-	(Baha'u'llah, Tablets of Baha'u'llah, p. 162)
+>  If the learned and worldly-wise men of this age were to allow mankind to 
+>  inhale the fragrance of fellowship and love, every understanding heart 
+>  would apprehend the meaning of true liberty, and discover the secret of 
+>  undisturbed peace and absolute composure. Were the earth to attain this 
+>  station and be illumined with its light it could then be truly said of 
+>  it: 'Thou shall see in it no hollows or rising hills.'[1]
+>  [1 Qur'án 20:106.]
+>       (Baha'u'llah, Tablets of Baha'u'llah, p. 162)

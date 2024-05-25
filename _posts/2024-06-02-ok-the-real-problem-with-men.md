@@ -3,13 +3,12 @@ title: OK, Here's the Real Problem with Men
 ---
 
 #### An Introduction: Baboon Morals
-
 Consider the mandrill baboon.
-
 Mandrill baboons are known mainly for their appearance - their colorful, photogenic faces
 and their fire-engine-red butts. Once you know about their societies, you'll forget the
-appearance and think you've stepped into the worlds' worst society. Zoologists who 
-have studied mandrill baboons have noted
+appearance and think you've stepped into the worlds' worst society.
+
+Zoologists who have studied mandrill baboons have noted
 that they spend perhaps only a few hours out of their day procuring food and doing what is
 needed to survive. Given this easy living, they do what mandrill baboons do in the remaining
 hours - making life horrible for other mandrill baboons. The males, of course, spend
@@ -25,13 +24,13 @@ that everything is somehow adaptive, it would be hard to figure why evolution ha
 baboons in this manner. The truth is, it didn't. Evolution doesn't
 particularly care what behavior is selected for, provided it doesn't kill off the
 species entirely. Plainly, humans outnumber mandrill baboons exceptionally, so perhaps
-humans are a bit more well-adatped. Meanwhile, nature in its wisdom has chosen to make the
+humans are a bit more well-adapted. Meanwhile, nature in its wisdom has chosen to make the
 mandrill baboon a sometimes-hilarous example to humans of just how miserable we can
 make each other if we are bound and determined to show our worst side to everyone all
 of the time.
 
 A moment's reflection is enough to consider that evolutionary pressures did not
-select for this behavior from our males.
+select for this behavior from the males of _homo sapiens_.
 Let's consider, shall we, what would happen to any male in a hunter-gatherer society
 who decided to take control of a pack in the same manner as a mandrill baboon alpha.
 He would rally the beta males and rule with an iron fist. He and his friends would
@@ -54,20 +53,21 @@ it appeared it would be informative. The reason it was a mistake was the topic.
 The topic was "the trouble with boys." It a talk by Richard Reeves, a Brooking Institute
 author who has a both book and substack _Of Boys and Men_. The talk, like the book and the accompanying substack,
 is a reasonable, considered examination of certain serious
-problems many boys and young men have up nowadays. It noted many facts, such as: the fact boys
+problems many boys and young men have nowadays. It noted many facts, such as: the fact boys
 are less successful academically than girls; the fact boys have more challenges with
 behavior and learning disabilities; issues arising from boys' developmentental milestones
-in cognition and development, which occur around a year later than girls; the dramatically
-worse effects this has on historically disadvantaged groups and minorities. Reeves was careful
+in cognition and development, which occur around a year later than girls; and the dramatically
+worse effects this has on men in historically disadvantaged groups and minorities. Reeves was careful
 to note that for grown men and women, there is no such inequality, and in the professional
 world parity has been reached in all fields except those that have been traditionally
 hostile to women and still may have some barriers. Reeves seems to bear no hostility toward
 the women's rights movement, and indicated no desire to go back to the past. He also noted
-that men in the professional class cannot in any way be said to be disadvantage. The
-disadvantage is most pronounced in the lower reaches of the economic scale, where boys destined for
+that men in the professional class cannot in any way be said to be disadvantaged. The
+disadvantage is most pronounced in the lower reaches of the economic scale, where boys
+probably destined for
 the working class come out of their childhood unequipped to contribute at the same level
 as women, being unprepared for the more well-paying opportunities and trades and the
-caring professions that would allow them to make a living.
+caring professions that would allow them to make a reasonable living.
 
 Reeves has identified a real problem, one confirmed by the fact that lack of men able
 to support themselves may be a unheralded reason for our nation's fertility problems.
@@ -86,27 +86,30 @@ on femenists; or, maybe I'm now interested in propaganda from the paid liars tel
 and wind power is; or perhaps I'd like to hear from dude who says that wierdo in
 HR who insists on being called a "they" is heralding
 "the end of civilization" (such people used to instead say "the end of democracy," but lately
-they have become very disinterested in democracy). 
+such commentors have become very disinterested in democracy, even hostile to it). 
 
 Given this fact, it's quite easy
 to ignore serious problems, when the only people that seem concerned
 are those with an axe to grind against womankind and nebulous "leftists."
-
-
 As far as why the problems of men are ignored, I believe I stumbled across one
 reason inadvertantly. 
 
 I do think the problem with the way men is raised is real. And the youtube presenter did suggest
 serious answers. In particular: "Redshirting" many or even most boys; that is, starting them in
-kindergarten or first grade one year later, being that boys of ages 5 or 6 are simply
+kindergarten or first grade one year later, being that many boys of ages 5 or 6 are simply
 not ready for school in the way girls are; having more male teachers and staff in the primary schools and
 kindergarten as role models; more emphasis on the possibilities of "the caring professions" in
 high school counseling for teenage boys. These are all modest, reasonable, and achievable.
 
+But the real problem with men is deeper - it's a total lack of cultivation
+of one's "spiritual" side. If you can't stand that framing, think in terms of virtues or
+moral deveopment. Too many boys are cultivated as if their role is to fit into the tribe
+of baboons I wrote about in the introduction. Materialistic and thuggish.
+
 Similar issues, by similarly serious authors, have been identified in the path.
 But unfortunately, such responses are easily mocked. The original 
 men's rights movements, with their the Robert Bly
-writings and drumming circles, seemed to at least be onto something, in that the identified
+poetry and drumming circles, seemed to at least be onto something, in that the identified
 serious problems with certain unrealistic roles men were expected to fill. This movement
 was particularly appealing to
 men who had deep unease about certain backwards-looking ideas about innate aggression.
@@ -118,8 +121,12 @@ teacher on _Beavis and Butthead_, then you probably vaguely remember this moveme
 However, I believe that such men had a finger on the problem, 
 in spite of how self-parodying the movement's solutions may have seemed.
 
-My opinion is such movements are challenged by certain materialistic assumptions about "manhood"
-that people have become very comfortable with.
+### Horrible Solutions for Horrible People
+
+Serious "Men's Rights" movements were never going to be popular.
+Such movements threaten those with certain materialistic assumptions about "manhood"
+that many have become very comfortable with.
+
 After the "first generation" new-agey men's rights movement faded, the more skeptical,
 finding the whole movement silly, instead took refuge in traditional gender roles. This was
 made conveniently fashionable thanks to the buzzy nineties 
@@ -142,25 +149,27 @@ Men are born to be fighters, and any culture that penalizes
 them for fighting as hard as they want is somehow unfit for them.
 
 I wish this were a straw man, but it isn't. Pick up any men's magazine and you'll
-see the glorification of such "real men." Depending on the audience, such men
-could be unreflective or profound; simple or educated; extremely well-dressed or
+see the glorification of such "real men." Depending on the audience,
+the magazine will portray such men
+as unreflective or profound; simple or educated; extremely well-dressed or
 not. But the ideal they present is consistent: someone who courts and conquers whatever
 women they desire, pushes their way to the top, and finds a way to win.
-Much of this can be blamed on the unwritten agenda of all media, which is to sell
-ad space; much like their women's magazine counterpart, the editorial content is
-tilted toward attitudes that would make the readers feel they need the advertized
+Now, much of this can be blamed on the unspoken agenda of all media - sell
+ad space. Much like women's magazines, men's magazines
+are tilted toward showcasing viewpoints that would make the readers feel they need the advertized
 products. Yet it's obvious the readership is in some sense sympatico to these attitudes,
 or the magazines would never sell. The situation is, as you'd expect, far worse in
 the cesspool of social media, where charismatic yet insipid "men's rights" speakers
 glorify consumption, aggression and a host of baboon behaviors.
 
 Nor have religious leaders been much better; many churches have given into the temptation to
-grow their ministries by catering to these warrior-man notions. Perhaps no men's right book has been as
+grow their ministries by catering to these Conan Barbarian warrior-man
+notions. Perhaps no men's  book has been as
 influential within churches as the old evangelical favorite _Wild at Heart_. This book posed that the
 Christian church as practiced had problems retaining men because it was feminizing
 in practice; that men were beings of action, incapable of the stillness and
 reflection and prayer, and that a real man was a conquering hero to his wife
-and feels empty if she cannot fight for her. 
+and feels empty if she cannot fight for her. Always fighting. 
 
 And if you look at the "self-help" books
 targeted specifically at men - a narrow marketing segment if there ever was one - you'll generally find
@@ -229,6 +238,7 @@ they do detect are very marginal. However, this applies to _grown adults only_; 
 certainly not apply to boys and girls, and any second
 grade teacher is forced to deal with boys and girls as if they are different alien
 cohabitating species.
+
 Faced with this fact, the challenge is to give boys and girls the same 
 consistent moral and spiritual lessons. This is very easy to fail at, and the victims
 of this failure are generally the boys.
@@ -274,8 +284,10 @@ both parents and teachers are too indulgent, it risks becoming a permanent state
 affairs.
 
 The second, and possibly worse problem, is that too many boys are given lessons about
-masculinity that directly undercut the moral lessons they are given. As a
-girl, you are talk to be good. As a boy, you should be good... but don't be _too good._
+masculinity that directly undercut the moral lessons they are given. If you are a
+girl, you are generally taught to be good, full stop. Whereas if you are a boy,
+you should be good... but don't be _too good._
+
 Think, if you can: have you ever heard of girls being taught the following lessons growing up:
 * It's better to be pissed off than pissed on.
 * The reason you're being bullied is because you're a wimp. Learn how to fight back!
@@ -287,11 +299,12 @@ Sound ridiculous? Of course it does. Those are something only _the boys_ are tol
 
 In short, women are _supposed to_ be nice. And men are _supposed to_ be assholes when
 needed; after all, the 
-ones that aren't, are the _wimps_. That is the real lesson many boys learn from their parents,
-and when that is the case, we cannot be surprised that large numbers of boys are unready
+ones that aren't, are the _wimps_. That's worse than being immoral.
+And that is the real lesson many boys learn from their parents.
+When that is the case, we cannot be surprised that large numbers of boys are unready
 for adulthood. 
 
-And if you still aren't convinced that virtue is more highly priced in women in men,
+If you still aren't convinced that virtue is more highly priced in women in men,
 then think of this virtue: chastity.
 Something many people loudly expect from their daughters and quietly condemn in their sons.
 Many parents of teenage boys actually encourage
@@ -301,7 +314,7 @@ that all boys, like their own father, are trained to engage in sexual conquests.
 
 Given that background, anybody who blames the arrested development of numerous males
 on the lack of traditional prescribed role models or on women who don't know how to
-behave properly feminine is plainly blind of the problems at hand.
+behave properly feminine is plainly blind of the problems at hand and may be part of it.
 
 ### Masculine Roles and Delegated Materialism
 
@@ -355,7 +368,10 @@ affairs, it is no wonder that unhappy single men take refuge in pseudoscientific
 "evolutionary psychology" writings; it seems to explain the present set of affairs far
 better than philosophy, let alone religion.
 
-The problem is an unavoidable corallary of today's aggresive materialistic culture. The question is
+## Conclusion
+
+The problem with manhood is an unavoidable corallary of
+today's aggresively materialistic culture. The question is
 what to do about it. In many cases we know what to do, and the measures are
 anodyne enough to be found inoffensive by anyone who would wrinkle their nose at the mention
 of _values_ or _spirituality_. Unfortunately, these are quite 
