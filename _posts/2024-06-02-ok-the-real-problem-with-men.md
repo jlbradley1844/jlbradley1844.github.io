@@ -2,7 +2,7 @@
 title: OK, Here's the Real Problem with Men
 ---
 
-#### An Introduction: Baboon Morals
+#### An Introduction: Baboon Morality
 Consider the mandrill baboon.
 Mandrill baboons are known mainly for their appearance - their colorful, photogenic faces
 and their fire-engine-red butts. Once you know about their societies, you'll forget the
