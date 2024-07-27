@@ -2,12 +2,11 @@
 title: OK, Here's the Real Problem with Men
 ---
 
-#### An Introduction: Baboon Morality
+#### An Introduction to The Problem With Men: Baboon Morality
 Consider the mandrill baboon.
 Mandrill baboons are known mainly for their appearance - their colorful, photogenic faces
 and their fire-engine-red butts. Once you know about their societies, you'll forget the
 appearance and think you've stepped into the worlds' worst society.
-
 Zoologists who have studied mandrill baboons have noted
 that they spend perhaps only a few hours out of their day procuring food and doing what is
 needed to survive. Given this easy living, they do what mandrill baboons do in the remaining
@@ -15,13 +14,15 @@ hours - making life horrible for other mandrill baboons. The males, of course, s
 their life entirely in agression-based dominance behavior in attempts to become the leaders
 of their packs. Not that this is an enviable position, since doing so automatically
 makes you a target of the other mandrill baboons. And so they spend their entire lives
-conniving and fighting with one another. Of course, they are said to do this
+conniving and fighting with one another.
+
+Of course, they are said to do this
 because this allows them to mate with all sorts of female baboons. No word on whether the
 female baboons enjoy this sort of behavior or not.
 
 If you're one of those people that think evolution is all about design and fitness and
 that everything is somehow adaptive, it would be hard to figure why evolution has made 
-baboons in this manner. The truth is, it didn't. Evolution doesn't
+baboons in this manner. The truth is, it didn't; evolution doesn't work that way. It doesn't
 particularly care what behavior is selected for, provided it doesn't kill off the
 species entirely. Plainly, humans outnumber mandrill baboons exceptionally, so perhaps
 humans are a bit more well-adapted. Meanwhile, nature in its wisdom has chosen to make the
