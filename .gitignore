@@ -4,3 +4,5 @@ _draft_archive
 .jekyll-metadata
 *~
 \#*\#
+.bundle/
+vendor/
