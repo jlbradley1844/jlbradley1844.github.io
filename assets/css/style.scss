@@ -1,0 +1,24 @@
+---
+---
+
+@import 'jekyll-theme-dinky';
+
+// Post lists: keep each post's date snug against its own title, and put
+// the space between posts instead, so the date reads as belonging to the
+// post below it.
+.post-list > li {
+  margin-bottom: 40px;
+}
+
+.post-list .post-meta {
+  display: block;
+}
+
+.post-list .post-meta + h2,
+.post-list .post-excerpt > :first-child {
+  margin-top: 4px;
+}
+
+.post-list .post-excerpt > :last-child {
+  margin-bottom: 6px;
+}

@@ -23,11 +23,9 @@ layout: default
     {% else %}
     <li>
       {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-      <span class="post-meta">{{ post.date | date: date_format }}
-	<p>{{ post.excerpt }}</p>
-	<a class="post-link" href="{{ post.url | relative_url }}">(click to continue...)</a>
-	<br/>
-      </span>
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <div class="post-excerpt">{{ post.excerpt }}</div>
+      <a class="post-link" href="{{ post.url | relative_url }}">(click to continue...)</a>
     </li>
     {% endif %}
     {% endfor %}
