@@ -33,5 +33,5 @@
     "GH_TOKEN": "${localEnv:GH_TOKEN}"
   },
   "remoteUser": "vscode",
-  "postCreateCommand": "gh auth setup-git 2>/dev/null || true"
+  "postCreateCommand": "(gh auth setup-git 2>/dev/null || true) && npm install -g playwright && npx playwright install --with-deps chromium"
 }
