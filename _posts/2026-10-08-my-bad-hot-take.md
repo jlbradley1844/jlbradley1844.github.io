@@ -23,8 +23,8 @@ its many mistakes could be worked around. So my bad.
 It is an open question what is next though. The goal, as far as I can tell from the writings
 of the billionaire Thiel-adjacent edgelords, was to bring to heel all these overpaid senior
 software developers, with their bothersome beliefs in "rule of law" and "social
-responsibility". Certainly, many still think that mass employment is a possiblity, as they
-loudly warn "oh noes, mass employment is on the horizon!!", all the while barely concealing
+responsibility". Certainly, many still think that mass unemployment is a possiblity, as they
+loudly warn "oh noes, mass unemployment is on the horizon!!", all the while barely concealing
 their under-the-breath sinister caclking. Unfortunately, the reality is the technology has made those
 overpaid seniors even _more_ productive and powerful. Far from finishing the job that Indian
 oursourcing was meant to do, it instead seems to be getting rid of Indian outsourcing.
