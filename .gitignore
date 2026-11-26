@@ -6,3 +6,6 @@ _draft_archive
 \#*\#
 .bundle/
 vendor/
+.jekyll-cache/
+.ruby-lsp/
+.claude/settings.local.json
