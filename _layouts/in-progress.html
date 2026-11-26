@@ -6,9 +6,9 @@ layout: default
 
   <table>
     <tr>
-      <th><a href="{{ site.url }}" title="Home page with short blog posts">Home</a></th>
+      <th><a href="{{ "/" | relative_url }}" title="Home page with short blog posts">Home</a></th>
       {% for label in site.category %}
-      <th><a href="{{ site.url }}/{{ label.permalink }}" title="{{ label.short-description }}">{{ label.title }}</a></th>
+      <th><a href="{{ label.permalink | prepend: "/" | relative_url }}" title="{{ label.short-description }}">{{ label.title }}</a></th>
       {% endfor %}
     </tr>
   </table>
