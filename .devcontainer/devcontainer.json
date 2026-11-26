@@ -1,0 +1,37 @@
+{
+  "name": "Jekyll",
+  "image": "mcr.microsoft.com/devcontainers/jekyll:bookworm",
+  "forwardPorts": [
+    4000
+  ],
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "anthropic.claude-code"
+      ]
+    }
+  },
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "lts"
+    },
+    "ghcr.io/devcontainers/features/github-cli:1": {},
+    "ghcr.io/anthropics/devcontainer-features/claude-code:1": {},
+    "ghcr.io/devcontainers-extra/features/apt-packages:1": {
+      "packages": "vim,less,jq,tree,ripgrep,htop"
+    }
+  },
+  "mounts": [
+    "source=${localEnv:HOME}/devhome/claude,target=/home/vscode/.claude,type=bind",
+    "source=${localEnv:HOME}/devhome/memory,target=/home/vscode/memory,type=bind",
+    "source=${localEnv:HOME}/devhome/shared,target=/home/vscode/shared,type=bind"
+  ],
+  "containerEnv": {
+    "CLAUDE_CONFIG_DIR": "/home/vscode/.claude"
+  },
+  "remoteEnv": {
+    "GH_TOKEN": "${localEnv:GH_TOKEN}"
+  },
+  "remoteUser": "vscode",
+  "postCreateCommand": "gh auth setup-git 2>/dev/null || true"
+}
